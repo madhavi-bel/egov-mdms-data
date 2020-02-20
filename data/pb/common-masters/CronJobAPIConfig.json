@@ -1,0 +1,32 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "CronJobAPIConfig": [
+    {
+
+      "jobName": "daily",			
+      "active": "true",
+    	"method" : "POST",
+      "url": "http://egov-mdms-service.egov:8080/egov-mdms-service/v1/_search",
+      "payload": {
+          "RequestInfo": "{DEFAULT_REQUESTINFO}",
+          "MdmsCriteria": {
+            "tenantId": "pb",
+            "moduleDetails": [
+              {
+                "moduleName": "common-masters",
+                "masterDetails": [
+                  {
+                    "name": "Department"
+                  }
+                ]
+              }
+            ]
+          }
+      },      
+      "header": {
+        "Content-Type": "application/json"
+      }
+    }
+  ]
+}
