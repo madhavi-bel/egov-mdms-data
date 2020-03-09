@@ -1068,7 +1068,7 @@
     }
   },
   "common-masters": {
-    "uiCommonConfig": {
+    "uiCommonPay": {
       "masterName": "uiCommonConfig",
       "isStateLevel": true,
       "uniqueKeys": []
