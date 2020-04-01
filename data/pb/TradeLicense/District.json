@@ -331,6 +331,12 @@
       "name": "Vidisha",
       "state": "mp",
       "active": true
+    },
+    {
+      "code": "OTHER_STATE_DISTRICT",
+      "name": "otner state district",
+      "state": "mp",
+      "active": true
     }
   ]
 }
