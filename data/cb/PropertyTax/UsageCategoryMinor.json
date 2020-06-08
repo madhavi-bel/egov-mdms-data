@@ -1,0 +1,20 @@
+{
+  "tenantId": "cb",
+  "moduleName": "PropertyTax",
+  "UsageCategoryMinor": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "usageCategoryMajor": "RESIDENTIAL"
+    },
+    {
+      "name": "Non-residential",
+      "code": "NONRESIDENTIAL",
+      "active": true,
+      "fromFY": "2014-15",
+      "usageCategoryMajor": "NONRESIDENTIAL"
+    }
+  ]
+}

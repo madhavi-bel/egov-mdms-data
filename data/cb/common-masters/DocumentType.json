@@ -1,0 +1,115 @@
+{
+    "tenantId": "cb",
+    "moduleName": "common-masters",
+    "DocumentType": [
+        {
+            "code": "OWNERIDPROOF",
+            "active": false
+        },
+        {
+            "code": "OWNERSHIPPROOF",
+            "active": false
+        },
+        {
+            "code": "AADHAARCARD",
+            "active": true
+        },
+        {
+            "code": "PANCARD",
+            "active": true
+        },
+        {
+            "code": "VENDORSURVEYCARD",
+            "active": true
+        },
+        {
+            "code": "IDPROOF",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "active": true
+        },
+        {
+            "code": "PTREGISTERY",
+            "active": true
+        },
+        {
+            "code": "PTRECEIPT",
+            "active": true
+        },
+        {
+            "code": "COMPTREG",
+            "active": true
+        },
+        {
+            "code": "NURHOREG",
+            "active": true
+        },
+        {
+            "code": "REGISTER",
+            "active": true
+        },
+        {
+            "code": "REGISTNO",
+            "active": true
+        },
+        {
+            "code": "APPLICATION",
+            "active": true
+        },
+        {
+            "code": "GSTREGISTNO",
+            "active": true
+        },
+        {
+            "code": "EXCISE",
+            "active": true
+        },
+        {
+            "code": "DEGREE",
+            "active": true
+        },
+        {
+            "code": "FOOD",
+            "active": true
+        },
+        {
+            "code": "AADPANCARD",
+            "active": true
+        },
+        {
+            "code": "ALMOP",
+            "active": true
+        },
+        {
+            "code": "CTRECEIPT",
+            "active": true
+        },
+        {
+            "code": "MDDACTR",
+            "active": true
+        },
+        {
+            "code": "GSTCTR",
+            "active": true
+        },
+        {
+            "code": "POLICE",
+            "active": true
+        },
+        {
+            "code": "AADPANVENCARD",
+            "active": true
+        },
+        {
+            "code": "PLETTER",
+            "active": true
+        },
+        {
+            "code": "PHOTO",
+            "active": true
+        }
+    ]
+}
+

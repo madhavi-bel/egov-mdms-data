@@ -1,0 +1,22 @@
+{
+  "tenantId": "cb",
+  "moduleName": "common-masters",
+  "UOM": [
+    {
+      "code": "HP",
+      "active": true
+    },
+    {
+      "code": "BED",
+      "active": true
+    },
+    {
+      "code": "EACH",
+      "active": true
+    },
+    {
+      "code": "ANML",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tenantId": "cb",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": "01/04/2005",
+      "endingDay": "31/03/2020"
+    }
+  ]
+}

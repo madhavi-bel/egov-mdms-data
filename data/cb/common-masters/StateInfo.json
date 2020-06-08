@@ -1,0 +1,99 @@
+{
+  "tenantId": "cb",
+  "moduleName": "common-masters",
+  "StateInfo": [
+    {
+      "name": "Cantonment Board",
+      "code": "cb",
+      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/banner.png",
+      "logoUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/eChhawani.png",
+      "hasLocalisation": true,
+      "hideDigitLogo": true,
+      "defaultLanguage": "hi_IN",
+      "citizenNavigationURL": "https://uttarakhand-uat.egovernments.org/citizen/",
+      "employeeNavigationURL": "https://uttarakhand-uat.egovernments.org/employee/",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
+      ],
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        }
+      ],
+      "userManuals": [
+        {
+          "module": "TL",
+          "manuals": [
+            {
+              "locale": "en_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/TL_English_UserManual_Citizen.pdf"
+            },
+            {
+              "locale": "hi_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/TL_Hindi_UserManual_Citizen.pdf"
+            }
+          ]
+        },
+        {
+          "module": "PT",
+          "manuals": [
+            {
+              "locale": "en_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_English_UserManual_Citizen.pdf"
+            },
+            {
+              "locale": "hi_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_Hindi_UserManual_Citizen.pdf"
+            }
+          ],
+          "employeeManuals": [
+            {
+              "locale": "en_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_English_UserManual_Employee.pdf"
+            },
+            {
+              "locale": "hi_IN",
+              "url": "https://s3.ap-south-1.amazonaws.com/ukd-egov-assets/PT_Hindi_UserManual_Employee.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

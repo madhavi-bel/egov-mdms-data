@@ -1,0 +1,53 @@
+{
+    "tenantId": "cb",
+    "moduleName": "common-masters",
+    "StructureType": [{
+            "code": "IMMOVABLE.SHED",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.SHOP",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.GODOWN",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.WORKSHOP",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.OPENLAND",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.INDUSTRIALUNIT",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.OTHERPERMISES",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.GARAGE",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.OPENSPACEOFBUILDING",
+            "active": true
+        },
+        {
+            "code": "MOVABLE.HDV",
+            "active": true
+        },
+        {
+            "code": "MOVABLE.MDV",
+            "active": true
+        },
+        {
+            "code": "IMMOVABLE.PUCCA",
+                "active": true
+         }
+    ]
+}

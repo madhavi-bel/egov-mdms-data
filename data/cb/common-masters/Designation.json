@@ -1,0 +1,132 @@
+{
+  "tenantId": "cb",
+  "moduleName": "common-masters",
+  "Designation": [
+    {
+      "code": "MC01",
+      "name": "Municipal Commissioner",
+      "description": "Municipal Commissioner",
+      "active": true
+    },
+    {
+      "code": "AMC01",
+      "name": "Additional Municipal Commissioner",
+      "description": "Additional Municipal Commissioner",
+      "active": true
+    },
+    {
+      "code": "DMC01",
+      "name": "Deputy Municipal Commissioner",
+      "description": "Deputy Municipal Commissioner",
+      "active": true
+    },
+    {
+      "code": "ASTMC01",
+      "name": "Assistant Municipal Commissioner",
+      "description": "Assistant Municipal Commissioner",
+      "active": true
+    },
+    {
+      "code": "RO01",
+      "name": "Revenue Officer",
+      "description": "Revenue Officer",
+      "active": true
+    },
+    {
+      "code": "TS01",
+      "name": "Tax Supretendant",
+      "description": "Tax Supretendant",
+      "active": true
+    },
+    {
+      "code": "TI01",
+      "name": "Tax Inspector",
+      "description": "Tax Inspector",
+      "active": true
+    },
+    {
+      "code": "TC01",
+      "name": "Tax Collector",
+      "description": "Tax Collector",
+      "active": true
+    },
+    {
+      "code": "FO01",
+      "name": "Finance Officer",
+      "description": "Finance Officer",
+      "active": true
+    },
+    {
+      "code": "AAO01",
+      "name": "Assistant Account Officer",
+      "description": "Assistant Account Officer",
+      "active": true
+    },
+    {
+      "code": "ACNT01",
+      "name": "Acountant",
+      "description": "Acountant",
+      "active": true
+    },
+    {
+      "code": "AA01",
+      "name": "Assistant Accountant",
+      "description": "Assistant Accountant",
+      "active": true
+    },
+    {
+      "code": "MO01",
+      "name": "Medical Officer",
+      "description": "Medical Officer",
+      "active": true
+    },
+    {
+      "code": "ZSI01",
+      "name": "Zonal Sanitory Inspector",
+      "description": "Zonal Sanitory Inspector",
+      "active": true
+    },
+    {
+      "code": "CSI01",
+      "name": "Chief Sanitory Inspector",
+      "description": "Chief Sanitory Inspector",
+      "active": true
+    },
+    {
+      "code": "SI01",
+      "name": "Sanitory Inspector",
+      "description": "Sanitory Inspector",
+      "active": true
+    },
+    {
+      "code": "SK01",
+      "name": "Safai Karmi",
+      "description": "Safai Karmi",
+      "active": true
+    },
+    {
+      "code": "SE01",
+      "name": "Supretendant Engineer",
+      "description": "Supretendant Engineer",
+      "active": true
+    },
+    {
+      "code": "EE01",
+      "name": "Executive Engineer",
+      "description": "Executive Engineer",
+      "active": true
+    },
+    {
+      "code": "AE01",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
+      "active": true
+    },
+    {
+      "code": "JE01",
+      "name": "Junior Engineer",
+      "description": "Junior Engineer",
+      "active": true
+    }
+  ]
+}

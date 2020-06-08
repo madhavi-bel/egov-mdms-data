@@ -1,0 +1,70 @@
+{
+  "tenantId": "cb",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "TL",
+      "code": "TL",
+      "tenants": [
+        {
+          "code": "cb.agra"
+        },
+        {
+          "code": "cb.delhi"
+        },
+        {
+          "code": "cb.lucknow"
+        },
+        {
+          "code": "cb.pune"
+        },
+        {
+          "code": "cb.secunderabad"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "cb.agra"
+        },
+        {
+          "code": "cb.lucknow"
+        },
+        {
+          "code": "cb.delhi"
+        },
+        {
+          "code": "cb.pune"
+        },
+        {
+          "code": "cb.secunderabad"
+        }
+       
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "cb.agra"
+        },
+        {
+          "code": "cb.delhi"
+        },
+        {
+          "code": "cb.lucknow"
+        },
+        {
+          "code": "cb.pune"
+        },
+        {
+          "code": "cb.secunderabad"
+        }
+      ]
+    }
+  ]
+}

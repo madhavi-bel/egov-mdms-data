@@ -1,0 +1,21 @@
+{
+  "tenantId": "cb",
+  "moduleName": "PropertyTax",
+  "OccupancyType": [
+    {
+      "name": "Rented/ Leased",
+      "code": "RENTED",
+      "active": true
+    },
+    {
+      "name": "Owner Occupied",
+      "code": "SELFOCCUPIED",
+      "active": true
+    },
+    {
+      "name": "Unoccupied",
+      "code": "UNOCCUPIED",
+      "active": true
+    }
+  ]
+}

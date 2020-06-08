@@ -1,0 +1,20 @@
+{
+  "tenantId": "cb",
+  "moduleName": "PropertyTax",
+  "Penalty": [
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2014-15",
+      "startingDay": "01/04/2014"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": "01/01/2019"
+    }
+  ]
+}
