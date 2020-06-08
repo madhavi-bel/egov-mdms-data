@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "cb.agra",
+      "code": "cb.Agra",
       "name": "Cantonment Board Agra",
       "description": "Agra",
       "logoId": "https://uttarakhand-uat.egovernments.org/ukd-egov-assets/cb.dehradun/logo.png",
