@@ -16,6 +16,7 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      
       "city": {
         "name": "Jalandhar",
         "localName": null,
@@ -34,6 +35,38 @@
       "contactNumber": "0181-2227015",
       "pdfHeader": "PB_PDF_HEADER",
       "pdfContactDetails": "PB_CONTACT_DETAILS"
+    },
+    {
+      "code": "pb.secunderabad",
+      "name": "Cantonment Board Secunderabad",
+      "description": "Secunderabad",
+      "logoId": "https://scb.gov.in/SCBPortal/SCBHomePage.aspx",
+      "imageId": null,
+      "domainUrl": "scb.gov.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/secbadcantt",
+      "facebookUrl": null,
+      "emailId": "ceosecu-stats@nic.in",
+      "OfficeTimings": {
+        
+      },
+      "city": {
+        "name": "Secunderabad",
+        "localName": "Secunderabad Cantt",
+        "districtCode": "507",
+        "districtName": "Hyderabad",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board ",
+        "longitude": 78.500797,
+        "latitude": 17.444079,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248471",
+        "regionCode": "7",
+        "municipalityName": "Secunderabad Cantonment Board"
+      },
+      "address": "Office of the Cantonment Board Secunderabad, Court Compound, SP Road, Telangana 500003",
+      "contactNumber": "040-27808600"
     },
     {
       "code": "pb.jalandhar",
