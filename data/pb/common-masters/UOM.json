@@ -29,6 +29,7 @@
       "id": 10,
       "tenantId": "default",
       "code": "SFT",
+      "active": true,
       "description": "Square Feet",
       "uomCategory": "AREA",
       "baseUom": false,
