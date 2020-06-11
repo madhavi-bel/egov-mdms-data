@@ -7930,27 +7930,18 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
           ]
         }
       ],
