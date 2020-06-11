@@ -116,23 +116,143 @@
       "active": true
     },
     {
-      "code" : "OWNERIDPROOF",
-      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
+      "code": "OWNERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
       "maxFileSize": 6000
     },
     {
-      "code" : "OWNERSHIPPROOF",
-      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
+      "code": "OWNERSHIPPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+	  "active": true,
       "maxFileSize": 6000
     },
     {
-      "code" : "OWNERPHOTO",
-      "allowedFormat" : ["image/*", ".png", ".jpeg"],
+      "code": "OWNERPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".png",
+        ".jpeg"
+      ],
+	  "active": true,
       "maxFileSize": 3000
     },
     {
-      "code" : "OLDLICENCENO",
-      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
+      "code": "OLDLICENCENO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "AADHAARCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 3000
+    },
+    {
+      "code": "PANCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 3000
+    },
+     {
+      "code": "REGCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 3000
+    },
+    {
+      "code": "PTAX",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 3000
+    },
+    {
+      "code": "BLUPRNT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 6000
+    },
+    {
+      "code": "NBNOC1",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 3000
+    },
+    {
+      "code": "NBNOC2",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 3000
+    },
+    {
+      "code": "PLANCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize": 6000
+    },
+    {
+      "code": "BULDPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
       "maxFileSize": 6000
     }
   ]
