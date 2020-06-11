@@ -175,8 +175,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 3000
+      "active": true
     },
      {
       "code": "REGCERT",
