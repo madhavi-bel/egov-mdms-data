@@ -6138,9 +6138,9 @@
         "maxFloors":2
       }
     },
-  {
+{
     "code": "TRADE.EATING.A1",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6179,7 +6179,7 @@
   },
   {
     "code": "TRADE.EATING.A2",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6218,7 +6218,7 @@
   },
   {
     "code": "TRADE.EATING.A3",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6257,7 +6257,7 @@
   },
   {
     "code": "TRADE.EATING.A4",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6296,7 +6296,7 @@
   },
   {
     "code": "TRADE.EATING.A5",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6335,7 +6335,7 @@
   },
   {
     "code": "TRADE.EATING.A6",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6374,7 +6374,7 @@
   },
   {
     "code": "TRADE.EATING.A7",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6413,7 +6413,7 @@
   },
   {
     "code": "TRADE.EATING.A8",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6452,7 +6452,7 @@
   },
   {
     "code": "TRADE.MEDICAL.B1",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6491,7 +6491,7 @@
   },
   {
     "code": "TRADE.MEDICAL.B2",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6530,7 +6530,7 @@
   },
   {
     "code": "TRADE.MEDICAL.B3",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6569,7 +6569,7 @@
   },
   {
     "code": "TRADE.MEDICAL.B4",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6608,7 +6608,7 @@
   },
   {
     "code": "TRADE.MEDICAL.B5",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6647,7 +6647,7 @@
   },
   {
     "code": "TRADE.VETERINARY.C1",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6686,7 +6686,7 @@
   },
   {
     "code": "TRADE.VETERINARY.C2",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6725,7 +6725,7 @@
   },
   {
     "code": "TRADE.VETERINARY.C3",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6764,7 +6764,7 @@
   },
   {
     "code": "TRADE.VETERINARY.C4",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6803,7 +6803,7 @@
   },
   {
     "code": "TRADE.VETERINARY.C5",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6842,7 +6842,7 @@
   },
   {
     "code": "TRADE.VETERINARY.C6",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6881,7 +6881,7 @@
   },
   {
     "code": "TRADE.OFFENSIVE.D1",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6920,7 +6920,7 @@
   },
   {
     "code": "TRADE.OFFENSIVE.D2",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6959,7 +6959,7 @@
   },
   {
     "code": "TRADE.OFFENSIVE.D3",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -6998,7 +6998,7 @@
   },
   {
     "code": "TRADE.GENERAL.E1",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7037,7 +7037,7 @@
   },
   {
     "code": "TRADE.GENERAL.E2",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7076,7 +7076,7 @@
   },
   {
     "code": "TRADE.GENERAL.E3",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7115,7 +7115,7 @@
   },
   {
     "code": "TRADE.GENERAL.E4",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7154,7 +7154,7 @@
   },
   {
     "code": "TRADE.GENERAL.E5",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7193,7 +7193,7 @@
   },
   {
     "code": "TRADE.GENERAL.E6",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7232,7 +7232,7 @@
   },
   {
     "code": "TRADE.GENERAL.E7",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7271,7 +7271,7 @@
   },
   {
     "code": "TRADE.GENERAL.E8",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7310,7 +7310,7 @@
   },
   {
     "code": "TRADE.GENERAL.E9",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7349,7 +7349,7 @@
   },
   {
     "code": "TRADE.GENERAL.E10",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7388,7 +7388,7 @@
   },
   {
     "code": "TRADE.GENERAL.E11",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7427,7 +7427,7 @@
   },
   {
     "code": "TRADE.GENERAL.E12",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7466,7 +7466,7 @@
   },
   {
     "code": "TRADE.GENERAL.E13",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7505,7 +7505,7 @@
   },
   {
     "code": "TRADE.GENERAL.E14",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7544,7 +7544,7 @@
   },
   {
     "code": "TRADE.GENERAL.E15",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7583,7 +7583,7 @@
   },
   {
     "code": "TRADE.GENERAL.E16",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7622,7 +7622,7 @@
   },
   {
     "code": "TRADE.GENERAL.E17",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7661,7 +7661,7 @@
   },
   {
     "code": "TRADE.GENERAL.E18",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7700,7 +7700,7 @@
   },
   {
     "code": "TRADE.GENERAL.E19",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7739,7 +7739,7 @@
   },
   {
     "code": "TRADE.GENERAL.E20",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7778,7 +7778,7 @@
   },
   {
     "code": "TRADE.GENERAL.E21",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7817,7 +7817,7 @@
   },
   {
     "code": "TRADE.GENERAL.E22",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7856,7 +7856,7 @@
   },
   {
     "code": "TRADE.GENERAL.E23",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7895,7 +7895,7 @@
   },
   {
     "code": "TRADE.GENERAL.E24",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7934,7 +7934,7 @@
   },
   {
     "code": "TRADE.GENERAL.E25",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -7973,7 +7973,7 @@
   },
   {
     "code": "TRADE.GENERAL.E26",
-    "uom": null,
+    "uom":"SFT",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -8012,7 +8012,7 @@
   },
   {
     "code": "TRADE.GENERAL.E27",
-    "uom": null,
+    "uom":"NOS",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -8051,7 +8051,7 @@
   },
   {
     "code": "TRADE.GENERAL.E28",
-    "uom": null,
+    "uom":"NOS",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -8090,7 +8090,7 @@
   },
   {
     "code": "TRADE.GENERAL.E29",
-    "uom": null,
+    "uom":"NOS",
     "applicationDocument": [
       {
         "applicationType": "NEW",
@@ -8166,7 +8166,6 @@
     "active": true,
     "type": "TL"
   }
-
 
 
     
