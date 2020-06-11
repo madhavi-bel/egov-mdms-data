@@ -7947,8 +7947,9 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL"
-    }
+      "type": "TL",
+      "validityPeriod": null
+    } 
 
 
 
