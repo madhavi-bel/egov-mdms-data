@@ -77,7 +77,7 @@
       {
         "allowedDocs": [
           {
-            "documentType": "OWNERIDPROOF",
+            "documentType": "OWNERPHOTO",
             "applicationType": [
               "NEW",
               "RENEWAL"
@@ -86,14 +86,6 @@
           },
           {
             "documentType": "OWNERSHIPPROOF",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
-            "documentType": "OWNERPHOTO",
             "applicationType": [
               "NEW",
               "RENEWAL"
