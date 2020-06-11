@@ -7925,7 +7925,7 @@
     },
     {
       "code": "TRADE.GENERAL.E30",
-      "uom": null,
+      "uom": "SFT",
       "applicationDocument": [
         {
           "applicationType": "NEW",
