@@ -207,8 +207,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 6000
+      "active": true
     },
     {
       "code": "NBNOC1",
