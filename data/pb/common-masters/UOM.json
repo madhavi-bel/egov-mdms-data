@@ -13,18 +13,7 @@
     {
       "code": "HP",
       "active": true
-    },
-    {
-      "id": 1,
-      "tenantId": "default",
-      "code": "NOS",
-      "description": "Numbers",
-      "uomCategory": "QUANTITY",
-      "baseUom": true,
-      "fromDate": 1508740856,
-      "toDate": 1893436200,
-      "conversionFactor": 1
-    },
+    }, 
     {
       "code": "SFT",
       "active": true
