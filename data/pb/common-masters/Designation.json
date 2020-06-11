@@ -163,6 +163,36 @@
       "description": "Superintendent",
       "code": "DESIG_47",
       "active": true
+    },
+    {
+      "name": "Deputy Chief Executive Officer",
+      "description": "Deputy Chief Executive Officer",
+      "code": "DESIG_25",
+      "active": true
+    },
+    {
+      "name": "Chief Executive Officer",
+      "description": "Chief Executive Officer",
+      "code": "DESIG_26",
+      "active": true
+    },
+    {
+      "name": "Junior Assistant",
+      "description": "Junior Assistant",
+      "code": "DESIG_27",
+      "active": true
+    },
+    {
+      "name": "Sanitary Inspector",
+      "description": " Sanitary Inspector",
+      "code": "DESIG_28",
+      "active": true
+    },
+    {
+      "name": "Superintendent (SWM)",
+      "description": "Superintendent (SWM)",
+      "code": "DESIG_29",
+      "active": true
     }
   ]
 }

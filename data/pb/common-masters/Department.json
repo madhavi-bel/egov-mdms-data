@@ -66,6 +66,17 @@
       "name": "Works Branch",
       "code": "DEPT_35",
       "active": true
+    },
+    {
+      "name": "Health and Sanitation",
+      "code": "DEPT_36",
+      "active": true
+    },
+    {
+      "name": "Revenue",
+      "code": "DEPT_37",
+      "active": true
     }
+    
   ]
 }
