@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Panjab",
+      "name": "DGDE",
       "code":"pb",
       "qrCodeURL":"https://github.com/egovernments/frontend/blob/whatsAppScreens/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png?raw=true",
       "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/banner(1280x796).png",
@@ -22,11 +22,7 @@
         {
           "label": "हिंदी",
           "value": "hi_IN"
-        },
-        {
-          "label": "ਪੰਜਾਬੀ",
-          "value": "pn_IN"
-        }
+        } 
       ]
     }
   ]
