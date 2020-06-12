@@ -122,8 +122,7 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ],
-      "maxFileSize": 6000
+      ]
     },
     {
       "code": "OWNERSHIPPROOF",
@@ -133,8 +132,7 @@
         ".png",
         ".jpeg"
       ],
-	  "active": true,
-      "maxFileSize": 6000
+	  "active": true
     },
     {
       "code": "OWNERPHOTO",
@@ -143,8 +141,7 @@
         ".png",
         ".jpeg"
       ],
-	  "active": true,
-      "maxFileSize": 3000
+	  "active": true
     },
     {
       "code": "OLDLICENCENO",
@@ -153,8 +150,7 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ],
-      "maxFileSize": 6000
+      ]
     },
     {
       "code": "AADHAARCARD",
@@ -164,8 +160,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 3000
+      "active": true
     },
     {
       "code": "PANCARD",
@@ -185,8 +180,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 3000
+      "active": true
     },
     {
       "code": "PTAX",
@@ -196,8 +190,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 3000
+      "active": true
     },
     {
       "code": "BLUPRNT",
@@ -217,8 +210,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 3000
+      "active": true
     },
     {
       "code": "NBNOC2",
@@ -228,8 +220,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 3000
+      "active": true
     },
     {
       "code": "PLANCERT",
@@ -239,8 +230,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 6000
+      "active": true
     },
     {
       "code": "BULDPHOTO",
@@ -250,8 +240,7 @@
         ".png",
         ".jpeg"
       ],
-      "active": true,
-      "maxFileSize": 6000
+      "active": true
     }
   ]
 }
