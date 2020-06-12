@@ -116,24 +116,131 @@
       "active": true
     },
     {
-      "code" : "OWNERIDPROOF",
-      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
-      "maxFileSize": 6000
+      "code": "OWNERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ]
     },
     {
-      "code" : "OWNERSHIPPROOF",
-      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
-      "maxFileSize": 6000
+      "code": "OWNERSHIPPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+	  "active": true
     },
     {
-      "code" : "OWNERPHOTO",
-      "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "code": "OWNERPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".png",
+        ".jpeg"
+      ],
+	  "active": true
     },
     {
-      "code" : "OLDLICENCENO",
-      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
-      "maxFileSize": 6000
+      "code": "OLDLICENCENO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ]
+    },
+    {
+      "code": "AADHAARCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "PANCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+     {
+      "code": "REGCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "PTAX",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "BLUPRNT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "NBNOC1",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "NBNOC2",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "PLANCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "BULDPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
     }
   ]
 }
