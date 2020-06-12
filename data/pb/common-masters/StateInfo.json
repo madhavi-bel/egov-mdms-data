@@ -6,8 +6,8 @@
       "name": "Panjab",
       "code":"pb",
       "qrCodeURL":"https://github.com/egovernments/frontend/blob/whatsAppScreens/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png?raw=true",
-      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/banner(1280x796).png",
-      "logoUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/e-chawani.png",
+      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/banner.png",
+      "logoUrl": "https://raw.githubusercontent.com/belegovgithub/ukd-mdms-data/UAT/data/cb/images/echawani.png",
       "hasLocalisation" : true,
       "enableWhatsApp" : true,
       "defaultUrl" : {
