@@ -7,7 +7,7 @@
       "code": "pb.secunderabad",
       "name": "Cantonment Board Secunderabad",
       "description": "Secunderabad",
-      "logoId": "",
+      "logoId":  "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/scb.png",
       "imageId": null,
       "domainUrl": "scb.gov.in",
       "type": "CITY",
