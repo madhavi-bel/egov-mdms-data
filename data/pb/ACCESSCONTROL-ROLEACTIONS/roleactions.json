@@ -17895,12 +17895,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "EMPLOYEE",
-  "actionid": 1808,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "NOC_CEMP",
   "actionid": 1809,
   "actioncode": "",
