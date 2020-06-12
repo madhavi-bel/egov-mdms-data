@@ -10,6 +10,15 @@
           "code": "pb.secunderabad"
         }
       ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "pb.secunderabad"
+        }
+      ]
     } 
   ]
 }
