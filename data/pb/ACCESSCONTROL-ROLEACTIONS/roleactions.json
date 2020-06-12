@@ -17481,12 +17481,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "EMPLOYEE",
-  "actionid": 1775,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "GRO",
   "actionid": 1775,
   "actioncode": "",
@@ -19289,12 +19283,6 @@
   {
   "rolecode": "CITIZEN",
   "actionid": 1884,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "EMPLOYEE",
-  "actionid": 1885,
   "actioncode": "",
   "tenantId": "pb"
   },
