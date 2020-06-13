@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
-  "moduleName": "TRADELicense",
-  "TRADEType": [
+  "moduleName": "TradeLicense",
+  "TradeType": [
     {
       "code": "GOODS.MANUFACTURE.TST-1",
       "uom": null,
