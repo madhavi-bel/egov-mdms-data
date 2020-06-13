@@ -17757,12 +17757,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "CITIZEN",
-  "actionid": 1803,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "COLL_RECEIPT_CREATOR",
   "actionid": 570,
   "actioncode": "",
@@ -17842,25 +17836,7 @@
   },
   {
   "rolecode": "CITIZEN",
-  "actionid": 1814,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "CITIZEN",
-  "actionid": 1815,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "CITIZEN",
   "actionid": 1816,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "CITIZEN",
-  "actionid": 1817,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -18095,18 +18071,6 @@
   {
   "rolecode": "SUPERUSER",
   "actionid": 1826,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1827,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "CITIZEN",
-  "actionid": 1827,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -19001,12 +18965,6 @@
   {
   "rolecode": "TL_FIELD_INSPECTOR",
   "actionid": 1876,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "CITIZEN",
-  "actionid": 1880,
   "actioncode": "",
   "tenantId": "pb"
   },
