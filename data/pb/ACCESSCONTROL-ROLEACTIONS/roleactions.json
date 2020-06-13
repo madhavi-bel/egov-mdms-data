@@ -20587,13 +20587,7 @@
       "actionid": 1778,  
       "actioncode": "",  
       "tenantId": "pb"  
-    },  
-    {  
-      "rolecode": "TL_CREATOR",  
-      "actionid": 1841,  
-      "actioncode": "",  
-      "tenantId": "pb"  
-    },  
+    },    
     {  
       "rolecode": "TL_CREATOR",  
       "actionid": 1875,  
