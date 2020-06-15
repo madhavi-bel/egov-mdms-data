@@ -6,7 +6,7 @@
       "name": "DGDE",
       "code":"pb",
       "qrCodeURL":"",
-      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/banner1.jpg",
+      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/banner.png",
       "logoUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/eChhawani.png",
       "hasLocalisation" : true,
       "enableWhatsApp" : true,
