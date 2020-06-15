@@ -5671,6 +5671,1387 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ASSREV.COMP_CONCESSION",
+      "name": "ASSREV.COMP_CONCESSION_FIELD_FEE",
+      "code": "ASSREV.COMP_CONCESSION_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ASSREV.COMP_TAX",
+      "name": "ASSREV.COMP_TAX_FIELD_FEE",
+      "code": "ASSREV.COMP_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ASSREV.COMP_TAXOTHER",
+      "name": "ASSREV.COMP_TAXOTHER_FIELD_FEE",
+      "code": "ASSREV.COMP_TAXOTHER",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.MNY_DEP",
+      "name": "CREDDEP.MNY_DEP_FIELD_FEE",
+      "code": "CREDDEP.MNY_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.CAND_SEC_DEP",
+      "name": "CREDDEP.CAND_SEC_DEP_FIELD_FEE",
+      "code": "CREDDEP.CAND_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.SEC_DEP",
+      "name": "CREDDEP.SEC_DEP_FIELD_FEE",
+      "code": "CREDDEP.SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.MUSEUM",
+      "name": "ENTFEE.MUSEUM_FIELD_FEE",
+      "code": "ENTFEE.MUSEUM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_FIELD_FEE",
+      "code": "ENTFEE.PARK",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PLYGRND",
+      "name": "ENTFEE.PLYGRND_FIELD_FEE",
+      "code": "ENTFEE.PLYGRND",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.VEH",
+      "name": "ENTFEE.VEH_FIELD_FEE",
+      "code": "ENTFEE.VEH",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.MDM",
+      "name": "GRNTINT.MDM_FIELD_FEE",
+      "code": "GRNTINT.MDM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.SBM",
+      "name": "GRNTINT.SBM_FIELD_FEE",
+      "code": "GRNTINT.SBM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.INF",
+      "name": "GRNTINT.INF_FIELD_FEE",
+      "code": "GRNTINT.INF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.INT_SB",
+      "name": "GRNTINT.INT_SB_FIELD_FEE",
+      "code": "GRNTINT.INT_SB",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.INT_LOAN",
+      "name": "GRNTINT.INT_LOAN_FIELD_FEE",
+      "code": "GRNTINT.INT_LOAN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.REV_GRNT",
+      "name": "GRNTINT.REV_GRNT_FIELD_FEE",
+      "code": "GRNTINT.REV_GRNT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.INT_FD",
+      "name": "GRNTINT.INT_FD_FIELD_FEE",
+      "code": "GRNTINT.INT_FD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "GRNTINT.INT_TD",
+      "name": "GRNTINT.INT_TD_FIELD_FEE",
+      "code": "GRNTINT.INT_TD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.APP_FEE",
+      "name": "OTHFEE.APP_FEE_FIELD_FEE",
+      "code": "OTHFEE.APP_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.BETT_CHRG",
+      "name": "OTHFEE.BETT_CHRG_FIELD_FEE",
+      "code": "OTHFEE.BETT_CHRG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.BIRTH_REG",
+      "name": "OTHFEE.BIRTH_REG_FIELD_FEE",
+      "code": "OTHFEE.BIRTH_REG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.BLD_FEE",
+      "name": "OTHFEE.BLD_FEE_FIELD_FEE",
+      "code": "OTHFEE.BLD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CATT_CHALLAN",
+      "name": "OTHFEE.CATT_CHALLAN_FIELD_FEE",
+      "code": "OTHFEE.CATT_CHALLAN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.COMP_UNAUTH",
+      "name": "OTHFEE.COMP_UNAUTH_FIELD_FEE",
+      "code": "OTHFEE.COMP_UNAUTH",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.COMPD_DLYAPP",
+      "name": "OTHFEE.COMPD_DLYAPP_FIELD_FEE",
+      "code": "OTHFEE.COMPD_DLYAPP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.COMPD_DLYAPP",
+      "name": "OTHFEE.COMPD_DLYAPP_FIELD_FEE",
+      "code": "OTHFEE.COMPD_DLYAPP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CONSRV",
+      "name": "OTHFEE.CONSRV_FIELD_FEE",
+      "code": "OTHFEE.CONSRV",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CONST_WASTE",
+      "name": "OTHFEE.CONST_WASTE_FIELD_FEE",
+      "code": "OTHFEE.CONST_WASTE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CRT_STMP",
+      "name": "OTHFEE.CRT_STMP_FIELD_FEE",
+      "code": "OTHFEE.CRT_STMP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DRY_ANML_CHALLAN",
+      "name": "OTHFEE.DRY_ANML_CHALLAN_FIELD_FEE",
+      "code": "OTHFEE.DRY_ANML_CHALLAN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DMG_CHRG",
+      "name": "OTHFEE.DMG_CHRG_FIELD_FEE",
+      "code": "OTHFEE.DMG_CHRG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DEAD_ANML_CONT",
+      "name": "OTHFEE.DEAD_ANML_CONT_FIELD_FEE",
+      "code": "OTHFEE.DEAD_ANML_CONT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DEATH_REG",
+      "name": "OTHFEE.DEATH_REG_FIELD_FEE",
+      "code": "OTHFEE.DEATH_REG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DENG_CHALLAN",
+      "name": "OTHFEE.DENG_CHALLAN_FIELD_FEE",
+      "code": "OTHFEE.DENG_CHALLAN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DEV_CHRG",
+      "name": "OTHFEE.DEV_CHRG_FIELD_FEE",
+      "code": "OTHFEE.DEV_CHRG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DISTRAINT",
+      "name": "OTHFEE.DISTRAINT_FIELD_FEE",
+      "code": "OTHFEE.DISTRAINT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DISTRAINT_TAX",
+      "name": "OTHFEE.DISTRAINT_TAX_FIELD_FEE",
+      "code": "OTHFEE.DISTRAINT_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DRINK_WT",
+      "name": "OTHFEE.DRINK_WT_FIELD_FEE",
+      "code": "OTHFEE.DRINK_WT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DUMP_GRBG",
+      "name": "OTHFEE.DUMP_GRBG_FIELD_FEE",
+      "code": "OTHFEE.DUMP_GRBG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.EDU",
+      "name": "OTHFEE.EDU_FIELD_FEE",
+      "code": "OTHFEE.EDU",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ELEC_RLY",
+      "name": "OTHFEE.ELEC_RLY_FIELD_FEE",
+      "code": "OTHFEE.ELEC_RLY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.EMP_REG",
+      "name": "OTHFEE.EMP_REG_FIELD_FEE",
+      "code": "OTHFEE.EMP_REG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ENCRMNT",
+      "name": "OTHFEE.ENCRMNT_FIELD_FEE",
+      "code": "OTHFEE.ENCRMNT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MTN_TR",
+      "name": "OTHFEE.MTN_TR_FIELD_FEE",
+      "code": "OTHFEE.MTN_TR",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CERT",
+      "name": "OTHFEE.CERT_FIELD_FEE",
+      "code": "OTHFEE.CERT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DC",
+      "name": "OTHFEE.DC_FIELD_FEE",
+      "code": "OTHFEE.DC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.GRNT_PERM",
+      "name": "OTHFEE.GRNT_PERM_FIELD_FEE",
+      "code": "OTHFEE.GRNT_PERM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.OD",
+      "name": "OTHFEE.OD_FIELD_FEE",
+      "code": "OTHFEE.OD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.HC",
+      "name": "OTHFEE.HC_FIELD_FEE",
+      "code": "OTHFEE.HC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ISS_BIRTHCERT",
+      "name": "OTHFEE.ISS_BIRTHCERT_FIELD_FEE",
+      "code": "OTHFEE.ISS_BIRTHCERT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ISS_DEATHCERT",
+      "name": "OTHFEE.ISS_DEATHCERT_FIELD_FEE",
+      "code": "OTHFEE.ISS_DEATHCERT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ISS_SANTICERT",
+      "name": "OTHFEE.ISS_SANTICERT_FIELD_FEE",
+      "code": "OTHFEE.ISS_SANTICERT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.VOTERLIST",
+      "name": "OTHFEE.VOTERLIST_FIELD_FEE",
+      "code": "OTHFEE.VOTERLIST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RICKSHW",
+      "name": "OTHFEE.RICKSHW_FIELD_FEE",
+      "code": "OTHFEE.RICKSHW",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.LIC",
+      "name": "OTHFEE.LIC_FIELD_FEE",
+      "code": "OTHFEE.LIC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MED",
+      "name": "OTHFEE.MED_FIELD_FEE",
+      "code": "OTHFEE.MED",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MISC",
+      "name": "OTHFEE.MISC_FIELD_FEE",
+      "code": "OTHFEE.MISC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MTN",
+      "name": "OTHFEE.MTN_FIELD_FEE",
+      "code": "OTHFEE.MTN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.NDC",
+      "name": "OTHFEE.NDC_FIELD_FEE",
+      "code": "OTHFEE.NDC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.NOTICE",
+      "name": "OTHFEE.NOTICE_FIELD_FEE",
+      "code": "OTHFEE.NOTICE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PENALT",
+      "name": "OTHFEE.PENALT_FIELD_FEE",
+      "code": "OTHFEE.PENALT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.OTH_SHOW",
+      "name": "OTHFEE.OTH_SHOW_FIELD_FEE",
+      "code": "OTHFEE.OTH_SHOW",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PARK_ELEC",
+      "name": "OTHFEE.PARK_ELEC_FIELD_FEE",
+      "code": "OTHFEE.PARK_ELEC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PLASTIC_CHALLAN",
+      "name": "OTHFEE.PLASTIC_CHALLAN_FIELD_FEE",
+      "code": "OTHFEE.PLASTIC_CHALLAN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.REG",
+      "name": "OTHFEE.REG_FIELD_FEE",
+      "code": "OTHFEE.REG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.REGL",
+      "name": "OTHFEE.REGL_FIELD_FEE",
+      "code": "OTHFEE.REGL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.REHRI",
+      "name": "OTHFEE.REHRI_FIELD_FEE",
+      "code": "OTHFEE.REHRI",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RD_SHOW",
+      "name": "OTHFEE.RD_SHOW_FIELD_FEE",
+      "code": "OTHFEE.RD_SHOW",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RTI",
+      "name": "OTHFEE.RTI_FIELD_FEE",
+      "code": "OTHFEE.RTI",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.SLGHT_HS",
+      "name": "OTHFEE.SLGHT_HS_FIELD_FEE",
+      "code": "OTHFEE.SLGHT_HS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TEHBAZZZRI",
+      "name": "OTHFEE.TEHBAZZZRI_FIELD_FEE",
+      "code": "OTHFEE.TEHBAZZZRI",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TNDR_FRM",
+      "name": "OTHFEE.TNDR_FRM_FIELD_FEE",
+      "code": "OTHFEE.TNDR_FRM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TL",
+      "name": "OTHFEE.TL_FIELD_FEE",
+      "code": "OTHFEE.TL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TREE_AUC",
+      "name": "OTHFEE.TREE_AUC_FIELD_FEE",
+      "code": "OTHFEE.TREE_AUC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TR_ASS_TAX",
+      "name": "OTHFEE.TR_ASS_TAX_FIELD_FEE",
+      "code": "OTHFEE.TR_ASS_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.WF",
+      "name": "OTHFEE.WF_FIELD_FEE",
+      "code": "OTHFEE.WF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.WATER_CHRG",
+      "name": "OTHFEE.WATER_CHRG_FIELD_FEE",
+      "code": "OTHFEE.WATER_CHRG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_FIELD_FEE",
+      "code": "OTHFEE.PARK",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTH.CESS",
+      "name": "OTH.CESS_FIELD_FEE",
+      "code": "OTH.CESS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTH.DEP",
+      "name": "OTH.DEP_FIELD_FEE",
+      "code": "OTH.DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTH.INC_CLM_REV",
+      "name": "OTH.INC_CLM_REV_FIELD_FEE",
+      "code": "OTH.INC_CLM_REV",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTH.PRFT_DIS_FA",
+      "name": "OTH.PRFT_DIS_FA_FIELD_FEE",
+      "code": "OTH.PRFT_DIS_FA",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTH.RCV_EMP",
+      "name": "OTH.RCV_EMP_FIELD_FEE",
+      "code": "OTH.RCV_EMP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.COM_CEN_BK",
+      "name": "RENT.COM_CEN_BK_FIELD_FEE",
+      "code": "RENT.COM_CEN_BK",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.EREC_POL",
+      "name": "RENT.EREC_POL_FIELD_FEE",
+      "code": "RENT.EREC_POL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.EXB_CIRC",
+      "name": "RENT.EXB_CIRC_FIELD_FEE",
+      "code": "RENT.EXB_CIRC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.CANTT_FUND",
+      "name": "RENT.CANTT_FUND_FIELD_FEE",
+      "code": "RENT.CANTT_FUND",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.CA",
+      "name": "RENT.CA_FIELD_FEE",
+      "code": "RENT.CA",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.GH",
+      "name": "RENT.GH_FIELD_FEE",
+      "code": "RENT.GH",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.OFF_BLDG",
+      "name": "RENT.OFF_BLDG_FIELD_FEE",
+      "code": "RENT.OFF_BLDG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.REMIS_REFND",
+      "name": "RENT.REMIS_REFND_FIELD_FEE",
+      "code": "RENT.REMIS_REFND",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ST_VEN",
+      "name": "RENT.ST_VEN_FIELD_FEE",
+      "code": "RENT.ST_VEN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.TEL_TW",
+      "name": "RENT.TEL_TW_FIELD_FEE",
+      "code": "RENT.TEL_TW",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.TEMP_STALL",
+      "name": "RENT.TEMP_STALL_FIELD_FEE",
+      "code": "RENT.TEMP_STALL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_LEASE",
+      "name": "RENT.ULB_LEASE_FIELD_FEE",
+      "code": "RENT.ULB_LEASE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_PATTA",
+      "name": "RENT.ULB_PATTA_FIELD_FEE",
+      "code": "RENT.ULB_PATTA",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_NAZOOL",
+      "name": "RENT.ULB_NAZOOL_FIELD_FEE",
+      "code": "RENT.ULB_NAZOOL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_SHP",
+      "name": "RENT.ULB_SHP_FIELD_FEE",
+      "code": "RENT.ULB_SHP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_LIC",
+      "name": "RENT.ULB_LIC_FIELD_FEE",
+      "code": "RENT.ULB_LIC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.AUC_TREE",
+      "name": "SALE.AUC_TREE_FIELD_FEE",
+      "code": "SALE.AUC_TREE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.FRM_PUB",
+      "name": "SALE.FRM_PUB_FIELD_FEE",
+      "code": "SALE.FRM_PUB",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.PROD",
+      "name": "SALE.PROD_FIELD_FEE",
+      "code": "SALE.PROD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.STR_SCRP",
+      "name": "SALE.STR_SCRP_FIELD_FEE",
+      "code": "SALE.STR_SCRP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.CHQ_BNC",
+      "name": "SRVC.CHQ_BNC_FIELD_FEE",
+      "code": "SRVC.CHQ_BNC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_ADM",
+      "name": "SRVC.APP_ADM_FIELD_FEE",
+      "code": "SRVC.APP_ADM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_CONSER",
+      "name": "SRVC.APP_CONSER_FIELD_FEE",
+      "code": "SRVC.APP_CONSER",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_ELEC",
+      "name": "SRVC.APP_ELEC_FIELD_FEE",
+      "code": "SRVC.APP_ELEC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_PWD",
+      "name": "SRVC.APP_PWD_FIELD_FEE",
+      "code": "SRVC.APP_PWD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_ENGTP",
+      "name": "SRVC.APP_ENGTP_FIELD_FEE",
+      "code": "SRVC.APP_ENGTP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_HOSP",
+      "name": "SRVC.APP_HOSP_FIELD_FEE",
+      "code": "SRVC.APP_HOSP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_RD",
+      "name": "SRVC.APP_RD_FIELD_FEE",
+      "code": "SRVC.APP_RD",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_STR",
+      "name": "SRVC.APP_STR_FIELD_FEE",
+      "code": "SRVC.APP_STR",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_TAX",
+      "name": "SRVC.APP_TAX_FIELD_FEE",
+      "code": "SRVC.APP_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_WATER",
+      "name": "SRVC.APP_WATER_FIELD_FEE",
+      "code": "SRVC.APP_WATER",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.SRVC_CHRG",
+      "name": "SRVC.SRVC_CHRG_FIELD_FEE",
+      "code": "SRVC.SRVC_CHRG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.ADVT",
+      "name": "TX.ADVT_TAX",
+      "code": "TX.ADVT",
+      "isDebit": false,
+      "isActualDemand": "1",
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.CONS",
+      "name": "TX.CONS_TAX",
+      "code": "TX.CONS",
+      "isDebit": false,
+      "isActualDemand": "1",
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.PROF",
+      "name": "TX.PROF_TAX",
+      "code": "TX.PROF",
+      "isDebit": false,
+      "isActualDemand": "1",
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.SANT",
+      "name": "TX.SANT_TAX",
+      "code": "TX.SANT",
+      "isDebit": false,
+      "isActualDemand": "1",
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "TX.TOLL",
+      "name": "TX.TOLL_TAX",
+      "code": "TX.TOLL",
+      "isDebit": false,
+      "isActualDemand": "1",
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.BUR_GRND",
+      "name": "UC.BUR_GRND_FIELD_FEE",
+      "code": "UC.BUR_GRND",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.NEW_WATER_CONC",
+      "name": "UC.NEW_WATER_CONC_FIELD_FEE",
+      "code": "UC.NEW_WATER_CONC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.CHNG_WATER_CONC",
+      "name": "UC.CHNG_WATER_CONC_FIELD_FEE",
+      "code": "UC.CHNG_WATER_CONC",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.COST_FEED_AN",
+      "name": "UC.COST_FEED_AN_FIELD_FEE",
+      "code": "UC.COST_FEED_AN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.CREMAT_CHRG",
+      "name": "UC.CREMAT_CHRG_FIELD_FEE",
+      "code": "UC.CREMAT_CHRG",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.EDU_CESS",
+      "name": "UC.EDU_CESS_FIELD_FEE",
+      "code": "UC.EDU_CESS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.FNRL_VAN",
+      "name": "UC.FNRL_VAN_FIELD_FEE",
+      "code": "UC.FNRL_VAN",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.GRBG_COLL",
+      "name": "UC.GRBG_COLL_FIELD_FEE",
+      "code": "UC.GRBG_COLL",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.LIB_MEM",
+      "name": "UC.LIB_MEM_FIELD_FEE",
+      "code": "UC.LIB_MEM",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.MTRL_STACK",
+      "name": "UC.MTRL_STACK_FIELD_FEE",
+      "code": "UC.MTRL_STACK",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PU_TLT",
+      "name": "UC.PU_TLT_FIELD_FEE",
+      "code": "UC.PU_TLT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PERM_BORE",
+      "name": "UC.PERM_BORE_FIELD_FEE",
+      "code": "UC.PERM_BORE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PROCES_FEE",
+      "name": "UC.PROCES_FEE_FIELD_FEE",
+      "code": "UC.PROCES_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PUB_FEE",
+      "name": "UC.PUB_FEE_FIELD_FEE",
+      "code": "UC.PUB_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.MOB_TLT",
+      "name": "UC.MOB_TLT_FIELD_FEE",
+      "code": "UC.MOB_TLT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.RD_CUTT",
+      "name": "UC.RD_CUTT_FIELD_FEE",
+      "code": "UC.RD_CUTT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.SEP_TNK_CLR",
+      "name": "UC.SEP_TNK_CLR_FIELD_FEE",
+      "code": "UC.SEP_TNK_CLR",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.WATER_TNK",
+      "name": "UC.WATER_TNK_FIELD_FEE",
+      "code": "UC.WATER_TNK",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
+    
   ]
 }
