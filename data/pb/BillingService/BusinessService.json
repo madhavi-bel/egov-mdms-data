@@ -37,7 +37,18 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
-    
+    {
+      "businessService": "WaterCharges.Metered",
+      "code": "WaterCharges.Metered",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "type": "Adhoc"
+    },
     {
       "businessService": "Assigned Revenues and Compensations.Compensation in lieu of concessions",
       "code": "ASSREV.COMP_CONCESSION",
