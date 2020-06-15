@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
-  "moduleName": "GOODS&SERVICESLicense",
-  "GOODS&SERVICESType": [
+  "moduleName": "TradeLicense",
+  "TradeType": [
     {
       "code": "GOODS.MANUFACTURE.TST-1",
       "uom": null,
@@ -6139,7 +6139,7 @@
       }
     },
 {
-    "code": "GOODS&SERVICES.EATING.A1",
+    "code": "TRADE.EATING.A1",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6178,7 +6178,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A2",
+    "code": "TRADE.EATING.A2",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6217,7 +6217,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A3",
+    "code": "TRADE.EATING.A3",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6256,7 +6256,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A4",
+    "code": "TRADE.EATING.A4",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6295,7 +6295,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A5",
+    "code": "TRADE.EATING.A5",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6334,7 +6334,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A6",
+    "code": "TRADE.EATING.A6",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6373,7 +6373,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A7",
+    "code": "TRADE.EATING.A7",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6412,7 +6412,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.EATING.A8",
+    "code": "TRADE.EATING.A8",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6451,7 +6451,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.MEDICAL.B1",
+    "code": "TRADE.MEDICAL.B1",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6490,7 +6490,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.MEDICAL.B2",
+    "code": "TRADE.MEDICAL.B2",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6529,7 +6529,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.MEDICAL.B3",
+    "code": "TRADE.MEDICAL.B3",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6568,7 +6568,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.MEDICAL.B4",
+    "code": "TRADE.MEDICAL.B4",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6607,7 +6607,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.MEDICAL.B5",
+    "code": "TRADE.MEDICAL.B5",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6646,7 +6646,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.VETERINARY.C1",
+    "code": "TRADE.VETERINARY.C1",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6685,7 +6685,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.VETERINARY.C2",
+    "code": "TRADE.VETERINARY.C2",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6724,7 +6724,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.VETERINARY.C3",
+    "code": "TRADE.VETERINARY.C3",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6763,7 +6763,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.VETERINARY.C4",
+    "code": "TRADE.VETERINARY.C4",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6802,7 +6802,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.VETERINARY.C5",
+    "code": "TRADE.VETERINARY.C5",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6841,7 +6841,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.VETERINARY.C6",
+    "code": "TRADE.VETERINARY.C6",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6880,7 +6880,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.OFFENSIVE.D1",
+    "code": "TRADE.OFFENSIVE.D1",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6919,7 +6919,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.OFFENSIVE.D2",
+    "code": "TRADE.OFFENSIVE.D2",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6958,7 +6958,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.OFFENSIVE.D3",
+    "code": "TRADE.OFFENSIVE.D3",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -6997,7 +6997,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E1",
+    "code": "TRADE.GENERAL.E1",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7036,7 +7036,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E2",
+    "code": "TRADE.GENERAL.E2",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7075,7 +7075,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E3",
+    "code": "TRADE.GENERAL.E3",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7114,7 +7114,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E4",
+    "code": "TRADE.GENERAL.E4",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7153,7 +7153,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E5",
+    "code": "TRADE.GENERAL.E5",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7192,7 +7192,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E6",
+    "code": "TRADE.GENERAL.E6",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7231,7 +7231,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E7",
+    "code": "TRADE.GENERAL.E7",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7270,7 +7270,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E8",
+    "code": "TRADE.GENERAL.E8",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7309,7 +7309,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E9",
+    "code": "TRADE.GENERAL.E9",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7348,7 +7348,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E10",
+    "code": "TRADE.GENERAL.E10",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7387,7 +7387,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E11",
+    "code": "TRADE.GENERAL.E11",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7426,7 +7426,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E12",
+    "code": "TRADE.GENERAL.E12",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7465,7 +7465,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E13",
+    "code": "TRADE.GENERAL.E13",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7504,7 +7504,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E14",
+    "code": "TRADE.GENERAL.E14",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7543,7 +7543,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E15",
+    "code": "TRADE.GENERAL.E15",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7582,7 +7582,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E16",
+    "code": "TRADE.GENERAL.E16",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7621,7 +7621,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E17",
+    "code": "TRADE.GENERAL.E17",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7660,7 +7660,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E18",
+    "code": "TRADE.GENERAL.E18",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7699,7 +7699,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E19",
+    "code": "TRADE.GENERAL.E19",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7738,7 +7738,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E20",
+    "code": "TRADE.GENERAL.E20",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7777,7 +7777,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E21",
+    "code": "TRADE.GENERAL.E21",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7816,7 +7816,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E22",
+    "code": "TRADE.GENERAL.E22",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7855,7 +7855,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E23",
+    "code": "TRADE.GENERAL.E23",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7894,7 +7894,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E24",
+    "code": "TRADE.GENERAL.E24",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7933,7 +7933,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E25",
+    "code": "TRADE.GENERAL.E25",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -7972,7 +7972,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E26",
+    "code": "TRADE.GENERAL.E26",
     "uom":"SFT",
     "applicationDocument": [
       {
@@ -8011,7 +8011,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E27",
+    "code": "TRADE.GENERAL.E27",
     "uom":"NOS",
     "applicationDocument": [
       {
@@ -8050,7 +8050,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E28",
+    "code": "TRADE.GENERAL.E28",
     "uom":"NOS",
     "applicationDocument": [
       {
@@ -8089,7 +8089,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E29",
+    "code": "TRADE.GENERAL.E29",
     "uom":"NOS",
     "applicationDocument": [
       {
@@ -8128,7 +8128,7 @@
     "type": "TL"
   },
   {
-    "code": "GOODS&SERVICES.GENERAL.E30",
+    "code": "TRADE.GENERAL.E30",
     "uom": "SFT",
     "applicationDocument": [
       {

@@ -3,6 +3,46 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
+      "code": "pb.agra",
+      "districtCode": "Agra",
+      "population": "53137",
+      "malePopulation": "",
+      "femalePopultion": "",
+      "workingPopulation": "",
+      "literacyRate": "",
+      "languagesSpoken": ["HN","EN"]
+    },
+    {
+      "code": "pb.delhi",
+      "districtCode": "New Delhi",
+      "population": "110351",
+      "malePopulation": "",
+      "femalePopultion": "",
+      "workingPopulation": "",
+      "literacyRate": "",
+      "languagesSpoken": ["HN","EN"]
+    },
+    {
+      "code": "pb.lucknow",
+      "districtCode": "Lucknow",
+      "population": "63003",
+      "malePopulation": "",
+      "femalePopultion": "",
+      "workingPopulation": "",
+      "literacyRate": "",
+      "languagesSpoken": ["HN","EN"]
+    },
+    {
+      "code": "pb.pune",
+      "districtCode": "Pune",
+      "population": "71831",
+      "malePopulation": "",
+      "femalePopultion": "",
+      "workingPopulation": "",
+      "literacyRate": "",
+      "languagesSpoken": ["HN","EN"]
+    },
+    {
       "code": "pb.secunderabad",
       "districtCode": "Hyderabad",
       "population": "217910",
