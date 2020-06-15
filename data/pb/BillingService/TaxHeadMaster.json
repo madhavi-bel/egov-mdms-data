@@ -6828,7 +6828,7 @@
       "name": "TX.ADVT_TAX",
       "code": "TX.ADVT",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand": false,
       "order": "1",
       "isRequired": true
     },
@@ -6838,7 +6838,7 @@
       "name": "TX.CONS_TAX",
       "code": "TX.CONS",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand": false,
       "order": "1",
       "isRequired": true
     },
@@ -6848,7 +6848,7 @@
       "name": "TX.PROF_TAX",
       "code": "TX.PROF",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand": false,
       "order": "1",
       "isRequired": true
     },
@@ -6858,7 +6858,7 @@
       "name": "TX.SANT_TAX",
       "code": "TX.SANT",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand": false,
       "order": "1",
       "isRequired": true
     },
@@ -6868,7 +6868,7 @@
       "name": "TX.TOLL_TAX",
       "code": "TX.TOLL",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand": false,
       "order": "1",
       "isRequired": true
     },
