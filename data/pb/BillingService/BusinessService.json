@@ -37,27 +37,16 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
+    
     {
-      "businessService": "WaterCharges.Metered",
-      "code": "WaterCharges.Metered",
+      "businessService": "Assigned Revenues and Compensations.Compensation in lieu of concessions",
+      "code": "ASSREV.COMP_CONCESSION",
       "collectionModesNotAllowed": [
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "WaterCharges.NonMetered",
-      "code": "WaterCharges.NonMetered",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -68,8 +57,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -80,8 +69,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -92,8 +81,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -104,8 +93,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -116,8 +105,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -128,8 +117,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -140,8 +129,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -152,8 +141,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -164,8 +153,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -176,8 +165,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -188,8 +177,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -200,8 +189,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -212,8 +201,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -224,8 +213,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -236,8 +225,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -248,8 +237,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -260,8 +249,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -272,8 +261,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -284,8 +273,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -296,8 +285,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -308,8 +297,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -320,8 +309,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -332,8 +321,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -344,8 +333,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -356,8 +345,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -368,8 +357,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -380,8 +369,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -392,8 +381,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -404,8 +393,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -416,8 +405,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -428,8 +417,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -440,8 +429,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -452,8 +441,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -464,8 +453,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -476,8 +465,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -488,8 +477,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -500,8 +489,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -512,8 +501,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -524,8 +513,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -536,8 +525,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -548,8 +537,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -560,8 +549,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -572,8 +561,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -584,8 +573,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -596,8 +585,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -608,8 +597,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -620,8 +609,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -632,8 +621,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -644,8 +633,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -656,8 +645,8 @@
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isVoucherCreationEnabled": true,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
@@ -668,16 +657,160 @@
         "DD"
       ],
       "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Issue of Voter list",
+      "code": "OTHFEE.VOTERLIST",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.License Fee on Rikshaw",
+      "code": "OTHFEE.RICKSHW",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Licensing Fees",
+      "code": "OTHFEE.LIC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Medical fees",
+      "code": "OTHFEE.MED",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Miscellaneous charges",
+      "code": "OTHFEE.MISC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Mutation Fees",
+      "code": "OTHFEE.MTN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.No Due Certificate fees",
+      "code": "OTHFEE.NDC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Notice Fees",
+      "code": "OTHFEE.NOTICE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Other Penalties / Fines/Challan",
+      "code": "OTHFEE.PENALT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Other show fee",
+      "code": "OTHFEE.OTH_SHOW",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Parking fees during election",
+      "code": "OTHFEE.PARK_ELEC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Plastic/ polythene Challan",
+      "code": "OTHFEE.PLASTIC_CHALLAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
     },
     {
-      "businessService": "FIRENOC",
-      "code": "FIRENOC",
+      "businessService": "Other Fee and Fines.Registration fees",
+      "code": "OTHFEE.REG",
       "collectionModesNotAllowed": [
-        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
+        "DD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -686,31 +819,32 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Taxes.No Dues Certificate",
-      "code": "TX.No_Dues_Certificate",
+      "businessService": "Other Fee and Fines.Regulation Fees",
+      "code": "OTHFEE.REGL",
       "collectionModesNotAllowed": [
         "DD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
+      "isActive": true,
       "type": "Adhoc"
     },
     {
-      "businessService": "Advertisement Tax.Hoardings",
-      "code": "ADVT.Hoardings",
+      "businessService": "Other Fee and Fines.Rehri Challan",
+      "code": "OTHFEE.REHRI",
       "collectionModesNotAllowed": [
         "DD"
       ],
       "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
       "type": "Adhoc"
     },
     {
-      "businessService": "Advertisement Tax.Unipolls",
-      "code": "ADVT.Unipolls",
+      "businessService": "Other Fee and Fines.Road show fee",
+      "code": "OTHFEE.RD_SHOW",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -721,8 +855,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Municipal Shops Rent",
-      "code": "RT.Municipal_Shops_Rent",
+      "businessService": "Other Fee and Fines.RTI Fee",
+      "code": "OTHFEE.RTI",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -733,8 +867,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Land Rent",
-      "code": "RT.Land_Rent",
+      "businessService": "Other Fee and Fines.Slaughter House Fee",
+      "code": "OTHFEE.SLGHT_HS",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -745,8 +879,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Tower Rent",
-      "code": "RT.Tower_Rent",
+      "businessService": "Other Fee and Fines.Tehbazaari",
+      "code": "OTHFEE.TEHBAZZZRI",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -757,8 +891,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Parking Fee",
-      "code": "RT.Parking_Fee",
+      "businessService": "Other Fee and Fines.Tender Form Fee",
+      "code": "OTHFEE.TNDR_FRM",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -769,8 +903,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Jamin Theka",
-      "code": "RT.Jamin_Theka",
+      "businessService": "Other Fee and Fines.Trade License Fee",
+      "code": "OTHFEE.TL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -781,8 +915,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "ADMIN Fees.Election rally fees",
-      "code": "ADMN.Election_rally_fees",
+      "businessService": "Other Fee and Fines.Tree auction",
+      "code": "OTHFEE.TREE_AUC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -793,8 +927,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "ADMIN Fees.Parking during election",
-      "code": "ADMN.Parking_during_election",
+      "businessService": "Other Fee and Fines.True extract for assessment of tax",
+      "code": "OTHFEE.TR_ASS_TAX",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -805,8 +939,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "ADMIN Fees.Road show",
-      "code": "ADMN.Road_show",
+      "businessService": "Other Fee and Fines.Warrant Fees",
+      "code": "OTHFEE.WF",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -817,8 +951,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.Advance Provident Fund",
-      "code": "FN.Advance_Provident_Fund",
+      "businessService": "Other Fee and Fines.Water Charges",
+      "code": "OTHFEE.WATER_CHRG",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -829,8 +963,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Stationary.Stationary (Not Income)",
-      "code": "ST.Stationary_Not_Income",
+      "businessService": "Other Fee and Fines.Parking Fees",
+      "code": "OTHFEE.PARK",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -841,8 +975,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Stationary.Expenditure santitation (Not Income)",
-      "code": "ST.Expenditure_santitation_Not_Income",
+      "businessService": "Others.Cess",
+      "code": "OTH.CESS",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -853,8 +987,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Santitation dumping garbage",
-      "code": "CH.Santitation_dumping_garbage",
+      "businessService": "Others.Deposit forfeited",
+      "code": "OTH.DEP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -865,8 +999,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Telecom tower fees",
-      "code": "FTP.Telecom_tower_fees",
+      "businessService": "Others.Insurance Claim Recovery",
+      "code": "OTH.INC_CLM_REV",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -877,8 +1011,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Taxes.Electricity Chungi",
-      "code": "TX.Electricity_Chungi",
+      "businessService": "Others.Profit on Disposal of Fixed assets",
+      "code": "OTH.PRFT_DIS_FA",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -889,8 +1023,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Draftsmen fees",
-      "code": "FTP.Draftsmen_fees",
+      "businessService": "Others.Recovery from Employees/ Contracters",
+      "code": "OTH.RCV_EMP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -901,8 +1035,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Compremasing fees",
-      "code": "FTP.Compremasing_fees",
+      "businessService": "Rent From Municipal Properties.Community Centre Booking Fee",
+      "code": "RENT.COM_CEN_BK",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -913,8 +1047,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Building planner renew",
-      "code": "FTP.Building_planner_renew",
+      "businessService": "Rent From Municipal Properties.Erection of poles for cabling",
+      "code": "RENT.EREC_POL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -925,8 +1059,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.Naksha samjota fees",
-      "code": "NKS.Naksha_samjota_fees",
+      "businessService": "Rent From Municipal Properties.Fares Exhibitions Circus Etc.",
+      "code": "RENT.EXB_CIRC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -937,8 +1071,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.Naksha changes ",
-      "code": "NKS.Naksha_changes",
+      "businessService": "Rent From Municipal Properties.Rent from Cantt Fund Premises - temporary hiring",
+      "code": "RENT.CANTT_FUND",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -949,8 +1083,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.License fees building branch",
-      "code": "FTP.License_fees_building_branch",
+      "businessService": "Rent From Municipal Properties.Rent from Civic Amenities",
+      "code": "RENT.CA",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -961,8 +1095,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "O&M Fee.Water connection/disconnection fees",
-      "code": "OM.Water_connection/disconnection_fees",
+      "businessService": "Rent From Municipal Properties.Rent from Guest Houses",
+      "code": "RENT.GH",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -973,8 +1107,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.Naksha renew fees",
-      "code": "NKS.Naksha_renew_fees",
+      "businessService": "Rent From Municipal Properties.Rent from Office Buildings",
+      "code": "RENT.OFF_BLDG",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -985,8 +1119,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.NOC/Completion of building approval",
-      "code": "NKS.NOC/Completion_of_building_approval",
+      "businessService": "Rent From Municipal Properties.Rent remission and refund",
+      "code": "RENT.REMIS_REFND",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -997,8 +1131,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.Alteration additional charge",
-      "code": "NKS.Alteration_additional_charge",
+      "businessService": "Rent From Municipal Properties.Street Vendor",
+      "code": "RENT.ST_VEN",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1009,8 +1143,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.2 year time limit of Renewal Building Naksha",
-      "code": "NKS.2_year_time_limit_of_Renewal_Building_Naksha",
+      "businessService": "Rent From Municipal Properties.Telecom Tower Annual Rent",
+      "code": "RENT.TEL_TW",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1021,8 +1155,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Leave encashment and gratuty",
-      "code": "FTP.Leave_encashment_and_gratuty",
+      "businessService": "Rent From Municipal Properties.Temporary Stalls on defence lands",
+      "code": "RENT.TEMP_STALL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1033,8 +1167,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Plastic Challan",
-      "code": "CH.Plastic_Challan",
+      "businessService": "Rent From Municipal Properties.ULB Land Rent- Lease rentals",
+      "code": "RENT.ULB_LEASE",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1045,8 +1179,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Rehri Challan",
-      "code": "CH.Rehri_Challan",
+      "businessService": "Rent From Municipal Properties.ULB Land Rent- Patta",
+      "code": "RENT.ULB_PATTA",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1057,8 +1191,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Challan for Misuse of Water",
-      "code": "CH.Challan_for_Misuse_of_Water",
+      "businessService": "Rent From Municipal Properties.ULB Nazool Land Rent",
+      "code": "RENT.ULB_NAZOOL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1069,8 +1203,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Dengue Challan",
-      "code": "CH.Dengue_Challan",
+      "businessService": "Rent From Municipal Properties.ULB Shops Rent",
+      "code": "RENT.ULB_SHP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1081,8 +1215,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Littering Challan",
-      "code": "CH.Littering_Challan",
+      "businessService": "Rent From Municipal Properties.ULB Land Rent - Licence",
+      "code": "RENT.ULB_LIC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1093,8 +1227,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Sanitation.Licence Pure food",
-      "code": "SNT.Licence_Pure_food",
+      "businessService": "Sale and Hire Charges.Auction of trees",
+      "code": "SALE.AUC_TREE",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1105,8 +1239,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "OTHER.Misc Challans",
-      "code": "OTHER.Misc_Challans",
+      "businessService": "Sale and Hire Charges.Sale of Forms and Publications",
+      "code": "SALE.FRM_PUB",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1117,8 +1251,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Naksha/Building Manual Fees.Regularisation of Buildings",
-      "code": "NKS.Regularisation_of_Buildings",
+      "businessService": "Sale and Hire Charges.Sale of Products",
+      "code": "SALE.PROD",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1129,8 +1263,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Work Fee.Contractor Enlistment",
-      "code": "WF.Contractor_Enlistment",
+      "businessService": "Sale and Hire Charges.Sale of stores scrap",
+      "code": "SALE.STR_SCRP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1141,8 +1275,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Work Fee.Tender Form Fee",
-      "code": "WF.Tender Form Fee",
+      "businessService": "Service and Adminstrative Charges.Cheque bouncing charges",
+      "code": "SRVC.CHQ_BNC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1153,8 +1287,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Tehbazaari Fee.Advertisement fee",
-      "code": "TB.Advertisement_fee",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Admin",
+      "code": "SRVC.APP_ADM",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1165,8 +1299,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Tehbazaari Fee.Tehbazaari",
-      "code": "TB.Tehbazaari",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Conservancy",
+      "code": "SRVC.APP_CONSER",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1177,8 +1311,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.PF transfer (Accounts)",
-      "code": "FN.PF_transfer_(Accounts)",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Electrial Dept",
+      "code": "SRVC.APP_ELEC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1189,8 +1323,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Taxes.TS1 copy register for old survey",
-      "code": "TX.TS1_copy_register_for_old_survey",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Engineering PWD",
+      "code": "SRVC.APP_PWD",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1201,8 +1335,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Taxes.Transfer Property Fees",
-      "code": "TX.Transfer_Property_Fees",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Engineering Town Planning",
+      "code": "SRVC.APP_ENGTP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1213,8 +1347,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "ADMIN Fees.RTI",
-      "code": "ADMN.RTI",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Hospital",
+      "code": "SRVC.APP_HOSP",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1225,8 +1359,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "ADMIN Fees.No Dues Certificate",
-      "code": "ADMN.No_Dues_Certificate",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Revenue Department",
+      "code": "SRVC.APP_RD",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1237,8 +1371,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Architect license fee",
-      "code": "FTP.Architect_license_fee",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Stores",
+      "code": "SRVC.APP_STR",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1249,8 +1383,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Tehbazaari Fee.Challan Under section 156",
-      "code": "Tehbazaari Fee.Challan_Under_section_156",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Tax",
+      "code": "SRVC.APP_TAX",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1261,8 +1395,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.Recovery employee/contractor",
-      "code": "FN.Recovery_employee/contractor",
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Water",
+      "code": "SRVC.APP_WATER",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1273,8 +1407,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.Grants cheque",
-      "code": "FN.Grants_cheque",
+      "businessService": "Service and Adminstrative Charges.Service Charges",
+      "code": "SRVC.SRVC_CHRG",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1285,8 +1419,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "OTHER.No due certificate electricity",
-      "code": "OTHER.No_due_certificate_electricity",
+      "businessService": "Taxes.Advertisement Tax(Hoardings/Unipolls/Wall Painting/Gass Balloon/Other)",
+      "code": "TX.ADVT",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1297,8 +1431,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "OTHER.registery and bank loan",
-      "code": "OTHER.registery_and_bank_loan",
+      "businessService": "Taxes.Conservancy taxes",
+      "code": "TX.CONS",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1309,8 +1443,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "SBM garbage plastic polythene challan",
-      "code": "CH.SBM_garbage_plastic_polythene_challan",
+      "businessService": "Taxes.Profession tax",
+      "code": "TX.PROF",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1321,8 +1455,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Sanitation.Dead animals contract",
-      "code": "SNT.Dead_animals_contract",
+      "businessService": "Taxes.Sanitation Tax",
+      "code": "TX.SANT",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1333,8 +1467,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.GPF",
-      "code": "FN.GPF",
+      "businessService": "Taxes.Toll Tax",
+      "code": "TX.TOLL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1345,8 +1479,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Finance Fees.CPF received check",
-      "code": "FN.CPF_received_check",
+      "businessService": "User Charges.Burial Ground Charges",
+      "code": "UC.BUR_GRND",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1357,8 +1491,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Tower Installation",
-      "code": "RT.Tower_Installation",
+      "businessService": "User Charges.New water connection",
+      "code": "UC.NEW_WATER_CONC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1369,8 +1503,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Tower Annual Rent",
-      "code": "RT.Tower_Annual_Rent",
+      "businessService": "User Charges.Change of water connection",
+      "code": "UC.CHNG_WATER_CONC",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1381,8 +1515,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Cess.Cow Cess",
-      "code": "CSS.cow_cess",
+      "businessService": "User Charges.Cost of feeding animal",
+      "code": "UC.COST_FEED_AN",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1393,8 +1527,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Cattle Challan",
-      "code": "CH.Cattle_Challan",
+      "businessService": "User Charges.Crematorium Charges",
+      "code": "UC.CREMAT_CHRG",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1405,8 +1539,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Tehbazaari Fee.Rehri Challan",
-      "code": "TB.Rehri_Challan",
+      "businessService": "User Charges.Education Cess",
+      "code": "UC.EDU_CESS",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1417,8 +1551,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "License Fee.Manual Rikshaw",
-      "code": "LCF.Manual_Rikshaw",
+      "businessService": "User Charges.Funeral Van Charges",
+      "code": "UC.FNRL_VAN",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1429,8 +1563,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Dairy Animals Challan",
-      "code": "CH.Dairy_Animals_Challan",
+      "businessService": "User Charges.Garbage Collection Charges",
+      "code": "UC.GRBG_COLL",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1441,8 +1575,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Challans.Bidi & Cigrette Challan",
-      "code": "CH.Bidi_&_Cigrette_Challan",
+      "businessService": "User Charges.Library membership fee/charges",
+      "code": "UC.LIB_MEM",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1453,8 +1587,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Community Centre Booking Fee",
-      "code": "RT.Community_Centre_Booking_Fee",
+      "businessService": "User Charges.Material Stacking charges",
+      "code": "UC.MTRL_STACK",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1465,8 +1599,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Commercial Use of Municipal Land",
-      "code": "RT.Commercial_Use_of_Municipal_Land",
+      "businessService": "User Charges.Pay & Use Toilets Charges",
+      "code": "UC.PU_TLT",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1477,8 +1611,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Rents.Street Vendor",
-      "code": "RT.Street_Vendor",
+      "businessService": "User Charges.Permission for digging of bore well",
+      "code": "UC.PERM_BORE",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1489,8 +1623,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Construction Waste",
-      "code": "FTP.Construction_Waste",
+      "businessService": "User Charges.Processing Fee",
+      "code": "UC.PROCES_FEE",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1501,8 +1635,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Fee Town Planning.Demolition Waste",
-      "code": "FTP.Demolition_Waste",
+      "businessService": "User Charges.Publication fee",
+      "code": "UC.PUB_FEE",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1513,8 +1647,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Sanitation.SNT Clean/Safai Sanitation",
-      "code": "SNT.clean_safai_sanitation",
+      "businessService": "User Charges.Rent for mobile toilets",
+      "code": "UC.MOB_TLT",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1525,8 +1659,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "O&M Fee.Plumber License Fee",
-      "code": "OM.Plumber_License_Fee",
+      "businessService": "User Charges.Road cutting charges",
+      "code": "UC.RD_CUTT",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1537,8 +1671,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Advertisement Tax.Light Wala Board",
-      "code": "ADVT.Light_Wala_Board",
+      "businessService": "User Charges.Septic Tank Clearance Charges",
+      "code": "UC.SEP_TNK_CLR",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -1549,8 +1683,8 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Advertisement Tax.Wall Paint Advertisement",
-      "code": "ADVT.Wall_Paint_Advertisement",
+      "businessService": "User Charges.Water Tanker fee",
+      "code": "UC.WATER_TNK",
       "collectionModesNotAllowed": [
         "DD"
       ],
