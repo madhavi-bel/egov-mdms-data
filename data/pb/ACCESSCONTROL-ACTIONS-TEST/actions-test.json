@@ -16382,6 +16382,94 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
       "navigationURL": "services/EGF/report/remittance/collection/form"
+    },
+    {
+      "id": 5001,
+      "name": "MiscReceiptULB",
+      "url": "url",
+      "displayName": "Miscellaneous Receipt Register ULB",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
+      "path": "Reports.Miscellaneous Receipt Register"
+    },
+    {
+      "id": 5002,
+      "name": "rainmaker-uc-collection",
+      "url": "card",
+      "displayName": "Universal Collection",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "navigationURL": "uc/search",
+      "path": "",
+      "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 5003,
+      "name": "UCReportMetadata",
+      "url": "/report/rainmaker-uc/metadata/_get",
+      "displayName": "Universal Collection Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "UC Collection Metadata "
+    },
+    {
+      "id": 5004,
+      "name": "UC Report",
+      "url": "/report/rainmaker-uc/_get",
+      "displayName": "Universal Collection Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "UC Report"
+    },
+    {
+      "id": 5005,
+      "name": "MiscBusinessServiceCollectionTenant",
+      "url": "url",
+      "displayName": "Misc Business Service Collections",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
+      "path": "Reports.Misc Business Service Collections"
+    },
+    {
+      "id": 5006,
+      "name": "MiscReceiptULBCancelled",
+      "url": "url",
+      "displayName": "Miscellaneous Cancelled Receipts",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled",
+      "path": "Reports.miscellaneous Receipt Register"
+    },
+    {
+      "id": 5007,
+      "name": "MiscReceiptULBShort",
+      "url": "url",
+      "displayName": "Miscellaneous Consumer Receipts",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
+      "path": "Reports.miscellaneous Receipt Register"
     }
   ]
 }

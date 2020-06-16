@@ -20623,6 +20623,102 @@
       "actionid": 1929,  
       "actioncode": "",  
       "tenantId": "pb"  
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1589,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1691,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1802,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5006,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 623,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 705,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 704,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 710,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
