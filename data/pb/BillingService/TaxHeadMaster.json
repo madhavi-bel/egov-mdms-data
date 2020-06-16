@@ -5924,9 +5924,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "OTHFEE.COMPD_DLYAPP",
-      "name": "OTHFEE.COMPD_DLYAPP_FIELD_FEE",
-      "code": "OTHFEE.COMPD_DLYAPP_FIELD_FEE",
+      "service": "OTHFEE.COMPD_FEE",
+      "name": "OTHFEE.COMPD_FEE_FIELD_FEE",
+      "code": "OTHFEE.COMPD_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6828,7 +6828,7 @@
       "name": "TX.ADVT_TAX",
       "code": "TX.ADVT_TAX",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand":true,
       "order": "1",
       "isRequired": true
     },
@@ -6838,7 +6838,7 @@
       "name": "TX.CONS_TAX",
       "code": "TX.CONS_TAX",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand":true,
       "order": "1",
       "isRequired": true
     },
@@ -6848,7 +6848,7 @@
       "name": "TX.PROF_TAX",
       "code": "TX.PROF_TAX",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand":true,
       "order": "1",
       "isRequired": true
     },
@@ -6858,7 +6858,7 @@
       "name": "TX.SANT_TAX",
       "code": "TX.SANT_TAX",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand":true,
       "order": "1",
       "isRequired": true
     },
@@ -6868,7 +6868,7 @@
       "name": "TX.TOLL_TAX",
       "code": "TX.TOLL_TAX",
       "isDebit": false,
-      "isActualDemand": "1",
+      "isActualDemand":true,
       "order": "1",
       "isRequired": true
     },
