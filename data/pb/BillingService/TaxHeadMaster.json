@@ -7051,6 +7051,1386 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_CONCESSION",
+      "name": "ASSREV.COMP_CONCESSION_TAX",
+      "code": "ASSREV.COMP_CONCESSION_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_TAX",
+      "name": "ASSREV.COMP_TAX_TAX",
+      "code": "ASSREV.COMP_TAX_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_TAXOTHER",
+      "name": "ASSREV.COMP_TAXOTHER_TAX",
+      "code": "ASSREV.COMP_TAXOTHER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.MNY_DEP",
+      "name": "CREDDEP.MNY_DEP_TAX",
+      "code": "CREDDEP.MNY_DEP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.CAND_SEC_DEP",
+      "name": "CREDDEP.CAND_SEC_DEP_TAX",
+      "code": "CREDDEP.CAND_SEC_DEP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.SEC_DEP",
+      "name": "CREDDEP.SEC_DEP_TAX",
+      "code": "CREDDEP.SEC_DEP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.MUSEUM",
+      "name": "ENTFEE.MUSEUM_TAX",
+      "code": "ENTFEE.MUSEUM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_TAX",
+      "code": "ENTFEE.PARK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PLYGRND",
+      "name": "ENTFEE.PLYGRND_TAX",
+      "code": "ENTFEE.PLYGRND_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.VEH",
+      "name": "ENTFEE.VEH_TAX",
+      "code": "ENTFEE.VEH_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.MDM",
+      "name": "GRNTINT.MDM_TAX",
+      "code": "GRNTINT.MDM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.SBM",
+      "name": "GRNTINT.SBM_TAX",
+      "code": "GRNTINT.SBM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INF",
+      "name": "GRNTINT.INF_TAX",
+      "code": "GRNTINT.INF_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_SB",
+      "name": "GRNTINT.INT_SB_TAX",
+      "code": "GRNTINT.INT_SB_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_LOAN",
+      "name": "GRNTINT.INT_LOAN_TAX",
+      "code": "GRNTINT.INT_LOAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.REV_GRNT",
+      "name": "GRNTINT.REV_GRNT_TAX",
+      "code": "GRNTINT.REV_GRNT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_FD",
+      "name": "GRNTINT.INT_FD_TAX",
+      "code": "GRNTINT.INT_FD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_TD",
+      "name": "GRNTINT.INT_TD_TAX",
+      "code": "GRNTINT.INT_TD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.APP_FEE",
+      "name": "OTHFEE.APP_FEE_TAX",
+      "code": "OTHFEE.APP_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BETT_CHRG",
+      "name": "OTHFEE.BETT_CHRG_TAX",
+      "code": "OTHFEE.BETT_CHRG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BIRTH_REG",
+      "name": "OTHFEE.BIRTH_REG_TAX",
+      "code": "OTHFEE.BIRTH_REG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BLD_FEE",
+      "name": "OTHFEE.BLD_FEE_TAX",
+      "code": "OTHFEE.BLD_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CATT_CHALLAN",
+      "name": "OTHFEE.CATT_CHALLAN_TAX",
+      "code": "OTHFEE.CATT_CHALLAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMP_UNAUTH",
+      "name": "OTHFEE.COMP_UNAUTH_TAX",
+      "code": "OTHFEE.COMP_UNAUTH_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMPD_DLYAPP",
+      "name": "OTHFEE.COMPD_DLYAPP_TAX",
+      "code": "OTHFEE.COMPD_DLYAPP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMPD_FEE",
+      "name": "OTHFEE.COMPD_FEE_TAX",
+      "code": "OTHFEE.COMPD_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CONSRV",
+      "name": "OTHFEE.CONSRV_TAX",
+      "code": "OTHFEE.CONSRV_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CONST_WASTE",
+      "name": "OTHFEE.CONST_WASTE_TAX",
+      "code": "OTHFEE.CONST_WASTE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CRT_STMP",
+      "name": "OTHFEE.CRT_STMP_TAX",
+      "code": "OTHFEE.CRT_STMP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DRY_ANML_CHALLAN",
+      "name": "OTHFEE.DRY_ANML_CHALLAN_TAX",
+      "code": "OTHFEE.DRY_ANML_CHALLAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DMG_CHRG",
+      "name": "OTHFEE.DMG_CHRG_TAX",
+      "code": "OTHFEE.DMG_CHRG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEAD_ANML_CONT",
+      "name": "OTHFEE.DEAD_ANML_CONT_TAX",
+      "code": "OTHFEE.DEAD_ANML_CONT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEATH_REG",
+      "name": "OTHFEE.DEATH_REG_TAX",
+      "code": "OTHFEE.DEATH_REG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DENG_CHALLAN",
+      "name": "OTHFEE.DENG_CHALLAN_TAX",
+      "code": "OTHFEE.DENG_CHALLAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEV_CHRG",
+      "name": "OTHFEE.DEV_CHRG_TAX",
+      "code": "OTHFEE.DEV_CHRG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DISTRAINT",
+      "name": "OTHFEE.DISTRAINT_TAX",
+      "code": "OTHFEE.DISTRAINT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DISTRAINT_TAX",
+      "name": "OTHFEE.DISTRAINT_TAX_TAX",
+      "code": "OTHFEE.DISTRAINT_TAX_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DRINK_WT",
+      "name": "OTHFEE.DRINK_WT_TAX",
+      "code": "OTHFEE.DRINK_WT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DUMP_GRBG",
+      "name": "OTHFEE.DUMP_GRBG_TAX",
+      "code": "OTHFEE.DUMP_GRBG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.EDU",
+      "name": "OTHFEE.EDU_TAX",
+      "code": "OTHFEE.EDU_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ELEC_RLY",
+      "name": "OTHFEE.ELEC_RLY_TAX",
+      "code": "OTHFEE.ELEC_RLY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.EMP_REG",
+      "name": "OTHFEE.EMP_REG_TAX",
+      "code": "OTHFEE.EMP_REG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ENCRMNT",
+      "name": "OTHFEE.ENCRMNT_TAX",
+      "code": "OTHFEE.ENCRMNT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MTN_TR",
+      "name": "OTHFEE.MTN_TR_TAX",
+      "code": "OTHFEE.MTN_TR_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CERT",
+      "name": "OTHFEE.CERT_TAX",
+      "code": "OTHFEE.CERT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DC",
+      "name": "OTHFEE.DC_TAX",
+      "code": "OTHFEE.DC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.GRNT_PERM",
+      "name": "OTHFEE.GRNT_PERM_TAX",
+      "code": "OTHFEE.GRNT_PERM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.OD",
+      "name": "OTHFEE.OD_TAX",
+      "code": "OTHFEE.OD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.HC",
+      "name": "OTHFEE.HC_TAX",
+      "code": "OTHFEE.HC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_BIRTHCERT",
+      "name": "OTHFEE.ISS_BIRTHCERT_TAX",
+      "code": "OTHFEE.ISS_BIRTHCERT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_DEATHCERT",
+      "name": "OTHFEE.ISS_DEATHCERT_TAX",
+      "code": "OTHFEE.ISS_DEATHCERT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_SANTICERT",
+      "name": "OTHFEE.ISS_SANTICERT_TAX",
+      "code": "OTHFEE.ISS_SANTICERT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.VOTERLIST",
+      "name": "OTHFEE.VOTERLIST_TAX",
+      "code": "OTHFEE.VOTERLIST_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RICKSHW",
+      "name": "OTHFEE.RICKSHW_TAX",
+      "code": "OTHFEE.RICKSHW_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.LIC",
+      "name": "OTHFEE.LIC_TAX",
+      "code": "OTHFEE.LIC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MED",
+      "name": "OTHFEE.MED_TAX",
+      "code": "OTHFEE.MED_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MISC",
+      "name": "OTHFEE.MISC_TAX",
+      "code": "OTHFEE.MISC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MTN",
+      "name": "OTHFEE.MTN_TAX",
+      "code": "OTHFEE.MTN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.NDC",
+      "name": "OTHFEE.NDC_TAX",
+      "code": "OTHFEE.NDC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.NOTICE",
+      "name": "OTHFEE.NOTICE_TAX",
+      "code": "OTHFEE.NOTICE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PENALT",
+      "name": "OTHFEE.PENALT_TAX",
+      "code": "OTHFEE.PENALT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.OTH_SHOW",
+      "name": "OTHFEE.OTH_SHOW_TAX",
+      "code": "OTHFEE.OTH_SHOW_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK_ELEC",
+      "name": "OTHFEE.PARK_ELEC_TAX",
+      "code": "OTHFEE.PARK_ELEC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PLASTIC_CHALLAN",
+      "name": "OTHFEE.PLASTIC_CHALLAN_TAX",
+      "code": "OTHFEE.PLASTIC_CHALLAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REG",
+      "name": "OTHFEE.REG_TAX",
+      "code": "OTHFEE.REG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REGL",
+      "name": "OTHFEE.REGL_TAX",
+      "code": "OTHFEE.REGL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REHRI",
+      "name": "OTHFEE.REHRI_TAX",
+      "code": "OTHFEE.REHRI_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RD_SHOW",
+      "name": "OTHFEE.RD_SHOW_TAX",
+      "code": "OTHFEE.RD_SHOW_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RTI",
+      "name": "OTHFEE.RTI_TAX",
+      "code": "OTHFEE.RTI_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.SLGHT_HS",
+      "name": "OTHFEE.SLGHT_HS_TAX",
+      "code": "OTHFEE.SLGHT_HS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TEHBAZZZRI",
+      "name": "OTHFEE.TEHBAZZZRI_TAX",
+      "code": "OTHFEE.TEHBAZZZRI_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TNDR_FRM",
+      "name": "OTHFEE.TNDR_FRM_TAX",
+      "code": "OTHFEE.TNDR_FRM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TL",
+      "name": "OTHFEE.TL_TAX",
+      "code": "OTHFEE.TL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TREE_AUC",
+      "name": "OTHFEE.TREE_AUC_TAX",
+      "code": "OTHFEE.TREE_AUC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TR_ASS_TAX",
+      "name": "OTHFEE.TR_ASS_TAX_TAX",
+      "code": "OTHFEE.TR_ASS_TAX_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.WF",
+      "name": "OTHFEE.WF_TAX",
+      "code": "OTHFEE.WF_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.WATER_CHRG",
+      "name": "OTHFEE.WATER_CHRG_TAX",
+      "code": "OTHFEE.WATER_CHRG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_TAX",
+      "code": "OTHFEE.PARK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.CESS",
+      "name": "OTH.CESS_TAX",
+      "code": "OTH.CESS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.DEP",
+      "name": "OTH.DEP_TAX",
+      "code": "OTH.DEP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.INC_CLM_REV",
+      "name": "OTH.INC_CLM_REV_TAX",
+      "code": "OTH.INC_CLM_REV_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.PRFT_DIS_FA",
+      "name": "OTH.PRFT_DIS_FA_TAX",
+      "code": "OTH.PRFT_DIS_FA_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.RCV_EMP",
+      "name": "OTH.RCV_EMP_TAX",
+      "code": "OTH.RCV_EMP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.COM_CEN_BK",
+      "name": "RENT.COM_CEN_BK_TAX",
+      "code": "RENT.COM_CEN_BK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.EREC_POL",
+      "name": "RENT.EREC_POL_TAX",
+      "code": "RENT.EREC_POL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.EXB_CIRC",
+      "name": "RENT.EXB_CIRC_TAX",
+      "code": "RENT.EXB_CIRC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.CANTT_FUND",
+      "name": "RENT.CANTT_FUND_TAX",
+      "code": "RENT.CANTT_FUND_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.CA",
+      "name": "RENT.CA_TAX",
+      "code": "RENT.CA_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.GH",
+      "name": "RENT.GH_TAX",
+      "code": "RENT.GH_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.OFF_BLDG",
+      "name": "RENT.OFF_BLDG_TAX",
+      "code": "RENT.OFF_BLDG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.REMIS_REFND",
+      "name": "RENT.REMIS_REFND_TAX",
+      "code": "RENT.REMIS_REFND_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ST_VEN",
+      "name": "RENT.ST_VEN_TAX",
+      "code": "RENT.ST_VEN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.TEL_TW",
+      "name": "RENT.TEL_TW_TAX",
+      "code": "RENT.TEL_TW_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.TEMP_STALL",
+      "name": "RENT.TEMP_STALL_TAX",
+      "code": "RENT.TEMP_STALL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_LEASE",
+      "name": "RENT.ULB_LEASE_TAX",
+      "code": "RENT.ULB_LEASE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_PATTA",
+      "name": "RENT.ULB_PATTA_TAX",
+      "code": "RENT.ULB_PATTA_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_NAZOOL",
+      "name": "RENT.ULB_NAZOOL_TAX",
+      "code": "RENT.ULB_NAZOOL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_SHP",
+      "name": "RENT.ULB_SHP_TAX",
+      "code": "RENT.ULB_SHP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_LIC",
+      "name": "RENT.ULB_LIC_TAX",
+      "code": "RENT.ULB_LIC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.AUC_TREE",
+      "name": "SALE.AUC_TREE_TAX",
+      "code": "SALE.AUC_TREE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.FRM_PUB",
+      "name": "SALE.FRM_PUB_TAX",
+      "code": "SALE.FRM_PUB_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.PROD",
+      "name": "SALE.PROD_TAX",
+      "code": "SALE.PROD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.STR_SCRP",
+      "name": "SALE.STR_SCRP_TAX",
+      "code": "SALE.STR_SCRP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.CHQ_BNC",
+      "name": "SRVC.CHQ_BNC_TAX",
+      "code": "SRVC.CHQ_BNC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ADM",
+      "name": "SRVC.APP_ADM_TAX",
+      "code": "SRVC.APP_ADM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_CONSER",
+      "name": "SRVC.APP_CONSER_TAX",
+      "code": "SRVC.APP_CONSER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ELEC",
+      "name": "SRVC.APP_ELEC_TAX",
+      "code": "SRVC.APP_ELEC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_PWD",
+      "name": "SRVC.APP_PWD_TAX",
+      "code": "SRVC.APP_PWD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ENGTP",
+      "name": "SRVC.APP_ENGTP_TAX",
+      "code": "SRVC.APP_ENGTP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_HOSP",
+      "name": "SRVC.APP_HOSP_TAX",
+      "code": "SRVC.APP_HOSP_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_RD",
+      "name": "SRVC.APP_RD_TAX",
+      "code": "SRVC.APP_RD_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_STR",
+      "name": "SRVC.APP_STR_TAX",
+      "code": "SRVC.APP_STR_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_TAX",
+      "name": "SRVC.APP_TAX_TAX",
+      "code": "SRVC.APP_TAX_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_WATER",
+      "name": "SRVC.APP_WATER_TAX",
+      "code": "SRVC.APP_WATER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.SRVC_CHRG",
+      "name": "SRVC.SRVC_CHRG_TAX",
+      "code": "SRVC.SRVC_CHRG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.ADVT",
+      "name": "TX.ADVT_FIELD_FEE",
+      "code": "TX.ADVT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.CONS",
+      "name": "TX.CONS_FIELD_FEE",
+      "code": "TX.CONS_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.PROF",
+      "name": "TX.PROF_FIELD_FEE",
+      "code": "TX.PROF_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.SANT",
+      "name": "TX.SANT_FIELD_FEE",
+      "code": "TX.SANT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.TOLL",
+      "name": "TX.TOLL_FIELD_FEE",
+      "code": "TX.TOLL_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.BUR_GRND",
+      "name": "UC.BUR_GRND_TAX",
+      "code": "UC.BUR_GRND_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.NEW_WATER_CONC",
+      "name": "UC.NEW_WATER_CONC_TAX",
+      "code": "UC.NEW_WATER_CONC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.CHNG_WATER_CONC",
+      "name": "UC.CHNG_WATER_CONC_TAX",
+      "code": "UC.CHNG_WATER_CONC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.COST_FEED_AN",
+      "name": "UC.COST_FEED_AN_TAX",
+      "code": "UC.COST_FEED_AN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.CREMAT_CHRG",
+      "name": "UC.CREMAT_CHRG_TAX",
+      "code": "UC.CREMAT_CHRG_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.EDU_CESS",
+      "name": "UC.EDU_CESS_TAX",
+      "code": "UC.EDU_CESS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.FNRL_VAN",
+      "name": "UC.FNRL_VAN_TAX",
+      "code": "UC.FNRL_VAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.GRBG_COLL",
+      "name": "UC.GRBG_COLL_TAX",
+      "code": "UC.GRBG_COLL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.LIB_MEM",
+      "name": "UC.LIB_MEM_TAX",
+      "code": "UC.LIB_MEM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.MTRL_STACK",
+      "name": "UC.MTRL_STACK_TAX",
+      "code": "UC.MTRL_STACK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PU_TLT",
+      "name": "UC.PU_TLT_TAX",
+      "code": "UC.PU_TLT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PERM_BORE",
+      "name": "UC.PERM_BORE_TAX",
+      "code": "UC.PERM_BORE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PROCES_FEE",
+      "name": "UC.PROCES_FEE_TAX",
+      "code": "UC.PROCES_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PUB_FEE",
+      "name": "UC.PUB_FEE_TAX",
+      "code": "UC.PUB_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.MOB_TLT",
+      "name": "UC.MOB_TLTTAX",
+      "code": "UC.MOB_TLTTAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.RD_CUTT",
+      "name": "UC.RD_CUTTTAX",
+      "code": "UC.RD_CUTTTAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.SEP_TNK_CLR",
+      "name": "UC.SEP_TNK_CLRTAX",
+      "code": "UC.SEP_TNK_CLRTAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "UC.WATER_TNK",
+      "name": "UC.WATER_TNKTAX",
+      "code": "UC.WATER_TNKTAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
     }
   ]
 }

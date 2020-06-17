@@ -37,6 +37,18 @@
       "demandUpdateTime": 604800000,
       "isVoucherCreationEnabled": true
     },
+    {
+      "businessService": "Advertisement Tax.Unipolls",
+      "code": "ADVT.Unipolls",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
     
     {
       "businessService": "Assigned Revenues and Compensations.Compensation in lieu of concessions",
