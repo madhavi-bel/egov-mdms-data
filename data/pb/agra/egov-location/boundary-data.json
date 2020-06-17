@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.agra",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.secunderabad",
+        "code": "pb.agra",
         "children": [
           {
             "id": "101",
