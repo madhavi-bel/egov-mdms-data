@@ -552,6 +552,10 @@
     {
           "format": "CB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
           "idname": "tl.licensenumber"
+    },
+    {
+          "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+          "idname": "assrev.comp_tax.receipt.id"
     }
   ]
 }
