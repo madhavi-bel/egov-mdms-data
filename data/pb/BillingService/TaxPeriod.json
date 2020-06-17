@@ -502,7 +502,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ENTFEE.PARK_FIELD_FEE",
+      "service": "ENTFEE.PARK",
       "code": "ENTFEEPARKFIELDFEE",
       "financialYear": "2020-30"
     },
