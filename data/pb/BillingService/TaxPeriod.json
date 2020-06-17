@@ -446,7 +446,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ASSREV.COMP_CONCESSION_FIELD_FEE",
+      "service": "ASSREV.COMP_CONCESSION",
       "code": "ASSREVCOMPCONCESSIONFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -454,7 +454,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ASSREV.COMP_TAX_FIELD_FEE",
+      "service": "ASSREV.COMP_TAX",
       "code": "ASSREVCOMPTAXFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -462,7 +462,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ASSREV.COMP_TAXOTHER_FIELD_FEE",
+      "service": "ASSREV.COMP_TAXOTHER",
       "code": "ASSREVCOMPTAXOTHERFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -470,7 +470,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "CREDDEP.MNY_DEP_FIELD_FEE",
+      "service": "CREDDEP.MNY_DEP",
       "code": "CREDDEPMNYDEPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -478,7 +478,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "CREDDEP.CAND_SEC_DEP_FIELD_FEE",
+      "service": "CREDDEP.CAND_SEC_DEP",
       "code": "CREDDEPCANDSECDEPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -486,7 +486,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "CREDDEP.SEC_DEP_FIELD_FEE",
+      "service": "CREDDEP.SEC_DEP",
       "code": "CREDDEPSECDEPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -494,7 +494,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ENTFEE.MUSEUM_FIELD_FEE",
+      "service": "ENTFEE.MUSEUM",
       "code": "ENTFEEMUSEUMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -510,7 +510,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ENTFEE.PLYGRND_FIELD_FEE",
+      "service": "ENTFEE.PLYGRND",
       "code": "ENTFEEPLYGRNDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -518,7 +518,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "ENTFEE.VEH_FIELD_FEE",
+      "service": "ENTFEE.VEH",
       "code": "ENTFEEVEHFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -526,7 +526,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.MDM_FIELD_FEE",
+      "service": "GRNTINT.MDM",
       "code": "GRNTINTMDMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -534,7 +534,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.SBM_FIELD_FEE",
+      "service": "GRNTINT.SBM",
       "code": "GRNTINTSBMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -542,7 +542,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INF_FIELD_FEE",
+      "service": "GRNTINT.INF",
       "code": "GRNTINTINFFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -550,7 +550,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_SB_FIELD_FEE",
+      "service": "GRNTINT.INT_SB",
       "code": "GRNTINTINTSBFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -558,7 +558,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_LOAN_FIELD_FEE",
+      "service": "GRNTINT.INT_LOAN",
       "code": "GRNTINTINTLOANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -566,7 +566,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.REV_GRNT_FIELD_FEE",
+      "service": "GRNTINT.REV_GRNT",
       "code": "GRNTINTREVGRNTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -574,7 +574,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_FD_FIELD_FEE",
+      "service": "GRNTINT.INT_FD",
       "code": "GRNTINTINTFDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -582,7 +582,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_TD_FIELD_FEE",
+      "service": "GRNTINT.INT_TD",
       "code": "GRNTINTINTTDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -590,7 +590,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.APP_FEE_FIELD_FEE",
+      "service": "OTHFEE.APP_FEE",
       "code": "OTHFEEAPPFEEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -598,7 +598,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.BETT_CHRG_FIELD_FEE",
+      "service": "OTHFEE.BETT_CHRG",
       "code": "OTHFEEBETTCHRGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -606,7 +606,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.BIRTH_REG_FIELD_FEE",
+      "service": "OTHFEE.BIRTH_REG",
       "code": "OTHFEEBIRTHREGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -614,7 +614,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.BLD_FEE_FIELD_FEE",
+      "service": "OTHFEE.BLD_FEE",
       "code": "OTHFEEBLDFEEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -622,7 +622,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.CATT_CHALLAN_FIELD_FEE",
+      "service": "OTHFEE.CATT_CHALLAN",
       "code": "OTHFEECATTCHALLANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -630,7 +630,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.COMP_UNAUTH_FIELD_FEE",
+      "service": "OTHFEE.COMP_UNAUTH",
       "code": "OTHFEECOMPUNAUTHFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -638,7 +638,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.COMPD_DLYAPP_FIELD_FEE",
+      "service": "OTHFEE.COMPD_DLYAPP",
       "code": "OTHFEECOMPDDLYAPPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -646,7 +646,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.COMPD_FEE_FIELD_FEE",
+      "service": "OTHFEE.COMPD_FEE",
       "code": "OTHFEECOMPDFEEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -654,7 +654,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.CONSRV_FIELD_FEE",
+      "service": "OTHFEE.CONSRV",
       "code": "OTHFEECONSRVFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -662,7 +662,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.CONST_WASTE_FIELD_FEE",
+      "service": "OTHFEE.CONST_WASTE",
       "code": "OTHFEECONSTWASTEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -670,7 +670,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.CRT_STMP_FIELD_FEE",
+      "service": "OTHFEE.CRT_STMP",
       "code": "OTHFEECRTSTMPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -678,7 +678,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DRY_ANML_CHALLAN_FIELD_FEE",
+      "service": "OTHFEE.DRY_ANML_CHALLAN",
       "code": "OTHFEEDRYANMLCHALLANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -686,7 +686,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DMG_CHRG_FIELD_FEE",
+      "service": "OTHFEE.DMG_CHRG",
       "code": "OTHFEEDMGCHRGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -694,7 +694,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DEAD_ANML_CONT_FIELD_FEE",
+      "service": "OTHFEE.DEAD_ANML_CONT",
       "code": "OTHFEEDEADANMLCONTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -702,7 +702,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DEATH_REG_FIELD_FEE",
+      "service": "OTHFEE.DEATH_REG",
       "code": "OTHFEEDEATHREGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -710,7 +710,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DENG_CHALLAN_FIELD_FEE",
+      "service": "OTHFEE.DENG_CHALLAN",
       "code": "OTHFEEDENGCHALLANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -718,7 +718,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DEV_CHRG_FIELD_FEE",
+      "service": "OTHFEE.DEV_CHRG",
       "code": "OTHFEEDEVCHRGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -726,7 +726,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DISTRAINT_FIELD_FEE",
+      "service": "OTHFEE.DISTRAINT",
       "code": "OTHFEEDISTRAINTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -734,7 +734,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DISTRAINT_TAX_FIELD_FEE",
+      "service": "OTHFEE.DISTRAINT_TAX",
       "code": "OTHFEEDISTRAINTTAXFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -742,7 +742,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DRINK_WT_FIELD_FEE",
+      "service": "OTHFEE.DRINK_WT",
       "code": "OTHFEEDRINKWTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -750,7 +750,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DUMP_GRBG_FIELD_FEE",
+      "service": "OTHFEE.DUMP_GRBG",
       "code": "OTHFEEDUMPGRBGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -758,7 +758,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.EDU_FIELD_FEE",
+      "service": "OTHFEE.EDU",
       "code": "OTHFEEEDUFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -766,7 +766,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.ELEC_RLY_FIELD_FEE",
+      "service": "OTHFEE.ELEC_RLY",
       "code": "OTHFEEELECRLYFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -774,7 +774,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.EMP_REG_FIELD_FEE",
+      "service": "OTHFEE.EMP_REG",
       "code": "OTHFEEEMPREGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -782,7 +782,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.ENCRMNT_FIELD_FEE",
+      "service": "OTHFEE.ENCRMNT",
       "code": "OTHFEEENCRMNTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -790,7 +790,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.MTN_TR_FIELD_FEE",
+      "service": "OTHFEE.MTN_TR",
       "code": "OTHFEEMTNTRFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -798,7 +798,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.CERT_FIELD_FEE",
+      "service": "OTHFEE.CERT",
       "code": "OTHFEECERTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -806,7 +806,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.DC_FIELD_FEE",
+      "service": "OTHFEE.DC",
       "code": "OTHFEEDCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -814,7 +814,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.GRNT_PERM_FIELD_FEE",
+      "service": "OTHFEE.GRNT_PERM",
       "code": "OTHFEEGRNTPERMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -822,7 +822,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.OD_FIELD_FEE",
+      "service": "OTHFEE.OD",
       "code": "OTHFEEODFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -830,7 +830,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.HC_FIELD_FEE",
+      "service": "OTHFEE.HC",
       "code": "OTHFEEHCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -838,7 +838,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.ISS_BIRTHCERT_FIELD_FEE",
+      "service": "OTHFEE.ISS_BIRTHCERT",
       "code": "OTHFEEISSBIRTHCERTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -846,7 +846,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.ISS_DEATHCERT_FIELD_FEE",
+      "service": "OTHFEE.ISS_DEATHCERT",
       "code": "OTHFEEISSDEATHCERTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -854,7 +854,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.ISS_SANTICERT_FIELD_FEE",
+      "service": "OTHFEE.ISS_SANTICERT",
       "code": "OTHFEEISSSANTICERTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -862,7 +862,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.VOTERLIST_FIELD_FEE",
+      "service": "OTHFEE.VOTERLIST",
       "code": "OTHFEEVOTERLISTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -870,7 +870,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.RICKSHW_FIELD_FEE",
+      "service": "OTHFEE.RICKSHW",
       "code": "OTHFEERICKSHWFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -878,7 +878,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.LIC_FIELD_FEE",
+      "service": "OTHFEE.LIC",
       "code": "OTHFEELICFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -886,7 +886,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.MED_FIELD_FEE",
+      "service": "OTHFEE.MED",
       "code": "OTHFEEMEDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -894,7 +894,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.MISC_FIELD_FEE",
+      "service": "OTHFEE.MISC",
       "code": "OTHFEEMISCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -902,7 +902,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.MTN_FIELD_FEE",
+      "service": "OTHFEE.MTN",
       "code": "OTHFEEMTNFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -910,7 +910,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.NDC_FIELD_FEE",
+      "service": "OTHFEE.NDC",
       "code": "OTHFEENDCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -918,7 +918,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.NOTICE_FIELD_FEE",
+      "service": "OTHFEE.NOTICE",
       "code": "OTHFEENOTICEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -926,7 +926,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.PENALT_FIELD_FEE",
+      "service": "OTHFEE.PENALT",
       "code": "OTHFEEPENALTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -934,7 +934,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.OTH_SHOW_FIELD_FEE",
+      "service": "OTHFEE.OTH_SHOW",
       "code": "OTHFEEOTHSHOWFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -942,7 +942,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.PARK_ELEC_FIELD_FEE",
+      "service": "OTHFEE.PARK_ELEC",
       "code": "OTHFEEPARKELECFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -950,7 +950,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.PLASTIC_CHALLAN_FIELD_FEE",
+      "service": "OTHFEE.PLASTIC_CHALLAN",
       "code": "OTHFEEPLASTICCHALLANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -958,7 +958,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.REG_FIELD_FEE",
+      "service": "OTHFEE.REG",
       "code": "OTHFEEREGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -966,7 +966,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.REGL_FIELD_FEE",
+      "service": "OTHFEE.REGL",
       "code": "OTHFEEREGLFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -974,7 +974,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.REHRI_FIELD_FEE",
+      "service": "OTHFEE.REHRI",
       "code": "OTHFEEREHRIFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -982,7 +982,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.RD_SHOW_FIELD_FEE",
+      "service": "OTHFEE.RD_SHOW",
       "code": "OTHFEERDSHOWFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -990,7 +990,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.RTI_FIELD_FEE",
+      "service": "OTHFEE.RTI",
       "code": "OTHFEERTIFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -998,7 +998,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.SLGHT_HS_FIELD_FEE",
+      "service": "OTHFEE.SLGHT_HS",
       "code": "OTHFEESLGHTHSFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1006,7 +1006,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TEHBAZZZRI_FIELD_FEE",
+      "service": "OTHFEE.TEHBAZZZRI",
       "code": "OTHFEETEHBAZZZRIFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1014,7 +1014,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TNDR_FRM_FIELD_FEE",
+      "service": "OTHFEE.TNDR_FRM",
       "code": "OTHFEETNDRFRMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1022,7 +1022,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TL_FIELD_FEE",
+      "service": "OTHFEE.TL",
       "code": "OTHFEETLFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1030,7 +1030,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TREE_AUC_FIELD_FEE",
+      "service": "OTHFEE.TREE_AUC",
       "code": "OTHFEETREEAUCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1038,7 +1038,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TR_ASS_TAX_FIELD_FEE",
+      "service": "OTHFEE.TR_ASS_TAX",
       "code": "OTHFEETRASSTAXFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1046,7 +1046,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.WF_FIELD_FEE",
+      "service": "OTHFEE.WF",
       "code": "OTHFEEWFFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1054,7 +1054,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.WATER_CHRG_FIELD_FEE",
+      "service": "OTHFEE.WATER_CHRG",
       "code": "OTHFEEWATERCHRGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1062,7 +1062,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.PARK_FIELD_FEE",
+      "service": "OTHFEE.PARK",
       "code": "OTHFEEPARKFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1070,7 +1070,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTH.CESS_FIELD_FEE",
+      "service": "OTH.CESS",
       "code": "OTHCESSFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1078,7 +1078,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTH.DEP_FIELD_FEE",
+      "service": "OTH.DEP",
       "code": "OTHDEPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1086,7 +1086,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTH.INC_CLM_REV_FIELD_FEE",
+      "service": "OTH.INC_CLM_REV",
       "code": "OTHINCCLMREVFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1094,7 +1094,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTH.PRFT_DIS_FA_FIELD_FEE",
+      "service": "OTH.PRFT_DIS_FA",
       "code": "OTHPRFTDISFAFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1102,7 +1102,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTH.RCV_EMP_FIELD_FEE",
+      "service": "OTH.RCV_EMP",
       "code": "OTHRCVEMPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1110,7 +1110,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.COM_CEN_BK_FIELD_FEE",
+      "service": "RENT.COM_CEN_BK",
       "code": "RENTCOMCENBKFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1118,7 +1118,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.EREC_POL_FIELD_FEE",
+      "service": "RENT.EREC_POL",
       "code": "RENTERECPOLFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1126,7 +1126,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.EXB_CIRC_FIELD_FEE",
+      "service": "RENT.EXB_CIRC",
       "code": "RENTEXBCIRCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1134,7 +1134,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.CANTT_FUND_FIELD_FEE",
+      "service": "RENT.CANTT_FUND",
       "code": "RENTCANTTFUNDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1142,7 +1142,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.CA_FIELD_FEE",
+      "service": "RENT.CA",
       "code": "RENTCAFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1150,7 +1150,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.GH_FIELD_FEE",
+      "service": "RENT.GH",
       "code": "RENTGHFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1158,7 +1158,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.OFF_BLDG_FIELD_FEE",
+      "service": "RENT.OFF_BLDG",
       "code": "RENTOFFBLDGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1166,7 +1166,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.REMIS_REFND_FIELD_FEE",
+      "service": "RENT.REMIS_REFND",
       "code": "RENTREMISREFNDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1174,7 +1174,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.ST_VEN_FIELD_FEE",
+      "service": "RENT.ST_VEN",
       "code": "RENTSTVENFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1182,7 +1182,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.TEL_TW_FIELD_FEE",
+      "service": "RENT.TEL_TW",
       "code": "RENTTELTWFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1190,7 +1190,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.TEMP_STALL_FIELD_FEE",
+      "service": "RENT.TEMP_STALL",
       "code": "RENTTEMPSTALLFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1198,7 +1198,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.ULB_LEASE_FIELD_FEE",
+      "service": "RENT.ULB_LEASE",
       "code": "RENTULBLEASEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1206,7 +1206,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.ULB_PATTA_FIELD_FEE",
+      "service": "RENT.ULB_PATTA",
       "code": "RENTULBPATTAFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1214,7 +1214,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.ULB_NAZOOL_FIELD_FEE",
+      "service": "RENT.ULB_NAZOOL",
       "code": "RENTULBNAZOOLFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1222,7 +1222,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.ULB_SHP_FIELD_FEE",
+      "service": "RENT.ULB_SHP",
       "code": "RENTULBSHPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1230,7 +1230,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "RENT.ULB_LIC_FIELD_FEE",
+      "service": "RENT.ULB_LIC",
       "code": "RENTULBLICFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1238,7 +1238,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SALE.AUC_TREE_FIELD_FEE",
+      "service": "SALE.AUC_TREE",
       "code": "SALEAUCTREEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1246,7 +1246,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SALE.FRM_PUB_FIELD_FEE",
+      "service": "SALE.FRM_PUB",
       "code": "SALEFRMPUBFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1254,7 +1254,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SALE.PROD_FIELD_FEE",
+      "service": "SALE.PROD",
       "code": "SALEPRODFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1262,7 +1262,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SALE.STR_SCRP_FIELD_FEE",
+      "service": "SALE.STR_SCRP",
       "code": "SALESTRSCRPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1270,7 +1270,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.CHQ_BNC_FIELD_FEE",
+      "service": "SRVC.CHQ_BNC",
       "code": "SRVCCHQBNCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1278,7 +1278,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_ADM_FIELD_FEE",
+      "service": "SRVC.APP_ADM",
       "code": "SRVCAPPADMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1286,7 +1286,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_CONSER_FIELD_FEE",
+      "service": "SRVC.APP_CONSER",
       "code": "SRVCAPPCONSERFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1294,7 +1294,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_ELEC_FIELD_FEE",
+      "service": "SRVC.APP_ELEC",
       "code": "SRVCAPPELECFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1302,7 +1302,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_PWD_FIELD_FEE",
+      "service": "SRVC.APP_PWD",
       "code": "SRVCAPPPWDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1310,7 +1310,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_ENGTP_FIELD_FEE",
+      "service": "SRVC.APP_ENGTP",
       "code": "SRVCAPPENGTPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1318,7 +1318,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_HOSP_FIELD_FEE",
+      "service": "SRVC.APP_HOSP",
       "code": "SRVCAPPHOSPFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1326,7 +1326,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_RD_FIELD_FEE",
+      "service": "SRVC.APP_RD",
       "code": "SRVCAPPRDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1334,7 +1334,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_STR_FIELD_FEE",
+      "service": "SRVC.APP_STR",
       "code": "SRVCAPPSTRFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1342,7 +1342,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_TAX_FIELD_FEE",
+      "service": "SRVC.APP_TAX",
       "code": "SRVCAPPTAXFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1350,7 +1350,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.APP_WATER_FIELD_FEE",
+      "service": "SRVC.APP_WATER",
       "code": "SRVCAPPWATERFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1358,7 +1358,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "SRVC.SRVC_CHRG_FIELD_FEE",
+      "service": "SRVC.SRVC_CHRG",
       "code": "SRVCSRVCCHRGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1366,7 +1366,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "TX.ADVT_TAX",
+      "service": "TX.ADVT",
       "code": "TXADVTTAX",
       "financialYear": "2020-30"
     },
@@ -1374,7 +1374,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "TX.CONS_TAX",
+      "service": "TX.CONS",
       "code": "TXCONSTAX",
       "financialYear": "2020-30"
     },
@@ -1382,7 +1382,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "TX.PROF_TAX",
+      "service": "TX.PROF",
       "code": "TXPROFTAX",
       "financialYear": "2020-30"
     },
@@ -1390,7 +1390,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "TX.SANT_TAX",
+      "service": "TX.SANT",
       "code": "TXSANTTAX",
       "financialYear": "2020-30"
     },
@@ -1398,7 +1398,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "TX.TOLL_TAX",
+      "service": "TX.TOLL",
       "code": "TXTOLLTAX",
       "financialYear": "2020-30"
     },
@@ -1406,7 +1406,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.BUR_GRND_FIELD_FEE",
+      "service": "UC.BUR_GRND",
       "code": "UCBURGRNDFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1414,7 +1414,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.NEW_WATER_CONC_FIELD_FEE",
+      "service": "UC.NEW_WATER_CONC",
       "code": "UCNEWWATERCONCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1422,7 +1422,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.CHNG_WATER_CONC_FIELD_FEE",
+      "service": "UC.CHNG_WATER_CONC",
       "code": "UCCHNGWATERCONCFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1430,7 +1430,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.COST_FEED_AN_FIELD_FEE",
+      "service": "UC.COST_FEED_AN",
       "code": "UCCOSTFEEDANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1438,7 +1438,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.CREMAT_CHRG_FIELD_FEE",
+      "service": "UC.CREMAT_CHRG",
       "code": "UCCREMATCHRGFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1446,7 +1446,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.EDU_CESS_FIELD_FEE",
+      "service": "UC.EDU_CESS",
       "code": "UCEDUCESSFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1454,7 +1454,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.FNRL_VAN_FIELD_FEE",
+      "service": "UC.FNRL_VAN",
       "code": "UCFNRLVANFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1462,7 +1462,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.GRBG_COLL_FIELD_FEE",
+      "service": "UC.GRBG_COLL",
       "code": "UCGRBGCOLLFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1470,7 +1470,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.LIB_MEM_FIELD_FEE",
+      "service": "UC.LIB_MEM",
       "code": "UCLIBMEMFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1478,7 +1478,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.MTRL_STACK_FIELD_FEE",
+      "service": "UC.MTRL_STACK",
       "code": "UCMTRLSTACKFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1486,7 +1486,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.PU_TLT_FIELD_FEE",
+      "service": "UC.PU_TLT",
       "code": "UCPUTLTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1494,7 +1494,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.PERM_BORE_FIELD_FEE",
+      "service": "UC.PERM_BORE",
       "code": "UCPERMBOREFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1502,7 +1502,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.PROCES_FEE_FIELD_FEE",
+      "service": "UC.PROCES_FEE",
       "code": "UCPROCESFEEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1510,7 +1510,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.PUB_FEE_FIELD_FEE",
+      "service": "UC.PUB_FEE",
       "code": "UCPUBFEEFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1518,7 +1518,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.MOB_TLT_FIELD_FEE",
+      "service": "UC.MOB_TLT",
       "code": "UCMOBTLTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1526,7 +1526,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.RD_CUTT_FIELD_FEE",
+      "service": "UC.RD_CUTT",
       "code": "UCRDCUTTFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1534,7 +1534,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.SEP_TNK_CLR_FIELD_FEE",
+      "service": "UC.SEP_TNK_CLR",
       "code": "UCSEPTNKCLRFIELDFEE",
       "financialYear": "2020-30"
     },
@@ -1542,7 +1542,7 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "UC.WATER_TNK_FIELD_FEE",
+      "service": "UC.WATER_TNK",
       "code": "UCWATERTNKFIELDFEE",
       "financialYear": "2020-30"
     }
