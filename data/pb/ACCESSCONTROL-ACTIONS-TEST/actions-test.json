@@ -12777,7 +12777,7 @@
       "name": "TradeLicenseSearch",
       "url": "url",
       "displayName": "Search",
-      "orderNumber": 13,
+      "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "TradeLicense",
