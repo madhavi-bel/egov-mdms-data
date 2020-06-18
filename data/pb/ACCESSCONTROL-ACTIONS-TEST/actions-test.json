@@ -13902,6 +13902,22 @@
       "leftIcon": "social:people"
     },
     {
+      "id": 1774,
+      "name": "AddEmployee",
+      "url": "quickAction",
+      "displayName": "Add Employee",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.AddEmployee",
+      "navigationURL": "hrms/create",
+      "quickAction": true,
+      "leftIcon": "content:add",
+      "rightIcon": ""
+    },
+    {
       "id": 1775,
       "name": "rainmaker-common-complaints",
       "url": "card",
@@ -14244,7 +14260,7 @@
       "name": "Receipts",
       "url": "url",
       "displayName": "Receipts",
-      "orderNumber": 4,
+      "orderNumber": 14,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "UC",

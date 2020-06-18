@@ -17757,6 +17757,12 @@
   "tenantId": "pb"
   },
   {
+    "rolecode": "CITIZEN",
+    "actionid": 1803,
+    "actioncode": "",
+    "tenantId": "pb"
+    },
+  {
   "rolecode": "COLL_RECEIPT_CREATOR",
   "actionid": 570,
   "actioncode": "",
@@ -18973,6 +18979,12 @@
   "actionid": 1888,
   "actioncode": "",
   "tenantId": "pb"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 1888,
+    "actioncode": "",
+    "tenantId": "pb"
   },
   {
   "rolecode": "EMPLOYEE",
@@ -20719,6 +20731,62 @@
       "actionid": 710,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 713,
+      "actioncode": "",
+      "tenantId": "pb"
+      },
+     {
+      "rolecode": "TL_CEMP",
+      "actionid": 954,
+      "actioncode": "",
+      "tenantId": "pb"
+      },
+       {
+      "rolecode": "TL_CEMP",
+      "actionid": 1783,
+      "actioncode": "",
+      "tenantId": "pb"
+      },
+      {
+      "rolecode": "TL_CEMP",
+      "actionid": 1804,
+      "actioncode": "",
+      "tenantId": "pb"
+      },
+      {
+      "rolecode": "TL_CEMP",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "pb"
+      },
+      {
+        "rolecode": "TL_CEMP",
+        "actionid": 1556,
+        "actioncode": "",
+        "tenantId": "pb"
+        }
+      
+
+
+
+
+
+
+
   ]
 }

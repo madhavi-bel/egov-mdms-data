@@ -8,6 +8,18 @@
       "tenants": [
         {
           "code": "pb.secunderabad"
+        },
+        {
+          "code": "pb.agra"
+        },
+        {
+          "code": "pb.delhi"
+        },
+        {
+          "code": "pb.pune"
+        },
+        {
+          "code": "pb.lucknow"
         }
       ]
     },
@@ -17,6 +29,18 @@
       "tenants": [
         {
           "code": "pb.secunderabad"
+        },
+        {
+          "code": "pb.agra"
+        },
+        {
+          "code": "pb.delhi"
+        },
+        {
+          "code": "pb.pune"
+        },
+        {
+          "code": "pb.lucknow"
         }
       ]
     } 
