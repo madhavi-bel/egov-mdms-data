@@ -40,7 +40,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bungalow Area Part - Ward 1",
-                    "code": "LOC01001",
+                    "code": "LOC01A01",
                     "children": [],
                     "latitude": null,
                     "name": "Bungalow Area Part - Ward 1",
@@ -52,7 +52,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Chairhat - Ward 1",
-                    "code": "LOC01002",
+                    "code": "LOC01A02",
                     "children": [],
                     "latitude": null,
                     "name": "Chairhat - Ward 1",
@@ -64,7 +64,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Dargaia - Ward 1",
-                    "code": "LOC01003",
+                    "code": "LOC01A03",
                     "children": [],
                     "latitude": null,
                     "name": "Dargaia - Ward 1",
@@ -76,7 +76,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Nai Basti - Ward 1",
-                    "code": "LOC01004",
+                    "code": "LOC01A04",
                     "children": [],
                     "latitude": null,
                     "name": "Nai Basti - Ward 1",
@@ -100,7 +100,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bungalow Area Part - Ward 2",
-                    "code": "LOC02001",
+                    "code": "LOC02A01",
                     "children": [],
                     "latitude": null,
                     "name": "Bungalow Area Part - Ward 2",
@@ -112,7 +112,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Sahjadi Mandi - Ward 2",
-                    "code": "LOC02002",
+                    "code": "LOC02A02",
                     "children": [],
                     "latitude": null,
                     "name": "Sahjadi Mandi - Ward 2",
@@ -136,7 +136,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bungalow Area Part - Ward 3",
-                    "code": "LOC03001",
+                    "code": "LOC03A01",
                     "children": [],
                     "latitude": null,
                     "name": "Bungalow Area Part - Ward 3",
@@ -148,7 +148,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Pratap Pura - Ward 3",
-                    "code": "LOC03002",
+                    "code": "LOC03A02",
                     "children": [],
                     "latitude": null,
                     "name": "Pratap Pura - Ward 3",
@@ -160,7 +160,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Sadar Bazar - Ward 3",
-                    "code": "LOC03003",
+                    "code": "LOC03A03",
                     "children": [],
                     "latitude": null,
                     "name": "Sadar Bazar - Ward 3",
@@ -184,7 +184,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Beech Ka Bazar - Ward 4",
-                    "code": "LOC04001",
+                    "code": "LOC04A01",
                     "children": [],
                     "latitude": null,
                     "name": "Beech Ka Bazar - Ward 4",
@@ -196,7 +196,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bungalow Area Part - Ward 4",
-                    "code": "LOC04002",
+                    "code": "LOC04A02",
                     "children": [],
                     "latitude": null,
                     "name": "Bungalow Area Part - Ward 4",
@@ -208,7 +208,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Namner - Ward 4",
-                    "code": "LOC04003",
+                    "code": "LOC04A03",
                     "children": [],
                     "latitude": null,
                     "name": "Namner - Ward 4",
@@ -220,7 +220,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Naulakha Part - Ward 4",
-                    "code": "LOC04004",
+                    "code": "LOC04A04",
                     "children": [],
                     "latitude": null,
                     "name": "Naulakha Part - Ward 4",
@@ -232,7 +232,7 @@
                   {
                     "area": "AREA1",
                     "localname": "R.A. Bazar - Ward 4",
-                    "code": "LOC04005",
+                    "code": "LOC04A05",
                     "children": [],
                     "latitude": null,
                     "name": "R.A. Bazar - Ward 4",
@@ -256,7 +256,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bungalow Area Part - Ward 5",
-                    "code": "LOC05001",
+                    "code": "LOC05A01",
                     "children": [],
                     "latitude": null,
                     "name": "Bungalow Area Part - Ward 5",
@@ -268,7 +268,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Sultanpura Part - Ward 5",
-                    "code": "LOC05002",
+                    "code": "LOC05A02",
                     "children": [],
                     "latitude": null,
                     "name": "Sultanpura Part - Ward 5",
@@ -280,7 +280,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bagichi Hazam - Ward 5",
-                    "code": "LOC05003",
+                    "code": "LOC05A03",
                     "children": [],
                     "latitude": null,
                     "name": "Bagichi Hazam - Ward 5",
@@ -304,7 +304,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Sultanpura Part - Ward 6",
-                    "code": "LOC06001",
+                    "code": "LOC06A01",
                     "children": [],
                     "latitude": null,
                     "name": "Sultanpura Part - Ward 6",
@@ -328,7 +328,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Krishna Nagar - Ward 7",
-                    "code": "LOC07001",
+                    "code": "LOC07A01",
                     "children": [],
                     "latitude": null,
                     "name": "Krishna Nagar - Ward 7",
@@ -352,7 +352,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bungalow Area Part - Ward 8",
-                    "code": "LOC08001",
+                    "code": "LOC08A01",
                     "children": [],
                     "latitude": null,
                     "name": "Bungalow Area Part - Ward 8",
@@ -364,7 +364,7 @@
                   {
                     "area": "AREA1",
                     "localname": "E.I. Bazar - Ward 8",
-                    "code": "LOC08002",
+                    "code": "LOC08A02",
                     "children": [],
                     "latitude": null,
                     "name": "E.I. Bazar - Ward 8",
@@ -376,7 +376,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Naulakha Part - Ward 8",
-                    "code": "LOC08003",
+                    "code": "LOC08A03",
                     "children": [],
                     "latitude": null,
                     "name": "Naulakha Part - Ward 8",
