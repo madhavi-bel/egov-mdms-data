@@ -18728,12 +18728,7 @@
   "actioncode": "",
   "tenantId": "pb"
   },
-  {
-  "rolecode": "CITIZEN",
-  "actionid": 1864,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
+  
   {
   "rolecode": "SUPERUSER",
   "actionid": 1867,
