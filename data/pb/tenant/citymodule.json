@@ -8,6 +8,9 @@
       "tenants": [
         {
           "code": "pb.secunderabad"
+        },
+        {
+          "code": "pb.agra"
         }
       ]
     },
@@ -17,6 +20,9 @@
       "tenants": [
         {
           "code": "pb.secunderabad"
+        },
+        {
+          "code": "pb.agra"
         }
       ]
     } 
