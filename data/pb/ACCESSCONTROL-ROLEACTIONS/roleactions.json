@@ -20779,7 +20779,13 @@
         "actionid": 1556,
         "actioncode": "",
         "tenantId": "pb"
-        }
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 1556,
+        "actioncode": "",
+        "tenantId": "pb"
+      }
       
 
 
