@@ -326,42 +326,7 @@
       "type": "TL",
       "validityPeriod": null
     },
-    {
-      "code": "TRADE.EATING.A10",
-      "uom":"SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
+    
     {
       "code": "TRADE.MEDICAL.B1",
       "uom":"SFT",
@@ -578,42 +543,7 @@
       "type": "TL",
       "validityPeriod": null
     },
-    {
-      "code": "TRADE.MEDICAL.B7",
-      "uom":"SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
+    
     {
       "code": "TRADE.VETERINARY.C1",
       "uom":"SFT",
@@ -794,42 +724,7 @@
       "type": "TL",
       "validityPeriod": null
     },
-    {
-      "code": "TRADE.VETERINARY.C6",
-      "uom":"SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
+ 
     {
       "code": "TRADE.DANGEROUS.D1",
       "uom":"SFT",
@@ -2126,42 +2021,7 @@
       "type": "TL",
       "validityPeriod": null
     },
-    {
-      "code": "TRADE.GENERAL.E34",
-      "uom":"SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
+   
     {
       "code": "TRADE.PRIVATEMARKETS.F1",
       "uom":"SFT",
