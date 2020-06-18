@@ -8431,6 +8431,2766 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_CONCESSION",
+      "name": "ASSREV.COMP_CONCESSION_CGST",
+      "code": "ASSREV.COMP_CONCESSION_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_CONCESSION",
+      "name": "ASSREV.COMP_CONCESSION_SGST",
+      "code": "ASSREV.COMP_CONCESSION_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_TAX",
+      "name": "ASSREV.COMP_TAX_CGST",
+      "code": "ASSREV.COMP_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_TAX",
+      "name": "ASSREV.COMP_TAX_SGST",
+      "code": "ASSREV.COMP_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_TAXOTHER",
+      "name": "ASSREV.COMP_TAXOTHER_CGST",
+      "code": "ASSREV.COMP_TAXOTHER_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ASSREV.COMP_TAXOTHER",
+      "name": "ASSREV.COMP_TAXOTHER_SGST",
+      "code": "ASSREV.COMP_TAXOTHER_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.CAND_SEC_DEP",
+      "name": "CREDDEP.CAND_SEC_DEP_CGST",
+      "code": "CREDDEP.CAND_SEC_DEP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.CAND_SEC_DEP",
+      "name": "CREDDEP.CAND_SEC_DEP_SGST",
+      "code": "CREDDEP.CAND_SEC_DEP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.MNY_DEP",
+      "name": "CREDDEP.MNY_DEP_CGST",
+      "code": "CREDDEP.MNY_DEP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.MNY_DEP",
+      "name": "CREDDEP.MNY_DEP_SGST",
+      "code": "CREDDEP.MNY_DEP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.SEC_DEP",
+      "name": "CREDDEP.SEC_DEP_CGST",
+      "code": "CREDDEP.SEC_DEP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CREDDEP.SEC_DEP",
+      "name": "CREDDEP.SEC_DEP_SGST",
+      "code": "CREDDEP.SEC_DEP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.MUSEUM",
+      "name": "ENTFEE.MUSEUM_CGST",
+      "code": "ENTFEE.MUSEUM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.MUSEUM",
+      "name": "ENTFEE.MUSEUM_SGST",
+      "code": "ENTFEE.MUSEUM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_CGST",
+      "code": "ENTFEE.PARK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_SGST",
+      "code": "ENTFEE.PARK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PLYGRND",
+      "name": "ENTFEE.PLYGRND_CGST",
+      "code": "ENTFEE.PLYGRND_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PLYGRND",
+      "name": "ENTFEE.PLYGRND_SGST",
+      "code": "ENTFEE.PLYGRND_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.VEH",
+      "name": "ENTFEE.VEH_CGST",
+      "code": "ENTFEE.VEH_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.VEH",
+      "name": "ENTFEE.VEH_SGST",
+      "code": "ENTFEE.VEH_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INF",
+      "name": "GRNTINT.INF_CGST",
+      "code": "GRNTINT.INF_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INF",
+      "name": "GRNTINT.INF_SGST",
+      "code": "GRNTINT.INF_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_FD",
+      "name": "GRNTINT.INT_FD_CGST",
+      "code": "GRNTINT.INT_FD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_FD",
+      "name": "GRNTINT.INT_FD_SGST",
+      "code": "GRNTINT.INT_FD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_LOAN",
+      "name": "GRNTINT.INT_LOAN_CGST",
+      "code": "GRNTINT.INT_LOAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_LOAN",
+      "name": "GRNTINT.INT_LOAN_SGST",
+      "code": "GRNTINT.INT_LOAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_SB",
+      "name": "GRNTINT.INT_SB_CGST",
+      "code": "GRNTINT.INT_SB_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_SB",
+      "name": "GRNTINT.INT_SB_SGST",
+      "code": "GRNTINT.INT_SB_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_TD",
+      "name": "GRNTINT.INT_TD_CGST",
+      "code": "GRNTINT.INT_TD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.INT_TD",
+      "name": "GRNTINT.INT_TD_SGST",
+      "code": "GRNTINT.INT_TD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.MDM",
+      "name": "GRNTINT.MDM_CGST",
+      "code": "GRNTINT.MDM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.MDM",
+      "name": "GRNTINT.MDM_SGST",
+      "code": "GRNTINT.MDM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.REV_GRNT",
+      "name": "GRNTINT.REV_GRNT_CGST",
+      "code": "GRNTINT.REV_GRNT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.REV_GRNT",
+      "name": "GRNTINT.REV_GRNT_SGST",
+      "code": "GRNTINT.REV_GRNT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.SBM",
+      "name": "GRNTINT.SBM_CGST",
+      "code": "GRNTINT.SBM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "GRNTINT.SBM",
+      "name": "GRNTINT.SBM_SGST",
+      "code": "GRNTINT.SBM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.CESS",
+      "name": "OTH.CESS_CGST",
+      "code": "OTH.CESS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.CESS",
+      "name": "OTH.CESS_SGST",
+      "code": "OTH.CESS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.DEP",
+      "name": "OTH.DEP_CGST",
+      "code": "OTH.DEP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.DEP",
+      "name": "OTH.DEP_SGST",
+      "code": "OTH.DEP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.INC_CLM_REV",
+      "name": "OTH.INC_CLM_REV_CGST",
+      "code": "OTH.INC_CLM_REV_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.INC_CLM_REV",
+      "name": "OTH.INC_CLM_REV_SGST",
+      "code": "OTH.INC_CLM_REV_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.PRFT_DIS_FA",
+      "name": "OTH.PRFT_DIS_FA_CGST",
+      "code": "OTH.PRFT_DIS_FA_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.PRFT_DIS_FA",
+      "name": "OTH.PRFT_DIS_FA_SGST",
+      "code": "OTH.PRFT_DIS_FA_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.RCV_EMP",
+      "name": "OTH.RCV_EMP_CGST",
+      "code": "OTH.RCV_EMP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTH.RCV_EMP",
+      "name": "OTH.RCV_EMP_SGST",
+      "code": "OTH.RCV_EMP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.APP_FEE",
+      "name": "OTHFEE.APP_FEE_CGST",
+      "code": "OTHFEE.APP_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.APP_FEE",
+      "name": "OTHFEE.APP_FEE_SGST",
+      "code": "OTHFEE.APP_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BETT_CHRG",
+      "name": "OTHFEE.BETT_CHRG_CGST",
+      "code": "OTHFEE.BETT_CHRG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BETT_CHRG",
+      "name": "OTHFEE.BETT_CHRG_SGST",
+      "code": "OTHFEE.BETT_CHRG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BIRTH_REG",
+      "name": "OTHFEE.BIRTH_REG_CGST",
+      "code": "OTHFEE.BIRTH_REG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BIRTH_REG",
+      "name": "OTHFEE.BIRTH_REG_SGST",
+      "code": "OTHFEE.BIRTH_REG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BLD_FEE",
+      "name": "OTHFEE.BLD_FEE_CGST",
+      "code": "OTHFEE.BLD_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.BLD_FEE",
+      "name": "OTHFEE.BLD_FEE_SGST",
+      "code": "OTHFEE.BLD_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CATT_CHALLAN",
+      "name": "OTHFEE.CATT_CHALLAN_CGST",
+      "code": "OTHFEE.CATT_CHALLAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CATT_CHALLAN",
+      "name": "OTHFEE.CATT_CHALLAN_SGST",
+      "code": "OTHFEE.CATT_CHALLAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CERT",
+      "name": "OTHFEE.CERT_CGST",
+      "code": "OTHFEE.CERT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CERT",
+      "name": "OTHFEE.CERT_SGST",
+      "code": "OTHFEE.CERT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMP_UNAUTH",
+      "name": "OTHFEE.COMP_UNAUTH_CGST",
+      "code": "OTHFEE.COMP_UNAUTH_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMP_UNAUTH",
+      "name": "OTHFEE.COMP_UNAUTH_SGST",
+      "code": "OTHFEE.COMP_UNAUTH_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMPD_DLYAPP",
+      "name": "OTHFEE.COMPD_DLYAPP_CGST",
+      "code": "OTHFEE.COMPD_DLYAPP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMPD_DLYAPP",
+      "name": "OTHFEE.COMPD_DLYAPP_SGST",
+      "code": "OTHFEE.COMPD_DLYAPP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMPD_FEE",
+      "name": "OTHFEE.COMPD_FEE_CGST",
+      "code": "OTHFEE.COMPD_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.COMPD_FEE",
+      "name": "OTHFEE.COMPD_FEE_SGST",
+      "code": "OTHFEE.COMPD_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CONSRV",
+      "name": "OTHFEE.CONSRV_CGST",
+      "code": "OTHFEE.CONSRV_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CONSRV",
+      "name": "OTHFEE.CONSRV_SGST",
+      "code": "OTHFEE.CONSRV_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CONST_WASTE",
+      "name": "OTHFEE.CONST_WASTE_CGST",
+      "code": "OTHFEE.CONST_WASTE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CONST_WASTE",
+      "name": "OTHFEE.CONST_WASTE_SGST",
+      "code": "OTHFEE.CONST_WASTE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CRT_STMP",
+      "name": "OTHFEE.CRT_STMP_CGST",
+      "code": "OTHFEE.CRT_STMP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.CRT_STMP",
+      "name": "OTHFEE.CRT_STMP_SGST",
+      "code": "OTHFEE.CRT_STMP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DC",
+      "name": "OTHFEE.DC_CGST",
+      "code": "OTHFEE.DC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DC",
+      "name": "OTHFEE.DC_SGST",
+      "code": "OTHFEE.DC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEAD_ANML_CONT",
+      "name": "OTHFEE.DEAD_ANML_CONT_CGST",
+      "code": "OTHFEE.DEAD_ANML_CONT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEAD_ANML_CONT",
+      "name": "OTHFEE.DEAD_ANML_CONT_SGST",
+      "code": "OTHFEE.DEAD_ANML_CONT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEATH_REG",
+      "name": "OTHFEE.DEATH_REG_CGST",
+      "code": "OTHFEE.DEATH_REG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEATH_REG",
+      "name": "OTHFEE.DEATH_REG_SGST",
+      "code": "OTHFEE.DEATH_REG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DENG_CHALLAN",
+      "name": "OTHFEE.DENG_CHALLAN_CGST",
+      "code": "OTHFEE.DENG_CHALLAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DENG_CHALLAN",
+      "name": "OTHFEE.DENG_CHALLAN_SGST",
+      "code": "OTHFEE.DENG_CHALLAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEV_CHRG",
+      "name": "OTHFEE.DEV_CHRG_CGST",
+      "code": "OTHFEE.DEV_CHRG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DEV_CHRG",
+      "name": "OTHFEE.DEV_CHRG_SGST",
+      "code": "OTHFEE.DEV_CHRG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DISTRAINT",
+      "name": "OTHFEE.DISTRAINT_CGST",
+      "code": "OTHFEE.DISTRAINT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DISTRAINT",
+      "name": "OTHFEE.DISTRAINT_SGST",
+      "code": "OTHFEE.DISTRAINT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DISTRAINT_TAX",
+      "name": "OTHFEE.DISTRAINT_TAX_CGST",
+      "code": "OTHFEE.DISTRAINT_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DISTRAINT_TAX",
+      "name": "OTHFEE.DISTRAINT_TAX_SGST",
+      "code": "OTHFEE.DISTRAINT_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DMG_CHRG",
+      "name": "OTHFEE.DMG_CHRG_CGST",
+      "code": "OTHFEE.DMG_CHRG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DMG_CHRG",
+      "name": "OTHFEE.DMG_CHRG_SGST",
+      "code": "OTHFEE.DMG_CHRG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DRINK_WT",
+      "name": "OTHFEE.DRINK_WT_CGST",
+      "code": "OTHFEE.DRINK_WT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DRINK_WT",
+      "name": "OTHFEE.DRINK_WT_SGST",
+      "code": "OTHFEE.DRINK_WT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DRY_ANML_CHALLAN",
+      "name": "OTHFEE.DRY_ANML_CHALLAN_CGST",
+      "code": "OTHFEE.DRY_ANML_CHALLAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DRY_ANML_CHALLAN",
+      "name": "OTHFEE.DRY_ANML_CHALLAN_SGST",
+      "code": "OTHFEE.DRY_ANML_CHALLAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DUMP_GRBG",
+      "name": "OTHFEE.DUMP_GRBG_CGST",
+      "code": "OTHFEE.DUMP_GRBG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.DUMP_GRBG",
+      "name": "OTHFEE.DUMP_GRBG_SGST",
+      "code": "OTHFEE.DUMP_GRBG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.EDU",
+      "name": "OTHFEE.EDU_CGST",
+      "code": "OTHFEE.EDU_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.EDU",
+      "name": "OTHFEE.EDU_SGST",
+      "code": "OTHFEE.EDU_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ELEC_RLY",
+      "name": "OTHFEE.ELEC_RLY_CGST",
+      "code": "OTHFEE.ELEC_RLY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ELEC_RLY",
+      "name": "OTHFEE.ELEC_RLY_SGST",
+      "code": "OTHFEE.ELEC_RLY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.EMP_REG",
+      "name": "OTHFEE.EMP_REG_CGST",
+      "code": "OTHFEE.EMP_REG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.EMP_REG",
+      "name": "OTHFEE.EMP_REG_SGST",
+      "code": "OTHFEE.EMP_REG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ENCRMNT",
+      "name": "OTHFEE.ENCRMNT_CGST",
+      "code": "OTHFEE.ENCRMNT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ENCRMNT",
+      "name": "OTHFEE.ENCRMNT_SGST",
+      "code": "OTHFEE.ENCRMNT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.GRNT_PERM",
+      "name": "OTHFEE.GRNT_PERM_CGST",
+      "code": "OTHFEE.GRNT_PERM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.GRNT_PERM",
+      "name": "OTHFEE.GRNT_PERM_SGST",
+      "code": "OTHFEE.GRNT_PERM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.HC",
+      "name": "OTHFEE.HC_CGST",
+      "code": "OTHFEE.HC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.HC",
+      "name": "OTHFEE.HC_SGST",
+      "code": "OTHFEE.HC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_BIRTHCERT",
+      "name": "OTHFEE.ISS_BIRTHCERT_CGST",
+      "code": "OTHFEE.ISS_BIRTHCERT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_BIRTHCERT",
+      "name": "OTHFEE.ISS_BIRTHCERT_SGST",
+      "code": "OTHFEE.ISS_BIRTHCERT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_DEATHCERT",
+      "name": "OTHFEE.ISS_DEATHCERT_CGST",
+      "code": "OTHFEE.ISS_DEATHCERT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_DEATHCERT",
+      "name": "OTHFEE.ISS_DEATHCERT_SGST",
+      "code": "OTHFEE.ISS_DEATHCERT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_SANTICERT",
+      "name": "OTHFEE.ISS_SANTICERT_CGST",
+      "code": "OTHFEE.ISS_SANTICERT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.ISS_SANTICERT",
+      "name": "OTHFEE.ISS_SANTICERT_SGST",
+      "code": "OTHFEE.ISS_SANTICERT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.LIC",
+      "name": "OTHFEE.LIC_CGST",
+      "code": "OTHFEE.LIC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.LIC",
+      "name": "OTHFEE.LIC_SGST",
+      "code": "OTHFEE.LIC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MED",
+      "name": "OTHFEE.MED_CGST",
+      "code": "OTHFEE.MED_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MED",
+      "name": "OTHFEE.MED_SGST",
+      "code": "OTHFEE.MED_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MISC",
+      "name": "OTHFEE.MISC_CGST",
+      "code": "OTHFEE.MISC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MISC",
+      "name": "OTHFEE.MISC_SGST",
+      "code": "OTHFEE.MISC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MTN",
+      "name": "OTHFEE.MTN_CGST",
+      "code": "OTHFEE.MTN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MTN",
+      "name": "OTHFEE.MTN_SGST",
+      "code": "OTHFEE.MTN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MTN_TR",
+      "name": "OTHFEE.MTN_TR_CGST",
+      "code": "OTHFEE.MTN_TR_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.MTN_TR",
+      "name": "OTHFEE.MTN_TR_SGST",
+      "code": "OTHFEE.MTN_TR_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.NDC",
+      "name": "OTHFEE.NDC_CGST",
+      "code": "OTHFEE.NDC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.NDC",
+      "name": "OTHFEE.NDC_SGST",
+      "code": "OTHFEE.NDC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.NOTICE",
+      "name": "OTHFEE.NOTICE_CGST",
+      "code": "OTHFEE.NOTICE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.NOTICE",
+      "name": "OTHFEE.NOTICE_SGST",
+      "code": "OTHFEE.NOTICE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.OD",
+      "name": "OTHFEE.OD_CGST",
+      "code": "OTHFEE.OD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.OD",
+      "name": "OTHFEE.OD_SGST",
+      "code": "OTHFEE.OD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.OTH_SHOW",
+      "name": "OTHFEE.OTH_SHOW_CGST",
+      "code": "OTHFEE.OTH_SHOW_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.OTH_SHOW",
+      "name": "OTHFEE.OTH_SHOW_SGST",
+      "code": "OTHFEE.OTH_SHOW_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_CGST",
+      "code": "OTHFEE.PARK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_SGST",
+      "code": "OTHFEE.PARK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK_ELEC",
+      "name": "OTHFEE.PARK_ELEC_CGST",
+      "code": "OTHFEE.PARK_ELEC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK_ELEC",
+      "name": "OTHFEE.PARK_ELEC_SGST",
+      "code": "OTHFEE.PARK_ELEC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PENALT",
+      "name": "OTHFEE.PENALT_CGST",
+      "code": "OTHFEE.PENALT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PENALT",
+      "name": "OTHFEE.PENALT_SGST",
+      "code": "OTHFEE.PENALT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PLASTIC_CHALLAN",
+      "name": "OTHFEE.PLASTIC_CHALLAN_CGST",
+      "code": "OTHFEE.PLASTIC_CHALLAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PLASTIC_CHALLAN",
+      "name": "OTHFEE.PLASTIC_CHALLAN_SGST",
+      "code": "OTHFEE.PLASTIC_CHALLAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RD_SHOW",
+      "name": "OTHFEE.RD_SHOW_CGST",
+      "code": "OTHFEE.RD_SHOW_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RD_SHOW",
+      "name": "OTHFEE.RD_SHOW_SGST",
+      "code": "OTHFEE.RD_SHOW_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REG",
+      "name": "OTHFEE.REG_CGST",
+      "code": "OTHFEE.REG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REG",
+      "name": "OTHFEE.REG_SGST",
+      "code": "OTHFEE.REG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REGL",
+      "name": "OTHFEE.REGL_CGST",
+      "code": "OTHFEE.REGL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REGL",
+      "name": "OTHFEE.REGL_SGST",
+      "code": "OTHFEE.REGL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REHRI",
+      "name": "OTHFEE.REHRI_CGST",
+      "code": "OTHFEE.REHRI_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.REHRI",
+      "name": "OTHFEE.REHRI_SGST",
+      "code": "OTHFEE.REHRI_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RICKSHW",
+      "name": "OTHFEE.RICKSHW_CGST",
+      "code": "OTHFEE.RICKSHW_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RICKSHW",
+      "name": "OTHFEE.RICKSHW_SGST",
+      "code": "OTHFEE.RICKSHW_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RTI",
+      "name": "OTHFEE.RTI_CGST",
+      "code": "OTHFEE.RTI_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.RTI",
+      "name": "OTHFEE.RTI_SGST",
+      "code": "OTHFEE.RTI_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.SLGHT_HS",
+      "name": "OTHFEE.SLGHT_HS_CGST",
+      "code": "OTHFEE.SLGHT_HS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.SLGHT_HS",
+      "name": "OTHFEE.SLGHT_HS_SGST",
+      "code": "OTHFEE.SLGHT_HS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TEHBAZZZRI",
+      "name": "OTHFEE.TEHBAZZZRI_CGST",
+      "code": "OTHFEE.TEHBAZZZRI_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TEHBAZZZRI",
+      "name": "OTHFEE.TEHBAZZZRI_SGST",
+      "code": "OTHFEE.TEHBAZZZRI_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TL",
+      "name": "OTHFEE.TL_CGST",
+      "code": "OTHFEE.TL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TL",
+      "name": "OTHFEE.TL_SGST",
+      "code": "OTHFEE.TL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TNDR_FRM",
+      "name": "OTHFEE.TNDR_FRM_CGST",
+      "code": "OTHFEE.TNDR_FRM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TNDR_FRM",
+      "name": "OTHFEE.TNDR_FRM_SGST",
+      "code": "OTHFEE.TNDR_FRM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TR_ASS_TAX",
+      "name": "OTHFEE.TR_ASS_TAX_CGST",
+      "code": "OTHFEE.TR_ASS_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TR_ASS_TAX",
+      "name": "OTHFEE.TR_ASS_TAX_SGST",
+      "code": "OTHFEE.TR_ASS_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TREE_AUC",
+      "name": "OTHFEE.TREE_AUC_CGST",
+      "code": "OTHFEE.TREE_AUC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.TREE_AUC",
+      "name": "OTHFEE.TREE_AUC_SGST",
+      "code": "OTHFEE.TREE_AUC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.VOTERLIST",
+      "name": "OTHFEE.VOTERLIST_CGST",
+      "code": "OTHFEE.VOTERLIST_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.VOTERLIST",
+      "name": "OTHFEE.VOTERLIST_SGST",
+      "code": "OTHFEE.VOTERLIST_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.WATER_CHRG",
+      "name": "OTHFEE.WATER_CHRG_CGST",
+      "code": "OTHFEE.WATER_CHRG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.WATER_CHRG",
+      "name": "OTHFEE.WATER_CHRG_SGST",
+      "code": "OTHFEE.WATER_CHRG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.WF",
+      "name": "OTHFEE.WF_CGST",
+      "code": "OTHFEE.WF_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.WF",
+      "name": "OTHFEE.WF_SGST",
+      "code": "OTHFEE.WF_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.CA",
+      "name": "RENT.CA_CGST",
+      "code": "RENT.CA_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.CA",
+      "name": "RENT.CA_SGST",
+      "code": "RENT.CA_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.CANTT_FUND",
+      "name": "RENT.CANTT_FUND_CGST",
+      "code": "RENT.CANTT_FUND_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.CANTT_FUND",
+      "name": "RENT.CANTT_FUND_SGST",
+      "code": "RENT.CANTT_FUND_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.COM_CEN_BK",
+      "name": "RENT.COM_CEN_BK_CGST",
+      "code": "RENT.COM_CEN_BK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.COM_CEN_BK",
+      "name": "RENT.COM_CEN_BK_SGST",
+      "code": "RENT.COM_CEN_BK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.EREC_POL",
+      "name": "RENT.EREC_POL_CGST",
+      "code": "RENT.EREC_POL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.EREC_POL",
+      "name": "RENT.EREC_POL_SGST",
+      "code": "RENT.EREC_POL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.EXB_CIRC",
+      "name": "RENT.EXB_CIRC_CGST",
+      "code": "RENT.EXB_CIRC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.EXB_CIRC",
+      "name": "RENT.EXB_CIRC_SGST",
+      "code": "RENT.EXB_CIRC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.GH",
+      "name": "RENT.GH_CGST",
+      "code": "RENT.GH_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.GH",
+      "name": "RENT.GH_SGST",
+      "code": "RENT.GH_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.OFF_BLDG",
+      "name": "RENT.OFF_BLDG_CGST",
+      "code": "RENT.OFF_BLDG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.OFF_BLDG",
+      "name": "RENT.OFF_BLDG_SGST",
+      "code": "RENT.OFF_BLDG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.REMIS_REFND",
+      "name": "RENT.REMIS_REFND_CGST",
+      "code": "RENT.REMIS_REFND_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.REMIS_REFND",
+      "name": "RENT.REMIS_REFND_SGST",
+      "code": "RENT.REMIS_REFND_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ST_VEN",
+      "name": "RENT.ST_VEN_CGST",
+      "code": "RENT.ST_VEN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ST_VEN",
+      "name": "RENT.ST_VEN_SGST",
+      "code": "RENT.ST_VEN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.TEL_TW",
+      "name": "RENT.TEL_TW_CGST",
+      "code": "RENT.TEL_TW_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.TEL_TW",
+      "name": "RENT.TEL_TW_SGST",
+      "code": "RENT.TEL_TW_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.TEMP_STALL",
+      "name": "RENT.TEMP_STALL_CGST",
+      "code": "RENT.TEMP_STALL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.TEMP_STALL",
+      "name": "RENT.TEMP_STALL_SGST",
+      "code": "RENT.TEMP_STALL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_LEASE",
+      "name": "RENT.ULB_LEASE_CGST",
+      "code": "RENT.ULB_LEASE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_LEASE",
+      "name": "RENT.ULB_LEASE_SGST",
+      "code": "RENT.ULB_LEASE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_LIC",
+      "name": "RENT.ULB_LIC_CGST",
+      "code": "RENT.ULB_LIC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_LIC",
+      "name": "RENT.ULB_LIC_SGST",
+      "code": "RENT.ULB_LIC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_NAZOOL",
+      "name": "RENT.ULB_NAZOOL_CGST",
+      "code": "RENT.ULB_NAZOOL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_NAZOOL",
+      "name": "RENT.ULB_NAZOOL_SGST",
+      "code": "RENT.ULB_NAZOOL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_PATTA",
+      "name": "RENT.ULB_PATTA_CGST",
+      "code": "RENT.ULB_PATTA_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_PATTA",
+      "name": "RENT.ULB_PATTA_SGST",
+      "code": "RENT.ULB_PATTA_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_SHP",
+      "name": "RENT.ULB_SHP_CGST",
+      "code": "RENT.ULB_SHP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RENT.ULB_SHP",
+      "name": "RENT.ULB_SHP_SGST",
+      "code": "RENT.ULB_SHP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.AUC_TREE",
+      "name": "SALE.AUC_TREE_CGST",
+      "code": "SALE.AUC_TREE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.AUC_TREE",
+      "name": "SALE.AUC_TREE_SGST",
+      "code": "SALE.AUC_TREE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.FRM_PUB",
+      "name": "SALE.FRM_PUB_CGST",
+      "code": "SALE.FRM_PUB_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.FRM_PUB",
+      "name": "SALE.FRM_PUB_SGST",
+      "code": "SALE.FRM_PUB_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.PROD",
+      "name": "SALE.PROD_CGST",
+      "code": "SALE.PROD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.PROD",
+      "name": "SALE.PROD_SGST",
+      "code": "SALE.PROD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.STR_SCRP",
+      "name": "SALE.STR_SCRP_CGST",
+      "code": "SALE.STR_SCRP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SALE.STR_SCRP",
+      "name": "SALE.STR_SCRP_SGST",
+      "code": "SALE.STR_SCRP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ADM",
+      "name": "SRVC.APP_ADM_CGST",
+      "code": "SRVC.APP_ADM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ADM",
+      "name": "SRVC.APP_ADM_SGST",
+      "code": "SRVC.APP_ADM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_CONSER",
+      "name": "SRVC.APP_CONSER_CGST",
+      "code": "SRVC.APP_CONSER_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_CONSER",
+      "name": "SRVC.APP_CONSER_SGST",
+      "code": "SRVC.APP_CONSER_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ELEC",
+      "name": "SRVC.APP_ELEC_CGST",
+      "code": "SRVC.APP_ELEC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ELEC",
+      "name": "SRVC.APP_ELEC_SGST",
+      "code": "SRVC.APP_ELEC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ENGTP",
+      "name": "SRVC.APP_ENGTP_CGST",
+      "code": "SRVC.APP_ENGTP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_ENGTP",
+      "name": "SRVC.APP_ENGTP_SGST",
+      "code": "SRVC.APP_ENGTP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_HOSP",
+      "name": "SRVC.APP_HOSP_CGST",
+      "code": "SRVC.APP_HOSP_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_HOSP",
+      "name": "SRVC.APP_HOSP_SGST",
+      "code": "SRVC.APP_HOSP_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_PWD",
+      "name": "SRVC.APP_PWD_CGST",
+      "code": "SRVC.APP_PWD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_PWD",
+      "name": "SRVC.APP_PWD_SGST",
+      "code": "SRVC.APP_PWD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_RD",
+      "name": "SRVC.APP_RD_CGST",
+      "code": "SRVC.APP_RD_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_RD",
+      "name": "SRVC.APP_RD_SGST",
+      "code": "SRVC.APP_RD_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_STR",
+      "name": "SRVC.APP_STR_CGST",
+      "code": "SRVC.APP_STR_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_STR",
+      "name": "SRVC.APP_STR_SGST",
+      "code": "SRVC.APP_STR_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_TAX",
+      "name": "SRVC.APP_TAX_CGST",
+      "code": "SRVC.APP_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_TAX",
+      "name": "SRVC.APP_TAX_SGST",
+      "code": "SRVC.APP_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_WATER",
+      "name": "SRVC.APP_WATER_CGST",
+      "code": "SRVC.APP_WATER_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.APP_WATER",
+      "name": "SRVC.APP_WATER_SGST",
+      "code": "SRVC.APP_WATER_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.CHQ_BNC",
+      "name": "SRVC.CHQ_BNC_CGST",
+      "code": "SRVC.CHQ_BNC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.CHQ_BNC",
+      "name": "SRVC.CHQ_BNC_SGST",
+      "code": "SRVC.CHQ_BNC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.SRVC_CHRG",
+      "name": "SRVC.SRVC_CHRG_CGST",
+      "code": "SRVC.SRVC_CHRG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SRVC.SRVC_CHRG",
+      "name": "SRVC.SRVC_CHRG_SGST",
+      "code": "SRVC.SRVC_CHRG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.ADVT",
+      "name": "TX.ADVT_CGST",
+      "code": "TX.ADVT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.ADVT",
+      "name": "TX.ADVT_SGST",
+      "code": "TX.ADVT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.CONS",
+      "name": "TX.CONS_CGST",
+      "code": "TX.CONS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.CONS",
+      "name": "TX.CONS_SGST",
+      "code": "TX.CONS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.PROF",
+      "name": "TX.PROF_CGST",
+      "code": "TX.PROF_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.PROF",
+      "name": "TX.PROF_SGST",
+      "code": "TX.PROF_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.SANT",
+      "name": "TX.SANT_CGST",
+      "code": "TX.SANT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.SANT",
+      "name": "TX.SANT_SGST",
+      "code": "TX.SANT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.TOLL",
+      "name": "TX.TOLL_CGST",
+      "code": "TX.TOLL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.TOLL",
+      "name": "TX.TOLL_SGST",
+      "code": "TX.TOLL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.BUR_GRND",
+      "name": "UC.BUR_GRND_CGST",
+      "code": "UC.BUR_GRND_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.BUR_GRND",
+      "name": "UC.BUR_GRND_SGST",
+      "code": "UC.BUR_GRND_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.CHNG_WATER_CONC",
+      "name": "UC.CHNG_WATER_CONC_CGST",
+      "code": "UC.CHNG_WATER_CONC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.CHNG_WATER_CONC",
+      "name": "UC.CHNG_WATER_CONC_SGST",
+      "code": "UC.CHNG_WATER_CONC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.COST_FEED_AN",
+      "name": "UC.COST_FEED_AN_CGST",
+      "code": "UC.COST_FEED_AN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.COST_FEED_AN",
+      "name": "UC.COST_FEED_AN_SGST",
+      "code": "UC.COST_FEED_AN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.CREMAT_CHRG",
+      "name": "UC.CREMAT_CHRG_CGST",
+      "code": "UC.CREMAT_CHRG_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.CREMAT_CHRG",
+      "name": "UC.CREMAT_CHRG_SGST",
+      "code": "UC.CREMAT_CHRG_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.EDU_CESS",
+      "name": "UC.EDU_CESS_CGST",
+      "code": "UC.EDU_CESS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.EDU_CESS",
+      "name": "UC.EDU_CESS_SGST",
+      "code": "UC.EDU_CESS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.FNRL_VAN",
+      "name": "UC.FNRL_VAN_CGST",
+      "code": "UC.FNRL_VAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.FNRL_VAN",
+      "name": "UC.FNRL_VAN_SGST",
+      "code": "UC.FNRL_VAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.GRBG_COLL",
+      "name": "UC.GRBG_COLL_CGST",
+      "code": "UC.GRBG_COLL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.GRBG_COLL",
+      "name": "UC.GRBG_COLL_SGST",
+      "code": "UC.GRBG_COLL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.LIB_MEM",
+      "name": "UC.LIB_MEM_CGST",
+      "code": "UC.LIB_MEM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.LIB_MEM",
+      "name": "UC.LIB_MEM_SGST",
+      "code": "UC.LIB_MEM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.MOB_TLT",
+      "name": "UC.MOB_TLT_CGST",
+      "code": "UC.MOB_TLT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.MOB_TLT",
+      "name": "UC.MOB_TLT_SGST",
+      "code": "UC.MOB_TLT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.MTRL_STACK",
+      "name": "UC.MTRL_STACK_CGST",
+      "code": "UC.MTRL_STACK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.MTRL_STACK",
+      "name": "UC.MTRL_STACK_SGST",
+      "code": "UC.MTRL_STACK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.NEW_WATER_CONC",
+      "name": "UC.NEW_WATER_CONC_CGST",
+      "code": "UC.NEW_WATER_CONC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.NEW_WATER_CONC",
+      "name": "UC.NEW_WATER_CONC_SGST",
+      "code": "UC.NEW_WATER_CONC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PERM_BORE",
+      "name": "UC.PERM_BORE_CGST",
+      "code": "UC.PERM_BORE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PERM_BORE",
+      "name": "UC.PERM_BORE_SGST",
+      "code": "UC.PERM_BORE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PROCES_FEE",
+      "name": "UC.PROCES_FEE_CGST",
+      "code": "UC.PROCES_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PROCES_FEE",
+      "name": "UC.PROCES_FEE_SGST",
+      "code": "UC.PROCES_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PU_TLT",
+      "name": "UC.PU_TLT_CGST",
+      "code": "UC.PU_TLT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PU_TLT",
+      "name": "UC.PU_TLT_SGST",
+      "code": "UC.PU_TLT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PUB_FEE",
+      "name": "UC.PUB_FEE_CGST",
+      "code": "UC.PUB_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.PUB_FEE",
+      "name": "UC.PUB_FEE_SGST",
+      "code": "UC.PUB_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.RD_CUTT",
+      "name": "UC.RD_CUTT_CGST",
+      "code": "UC.RD_CUTT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.RD_CUTT",
+      "name": "UC.RD_CUTT_SGST",
+      "code": "UC.RD_CUTT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.SEP_TNK_CLR",
+      "name": "UC.SEP_TNK_CLR_CGST",
+      "code": "UC.SEP_TNK_CLR_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.SEP_TNK_CLR",
+      "name": "UC.SEP_TNK_CLR_SGST",
+      "code": "UC.SEP_TNK_CLR_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.WATER_TNK",
+      "name": "UC.WATER_TNK_CGST",
+      "code": "UC.WATER_TNK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "UC.WATER_TNK",
+      "name": "UC.WATER_TNK_SGST",
+      "code": "UC.WATER_TNK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
