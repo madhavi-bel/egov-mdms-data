@@ -16498,7 +16498,7 @@
       "serviceCode": "UC",
       "code": "null",
       "path": "UC.NewCollection",
-      "navigationURL": "uc/create",
+      "navigationURL": "uc/newCollection",
       "quickAction": true,
       "leftIcon": "content:add",
       "rightIcon": ""
