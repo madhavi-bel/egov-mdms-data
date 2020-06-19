@@ -6,7 +6,7 @@
       "code": "pb.agra",
       "name": "Cantonment Board Agra",
       "description": "Agra",
-      "logoId": "https://uttarakhand-uat.egovernments.org/ukd-egov-assets/cb.dehradun/logo.png",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/agralogo.png",
       "imageId": null,
       "domainUrl": "https://cbagra.org.in",
       "type": "CITY",
