@@ -40,7 +40,7 @@
                   {
                     "area": "AREA1",
                     "localname": "B C Bazar - Ward 1",
-                    "code": "LOC01A01",
+                    "code": "LOC01L01",
                     "children": [],
                     "latitude": null,
                     "name": "B C Bazar - Ward 1",
@@ -64,7 +64,7 @@
                   {
                     "area": "AREA1",
                     "localname": "RA Line - Ward 2",
-                    "code": "LOC02A01",
+                    "code": "LOC02L01",
                     "children": [],
                     "latitude": null,
                     "name": "RA Line - Ward 2",
@@ -76,7 +76,7 @@
                   {
                     "area": "AREA1",
                     "localname": "RA Bazar - Ward 2",
-                    "code": "LOC02A02",
+                    "code": "LOC02L02",
                     "children": [],
                     "latitude": null,
                     "name": "RA Bazar - Ward 2",
@@ -100,7 +100,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Badi Lal Kurti - Ward 3",
-                    "code": "LOC03A01",
+                    "code": "LOC03L01",
                     "children": [],
                     "latitude": null,
                     "name": "Badi Lal Kurti - Ward 3",
@@ -124,7 +124,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Mokhaniya Mohal - Ward 4",
-                    "code": "LOC04A01",
+                    "code": "LOC04L01",
                     "children": [],
                     "latitude": null,
                     "name": "Mokhaniya Mohal - Ward 4",
@@ -148,7 +148,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Subhash Mohal - Ward 5",
-                    "code": "LOC05A01",
+                    "code": "LOC05L01",
                     "children": [],
                     "latitude": null,
                     "name": "Subhash Mohal - Ward 5",
@@ -160,7 +160,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Saudagar Mohal - Ward 5",
-                    "code": "LOC05A02",
+                    "code": "LOC05L02",
                     "children": [],
                     "latitude": null,
                     "name": "Saudagar Mohal - Ward 5",
@@ -172,7 +172,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Matru Mohal - Ward 5",
-                    "code": "LOC05A03",
+                    "code": "LOC05L03",
                     "children": [],
                     "latitude": null,
                     "name": "Matru Mohal - Ward 5",
@@ -196,7 +196,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Bucher Mohal - Ward 6",
-                    "code": "LOC06A01",
+                    "code": "LOC06L01",
                     "children": [],
                     "latitude": null,
                     "name": "Bucher Mohal - Ward 6",
@@ -208,7 +208,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Nai Basti - Ward 6",
-                    "code": "LOC06A02",
+                    "code": "LOC06L02",
                     "children": [],
                     "latitude": null,
                     "name": "Nai Basti - Ward 6",
@@ -232,7 +232,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Baniya Mohal - Ward 7",
-                    "code": "LOC07A01",
+                    "code": "LOC07L01",
                     "children": [],
                     "latitude": null,
                     "name": "Baniya Mohal - Ward 7",
@@ -244,7 +244,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Azad Mohal - Ward 7",
-                    "code": "LOC07A02",
+                    "code": "LOC07L02",
                     "children": [],
                     "latitude": null,
                     "name": "Azad Mohal - Ward 7",
@@ -256,7 +256,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Gola Bazar - Ward 7",
-                    "code": "LOC07A03",
+                    "code": "LOC07L03",
                     "children": [],
                     "latitude": null,
                     "name": "Gola Bazar - Ward 7",
@@ -268,7 +268,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Lakri Mohal - Ward 7",
-                    "code": "LOC07A04",
+                    "code": "LOC07L04",
                     "children": [],
                     "latitude": null,
                     "name": "Lakri Mohal - Ward 7",
@@ -292,7 +292,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Hata Ram Das - Ward 8",
-                    "code": "LOC08A01",
+                    "code": "LOC08L01",
                     "children": [],
                     "latitude": null,
                     "name": "Hata Ram Das - Ward 8",
@@ -304,7 +304,7 @@
                   {
                     "area": "AREA1",
                     "localname": "Choti Lal Kurti - Ward 8",
-                    "code": "LOC08A02",
+                    "code": "LOC08L02",
                     "children": [],
                     "latitude": null,
                     "name": "Choti Lal Kurti - Ward 8",
