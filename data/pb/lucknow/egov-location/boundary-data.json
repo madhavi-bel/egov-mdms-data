@@ -1,0 +1,324 @@
+{
+  "tenantId": "pb.lucknow",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "100",
+        "boundaryNum": 1,
+        "name": "Lucknow",
+        "localname": "Lucknow",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lucknow",
+        "children": [
+          {
+            "id": "101",
+            "boundaryNum": 1,
+            "name": "Lucknow Cantonment Board",
+            "localname": "Lucknow Cantonment Board",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "102",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "01",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "B C Bazar - Ward 1",
+                    "code": "LOC01A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "B C Bazar - Ward 1",
+                    "id": "103",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "02",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "RA Line - Ward 2",
+                    "code": "LOC02A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "RA Line - Ward 2",
+                    "id": "130",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "RA Bazar - Ward 2",
+                    "code": "LOC02A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "RA Bazar - Ward 2",
+                    "id": "131",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "160",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "03",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Badi Lal Kurti - Ward 3",
+                    "code": "LOC03A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Badi Lal Kurti - Ward 3",
+                    "id": "161",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "177",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "04",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Mokhaniya Mohal - Ward 4",
+                    "code": "LOC04A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Mokhaniya Mohal - Ward 4",
+                    "id": "178",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "205",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "05",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Subhash Mohal - Ward 5",
+                    "code": "LOC05A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Subhash Mohal - Ward 5",
+                    "id": "206",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Saudagar Mohal - Ward 5",
+                    "code": "LOC05A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Saudagar Mohal - Ward 5",
+                    "id": "207",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Matru Mohal - Ward 5",
+                    "code": "LOC05A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Matru Mohal - Ward 5",
+                    "id": "208",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "234",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "06",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Bucher Mohal - Ward 6",
+                    "code": "LOC06A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bucher Mohal - Ward 6",
+                    "id": "235",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Nai Basti - Ward 6",
+                    "code": "LOC06A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Nai Basti - Ward 6",
+                    "id": "236",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "303",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "07",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Baniya Mohal - Ward 7",
+                    "code": "LOC07A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Baniya Mohal - Ward 7",
+                    "id": "304",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Azad Mohal - Ward 7",
+                    "code": "LOC07A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Azad Mohal - Ward 7",
+                    "id": "305",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Gola Bazar - Ward 7",
+                    "code": "LOC07A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Gola Bazar - Ward 7",
+                    "id": "306",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Lakri Mohal - Ward 7",
+                    "code": "LOC07A04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Lakri Mohal - Ward 7",
+                    "id": "307",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "336",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "08",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Hata Ram Das - Ward 8",
+                    "code": "LOC08A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Hata Ram Das - Ward 8",
+                    "id": "337",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Choti Lal Kurti - Ward 8",
+                    "code": "LOC08A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Choti Lal Kurti - Ward 8",
+                    "id": "338",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
