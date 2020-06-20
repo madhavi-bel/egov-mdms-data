@@ -636,6 +636,7 @@
   },
   "TradeLicense": {
  
+    
     "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
