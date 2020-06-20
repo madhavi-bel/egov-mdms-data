@@ -20756,19 +20756,6 @@
         "actionid": 1556,
         "actioncode": "",
         "tenantId": "pb"
-      },
-      {
-        "rolecode": "UC_EMP",
-        "actionid": 5008,
-        "actioncode": "",
-        "tenantId": "pb"
       }
-
-
-
-
-
-
-
   ]
 }

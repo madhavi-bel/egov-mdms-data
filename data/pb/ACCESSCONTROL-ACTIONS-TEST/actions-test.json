@@ -16486,22 +16486,6 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
       "path": "Reports.miscellaneous Receipt Register"
-    },
-    {
-      "id": 5008,
-      "name": "NewCollection",
-      "url": "quickAction",
-      "displayName": "New collection",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "UC",
-      "code": "null",
-      "path": "UC.NewCollection",
-      "navigationURL": "uc/newCollection",
-      "quickAction": true,
-      "leftIcon": "content:add",
-      "rightIcon": ""
     }
   ]
 }
