@@ -5,6 +5,7 @@
     {
       "code": "TRADE.EATING.A1",
       "uom":"SFT",
+       "type" : "TL",
       "applicationDocument": [
         {
           "applicationType": "NEW",
