@@ -5684,6 +5684,16 @@
     },
     {
       "category": "CHARGES",
+      "service": "ASSREV.COMP_CONCESSION",
+      "name": "ASSREV.COMP_CONCESSION_SEC_DEP",
+      "code": "ASSREV.COMP_CONCESSION_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
       "service": "ASSREV.COMP_TAX",
       "name": "ASSREV.COMP_TAX_FIELD_FEE",
       "code": "ASSREV.COMP_TAX_FIELD_FEE",
@@ -6387,16 +6397,6 @@
       "service": "OTHFEE.TNDR_FRM",
       "name": "OTHFEE.TNDR_FRM_FIELD_FEE",
       "code": "OTHFEE.TNDR_FRM_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHFEE.TL",
-      "name": "OTHFEE.TL_FIELD_FEE",
-      "code": "OTHFEE.TL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -7767,16 +7767,6 @@
       "service": "OTHFEE.TNDR_FRM",
       "name": "OTHFEE.TNDR_FRM_TAX",
       "code": "OTHFEE.TNDR_FRM_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "TAX",
-      "service": "OTHFEE.TL",
-      "name": "OTHFEE.TL_TAX",
-      "code": "OTHFEE.TL_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -9947,26 +9937,6 @@
       "service": "OTHFEE.TEHBAZZZRI",
       "name": "OTHFEE.TEHBAZZZRI_SGST",
       "code": "OTHFEE.TEHBAZZZRI_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "OTHFEE.TL",
-      "name": "OTHFEE.TL_CGST",
-      "code": "OTHFEE.TL_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "OTHFEE.TL",
-      "name": "OTHFEE.TL_SGST",
-      "code": "OTHFEE.TL_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
