@@ -637,14 +637,14 @@
   "TradeLicense": {
     "TradeType": {
       "masterName": "TradeType",
-      "isStateLevel": true,
+      "isStateLevel": false,
        "uniqueKeys": [
         "$.code"
       ]
     },
     "documentObj": {
       "masterName": "documentObj",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]

@@ -1,0 +1,25 @@
+{
+  "tenantId": "pb.secunderabad",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.EATING.A1",
+      "uom":"SFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        } 
+      ]
+    }
+  ]
+}
