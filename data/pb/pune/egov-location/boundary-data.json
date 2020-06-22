@@ -1,0 +1,732 @@
+{
+  "tenantId": "pb.pune",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "100",
+        "boundaryNum": 1,
+        "name": "Pune",
+        "localname": "Pune",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.pune",
+        "children": [
+          {
+            "id": "101",
+            "boundaryNum": 1,
+            "name": "Pune Cantonment Board",
+            "localname": "Pune Cantonment Board",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "102",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "01",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Queens Garden - Ward 1",
+                    "code": "LOC01P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Queens Garden - Ward 1",
+                    "id": "103",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Dastur Meher Road House No. 816 to H. No. 833 - Ward 1",
+                    "code": "LOC01P02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Dastur Meher Road House No. 816 to H. No. 833 - Ward 1",
+                    "id": "104",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bootee Street House No. 941 to 953 - Ward 1",
+                    "code": "LOC01P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bootee Street House No. 941 to 953 - Ward 1",
+                    "id": "105",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bacchu Adda House No. 979 to 1076 - Ward No 1",
+                    "code": "LOC01P04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bacchu Adda House No. 979 to 1076 - Ward No 1",
+                    "id": "106",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "M. G. Road H. No. 1 to H. No. 6 - Ward No 1",
+                    "code": "LOC01P05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "M. G. Road H. No. 1 to H. No. 6 - Ward No 1",
+                    "id": "107",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Meher Mohalla H.No. 761 to 764 - Ward No. 1",
+                    "code": "LOC01P06",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Meher Mohalla H.No. 761 to 764 - Ward No. 1",
+                    "id": "108",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "02",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Sachapir Street H. No. 558 to H.No. 623 - Ward 2",
+                    "code": "LOC02P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Sachapir Street H. No. 558 to H.No. 623 - Ward 2",
+                    "id": "130",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Dastur Meher Road H.No. 849 to 891 - Ward 2",
+                    "code": "LOC02P02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Dastur Meher Road H.No. 849 to 891 - Ward 2",
+                    "id": "131",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "SKonkani Mohalla H.No. 954 to 978 - Ward 2",
+                    "code": "LOC02P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Konkani Mohalla H.No. 954 to 978 - Ward 2",
+                    "id": "132",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Gaffer Beg Street H.No. 1964 to 1976 - Ward 2",
+                    "code": "LOC02P04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Gaffer Beg Street H.No. 1964 to 1976 - Ward 2",
+                    "id": "133",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Convent Street H.No. 1977 to 2009 -Ward 2",
+                    "code": "LOC02P05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Convent Street H.No. 1977 to 2009 -Ward 2",
+                    "id": "134",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "V. P. Street H.No.344 to 378 and H. No. 544 to 557 - Ward No. 2",
+                    "code": "LOC02P06",
+                    "children": [],
+                    "latitude": null,
+                    "name": "V. P. Street H.No.344 to 378 and H. No. 544 to 557 - Ward No. 2",
+                    "id": "135",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Shimpi Ali H.No. 1191 to 1211 - Ward No. 2",
+                    "code": "LOC02P07",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Shimpi Ali H.No. 1191 to 1211 - Ward No. 2",
+                    "id": "136",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Blundell Road - Ward No 2",
+                    "code": "LOC02P08",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Blundell Road - Ward No 2",
+                    "id": "137",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Dwayer Lane - Ward No 2",
+                    "code": "LOC02P09",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Dwayer Lane - Ward No 2",
+                    "id": "138",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bhimpura H.No. 1880 to 1896 - Ward 2",
+                    "code": "LOC02P10",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bhimpura H.No. 1880 to 1896 - Ward 2",
+                    "id": "139",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Synagouge Street H.No. 892 to 899 and H. No. 908 to 940 - Ward No 2",
+                    "code": "LOC02P11",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Synagouge Street H.No. 892 to 899 and H. No. 908 to 940 - Ward No 2",
+                    "id": "140`",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bootee Street House No. 900 to 907 - Ward 2",
+                    "code": "LOC02P12",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bootee Street House No. 900 to 907 - Ward 2",
+                    "id": "141",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Jan Mohd Street H.No. 2009 to 2034 - Ward 2",
+                    "code": "LOC02P13",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Jan Mohd Street H.No. 2009 to 2034 - Ward 2",
+                    "id": "142",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }                  
+                ]
+              },
+              {
+                "id": "160",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "03",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "M. G. Road H.No. 184 to 241 - Ward 3",
+                    "code": "LOC03P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "M. G. Road H.No. 184 to 241 - Ward 3",
+                    "id": "161",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "R. S. Kedari Road H.No. 1679 to H.No.1704 - Ward 3",
+                    "code": "LOC03P02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "R. S. Kedari Road H.No. 1679 to H.No.1704 - Ward 3",
+                    "id": "162",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bhimpura H.No. 1308 to 1677 - Ward 3",
+                    "code": "LOC03P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bhimpura H.No. 1308 to 1677 - Ward 3",
+                    "id": "163",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Jafferine Lane - Ward 3",
+                    "code": "LOC03P04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Jafferine Lane - Ward 3",
+                    "id": "164",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Kamble Coach House No. 1 to 14 - Ward 3",
+                    "code": "LOC03P05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Kamble Coach House No. 1 to 14 - Ward 3",
+                    "id": "165",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "V. P. Street H.No.422 to 510 - Ward No. 3",
+                    "code": "LOC03P06",
+                    "children": [],
+                    "latitude": null,
+                    "name": "V. P. Street H.No.422 to 510 - Ward No. 3",
+                    "id": "166",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "177",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "04",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Manik Nalla Sy. No. 390 Babajaan Nagar - Ward 4",
+                    "code": "LOC04P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Manik Nalla Sy. No. 390 Babajaan Nagar - Ward 4",
+                    "id": "178",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Kumbhar Bawadi H.No. 2073 to 2140- Ward 4",
+                    "code": "LOC04P02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Kumbhar Bawadi H.No. 2073 to 2140- Ward 4",
+                    "id": "179",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Jan Mohd Street H.No. 2035 to 2072 - Ward 4",
+                    "code": "LOC04P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Jan Mohd Street H.No. 2035 to 2072 - Ward 4",
+                    "id": "180",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "M. G. Road H.No. 94 to 185- Ward 4",
+                    "code": "LOC04P04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "M. G. Road H.No. 94 to 185- Ward 4",
+                    "id": "181",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "New Modikhana H.No. 2141 to 2398 - Ward 4",
+                    "code": "LOC04P05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "New Modikhana H.No. 2141 to 2398 - Ward 4",
+                    "id": "182",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "G. T. Road H.No. 2399 to 2417 - Ward 4",
+                    "code": "LOC04P06",
+                    "children": [],
+                    "latitude": null,
+                    "name": "G. T. Road H.No. 2399 to 2417 - Ward 4",
+                    "id": "183",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Dhobi Ghat Shankar Shet Road and Menial Quarters - Ward 4",
+                    "code": "LOC04P07",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Dhobi Ghat Shankar Shet Road and Menial Quarters - Ward 4",
+                    "id": "184",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "205",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "05",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "North Petty Staff Lines - Ward 5",
+                    "code": "LOC05P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "North Petty Staff Lines - Ward 5",
+                    "id": "206",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Dr. Coyaji Road - Ward 5",
+                    "code": "LOC05P02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Dr. Coyaji Road - Ward 5",
+                    "id": "207",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Kahun Road Bunglow No. 1 to 6 and PWD Quarters -Ward 5",
+                    "code": "LOC05P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Kahun Road Bunglow No. 1 to 6 and PWD Quarters -Ward 5",
+                    "id": "208",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Sholapur Road Bunglow No. 2 and 4 to 13 -Ward 5",
+                    "code": "LOC05P04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Sholapur Road Bunglow No. 2 and 4 to 13 -Ward 5",
+                    "id": "209",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Sholapur Bazar - Ward 5",
+                    "code": "LOC05P05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Sholapur Bazar - Ward 5",
+                    "id": "210",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "G. T. Road H.No. 2391 to 2401/2401-A and H.NO. 2418 to 2423 - Ward 5",
+                    "code": "LOC05P06",
+                    "children": [],
+                    "latitude": null,
+                    "name": "G. T. Road H.No. 2391 to 2401/2401-A and H.NO. 2418 to 2423 - Ward 5",
+                    "id": "211",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "234",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "06",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Wanowrie Bazar and Tannary -Ward 6",
+                    "code": "LOC06P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Wanowrie Bazar and Tannary -Ward 6",
+                    "id": "235",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Fatimanagar -Ward 6",
+                    "code": "LOC06P02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Fatimanagar -Ward 6",
+                    "id": "236",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bhairoba Road Dhobhi Ghat Kitchner Line - Ward 6",
+                    "code": "LOC06P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bhairoba Road Dhobhi Ghat Kitchner Line - Ward 6",
+                    "id": "237",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "303",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "07",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Empress Garden, Race Course and RWITC - Ward 7",
+                    "code": "LOC07P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Empress Garden, Race Course and RWITC - Ward 7",
+                    "id": "304",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Ghorpadi Village - Ward 7",
+                    "code": "LOC07L02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Ghorpadi Village - Ward 7",
+                    "id": "305",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Ghorpadi Bazar - Ward 7",
+                    "code": "LOC07P03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Ghorpadi Bazar - Ward 7",
+                    "id": "306",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Khaun Road Bunglow No. 7 to 30 - Ward 7",
+                    "code": "LOC07P04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Khaun Road Bunglow No. 7 to 30 - Ward 7",
+                    "id": "307",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Maneckji Mehta Road Bunglow No. 4 to 15 - Ward 7",
+                    "code": "LOC07P05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Maneckji Mehta Road Bunglow No. 4 to 15 - Ward 7",
+                    "id": "308",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bharioba Nalla Sy No 509-510 - Ward 7",
+                    "code": "LOC07P06",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bharioba Nalla Sy No 509-510 - Ward 7",
+                    "id": "309",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Chimta Vasti 1 and 2 - Ward 7",
+                    "code": "LOC07P07",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Chimta Vasti 1 and 2 - Ward 7",
+                    "id": "310",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Mihir Apartment, Himalaya Heights and Himalaya House - Ward 7",
+                    "code": "LOC07P08",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Mihir Apartment, Himalaya Heights and Himalaya House - Ward 7",
+                    "id": "311",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "336",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "08",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Taboot Street - Ward 8",
+                    "code": "LOC08P01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Taboot Street - Ward 8",
+                    "id": "337",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -635,7 +635,13 @@
     }
   },
   "TradeLicense": {
- 
+    "TradeType": {
+      "masterName": "TradeType",
+      "isStateLevel": true,
+       "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
