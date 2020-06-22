@@ -1022,14 +1022,6 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TL",
-      "code": "OTHFEETLFIELDFEE",
-      "financialYear": "2020-30"
-    },
-    {
-      "fromDate": 1585679400000,
-      "toDate": 1901212200000,
-      "periodCycle": "ANNUAL",
       "service": "OTHFEE.TREE_AUC",
       "code": "OTHFEETREEAUCFIELDFEE",
       "financialYear": "2020-30"
