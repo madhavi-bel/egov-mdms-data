@@ -903,18 +903,6 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "Other Fee and Fines.Trade License Fee",
-      "code": "OTHFEE.TL",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
       "businessService": "Other Fee and Fines.Tree auction",
       "code": "OTHFEE.TREE_AUC",
       "collectionModesNotAllowed": [
