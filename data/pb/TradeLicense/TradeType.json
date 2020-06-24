@@ -1,0 +1,26 @@
+{
+  "tenantId": "pb",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.EATING.A2",
+      "uom":"SFT",
+       "type" : "TL",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        } 
+      ]
+    }
+  ]
+}
