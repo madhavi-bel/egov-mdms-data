@@ -33,7 +33,8 @@
         "population":"53137"
       },
       "address": "Office of Cantt. Board Agra 114- Fatehpur Sikri Road, Agra Cantt. – 282001 Uttar Pradesh",
-      "contactNumber": "0562-2227379"
+      "contactNumber": "0562-2227379",
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Agra.pdf"
     },
     {
       "code": "pb.delhi",
@@ -65,7 +66,8 @@
         "population":"110351"
       },
       "address": "Office of Cantonment Board, Sadar Bazar, Delhi Cantt-10",
-      "contactNumber": "011- 25693837,25695450 (Ext.)"
+      "contactNumber": "011- 25693837,25695450 (Ext.)",
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Delhi.pdf"
     },
     {
       "code": "pb.lucknow",
@@ -97,7 +99,8 @@
         "population":"63003"
       },
       "address": "Office of the Cantonment Board Lucknow 31, Nehru Road, Lucknow Cantt Dist- Lucknow ,Uttar Pradesh Pin Code- 226002",
-      "contactNumber": "0522-2480037(O) 0522-2480610(F)"
+      "contactNumber": "0522-2480037(O) 0522-2480610(F)",
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Lucknow.pdf"
     },
     {
       "code": "pb.pune",
@@ -129,7 +132,8 @@
         "population":"71831"
       },
       "address": "Golibar Maidan, Pune Solpaur Road Pune 411001",
-      "contactNumber": "020-26452159"
+      "contactNumber": "020-26452159",
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
     },
     {
       "code": "pb.secunderabad",
@@ -161,7 +165,8 @@
         "municipalityName": "Secunderabad Cantonment Board"
       },
       "address": "Office of the Cantonment Board Secunderabad, Court Compound, SP Road, Telangana 500003",
-      "contactNumber": "040-27808600"
+      "contactNumber": "040-27808600",
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
     } 
   ]
 }
