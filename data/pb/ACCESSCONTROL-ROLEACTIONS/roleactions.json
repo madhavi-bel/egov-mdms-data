@@ -19017,12 +19017,7 @@
   "actioncode": "",
   "tenantId": "pb"
   },
-  {
-    "rolecode": "SUPERUSER",
-    "actionid": 1893,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
+
   {
   "rolecode": "EMPLOYEE",
   "actionid": 1894,
@@ -20760,6 +20755,18 @@
       {
         "rolecode": "UC_EMP",
         "actionid": 1556,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 1893,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 1890,
         "actioncode": "",
         "tenantId": "pb"
       }
