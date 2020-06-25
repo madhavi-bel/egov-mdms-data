@@ -2094,6 +2094,16 @@
     },
     {
       "category": "FEE",
+      "service": "TL",
+      "name": "TL Application Fee",
+      "code": "TL_APP_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application form fee",
       "code": "WS_FORM_FEE",
