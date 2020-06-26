@@ -4,8 +4,7 @@
   "TradeType": [
     {
       "code": "TRADE.EATING.A1",
-      "uom":"SFT",
-       "type" : "TL",
+      "uom": "SFT",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -19,8 +18,61 @@
             "PLANCERT",
             "BULDPHOTO"
           ]
-        } 
-      ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.PRIVATEMARKETS.F2",
+      "uom": "SFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     }
   ]
 }
