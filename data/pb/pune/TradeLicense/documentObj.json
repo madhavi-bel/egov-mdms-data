@@ -5,14 +5,6 @@
       {
         "allowedDocs": [
           {
-            "documentType": "OWNERPHOTO",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
             "documentType": "OWNERSHIPPROOF",
             "applicationType": [
               "NEW",
@@ -28,29 +20,6 @@
             "required": true
           },
           {
-            "documentType": "AADHAARCARD",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },{
-            "documentType": "PANCARD",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "REGCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
             "documentType": "PTAX",
             "applicationType": [
               "NEW",
@@ -59,7 +28,7 @@
             "required": false
           },
           {
-            "documentType": "BLUPRNT",
+            "documentType": "MEDCERT",
             "applicationType": [
               "NEW",
               "RENEWAL"
@@ -67,31 +36,7 @@
             "required": false
           },
           {
-            "documentType": "NBNOC1",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "NBNOC2",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "PLANCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "BULDPHOTO",
+            "documentType": "SHOPACTLICENCE",
             "applicationType": [
               "NEW",
               "RENEWAL"
