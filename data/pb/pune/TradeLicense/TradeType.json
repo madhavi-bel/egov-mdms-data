@@ -3,284 +3,364 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.LIVESTOCK.A1",
+      "code": "TRADE.EATING.A1",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.LIVESTOCK.A2",
+      "code": "TRADE.EATING.A2",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.LIVESTOCK.A3",
+      "code": "TRADE.EATING.A4",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.LIVESTOCK.A4",
+      "code": "TRADE.EATING.A5",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.LIVESTOCK.A5",
+      "code": "TRADE.EATING.A8",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.BAKERY.B1",
+      "code": "TRADE.EATING.A9",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.BAKERY.B2",
+      "code": "TRADE.MEDICAL.B1",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.BAKERY.B3",
+      "code": "TRADE.MEDICAL.B2",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GROCERY.C1",
+      "code": "TRADE.VETERINARY.C1",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GROCERY.C2",
+      "code": "TRADE.GENERAL.E1",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GROCERY.C3",
+      "code": "TRADE.GENERAL.E8",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.CHEMIST.D1",
+      "code": "TRADE.GENERAL.E32",
       "uom": null,
       "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LIQUOR.E1",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LAUNDARY.F1",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.LAUNDARY.F2",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.SALOONS.G1",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.OTHERS.H1",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.OTHERS.H2",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.OTHERS.H3",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
-    },
-    {
-      "code": "TRADE.OTHERS.H4",
-      "uom": null,
-      "applicationDocument": [
-        "Trade License Copy issued by Cantonment Board in previous  years",
-        "Shop Act License copy Issued by State Govt",
-        "Rental Deed/Lease Deed / Sale Deed",
-        "property tax receipt",
-        "Medical fitness certificate issued by Cantonment General Hospital"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.delhi",
   "moduleName": "TradeLicense",
-  "TradeType":  [
+  "TradeType": [
     {
       "code": "TRADE.EATING.A1",
       "uom": null,
@@ -9,27 +9,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -45,27 +47,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -81,27 +85,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -117,27 +123,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -153,27 +161,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -189,27 +199,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -225,27 +237,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -261,27 +275,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -297,27 +313,67 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A10",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -333,27 +389,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -369,27 +427,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -405,27 +465,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -441,27 +503,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -477,27 +541,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -513,27 +579,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -549,27 +617,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -585,27 +655,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -621,27 +693,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -657,27 +731,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -693,27 +769,67 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C6",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -729,27 +845,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -765,27 +883,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -801,27 +921,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -837,27 +959,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -873,27 +997,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -909,27 +1035,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -945,27 +1073,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -981,27 +1111,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1017,27 +1149,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1053,27 +1187,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1089,27 +1225,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1125,27 +1263,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1161,27 +1301,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1197,27 +1339,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1233,27 +1377,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1269,27 +1415,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1305,27 +1453,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1341,27 +1491,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1377,27 +1529,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1413,27 +1567,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1449,27 +1605,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1485,27 +1643,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1521,27 +1681,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1557,27 +1719,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1593,27 +1757,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1629,27 +1795,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1665,27 +1833,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1701,27 +1871,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1737,27 +1909,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1773,27 +1947,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1809,27 +1985,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1845,27 +2023,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1881,27 +2061,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1917,27 +2099,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1953,27 +2137,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -1989,27 +2175,67 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E34",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -2025,27 +2251,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],
@@ -2061,27 +2289,29 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "FIRENOC",
+            "APPLETTER",
+            "MEDCERT"
           ]
         }
       ],

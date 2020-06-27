@@ -3,95 +3,928 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "TRADE.STREETVENDOR.LCB1",
+      "code": "TRADE.EATING.A1",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.RETAILSHOPS.LCB2",
+      "code": "TRADE.EATING.A4",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.LCB3",
+      "code": "TRADE.EATING.A5",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.HEALTH.LCB4",
+      "code": "TRADE.EATING.A8",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.WORKSHOP.LCB5",
+      "code": "TRADE.EATING.A9",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.PETROLEUM.LCB6",
+      "code": "TRADE.MEDICAL.B2",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.HOTELS.LCB7",
+      "code": "TRADE.MEDICAL.B3",
       "uom": null,
       "applicationDocument": [
-        "Aadhar Card ",
-        "Pan Card",
-        "Registration Certificate/Licence from government organization",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B4",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B5",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C1",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C2",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E1",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E2",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E3",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E4",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E5",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E6",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E7",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E8",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E10",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E12",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E13",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E14",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E15",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E16",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E22",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E23",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E26",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E27",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E30",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E31",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E32",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E33",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADHAARCARD",
+            "REGCERT",
+            "OWNERPHOTO",
+            "PANCARD"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     }
   ]
 }
