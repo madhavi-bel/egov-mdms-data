@@ -58,6 +58,22 @@
               "RENEWAL"
             ],
             "required": false
+          },
+          {
+            "documentType": "APPLETTER",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "MEDCERT",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
           }
         ],
         "tradeType": "TRADE"

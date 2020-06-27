@@ -13,21 +13,6 @@
             "required": true
           },
           {
-            "documentType": "PANCARD",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
-            "documentType": "REGCERT",
-            "applicationType": [
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
             "documentType": "ELECTBILL",
             "applicationType": [
               "NEW",
