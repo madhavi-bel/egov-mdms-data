@@ -10,26 +10,15 @@
           "applicationType": "NEW",
           "documentList": [
             "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "REGCERT" 
+             
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
             "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "REGCERT"
           ]
         }
       ],
