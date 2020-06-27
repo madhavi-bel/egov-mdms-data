@@ -11,6 +11,19 @@
               "RENEWAL"
             ],
             "required": true
+          }
+        ],
+        "tradeType": "TRADE.EATING.A1"
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "OWNERPHOTO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
           },
           {
             "documentType": "OWNERSHIPPROOF",
