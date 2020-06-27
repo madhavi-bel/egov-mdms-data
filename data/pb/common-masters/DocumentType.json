@@ -241,6 +241,45 @@
         ".jpeg"
       ],
       "active": true
+    },{
+      "code": "MEDCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "SHOPACTLICENCE",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "FIRENOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
+    },
+    {
+      "code": "ELECTBILL",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
     }
   ]
 }

@@ -5,98 +5,35 @@
       {
         "allowedDocs": [
           {
-            "documentType": "OWNERPHOTO",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
-            "documentType": "OWNERSHIPPROOF",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
-            "documentType": "OLDLICENCENO",
-            "applicationType": [
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
             "documentType": "AADHAARCARD",
             "applicationType": [
               "NEW",
               "RENEWAL"
             ],
             "required": true
-          },{
+          },
+          {
             "documentType": "PANCARD",
             "applicationType": [
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "REGCERT",
             "applicationType": [
-              "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
-            "documentType": "PTAX",
+            "documentType": "ELECTBILL",
             "applicationType": [
               "NEW",
               "RENEWAL"
             ],
-            "required": false
-          },
-          {
-            "documentType": "BLUPRNT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "NBNOC1",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "NBNOC2",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "PLANCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "BULDPHOTO",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
+            "required": true
           }
         ],
         "tradeType": "TRADE"

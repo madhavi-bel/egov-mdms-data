@@ -21,13 +21,6 @@
             "required": true
           },
           {
-            "documentType": "OLDLICENCENO",
-            "applicationType": [
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
             "documentType": "AADHAARCARD",
             "applicationType": [
               "NEW",
@@ -59,39 +52,7 @@
             "required": false
           },
           {
-            "documentType": "BLUPRNT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "NBNOC1",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "NBNOC2",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "PLANCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "BULDPHOTO",
+            "documentType": "FIRENOC",
             "applicationType": [
               "NEW",
               "RENEWAL"
