@@ -1,639 +1,2094 @@
 {
   "tenantId": "pb.delhi",
   "moduleName": "TradeLicense",
-  "TradeType": [
+  "TradeType":  [
     {
-      "code": "TRADE.EATING.RBA-1",
+      "code": "TRADE.EATING.A1",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant",
-        "Health Certificate"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.RBA-2",
+      "code": "TRADE.EATING.A2",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant",
-        "Health Certificate"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.RBA-3",
+      "code": "TRADE.EATING.A3",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant",
-        "Health Certificate"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.RBA-4",
+      "code": "TRADE.EATING.A4",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.RBA-5",
+      "code": "TRADE.EATING.A5",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.RBA-6",
+      "code": "TRADE.EATING.A6",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.RBB-1",
+      "code": "TRADE.EATING.A7",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.RBB-2",
+      "code": "TRADE.EATING.A8",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.RBC-1",
+      "code": "TRADE.EATING.A9",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.RBC-2",
+      "code": "TRADE.MEDICAL.B1",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.RBC-3",
+      "code": "TRADE.MEDICAL.B2",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.DANGEROUS.RBD-1",
+      "code": "TRADE.MEDICAL.B3",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.DANGEROUS.RBD-2",
+      "code": "TRADE.MEDICAL.B4",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-1",
+      "code": "TRADE.MEDICAL.B5",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-2",
+      "code": "TRADE.MEDICAL.B6",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-3",
+      "code": "TRADE.VETERINARY.C1",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-4",
+      "code": "TRADE.VETERINARY.C2",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-5",
+      "code": "TRADE.VETERINARY.C3",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-6",
+      "code": "TRADE.VETERINARY.C4",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-7",
+      "code": "TRADE.VETERINARY.C5",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-8",
+      "code": "TRADE.DANGEROUS.D1",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-9",
+      "code": "TRADE.DANGEROUS.D2",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-10",
+      "code": "TRADE.DANGEROUS.D3",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-11",
+      "code": "TRADE.GENERAL.E1",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-12",
+      "code": "TRADE.GENERAL.E2",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-13",
+      "code": "TRADE.GENERAL.E3",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-14",
+      "code": "TRADE.GENERAL.E4",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-15",
+      "code": "TRADE.GENERAL.E5",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-16",
+      "code": "TRADE.GENERAL.E6",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-17",
+      "code": "TRADE.GENERAL.E7",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-18",
+      "code": "TRADE.GENERAL.E8",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-19",
+      "code": "TRADE.GENERAL.E9",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-20",
+      "code": "TRADE.GENERAL.E10",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-21",
+      "code": "TRADE.GENERAL.E11",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.RBE-22",
+      "code": "TRADE.GENERAL.E12",
       "uom": null,
       "applicationDocument": [
-        "Application letter signed by authorized signatory",
-        "Registration Certificate/Licence from government organization",
-        "Registration Certificate/Licence from government organization",
-        "Aadhar Card",
-        "Pan Card",
-        "Upto date property tax/house rent receipt",
-        "Rental Deed/Lease Deed",
-        "Fire NOC",
-        "Two passport size photographs of applicant"
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
       ],
-      "verificationDocument": [],
       "active": true,
-      "type": "TL"
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E13",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E14",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E15",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E16",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E17",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E18",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E19",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E20",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E21",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E22",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E23",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E24",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E25",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E26",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E27",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E28",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E29",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E30",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E31",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E32",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.GENERAL.E33",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.PRIVATEMARKETS.F1",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.PRIVATEMARKETS.F2",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AADPANCARD",
+            "REGCERT",
+            "DEED",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
     }
   ]
 }
