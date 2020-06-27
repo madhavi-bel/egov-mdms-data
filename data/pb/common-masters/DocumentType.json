@@ -280,6 +280,16 @@
         ".jpeg"
       ],
       "active": true
+    },
+    {
+      "code": "APPLETTER",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true
     }
   ]
 }
