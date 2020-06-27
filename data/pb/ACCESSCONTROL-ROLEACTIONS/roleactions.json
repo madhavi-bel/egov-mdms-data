@@ -14938,12 +14938,6 @@
   },
   {
   "rolecode": "SUPERUSER",
-  "actionid": 1593,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
   "actionid": 1601,
   "actioncode": "",
   "tenantId": "pb"
@@ -15004,12 +14998,6 @@
   },
   {
   "rolecode": "SUPERUSER",
-  "actionid": 1610,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
   "actionid": 1611,
   "actioncode": "",
   "tenantId": "pb"
@@ -15017,18 +15005,6 @@
   {
   "rolecode": "SUPERUSER",
   "actionid": 1612,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1613,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1614,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -15053,12 +15029,6 @@
   {
   "rolecode": "SUPERUSER",
   "actionid": 1618,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1619,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -15119,42 +15089,6 @@
   {
   "rolecode": "SUPERUSER",
   "actionid": 1629,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1630,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1631,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1632,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1633,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1633,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1634,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -16821,12 +16755,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1721,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "EGF_PAYMENT_CREATOR",
   "actionid": 1721,
   "actioncode": "",
@@ -16841,12 +16769,6 @@
   {
   "rolecode": "SUPERUSER",
   "actionid": 1722,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1723,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -17037,18 +16959,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1744,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1745,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "EMPLOYEE",
   "actionid": 743,
   "actioncode": "",
@@ -17068,12 +16978,6 @@
   },
   {
   "rolecode": "EGF_BILL_CREATOR",
-  "actionid": 1747,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
   "actionid": 1747,
   "actioncode": "",
   "tenantId": "pb"
@@ -18207,12 +18111,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1836,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "EGF_PAYMENT_CREATOR",
   "actionid": 1836,
   "actioncode": "",
@@ -18255,32 +18153,14 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1837,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "COLL_REMIT_TO_BANK",
   "actionid": 1837,
   "actioncode": "",
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1838,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "COLL_REMIT_TO_BANK",
   "actionid": 1838,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1839,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -18728,22 +18608,9 @@
   "actioncode": "",
   "tenantId": "pb"
   },
-  
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1867,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
   {
   "rolecode": "COLL_REMIT_TO_BANK",
   "actionid": 1867,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1868,
   "actioncode": "",
   "tenantId": "pb"
   },
@@ -18774,12 +18641,6 @@
   {
   "rolecode": "SYS_INTEGRATOR_FINANCE",
   "actionid": 1870,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1871,
   "actioncode": "",
   "tenantId": "pb"
   },
