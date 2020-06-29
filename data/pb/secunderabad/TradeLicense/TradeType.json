@@ -9,12 +9,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -22,12 +26,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -45,12 +53,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -58,12 +70,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -81,12 +97,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -94,12 +114,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -117,12 +141,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -130,12 +158,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -153,12 +185,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -166,12 +202,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -189,12 +229,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -202,12 +246,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -225,12 +273,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -238,12 +290,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -256,32 +312,26 @@
     },
     {
       "code": "TRADE.EATING.A8",
-      "uom": "SFT",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "MEDCERT",
+            "SHOPACTLICENCE"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
             "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
+            "MEDCERT",
+            "SHOPACTLICENCE"
           ]
         }
       ],
@@ -292,17 +342,51 @@
     },
     {
       "code": "TRADE.EATING.A9",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "PTAX",
+            "MEDCERT",
+            "SHOPACTLICENCE"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A10",
       "uom": "SFT",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -310,12 +394,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -333,12 +421,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -346,12 +438,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -369,12 +465,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -382,12 +482,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -405,12 +509,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -418,84 +526,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.MEDICAL.B4",
-      "uom": "SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.MEDICAL.B5",
-      "uom": "SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -513,12 +553,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -526,12 +570,60 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B7",
+      "uom": "SFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC1",
+            "NBNOC2",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -549,12 +641,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -562,12 +658,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -585,12 +685,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -598,12 +702,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -621,12 +729,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -634,12 +746,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -657,12 +773,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -670,12 +790,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -693,12 +817,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -706,12 +834,60 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        }
+      ],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C6",
+      "uom": "SFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC1",
+            "NBNOC2",
+            "PLANCERT",
+            "BULDPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
+            "REGCERT",
+            "PTAX",
+            "BLUPRNT",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -729,12 +905,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -742,12 +922,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -765,12 +949,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -778,12 +966,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -801,12 +993,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -814,12 +1010,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -837,12 +1037,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -850,12 +1054,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -873,12 +1081,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -886,12 +1098,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -909,12 +1125,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -922,12 +1142,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -945,12 +1169,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -958,12 +1186,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -981,12 +1213,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -994,12 +1230,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1017,12 +1257,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1030,12 +1274,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1053,12 +1301,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1066,12 +1318,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1089,12 +1345,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1102,12 +1362,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1125,12 +1389,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1138,12 +1406,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1161,12 +1433,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1174,12 +1450,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1197,12 +1477,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1210,12 +1494,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1233,12 +1521,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1246,12 +1538,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1269,12 +1565,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1282,12 +1582,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1305,12 +1609,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1318,12 +1626,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1341,12 +1653,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1354,12 +1670,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1377,12 +1697,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1390,12 +1714,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1413,12 +1741,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1426,12 +1758,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1449,12 +1785,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1462,12 +1802,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1485,12 +1829,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1498,12 +1846,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1521,12 +1873,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1534,12 +1890,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1557,12 +1917,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1570,12 +1934,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1593,12 +1961,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1606,12 +1978,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1629,12 +2005,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1642,12 +2022,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1665,12 +2049,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1678,12 +2066,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1701,12 +2093,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1714,12 +2110,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1737,12 +2137,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1750,12 +2154,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1773,12 +2181,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1786,120 +2198,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.GENERAL.E28",
-      "uom": "SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.GENERAL.E29",
-      "uom": "SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.GENERAL.E30",
-      "uom": "SFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
-            "PLANCERT",
-            "BULDPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADPANCARD",
-            "REGCERT",
-            "DEED",
-            "PTAX",
-            "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1917,12 +2225,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1930,12 +2242,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1953,12 +2269,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1966,12 +2286,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -1989,12 +2313,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -2002,12 +2330,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -2019,18 +2351,22 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.PRIVATEMARKETS.F1",
+      "code": "TRADE.GENERAL.E34",
       "uom": "SFT",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -2038,12 +2374,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -2061,12 +2401,16 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -2074,12 +2418,16 @@
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADPANCARD",
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OLDLICENCENO",
+            "AADHAARCARD",
+            "PANCARD",
             "REGCERT",
-            "DEED",
             "PTAX",
             "BLUPRNT",
-            "NBNOC",
+            "NBNOC1",
+            "NBNOC2",
             "PLANCERT",
             "BULDPHOTO"
           ]
@@ -2091,4 +2439,5 @@
       "verificationDocument": []
     }
   ]
+   
 }
