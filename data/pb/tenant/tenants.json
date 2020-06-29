@@ -167,6 +167,38 @@
       "address": "Office of the Cantonment Board Secunderabad, Court Compound, SP Road, Telangana 500003",
       "contactNumber": "040-27808600",
       "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
+    },
+    {
+      "code": "pb.dgde",
+      "name": "DGDE",
+      "description": "DGDE",
+      "logoId": "https://www.dgde.gov.in/sites/default/files/DGDE_Logo_1.png",
+      "imageId": null,
+      "domainUrl": "https://www.dgde.gov.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        
+      },
+      "city": {
+        "name": "DGDE",
+        "localName": "DGDE",
+        "districtCode": "0",
+        "districtName": "DGDE",
+        "districtTenantCode": "pb.dgde",
+        "regionName": "DGDE",
+        "ulbGrade": "ST",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+	      "ddrName": null
+      },
+      "address": "Directorate General Defence Estates, Raksha Sampada Bhawan, Ulaan Baatar Marg,Delhi Cantt - 110 010.",
+      "contactNumber": "011-25674981"
     } 
   ]
 }
