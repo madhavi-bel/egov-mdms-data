@@ -18,11 +18,6 @@
       "description": "System Administrator. Can change all master data and has access to all the system screens."
     },
     {
-      "code": "TL_APPROVER",
-      "name": "TL Approver",
-      "description": "Who has a access to Trade License Workflow"
-    },
-    {
       "code": "TL_CEMP",
       "name": "TL Counter Employee",
       "description": "Counter Employee in Trade License who files TL on behalf of the citizen"
