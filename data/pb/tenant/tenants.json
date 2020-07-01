@@ -172,7 +172,7 @@
       "code": "pb",
       "name": "DGDE",
       "description": "DGDE",
-      "logoId": "https://www.dgde.gov.in/sites/default/files/DGDE_Logo_1.png",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/dgde-logo.png",
       "imageId": null,
       "domainUrl": "https://www.dgde.gov.in/",
       "type": "CITY",
