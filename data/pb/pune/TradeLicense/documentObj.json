@@ -5,6 +5,14 @@
       {
         "allowedDocs": [
           {
+            "documentType": "OWNERPHOTO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
+          },
+          {
             "documentType": "OWNERSHIPPROOF",
             "applicationType": [
               "NEW",
