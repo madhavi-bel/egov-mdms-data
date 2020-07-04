@@ -46,6 +46,11 @@
       "code": "UC_EMP",
       "name": "Universal Collection Employee",
       "description": "Universal Miscellaneous Collection Employee"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
     }
   ]
 }
