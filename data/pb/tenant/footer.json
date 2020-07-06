@@ -26,28 +26,20 @@
       ],
       "billFooterContent": [
         {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "disclaimer": "nocNeighbour1",
           "order": "1."
         },
         {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "disclaimer": "nocNeighbour2",
           "order": "2."
         },
         {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "disclaimer": "planCert",
           "order": "3."
         },
         {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "disclaimer": "buildingPhoto",
           "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
-          "order": "6."
         }
       ]
     } 
