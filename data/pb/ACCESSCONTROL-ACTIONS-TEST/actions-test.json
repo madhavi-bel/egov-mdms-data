@@ -16440,7 +16440,7 @@
     {
       "id": 5004,
       "name": "UC Report",
-      "url": "/report/rainmaker-uc/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptULB/_get",
       "displayName": "Universal Collection Report",
       "orderNumber": 0,
       "enabled": true,
