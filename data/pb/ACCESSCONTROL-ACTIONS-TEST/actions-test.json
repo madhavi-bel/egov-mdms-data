@@ -16429,13 +16429,13 @@
     {
       "id": 5003,
       "name": "UCReportMetadata",
-      "url": "/report/rainmaker-uc/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptULB/metadata/_get",
       "displayName": "Universal Collection Report metadata",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "UC Collection Metadata "
+      "path": "UC Collection Metadata"
     },
     {
       "id": 5004,
