@@ -20235,6 +20235,66 @@
         "tenantId": "pb"
       },
       {
+        "rolecode": "CITIZEN",
+        "actionid": 1864,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 1863,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 704,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 5002,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 5004,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 1802,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+    {
+        "rolecode": "CITIZEN",
+        "actionid": 5003,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1808,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1911,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1921,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
         "rolecode": "EMPLOYEE",
         "actionid": 5001,
         "actioncode": "",
@@ -20276,5 +20336,6 @@
         "actioncode": "",
         "tenantId": "pb"
       } 
+
   ]
 }
