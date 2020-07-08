@@ -16491,7 +16491,7 @@
       "id": 5008,
       "name": "MiscBusinessServiceCollectionTenantMetadata",
       "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
-      "displayName": "Universal Collection Report metadata",
+      "displayName": "MiscBusinessServiceCollectionTenant metadata",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "UCREPORTS",
