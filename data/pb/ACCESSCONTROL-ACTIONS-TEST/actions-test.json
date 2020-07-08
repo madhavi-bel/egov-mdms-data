@@ -16486,6 +16486,17 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
       "path": "Reports.miscellaneous Receipt Register"
+    },
+    {
+      "id": 5008,
+      "name": "MiscBusinessServiceCollectionTenantMetadata",
+      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
+      "displayName": "Universal Collection Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscBusinessServiceCollectionTenant Metadata"
     }
   ]
 }
