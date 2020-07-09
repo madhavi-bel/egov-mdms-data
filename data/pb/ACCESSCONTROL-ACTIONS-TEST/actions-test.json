@@ -16497,6 +16497,17 @@
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "MiscBusinessServiceCollectionTenant Metadata"
+    },
+    {
+      "id": 5009,
+      "name": "MiscBusinessServiceCollectionTenant",
+      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
+      "displayName": "Misc BusinessService Collection Tenant Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscBusinessServiceCollectionTenant"
     }
   ]
 }
