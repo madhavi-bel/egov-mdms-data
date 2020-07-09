@@ -16508,6 +16508,28 @@
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "MiscBusinessServiceCollectionTenant"
+    },
+    {
+      "id": 5010,
+      "name": "MiscReceiptULBCancelledMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
+      "displayName": "MiscReceiptULBCancelled metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBCancelled Metadata"
+    },
+    {
+      "id": 5011,
+      "name": "MiscReceiptULBCancelled",
+      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/_get",
+      "displayName": "Misc BusinessService Collection Tenant Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBCancelled"
     }
   ]
 }
