@@ -232,12 +232,6 @@
                   "jsonPath" : "*/addresses/*/address"
                 },
                 "accessType" : "PLAIN"
-              },             
-              {
-                "attribute" : {
-                  "jsonPath" : "*/collectorname"
-                },
-                "accessType" : "PLAIN"
               }
             ]
           }
@@ -1236,7 +1230,7 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/collectorname"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               }
@@ -1252,7 +1246,7 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/collectorname"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               }
