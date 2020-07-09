@@ -16530,6 +16530,28 @@
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "MiscReceiptULBCancelled"
+    },
+    {
+      "id": 5012,
+      "name": "MiscReceiptULBShortMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
+      "displayName": "MiscReceiptULBShort metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBShort Metadata"
+    },
+    {
+      "id": 5013,
+      "name": "MiscReceiptULBShort",
+      "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
+      "displayName": "Misc Receipt Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBShort"
     }
   ]
 }
