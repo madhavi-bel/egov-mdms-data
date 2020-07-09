@@ -12541,6 +12541,56 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "DEPOSIT",
+      "service": "TX.PROPTY",
+      "name": "TX.PROPTY_SEC_DEP",
+      "code": "TX.PROPTY_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "DEPOSIT",
+      "service": "TX.PROPTY",
+      "name": "TX.PROPTY_CGST",
+      "code": "TX.PROPTY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "DEPOSIT",
+      "service": "TX.PROPTY",
+      "name": "TX.PROPTY_SGST",
+      "code": "TX.PROPTY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "DEPOSIT",
+      "service": "TX.PROPTY",
+      "name": "TX.PROPTY_FIELD_FEE",
+      "code": "TX.PROPTY_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "DEPOSIT",
+      "service": "TX.PROPTY",
+      "name": "TX.PROPTY_TAX",
+      "code": "TX.PROPTY_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": true
     }
   ]
 }

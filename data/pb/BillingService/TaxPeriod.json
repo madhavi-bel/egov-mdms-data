@@ -1537,6 +1537,14 @@
       "service": "UC.WATER_TNK",
       "code": "UCWATERTNKFIELDFEE",
       "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1585679400000,
+      "toDate": 1901212200000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.PROPTY",
+      "code": "TXPROPTYFIELDFEE",
+      "financialYear": "2020-30"
     }
   ]
 }
