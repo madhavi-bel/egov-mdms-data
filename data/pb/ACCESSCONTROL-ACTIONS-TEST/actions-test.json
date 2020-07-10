@@ -16401,9 +16401,9 @@
     },
     {
       "id": 5001,
-      "name": "mCollect Receipt Register",
+      "name": "MiscReceiptULB",
       "url": "url",
-      "displayName": "mCollect Receipt Register",
+      "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "MiscReceipt",
