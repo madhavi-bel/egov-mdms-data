@@ -16587,6 +16587,41 @@
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "StateLevelMiscCollectReceiptRegister"
+    },
+    {
+      "id": 5017,
+      "name": "StateLevelMiscReceipt",
+      "url": "url",
+      "displayName": "State Level mCollect Receipt Register",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/StateLevelMiscReceipt",
+      "path": "Reports.State Level mCollect Receipt Register"
+    },
+    {
+      "id": 5018,
+      "name": "StateLevelMiscReceiptMetadata",
+      "url": "/report/rainmaker-uc/StateLevelMiscReceipt/metadata/_get",
+      "displayName": "StateLevelMiscReceipt metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "StateLevelMiscReceipt Metadata"
+    },
+    {
+      "id": 5019,
+      "name": "StateLevelMiscReceipt",
+      "url": "/report/rainmaker-uc/StateLevelMiscReceipt/_get",
+      "displayName": "Misc Receipt Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "StateLevelMiscReceipt"
     }
   ]
 }
