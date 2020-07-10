@@ -16555,7 +16555,7 @@
     },
     {
       "id": 5014,
-      "name": "StateLevelmCollectReceiptRegister",
+      "name": "StateLevelMiscCollectReceiptRegister",
       "url": "url",
       "displayName": "State Level mCollect Receipt Register",
       "orderNumber": 5,
@@ -16563,30 +16563,30 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/StateLevelmCollectReceiptRegister",
+      "navigationURL": "report/rainmaker-uc/StateLevelMiscCollectReceiptRegister",
       "path": "Reports.State Level mCollect Receipt Register"
     },
     {
       "id": 5015,
-      "name": "StateLevelmCollectReceiptRegisterMetadata",
-      "url": "/report/rainmaker-uc/StateLevelmCollectReceiptRegister/metadata/_get",
-      "displayName": "StateLevelmCollectReceiptRegister metadata",
+      "name": "StateLevelMiscCollectReceiptRegisterMetadata",
+      "url": "/report/rainmaker-uc/StateLevelMiscCollectReceiptRegister/metadata/_get",
+      "displayName": "StateLevelMiscCollectReceiptRegister metadata",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "StateLevelmCollectReceiptRegister Metadata"
+      "path": "StateLevelMiscCollectReceiptRegister Metadata"
     },
     {
       "id": 5016,
-      "name": "StateLevelmCollectReceiptRegister",
-      "url": "/report/rainmaker-uc/StateLevelmCollectReceiptRegister/_get",
+      "name": "StateLevelMiscCollectReceiptRegister",
+      "url": "/report/rainmaker-uc/StateLevelMiscCollectReceiptRegister/_get",
       "displayName": "Misc Receipt Report",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "StateLevelmCollectReceiptRegister"
+      "path": "StateLevelMiscCollectReceiptRegister"
     }
   ]
 }
