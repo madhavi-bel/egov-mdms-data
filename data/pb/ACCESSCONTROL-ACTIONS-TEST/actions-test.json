@@ -16592,14 +16592,14 @@
       "id": 5017,
       "name": "StateLevelMiscReceipt",
       "url": "url",
-      "displayName": "State Level mCollect Receipt Register",
+      "displayName": "State Level Misc Receipt",
       "orderNumber": 6,
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/StateLevelMiscReceipt",
-      "path": "Reports.State Level mCollect Receipt Register"
+      "path": "Reports.State Level Misc Receipt"
     },
     {
       "id": 5018,
