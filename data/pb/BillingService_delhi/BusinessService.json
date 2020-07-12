@@ -1,0 +1,1869 @@
+{
+  "tenantId": "pb.delhi",
+  "moduleName": "BillingService_delhi",
+  "BusinessService": [
+    {
+      "businessService": "PropertyTax",
+      "code": "PT",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": true,
+      "minAmountPayable": 100,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
+    },
+    {
+      "businessService": "WaterCharges",
+      "code": "WC",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
+    {
+      "businessService": "TradeLicense",
+      "code": "TL",
+      "collectionModesNotAllowed": [
+        "DD",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "Assigned Revenues and Compensations.Compensation in lieu of concessions",
+      "code": "ASSREV.COMP_CONCESSION",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Assigned Revenues and Compensations.Compensation in lieu of taxes / duties",
+      "code": "ASSREV.COMP_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Assigned Revenues and Compensations.Taxes and Duties collected by others",
+      "code": "ASSREV.COMP_TAXOTHER",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Creditors Deposits.Earnest Money Deposit",
+      "code": "CREDDEP.MNY_DEP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Creditors Deposits.Election Candidate Security Deposit",
+      "code": "CREDDEP.CAND_SEC_DEP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Creditors Deposits.Security Deposit",
+      "code": "CREDDEP.SEC_DEP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Entry Fee.Museum Entry Fee",
+      "code": "ENTFEE.MUSEUM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Entry Fee.Parks Entry Fee",
+      "code": "ENTFEE.PARK",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Entry Fee.Playgrounds Entry Fee",
+      "code": "ENTFEE.PLYGRND",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Entry Fee.Vehicle Entry Fee",
+      "code": "ENTFEE.VEH",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Grant for Mid Day Meal",
+      "code": "GRNTINT.MDM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Grant for Swachh Bharat Mission",
+      "code": "GRNTINT.SBM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Infrastucture Grant",
+      "code": "GRNTINT.INF",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Interest from SB accounts",
+      "code": "GRNTINT.INT_SB",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Interest on loans and advances to Employees",
+      "code": "GRNTINT.INT_LOAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Revenue Grant",
+      "code": "GRNTINT.REV_GRNT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Interest on fixed deposits",
+      "code": "GRNTINT.INT_FD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants and Interest Earned.Interest on term deposits",
+      "code": "GRNTINT.INT_TD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Application fee (Building construction/Layout Sanction)",
+      "code": "OTHFEE.APP_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Betterment charges at the time of sub-division of plot",
+      "code": "OTHFEE.BETT_CHRG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Birth Registration Fees",
+      "code": "OTHFEE.BIRTH_REG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Building plan/layout plan/sub-division of plot processing fess",
+      "code": "OTHFEE.BLD_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Cattle Challan",
+      "code": "OTHFEE.CATT_CHALLAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Compounding fee for unauthorized construction",
+      "code": "OTHFEE.COMP_UNAUTH",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Compounding fees in case of delay in application for mutation",
+      "code": "OTHFEE.COMPD_DLYAPP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Compunding Fee",
+      "code": "OTHFEE.COMPD_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Conservancy Reciepts",
+      "code": "OTHFEE.CONSRV",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Construction/Demolition Waste",
+      "code": "OTHFEE.CONST_WASTE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Court Stamp Fee",
+      "code": "OTHFEE.CRT_STMP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Dairy Animals Challan",
+      "code": "OTHFEE.DRY_ANML_CHALLAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Damages Charges",
+      "code": "OTHFEE.DMG_CHRG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Dead animals contract Fees",
+      "code": "OTHFEE.DEAD_ANML_CONT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Death Registration Fees",
+      "code": "OTHFEE.DEATH_REG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Dengue Challan",
+      "code": "OTHFEE.DENG_CHALLAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Development Charges",
+      "code": "OTHFEE.DEV_CHRG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Distraint fees",
+      "code": "OTHFEE.DISTRAINT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Distraint Fees in Tax",
+      "code": "OTHFEE.DISTRAINT_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Drinking Water Tanker Charges",
+      "code": "OTHFEE.DRINK_WT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Dumping garbage Challan",
+      "code": "OTHFEE.DUMP_GRBG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Education Fee",
+      "code": "OTHFEE.EDU",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Election rally fees",
+      "code": "OTHFEE.ELEC_RLY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Empanelment & Registration Fee",
+      "code": "OTHFEE.EMP_REG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Encroachment",
+      "code": "OTHFEE.ENCRMNT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Fee for mutation in Tax register",
+      "code": "OTHFEE.MTN_TR",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Fees for Certificate or Extract",
+      "code": "OTHFEE.CERT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Fees for Duplicate Copy(Naqal)",
+      "code": "OTHFEE.DC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Fees for grant of Permit",
+      "code": "OTHFEE.GRNT_PERM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Fine for Over Draft",
+      "code": "OTHFEE.OD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Hackney Carriage",
+      "code": "OTHFEE.HC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Issue of Birth Certificate",
+      "code": "OTHFEE.ISS_BIRTHCERT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Issue of Death Certificate",
+      "code": "OTHFEE.ISS_DEATHCERT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Medical fees",
+      "code": "OTHFEE.MED",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Issue of sanitation certificates",
+      "code": "OTHFEE.ISS_SANTICERT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Issue of Voter list",
+      "code": "OTHFEE.VOTERLIST",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.License Fee on Rikshaw",
+      "code": "OTHFEE.RICKSHW",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Licensing Fees",
+      "code": "OTHFEE.LIC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Medical fees",
+      "code": "OTHFEE.MED",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Miscellaneous charges",
+      "code": "OTHFEE.MISC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Mutation Fees",
+      "code": "OTHFEE.MTN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.No Due Certificate fees",
+      "code": "OTHFEE.NDC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Notice Fees",
+      "code": "OTHFEE.NOTICE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Other Penalties / Fines/Challan",
+      "code": "OTHFEE.PENALT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Other show fee",
+      "code": "OTHFEE.OTH_SHOW",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Parking fees during election",
+      "code": "OTHFEE.PARK_ELEC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Plastic/ polythene Challan",
+      "code": "OTHFEE.PLASTIC_CHALLAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Registration fees",
+      "code": "OTHFEE.REG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Regulation Fees",
+      "code": "OTHFEE.REGL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Rehri Challan",
+      "code": "OTHFEE.REHRI",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Road show fee",
+      "code": "OTHFEE.RD_SHOW",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.RTI Fee",
+      "code": "OTHFEE.RTI",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Slaughter House Fee",
+      "code": "OTHFEE.SLGHT_HS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Tehbazaari",
+      "code": "OTHFEE.TEHBAZZZRI",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Tender Form Fee",
+      "code": "OTHFEE.TNDR_FRM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Water Charges",
+      "code": "OTHFEE.WATER_CHRG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Tree auction",
+      "code": "OTHFEE.TREE_AUC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.True extract for assessment of tax",
+      "code": "OTHFEE.TR_ASS_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Warrant Fees",
+      "code": "OTHFEE.WF",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Community Centre Booking Fee",
+      "code": "RENT.COM_CEN_BK",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Erection of poles for cabling",
+      "code": "RENT.EREC_POL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Fares Exhibitions Circus Etc.",
+      "code": "RENT.EXB_CIRC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Rent from Cantt Fund Premises - temporary hiring",
+      "code": "RENT.CANTT_FUND",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Rent from Civic Amenities",
+      "code": "RENT.CA",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Rent from Guest Houses",
+      "code": "RENT.GH",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Rent from Office Buildings",
+      "code": "RENT.OFF_BLDG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Rent remission and refund",
+      "code": "RENT.REMIS_REFND",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Street Vendor",
+      "code": "RENT.ST_VEN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Telecom Tower Annual Rent",
+      "code": "RENT.TEL_TW",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.Temporary Stalls on defence lands",
+      "code": "RENT.TEMP_STALL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.ULB Land Rent- Lease rentals",
+      "code": "RENT.ULB_LEASE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.ULB Land Rent- Patta",
+      "code": "RENT.ULB_PATTA",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.ULB Nazool Land Rent",
+      "code": "RENT.ULB_NAZOOL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.ULB Shops Rent",
+      "code": "RENT.ULB_SHP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rent From Municipal Properties.ULB Land Rent - Licence",
+      "code": "RENT.ULB_LIC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale and Hire Charges.Auction of trees",
+      "code": "SALE.AUC_TREE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale and Hire Charges.Sale of Forms and Publications",
+      "code": "SALE.FRM_PUB",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale and Hire Charges.Sale of Products",
+      "code": "SALE.PROD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale and Hire Charges.Sale of stores scrap",
+      "code": "SALE.STR_SCRP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cheque bouncing charges",
+      "code": "SRVC.CHQ_BNC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Admin",
+      "code": "SRVC.APP_ADM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Conservancy",
+      "code": "SRVC.APP_CONSER",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Electrial Dept",
+      "code": "SRVC.APP_ELEC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Engineering PWD",
+      "code": "SRVC.APP_PWD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Engineering Town Planning",
+      "code": "SRVC.APP_ENGTP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Hospital",
+      "code": "SRVC.APP_HOSP",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Revenue Department",
+      "code": "SRVC.APP_RD",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Stores",
+      "code": "SRVC.APP_STR",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Tax",
+      "code": "SRVC.APP_TAX",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Cost of Application form in Water",
+      "code": "SRVC.APP_WATER",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Service and Adminstrative Charges.Service Charges",
+      "code": "SRVC.SRVC_CHRG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Advertisement Tax(Hoardings/Unipolls/Wall Painting/Gass Balloon/Other)",
+      "code": "TX.ADVT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Conservancy taxes",
+      "code": "TX.CONS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Profession tax",
+      "code": "TX.PROF",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Sanitation Tax",
+      "code": "TX.SANT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Property tax",
+      "code": "TX.PROPTY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Burial Ground Charges",
+      "code": "UC.BUR_GRND",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.New water connection",
+      "code": "UC.NEW_WATER_CONC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Change of water connection",
+      "code": "UC.CHNG_WATER_CONC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Cost of feeding animal",
+      "code": "UC.COST_FEED_AN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Crematorium Charges",
+      "code": "UC.CREMAT_CHRG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Education Cess",
+      "code": "UC.EDU_CESS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Funeral Van Charges",
+      "code": "UC.FNRL_VAN",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Garbage Collection Charges",
+      "code": "UC.GRBG_COLL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Library membership fee/charges",
+      "code": "UC.LIB_MEM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Material Stacking charges",
+      "code": "UC.MTRL_STACK",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Pay & Use Toilets Charges",
+      "code": "UC.PU_TLT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Permission for digging of bore well",
+      "code": "UC.PERM_BORE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Processing Fee",
+      "code": "UC.PROCES_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Publication fee",
+      "code": "UC.PUB_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Rent for mobile toilets",
+      "code": "UC.MOB_TLT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Road cutting charges",
+      "code": "UC.RD_CUTT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Septic Tank Clearance Charges",
+      "code": "UC.SEP_TNK_CLR",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Water Tanker fee",
+      "code": "UC.WATER_TNK",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Advertisement Tax.Gas Balloon Advertisement",
+      "code": "ADVT.Gas_Balloon_Advertisement",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "Revenue Grants",
+      "code": "REV_GRANTS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Disposal of Fixed Asset.Land",
+      "code": "DISP_FIXED_ASSET.LAND",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Disposal of Fixed Asset.Building",
+      "code": "DISP_FIXED_ASSET.BUILDING",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "Disposal of Fixed Asset.Motor Vehicle",
+      "code": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    },
+    {
+      "businessService": "BPARegistration",
+      "code": "BPAREG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "ws-services-calculation",
+      "code": "WS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
+    },
+    {
+      "businessService": "sw-services-calculation",
+      "code": "SW",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "billGineiURL": "egov-searcher/bill-genie/seweragebills/_get"
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
+      "code": "BPA.NC_APP_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
+      "code": "BPA.NC_SAN_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "code": "PT.MUTATION",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "TL.RENEWAL",
+      "code": "TL.RENEWAL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "WS.ONE_TIME_FEE",
+      "code": "WS.ONE_TIME_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_LOW_RISK_PERMIT_FEE",
+      "code": "BPA.LOW_RISK_PERMIT_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "SW.ONE_TIME_FEE",
+      "code": "SW.ONE_TIME_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    }
+  ]
+}
