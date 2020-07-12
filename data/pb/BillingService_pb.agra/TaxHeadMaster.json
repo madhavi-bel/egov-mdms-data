@@ -1,6 +1,6 @@
 {
   "tenantId": "pb.agra",
-  "moduleName": "BillingService_pb.agra",
+  "moduleName": "BillingService_agra",
   "TaxHeadMaster": [
     {
       "category": "TAX",

@@ -755,7 +755,7 @@
     }
 
   },
-  "BillingService_pb.agra": {
+  "BillingService_agra": {
     "TaxPeriod": {
       "masterName": "TaxPeriod",
       "isStateLevel": false,
