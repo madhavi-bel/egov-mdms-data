@@ -140,7 +140,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "glcode":"123456"
     },
     {
       "businessService": "Entry Fee.Playgrounds Entry Fee",
@@ -152,7 +153,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "glcode":"123"
     },
     {
       "businessService": "Entry Fee.Vehicle Entry Fee",
@@ -298,7 +300,8 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "isCitizen": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "glcode":"1"
     },
     {
       "businessService": "Other Fee and Fines.Building plan/layout plan/sub-division of plot processing fess",
