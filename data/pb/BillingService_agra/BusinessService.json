@@ -132,7 +132,7 @@
     },
     {
       "businessService": "Entry Fee.Parks Entry Fee",
-      "code": "ENTFEE.PARK",
+      "code": "ENTFEE.PARK.12345",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -144,7 +144,7 @@
     },
     {
       "businessService": "Entry Fee.Playgrounds Entry Fee",
-      "code": "ENTFEE.PLYGRND",
+      "code": "ENTFEE.PLYGRND.987654",
       "collectionModesNotAllowed": [
         "DD"
       ],
