@@ -1,6 +1,6 @@
 {
-  "tenantId": "pb",
-  "moduleName": "BillingService",
+  "tenantId": "pb.delhi",
+  "moduleName": "BillingService_delhi",
   "TaxPeriod": [
     {
       "fromDate": 1554076799000,

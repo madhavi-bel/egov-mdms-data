@@ -16491,12 +16491,137 @@
       "id": 5008,
       "name": "MiscBusinessServiceCollectionTenantMetadata",
       "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
-      "displayName": "Universal Collection Report metadata",
+      "displayName": "MiscBusinessServiceCollectionTenant metadata",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "MiscBusinessServiceCollectionTenant Metadata"
+    },
+    {
+      "id": 5009,
+      "name": "MiscBusinessServiceCollectionTenant",
+      "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
+      "displayName": "Misc BusinessService Collection Tenant Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscBusinessServiceCollectionTenant"
+    },
+    {
+      "id": 5010,
+      "name": "MiscReceiptULBCancelledMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
+      "displayName": "MiscReceiptULBCancelled metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBCancelled Metadata"
+    },
+    {
+      "id": 5011,
+      "name": "MiscReceiptULBCancelled",
+      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/_get",
+      "displayName": "Misc BusinessService Collection Tenant Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBCancelled"
+    },
+    {
+      "id": 5012,
+      "name": "MiscReceiptULBShortMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
+      "displayName": "MiscReceiptULBShort metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBShort Metadata"
+    },
+    {
+      "id": 5013,
+      "name": "MiscReceiptULBShort",
+      "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
+      "displayName": "Misc Receipt Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscReceiptULBShort"
+    },
+    {
+      "id": 5014,
+      "name": "StateLevelMiscCollectReceiptRegister",
+      "url": "url",
+      "displayName": "State Level mCollect Receipt Register",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/StateLevelMiscCollectReceiptRegister",
+      "path": "Reports.State Level mCollect Receipt Register"
+    },
+    {
+      "id": 5015,
+      "name": "StateLevelMiscCollectReceiptRegisterMetadata",
+      "url": "/report/rainmaker-uc/StateLevelMiscCollectReceiptRegister/metadata/_get",
+      "displayName": "StateLevelMiscCollectReceiptRegister metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "StateLevelMiscCollectReceiptRegister Metadata"
+    },
+    {
+      "id": 5016,
+      "name": "StateLevelMiscCollectReceiptRegister",
+      "url": "/report/rainmaker-uc/StateLevelMiscCollectReceiptRegister/_get",
+      "displayName": "Misc Receipt Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "StateLevelMiscCollectReceiptRegister"
+    },
+    {
+      "id": 5017,
+      "name": "StateLevelMiscReceipt",
+      "url": "url",
+      "displayName": "State Level Misc Receipt",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/StateLevelMiscReceipt",
+      "path": "Reports.State Level Misc Receipt"
+    },
+    {
+      "id": 5018,
+      "name": "StateLevelMiscReceiptMetadata",
+      "url": "/report/rainmaker-uc/StateLevelMiscReceipt/metadata/_get",
+      "displayName": "StateLevelMiscReceipt metadata",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "StateLevelMiscReceipt Metadata"
+    },
+    {
+      "id": 5019,
+      "name": "StateLevelMiscReceipt",
+      "url": "/report/rainmaker-uc/StateLevelMiscReceipt/_get",
+      "displayName": "Misc Receipt Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "StateLevelMiscReceipt"
     }
   ]
 }

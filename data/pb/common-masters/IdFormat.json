@@ -1104,6 +1104,10 @@
     {
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "uc.water_tnk.receipt.id"
+    },
+    {
+      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "tx.propty.receipt.id"
     }
   ]
 }
