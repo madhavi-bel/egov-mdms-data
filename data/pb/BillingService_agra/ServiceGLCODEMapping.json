@@ -1,16 +1,21 @@
 {
-    "tenantId": "pb.agra",
+    "tenantId": "pb",
     "moduleName": "BillingService_agra",
     "ServiceGLCODEMapping": [
       {
         "code": "ENTFEE.PARK",
         "glcode":5678,
-        "cb":"agra"
+        "cb":"pb.agra"
       },
       {
         "code": "ENTFEE.MUSEUM",
         "glcode":123,
-        "cb":"agra"
+        "cb":"pb.agra"
+      },
+      {
+        "code": "ENTFEE.PARK",
+        "glcode":8798,
+        "cb":"pb.delhi"
       }
     ]
 }
