@@ -140,7 +140,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "glcode":"7896"
     },
     {
       "businessService": "Entry Fee.Playgrounds Entry Fee",
