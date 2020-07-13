@@ -1,7 +1,7 @@
 {
     "tenantId": "pb.agra",
     "moduleName": "BillingService_agra",
-    "GLcodeService": [
+    "ServiceGLCODEMapping": [
       {
         "code": "ENTFEE.PARK",
         "glcode":5678,
