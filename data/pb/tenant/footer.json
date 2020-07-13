@@ -7,22 +7,18 @@
       "code": "pb.secunderabad",
       "service": "TL",
       "receiptFooterContent": [
-         {
-                    "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_TLAPP_NBNOC1",
-                    "order": "1."
-                },
-                {
-                    "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_TLAPP_NBNOC2",
-                    "order": "2."
-                },
-                {
-                    "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_TLAPP_PLANCERT",
-                    "order": "3."
-                },
-                {
-                    "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_TLAPP_BULDPHOTO",
-                    "order": "4."
-                }
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
       ],
       "billFooterContent": [
         {
