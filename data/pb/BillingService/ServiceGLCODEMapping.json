@@ -1,21 +1,3361 @@
 {
-    "tenantId": "pb",
-    "moduleName": "BillingService",
-    "ServiceGLCODEMapping": [
-      {
-        "code": "ENTFEE.PARK",
-        "glcode":5678,
-        "cb":"pb.agra"
-      },
-      {
-        "code": "ENTFEE.MUSEUM",
-        "glcode":123,
-        "cb":"pb.agra"
-      },
-      {
-        "code": "ENTFEE.PARK",
-        "glcode":8798,
-        "cb":"pb.delhi"
-      }
-    ]
+	"tenantId": "pb",
+	"moduleName": "BillingService",
+	"ServiceGLCODEMapping": [
+		{
+			"code": "ASSREV.COMP_CONCESSION",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ASSREV.COMP_TAX",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ASSREV.COMP_TAXOTHER",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "CREDDEP.MNY_DEP",
+			"glcode": "110-3611",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "CREDDEP.CAND_SEC_DEP",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "CREDDEP.SEC_DEP",
+			"glcode": "110-3611",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ENTFEE.MUSEUM",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ENTFEE.PARK",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ENTFEE.PLYGRND",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ENTFEE.VEH",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.MDM",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.SBM",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.INF",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.INT_SB",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.INT_LOAN",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.REV_GRNT",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.INT_FD",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "GRNTINT.INT_TD",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.APP_FEE",
+			"glcode": "320-1535",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.BETT_CHRG",
+			"glcode": "320-1541",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.BIRTH_REG",
+			"glcode": "830-1551",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.BLD_FEE",
+			"glcode": "320-1596",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.CATT_CHALLAN",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.COMP_UNAUTH",
+			"glcode": "320-1555",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.COMPD_DLYAPP",
+			"glcode": "290-1599",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.COMPD_FEE",
+			"glcode": "320-1555",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.CONSRV",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.CONST_WASTE",
+			"glcode": "599-1559",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.CRT_STMP",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DRY_ANML_CHALLAN",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DMG_CHRG",
+			"glcode": "220-1554",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DEAD_ANML_CONT",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DEATH_REG",
+			"glcode": "830-1551",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DENG_CHALLAN",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DEV_CHRG",
+			"glcode": "320-1541",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT",
+			"glcode": "210-1557",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT_TAX",
+			"glcode": "210-1557",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DRINK_WT",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DUMP_GRBG",
+			"glcode": "540-1559",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.EDU",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.ELEC_RLY",
+			"glcode": "110-1999",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.EMP_REG",
+			"glcode": "110-1531",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.ENCRMNT",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.MTN_TR",
+			"glcode": "210-1591",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.CERT",
+			"glcode": "310-1592",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.DC",
+			"glcode": "110-1592",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.GRNT_PERM",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.OD",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.HC",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.ISS_BIRTHCERT",
+			"glcode": "830-1592",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.ISS_DEATHCERT",
+			"glcode": "830-1593",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.ISS_SANTICERT",
+			"glcode": "590-1539",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.VOTERLIST",
+			"glcode": "190-1592",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.RICKSHW",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.LIC",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.MED",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.MISC",
+			"glcode": "190-1999",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.MTN",
+			"glcode": "210-1591",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.NDC",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.NOTICE",
+			"glcode": "210-1553",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.PENALT",
+			"glcode": "110-1551",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.OTH_SHOW",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.PARK_ELEC",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.PLASTIC_CHALLAN",
+			"glcode": "540-1559",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.REG",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.REGL",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.REHRI",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.RD_SHOW",
+			"glcode": "110-1999",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.RTI",
+			"glcode": "190-1534",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.SLGHT_HS",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.TEHBAZZZRI",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.TNDR_FRM",
+			"glcode": "110-1535",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.TREE_AUC",
+			"glcode": "390-1593",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.TR_ASS_TAX",
+			"glcode": "220-1592",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.WF",
+			"glcode": "210-1552",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "OTHFEE.WATER_CHRG",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.COM_CEN_BK",
+			"glcode": "320-1327",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.EREC_POL",
+			"glcode": "310-1319",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.EXB_CIRC",
+			"glcode": "640-1994",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.CANTT_FUND",
+			"glcode": "640-1326",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.CA",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.GH",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.OFF_BLDG",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.REMIS_REFND",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.ST_VEN",
+			"glcode": "690-1513",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.TEL_TW",
+			"glcode": "220-1319",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.TEMP_STALL",
+			"glcode": "640-1314",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.ULB_LEASE",
+			"glcode": "640-1312",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.ULB_PATTA",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.ULB_NAZOOL",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.ULB_SHP",
+			"glcode": "320-1322",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "RENT.ULB_LIC",
+			"glcode": "640-1313",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SALE.AUC_TREE",
+			"glcode": "390-1593",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SALE.FRM_PUB",
+			"glcode": "190-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SALE.PROD",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SALE.STR_SCRP",
+			"glcode": "180-1631",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.CHQ_BNC",
+			"glcode": "110-1559",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_ADM",
+			"glcode": "110-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_CONSER",
+			"glcode": "540-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_ELEC",
+			"glcode": "480-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_PWD",
+			"glcode": "310-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_ENGTP",
+			"glcode": "320-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_HOSP",
+			"glcode": "810-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_RD",
+			"glcode": "220-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_STR",
+			"glcode": "180-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_TAX",
+			"glcode": "210-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.APP_WATER",
+			"glcode": "420-1621",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "SRVC.SRVC_CHRG",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "TX.ADVT",
+			"glcode": "220-1563",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "TX.CONS",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "TX.PROF",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "TX.SANT",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.BUR_GRND",
+			"glcode": "690-1319",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.NEW_WATER_CONC",
+			"glcode": "440-1533",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.CHNG_WATER_CONC",
+			"glcode": "490-1533",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.COST_FEED_AN",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.CREMAT_CHRG",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.EDU_CESS",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.FNRL_VAN",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.GRBG_COLL",
+			"glcode": "520-1526",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.LIB_MEM",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.MTRL_STACK",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.PU_TLT",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.PERM_BORE",
+			"glcode": "490-1539",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.PROCES_FEE",
+			"glcode": "110-1596",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.PUB_FEE",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.MOB_TLT",
+			"glcode": "640-1525",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.RD_CUTT",
+			"glcode": "320-1993",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.SEP_TNK_CLR",
+			"glcode": "890-1921",
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "UC.WATER_TNK",
+			"glcode": null,
+			"cb": "pb.secunderabad"
+		},
+		{
+			"code": "ASSREV.COMP_CONCESSION",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ASSREV.COMP_TAX",
+			"glcode": "210-1169",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ASSREV.COMP_TAXOTHER",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "CREDDEP.MNY_DEP",
+			"glcode": "110-3611",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "CREDDEP.CAND_SEC_DEP",
+			"glcode": "130-3219",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "CREDDEP.SEC_DEP",
+			"glcode": "110-3629",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ENTFEE.MUSEUM",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ENTFEE.PARK",
+			"glcode": "220-1919",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ENTFEE.PLYGRND",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ENTFEE.VEH",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.MDM",
+			"glcode": "110-1439",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.SBM",
+			"glcode": "210-1525",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.INF",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.INT_SB",
+			"glcode": "110-1719",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.INT_LOAN",
+			"glcode": "110-4719",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.REV_GRNT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.INT_FD",
+			"glcode": "110-1711",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "GRNTINT.INT_TD",
+			"glcode": "110-1711",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.APP_FEE",
+			"glcode": "110-1535",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.BETT_CHRG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.BIRTH_REG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.BLD_FEE",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.CATT_CHALLAN",
+			"glcode": "540-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.COMP_UNAUTH",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.COMPD_DLYAPP",
+			"glcode": "310-1555",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.COMPD_FEE",
+			"glcode": "310-1555",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.CONSRV",
+			"glcode": "540-1526",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.CONST_WASTE",
+			"glcode": "320-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.CRT_STMP",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DRY_ANML_CHALLAN",
+			"glcode": "540-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DMG_CHRG",
+			"glcode": "220-1554",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DEAD_ANML_CONT",
+			"glcode": "540-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DEATH_REG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DENG_CHALLAN",
+			"glcode": "540-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DEV_CHRG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT",
+			"glcode": "220-1557",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT_TAX",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DRINK_WT",
+			"glcode": "110-1611",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DUMP_GRBG",
+			"glcode": "540-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.EDU",
+			"glcode": "920-1511",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.ELEC_RLY",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.EMP_REG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.ENCRMNT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.MTN_TR",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.CERT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.DC",
+			"glcode": "810-1592",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.GRNT_PERM",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.OD",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.HC",
+			"glcode": "220-1221",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.ISS_BIRTHCERT",
+			"glcode": "810-1592",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.ISS_DEATHCERT",
+			"glcode": "810-1592",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.ISS_SANTICERT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.VOTERLIST",
+			"glcode": "130-1629",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.RICKSHW",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.LIC",
+			"glcode": "630-1532",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.MED",
+			"glcode": "810-1512",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.MISC",
+			"glcode": "110-1519",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.MTN",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.NDC",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.NOTICE",
+			"glcode": "210-1553",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.PENALT",
+			"glcode": "220-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.OTH_SHOW",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.PARK_ELEC",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.PLASTIC_CHALLAN",
+			"glcode": "540-1559",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.REG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.REGL",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.REHRI",
+			"glcode": "220-1551",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.RD_SHOW",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.RTI",
+			"glcode": "110-1534",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.SLGHT_HS",
+			"glcode": "620-1514",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.TEHBAZZZRI",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.TNDR_FRM",
+			"glcode": "170-1535",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.TREE_AUC",
+			"glcode": "220-1593",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.TR_ASS_TAX",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.WF",
+			"glcode": "220-1552",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "OTHFEE.WATER_CHRG",
+			"glcode": "220-1611",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.COM_CEN_BK",
+			"glcode": "110-3713",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.EREC_POL",
+			"glcode": "220-1597",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.EXB_CIRC",
+			"glcode": "220-1994",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.CANTT_FUND",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.CA",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.GH",
+			"glcode": "740-1323",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.OFF_BLDG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.REMIS_REFND",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.ST_VEN",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.TEL_TW",
+			"glcode": "220-1312",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.TEMP_STALL",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.ULB_LEASE",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.ULB_PATTA",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.ULB_NAZOOL",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.ULB_SHP",
+			"glcode": "220-1322",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "RENT.ULB_LIC",
+			"glcode": "220-1312",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SALE.AUC_TREE",
+			"glcode": "220-1593",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SALE.FRM_PUB",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SALE.PROD",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SALE.STR_SCRP",
+			"glcode": "220-1631",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.CHQ_BNC",
+			"glcode": "110-1999",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_ADM",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_CONSER",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_ELEC",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_PWD",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_ENGTP",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_HOSP",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_RD",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_STR",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_TAX",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.APP_WATER",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "SRVC.SRVC_CHRG",
+			"glcode": "210-1239",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "TX.ADVT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "TX.CONS",
+			"glcode": "210-1113",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "TX.PROF",
+			"glcode": "210-1141",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "TX.SANT",
+			"glcode": "210-1113",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.BUR_GRND",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.NEW_WATER_CONC",
+			"glcode": "210-1533",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.CHNG_WATER_CONC",
+			"glcode": "210-1533",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.COST_FEED_AN",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.CREMAT_CHRG",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.EDU_CESS",
+			"glcode": "210-1579",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.FNRL_VAN",
+			"glcode": "810-1991",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.GRBG_COLL",
+			"glcode": "540-1529",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.LIB_MEM",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.MTRL_STACK",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.PU_TLT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.PERM_BORE",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.PROCES_FEE",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.PUB_FEE",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.MOB_TLT",
+			"glcode": null,
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.RD_CUTT",
+			"glcode": "310-1554",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.SEP_TNK_CLR",
+			"glcode": "540-1529",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "UC.WATER_TNK",
+			"glcode": "110-1611",
+			"cb": "pb.delhi"
+		},
+		{
+			"code": "ASSREV.COMP_CONCESSION",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ASSREV.COMP_TAX",
+			"glcode": "2101199",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ASSREV.COMP_TAXOTHER",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "CREDDEP.MNY_DEP",
+			"glcode": "2201513",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "CREDDEP.CAND_SEC_DEP",
+			"glcode": "2201562",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "CREDDEP.SEC_DEP",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ENTFEE.MUSEUM",
+			"glcode": "1103611",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ENTFEE.PARK",
+			"glcode": "1103629",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ENTFEE.PLYGRND",
+			"glcode": "1103629",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ENTFEE.VEH",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.MDM",
+			"glcode": "2201919",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.SBM",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.INF",
+			"glcode": "2101131",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.INT_SB",
+			"glcode": "1101429",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.INT_LOAN",
+			"glcode": "1101411",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.REV_GRNT",
+			"glcode": "1101412",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.INT_FD",
+			"glcode": "1101719",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "GRNTINT.INT_TD",
+			"glcode": "1101429",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.APP_FEE",
+			"glcode": "1101711",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.BETT_CHRG",
+			"glcode": "1101711",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.BIRTH_REG",
+			"glcode": "2201535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.BLD_FEE",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CATT_CHALLAN",
+			"glcode": "8301531",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.COMP_UNAUTH",
+			"glcode": "3201541",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.COMPD_DLYAPP",
+			"glcode": "2201559",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.COMPD_FEE",
+			"glcode": "3201555",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CONSRV",
+			"glcode": "3201555",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CONST_WASTE",
+			"glcode": "3201555",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CRT_STMP",
+			"glcode": "5401521",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DRY_ANML_CHALLAN",
+			"glcode": "2201551",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DMG_CHRG",
+			"glcode": "2201599",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DEAD_ANML_CONT",
+			"glcode": "2201559",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DEATH_REG",
+			"glcode": "2201554",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DENG_CHALLAN",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DEV_CHRG",
+			"glcode": "8301531",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT_TAX",
+			"glcode": "3201541",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DRINK_WT",
+			"glcode": "2201557",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DUMP_GRBG",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.EDU",
+			"glcode": "2201611",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.ELEC_RLY",
+			"glcode": "2201551",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.EMP_REG",
+			"glcode": "9201511",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.ENCRMNT",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.MTN_TR",
+			"glcode": "2201531",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CERT",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DC",
+			"glcode": "2201591",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.GRNT_PERM",
+			"glcode": "2201592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.OD",
+			"glcode": "2201592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.HC",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.ISS_BIRTHCERT",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.ISS_DEATHCERT",
+			"glcode": "2201221",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.ISS_SANTICERT",
+			"glcode": "8301592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.VOTERLIST",
+			"glcode": "8301592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.RICKSHW",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.LIC",
+			"glcode": "1301592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.MED",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.MISC",
+			"glcode": "2201532",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.MTN",
+			"glcode": "8101512",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.NDC",
+			"glcode": "2201999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.NOTICE",
+			"glcode": "2201591",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.PENALT",
+			"glcode": "2201592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.OTH_SHOW",
+			"glcode": "2201553",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.PARK_ELEC",
+			"glcode": "2201551",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.PLASTIC_CHALLAN",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.REG",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.REGL",
+			"glcode": "2201551",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.REHRI",
+			"glcode": "2201531",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.RD_SHOW",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.RTI",
+			"glcode": "2201551",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.SLGHT_HS",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.TEHBAZZZRI",
+			"glcode": "2201534",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.TNDR_FRM",
+			"glcode": "6201514",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.TRADE_LIC",
+			"glcode": "2201999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.TREE_AUC",
+			"glcode": "2201532",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.TR_ASS_TAX",
+			"glcode": "2201593",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.WF",
+			"glcode": "2201592",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.WATER_CHRG",
+			"glcode": "2201552",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.PARKING",
+			"glcode": "2201611",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CESS",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DEPOSIT_FORT",
+			"glcode": "2201999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.CLAIM",
+			"glcode": "1103571",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.DISPOSAL",
+			"glcode": "1101999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.RECOVERY",
+			"glcode": "1101999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.COM_CEN_BK",
+			"glcode": "2201327",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.EREC_POL",
+			"glcode": "2201597",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.EXB_CIRC",
+			"glcode": "2201994",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.CANTT_FUND",
+			"glcode": "2201326",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.CA",
+			"glcode": "2201327",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.GH",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.OFF_BLDG",
+			"glcode": "2201326",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.REMIS_REFND",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.ST_VEN",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.TEL_TW",
+			"glcode": "2201312",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.TEMP_STALL",
+			"glcode": "6401314",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.ULB_LEASE",
+			"glcode": "2201312",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.ULB_PATTA",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.ULB_NAZOOL",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.ULB_SHP",
+			"glcode": "2201322",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "RENT.ULB_LIC",
+			"glcode": "2201313",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SALE.AUC_TREE",
+			"glcode": "2201593",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SALE.FRM_PUB",
+			"glcode": "2201999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SALE.PROD",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SALE.STR_SCRP",
+			"glcode": "2201631",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.CHQ_BNC",
+			"glcode": "2201999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_ADM",
+			"glcode": "1101535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_CONSER",
+			"glcode": "5101535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_ELEC",
+			"glcode": "4801535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_PWD",
+			"glcode": "3901535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_ENGTP",
+			"glcode": "3901535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_HOSP",
+			"glcode": "8101535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_RD",
+			"glcode": "2101535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_STR",
+			"glcode": "1801535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_TAX",
+			"glcode": "2101535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.APP_WATER",
+			"glcode": "4201535",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "SRVC.SRVC_CHRG",
+			"glcode": "2101231",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "TX.ADVT",
+			"glcode": "6401314",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "TX.CONS",
+			"glcode": "2101113",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "TX.PROF",
+			"glcode": "2101141",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "TX.SANT",
+			"glcode": "2101113",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.BUR_GRND",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.NEW_WATER_CONC",
+			"glcode": "4201533",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.CHNG_WATER_CONC",
+			"glcode": "4201533",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.COST_FEED_AN",
+			"glcode": "7201999",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.CREMAT_CHRG",
+			"glcode": "2201599",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.EDU_CESS",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.FNRL_VAN",
+			"glcode": "2201921",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.GRBG_COLL",
+			"glcode": "2201921",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.LIB_MEM",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.MTRL_STACK",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.PU_TLT",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.PERM_BORE",
+			"glcode": "2201554",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.PROCES_FEE",
+			"glcode": "2201596",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.PUB_FEE",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.MOB_TLT",
+			"glcode": null,
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.RD_CUTT",
+			"glcode": "2201554",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.SEP_TNK_CLR",
+			"glcode": "2201525",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "UC.WATER_TNK",
+			"glcode": "2201611",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "ASSREV.COMP_CONCESSION",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ASSREV.COMP_TAX",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ASSREV.COMP_TAXOTHER",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "CREDDEP.MNY_DEP",
+			"glcode": "1103621",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "CREDDEP.CAND_SEC_DEP",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "CREDDEP.SEC_DEP",
+			"glcode": "1103611",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ENTFEE.MUSEUM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ENTFEE.PARK",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ENTFEE.PLYGRND",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ENTFEE.VEH",
+			"glcode": "2201532",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.MDM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.SBM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.INF",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.INT_SB",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.INT_LOAN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.REV_GRNT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.INT_FD",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "GRNTINT.INT_TD",
+			"glcode": "2901711",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.APP_FEE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.BETT_CHRG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.BIRTH_REG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.BLD_FEE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CATT_CHALLAN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.COMP_UNAUTH",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.COMPD_DLYAPP",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.COMPD_FEE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CONSRV",
+			"glcode": "5401521",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CONST_WASTE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CRT_STMP",
+			"glcode": "2201921",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DRY_ANML_CHALLAN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DMG_CHRG",
+			"glcode": "2201993",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DEAD_ANML_CONT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DEATH_REG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DENG_CHALLAN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DEV_CHRG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT",
+			"glcode": "2201557",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT_TAX",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DRINK_WT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DUMP_GRBG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.EDU",
+			"glcode": "9901511",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.ELEC_RLY",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.EMP_REG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.ENCRMNT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.MTN_TR",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CERT",
+			"glcode": "2201592",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DC",
+			"glcode": "2201592",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.GRNT_PERM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.OD",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.HC",
+			"glcode": "2101221",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.ISS_BIRTHCERT",
+			"glcode": "2201592",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.ISS_DEATHCERT",
+			"glcode": "2201592",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.ISS_SANTICERT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.VOTERLIST",
+			"glcode": "2201592",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.RICKSHW",
+			"glcode": "2101134",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.LIC",
+			"glcode": "6401313",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.MED",
+			"glcode": "8901512",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.MISC",
+			"glcode": "2201519",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.MTN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.NDC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.NOTICE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.PENALT",
+			"glcode": "2201551",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.OTH_SHOW",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.PARK_ELEC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.PLASTIC_CHALLAN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.REG",
+			"glcode": "2201531",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.REGL",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.REHRI",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.RD_SHOW",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.RTI",
+			"glcode": "1101534",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.SLGHT_HS",
+			"glcode": "6201514",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.TEHBAZZZRI",
+			"glcode": "6101513",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.TNDR_FRM",
+			"glcode": "2201535",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.TRADE_LIC",
+			"glcode": "2201532",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.TREE_AUC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.TR_ASS_TAX",
+			"glcode": "2201592",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.WF",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.WATER_CHRG",
+			"glcode": "1104661",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.PARKING",
+			"glcode": "2201562",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CESS",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DEPOSIT_FORT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.CLAIM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.DISPOSAL",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "OTHFEE.RECOVERY",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.COM_CEN_BK",
+			"glcode": "1103713",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.EREC_POL",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.EXB_CIRC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.CANTT_FUND",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.CA",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.GH",
+			"glcode": "7401325",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.OFF_BLDG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.REMIS_REFND",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.ST_VEN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.TEL_TW",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.TEMP_STALL",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.ULB_LEASE",
+			"glcode": "6401312",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.ULB_PATTA",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.ULB_NAZOOL",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.ULB_SHP",
+			"glcode": "1104649",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "RENT.ULB_LIC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SALE.AUC_TREE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SALE.FRM_PUB",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SALE.PROD",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SALE.STR_SCRP",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.CHQ_BNC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_ADM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_CONSER",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_ELEC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_PWD",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_ENGTP",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_HOSP",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_RD",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_STR",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_TAX",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.APP_WATER",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "SRVC.SRVC_CHRG",
+			"glcode": "2101239",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "TX.ADVT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "TX.CONS",
+			"glcode": "2101113",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "TX.PROF",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "TX.SANT",
+			"glcode": "2101141",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.BUR_GRND",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.NEW_WATER_CONC",
+			"glcode": "1104661",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.CHNG_WATER_CONC",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.COST_FEED_AN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.CREMAT_CHRG",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.EDU_CESS",
+			"glcode": "1103811",
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.FNRL_VAN",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.GRBG_COLL",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.LIB_MEM",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.MTRL_STACK",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.PU_TLT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.PERM_BORE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.PROCES_FEE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.PUB_FEE",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.MOB_TLT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.RD_CUTT",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.SEP_TNK_CLR",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "UC.WATER_TNK",
+			"glcode": null,
+			"cb": "pb.lucknow"
+		},
+		{
+			"code": "ASSREV.COMP_CONCESSION",
+			"glcode": "2201799",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "ASSREV.COMP_TAX",
+			"glcode": "2201191",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "ASSREV.COMP_TAXOTHER",
+			"glcode": "2101199",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "CREDDEP.MNY_DEP",
+			"glcode": "1103611",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "CREDDEP.CAND_SEC_DEP",
+			"glcode": "1301535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "CREDDEP.SEC_DEP",
+			"glcode": "1103621",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "ENTFEE.MUSEUM",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "ENTFEE.PARK",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "ENTFEE.PLYGRND",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "ENTFEE.VEH",
+			"glcode": "2201162",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.MDM",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.SBM",
+			"glcode": "1103219",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.INF",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.INT_SB",
+			"glcode": "1101719",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.INT_LOAN",
+			"glcode": "1104679",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.REV_GRNT",
+			"glcode": "2201412",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.INT_FD",
+			"glcode": "1101711",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "GRNTINT.INT_TD",
+			"glcode": "1101711",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.APP_FEE",
+			"glcode": "3201535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.BETT_CHRG",
+			"glcode": "3201543",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.BIRTH_REG",
+			"glcode": "8301531",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.BLD_FEE",
+			"glcode": "3201541",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CATT_CHALLAN",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.COMP_UNAUTH",
+			"glcode": "3201555",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.COMPD_DLYAPP",
+			"glcode": "3201555",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.COMPD_FEE",
+			"glcode": "3201555",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CONSRV",
+			"glcode": "5401525",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CONST_WASTE",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CRT_STMP",
+			"glcode": "2201539",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DRY_ANML_CHALLAN",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DMG_CHRG",
+			"glcode": "2901554",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DEAD_ANML_CONT",
+			"glcode": "2201313",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DEATH_REG",
+			"glcode": "8301531",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DENG_CHALLAN",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DEV_CHRG",
+			"glcode": "3201541",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT",
+			"glcode": "3201557",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DISTRAINT_TAX",
+			"glcode": "2201557",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DRINK_WT",
+			"glcode": "4201611",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DUMP_GRBG",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.EDU",
+			"glcode": "9101511",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.ELEC_RLY",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.EMP_REG",
+			"glcode": "2201531",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.ENCRMNT",
+			"glcode": "2201513",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.MTN_TR",
+			"glcode": "2201591",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CERT",
+			"glcode": "2201592",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DC",
+			"glcode": "2201592",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.GRNT_PERM",
+			"glcode": "2201621",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.OD",
+			"glcode": "1101559",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.HC",
+			"glcode": "2201221",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.ISS_BIRTHCERT",
+			"glcode": "8301531",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.ISS_DEATHCERT",
+			"glcode": "8301531",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.ISS_SANTICERT",
+			"glcode": "5101529",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.VOTERLIST",
+			"glcode": "1301592",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.RICKSHW",
+			"glcode": "2201532",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.LIC",
+			"glcode": "1101532",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.MED",
+			"glcode": "2201512",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.MISC",
+			"glcode": "2201599",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.MTN",
+			"glcode": "2201591",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.NDC",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.NOTICE",
+			"glcode": "2201553",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.PENALT",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.OTH_SHOW",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.PARK_ELEC",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.PLASTIC_CHALLAN",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.REG",
+			"glcode": "2201531",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.REGL",
+			"glcode": "1301535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.REHRI",
+			"glcode": "1101551",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.RD_SHOW",
+			"glcode": "2201994",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.RTI",
+			"glcode": "2201539",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.SLGHT_HS",
+			"glcode": "6201514",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.TEHBAZZZRI",
+			"glcode": "6101513",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.TNDR_FRM",
+			"glcode": "2201535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.TRADE_LIC",
+			"glcode": "1101537",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.TREE_AUC",
+			"glcode": "2201593",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.TR_ASS_TAX",
+			"glcode": "2201592",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.WF",
+			"glcode": "2201552",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.WATER_CHRG",
+			"glcode": "2201611",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.PARKING",
+			"glcode": "2201562",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CESS",
+			"glcode": "1101571",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DEPOSIT_FORT",
+			"glcode": "1103659",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CLAIM",
+			"glcode": "1103571",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.DISPOSAL",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.RECOVERY",
+			"glcode": "1104653",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.COM_CEN_BK",
+			"glcode": "1101327",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.EREC_POL",
+			"glcode": "2201597",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.EXB_CIRC",
+			"glcode": "2201994",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.CANTT_FUND",
+			"glcode": "2201326",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.CA",
+			"glcode": "2201326",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.GH",
+			"glcode": "7401323",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.OFF_BLDG",
+			"glcode": "2201322",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.REMIS_REFND",
+			"glcode": "1103671",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.ST_VEN",
+			"glcode": "2201513",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.TEL_TW",
+			"glcode": "2201327",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.TEMP_STALL",
+			"glcode": "2201314",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.ULB_LEASE",
+			"glcode": "2201314",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.ULB_PATTA",
+			"glcode": "2201314",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.ULB_NAZOOL",
+			"glcode": "2201314",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.ULB_SHP",
+			"glcode": "2201322",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "RENT.ULB_LIC",
+			"glcode": "2201314",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SALE.AUC_TREE",
+			"glcode": "7301631",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SALE.FRM_PUB",
+			"glcode": "2901631",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SALE.PROD",
+			"glcode": "2201699",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SALE.STR_SCRP",
+			"glcode": "2201631",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.CHQ_BNC",
+			"glcode": "1101579",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_ADM",
+			"glcode": "1101535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_CONSER",
+			"glcode": "5101535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_ELEC",
+			"glcode": "4801535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_PWD",
+			"glcode": "3901535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_ENGTP",
+			"glcode": "3901535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_HOSP",
+			"glcode": "8101535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_RD",
+			"glcode": "2201535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_STR",
+			"glcode": "1801535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_TAX",
+			"glcode": "2101535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.APP_WATER",
+			"glcode": "4201535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "SRVC.SRVC_CHRG",
+			"glcode": "2201231",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "TX.ADVT",
+			"glcode": "2101121",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "TX.CONS",
+			"glcode": "2101113",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "TX.PROF",
+			"glcode": "2101141",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "TX.SANT",
+			"glcode": "2101119",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.BUR_GRND",
+			"glcode": "6401319",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.NEW_WATER_CONC",
+			"glcode": "4201533",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.CHNG_WATER_CONC",
+			"glcode": "4201533",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.COST_FEED_AN",
+			"glcode": "7202913",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.CREMAT_CHRG",
+			"glcode": "2901519",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.EDU_CESS",
+			"glcode": "9101571",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.FNRL_VAN",
+			"glcode": "7501991",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.GRBG_COLL",
+			"glcode": "5401526",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.LIB_MEM",
+			"glcode": "9401535",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.MTRL_STACK",
+			"glcode": "2201515",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.PU_TLT",
+			"glcode": null,
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.PERM_BORE",
+			"glcode": "4201597",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.PROCES_FEE",
+			"glcode": "1101596",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.PUB_FEE",
+			"glcode": "1101569",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.MOB_TLT",
+			"glcode": "5101525",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.RD_CUTT",
+			"glcode": "3101554",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.SEP_TNK_CLR",
+			"glcode": "5201525",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "UC.WATER_TNK",
+			"glcode": "4201611",
+			"cb": "pb.agra"
+		}
+	]
 }
