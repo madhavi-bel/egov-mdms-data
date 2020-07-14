@@ -1542,6 +1542,19 @@
       "type": "Adhoc"
     },
     {
+      "businessService": "Taxes.Toll Tax",
+      "code": "TX.TOLL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
       "businessService": "Taxes.Property tax",
       "code": "TX.PROPTY",
       "collectionModesNotAllowed": [

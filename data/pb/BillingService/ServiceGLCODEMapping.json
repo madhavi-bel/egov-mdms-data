@@ -3356,6 +3356,206 @@
 			"code": "UC.WATER_TNK",
 			"glcode": "4201611",
 			"cb": "pb.agra"
-		}
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "630-1537",
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "1101537",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "220-1537",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "2201532",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "2201999",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": null,
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": "2201562",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": "220-1562",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": "2201562",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": "2201611",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "OTHERS.CESS",
+      "glcode": null,
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHERS.CESS",
+      "glcode": "1101571",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHERS.CESS",
+      "glcode": "110-3816",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHERS.CESS",
+      "glcode": "null",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHERS.CESS",
+      "glcode": "null",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "OTHERS.DEPOSIT_FORT",
+      "glcode": null,
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHERS.DEPOSIT_FORT",
+      "glcode": "1103659",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHERS.DEPOSIT_FORT",
+      "glcode": "110-1999",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHERS.DEPOSIT_FORT",
+      "glcode": "null",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHERS.DEPOSIT_FORT",
+      "glcode": "2201999",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "glcode": null,
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "glcode": "1103571",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "glcode": "null",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "glcode": "null",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "glcode": "1103571",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "glcode": null,
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "glcode": "null",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "glcode": "null",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "glcode": "null",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "glcode": "1101999",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "glcode": null,
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "glcode": "1104653",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "glcode": "110-3599",
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "glcode": "null",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "glcode": "1101999",
+      "cb": "pb.pune"
+    },
+    {
+      "code": "TX.TOLL",
+      "glcode": "210-1162",
+      "cb": "pb.secunderabad"
+    },
+    {
+      "code": "TX.TOLL",
+      "glcode": "2201162",
+      "cb": "pb.agra"
+    },
+    {
+      "code": "TX.TOLL",
+      "glcode": null,
+      "cb": "pb.delhi"
+    },
+    {
+      "code": "TX.TOLL",
+      "glcode": "null",
+      "cb": "pb.lucknow"
+    },
+    {
+      "code": "TX.TOLL",
+      "glcode": null,
+      "cb": "pb.pune"
+    }
 	]
 }
