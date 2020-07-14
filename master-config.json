@@ -776,6 +776,14 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "ServiceGLCODEMapping": {
+      "masterName": "ServiceGLCODEMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.cb"
+      ]
     }
   },
   "FinanceModule": {

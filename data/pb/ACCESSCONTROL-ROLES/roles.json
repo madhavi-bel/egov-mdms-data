@@ -51,6 +51,11 @@
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
+    },
+    {
+      "code": "DGDE",
+      "name": "DGDE user",
+      "description": "DGDE user role"
     }
   ]
 }
