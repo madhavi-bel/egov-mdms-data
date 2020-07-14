@@ -943,6 +943,97 @@
       "type": "Adhoc"
     },
     {
+      "businessService": "Other Fee and Fines.Trade License Fee",
+      "code": "OTHFEE.TRADE_LIC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee and Fines.Parking Fees",
+      "code": "OTHFEE.PARKING",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Cess",
+      "code": "OTHERS.CESS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Deposit forfeited",
+      "code": "OTHERS.DEPOSIT_FORT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Insurance Claim Recovery",
+      "code": "OTHERS.CLAIM",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Profit on Disposal of Fixed assets",
+      "code": "OTHERS.DISPOSAL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Recovery from Employees/ Contracters",
+      "code": "OTHERS.RECOVERY",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
+    {
       "businessService": "Other Fee and Fines.Water Charges",
       "code": "OTHFEE.WATER_CHRG",
       "collectionModesNotAllowed": [
