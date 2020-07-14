@@ -79,6 +79,50 @@
             "type" : "Normal"
           }
         ]
+      },
+ 
+      {
+        "key" : "PgDetail",
+        "attributeList" : [
+          {
+            "jsonPath" : "merchantId",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "secretKey",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "userName",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "password",
+            "type" : "Normal"
+          } 
+        ]
+      },
+ 
+      {
+        "key" : "PgDetailSearch",
+        "attributeList" : [
+          {
+            "jsonPath" : "merchantId",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "secretKey",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "userName",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "password",
+            "type" : "Normal"
+          } 
+        ]
       }
     ]
 }
