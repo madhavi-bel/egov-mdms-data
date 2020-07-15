@@ -1609,6 +1609,14 @@
       "service": "OTHERS.RECOVERY",
       "code": "OTHERSRECOVERYFIELDFEE",
       "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1585679400000,
+      "toDate": 1901212200000,
+      "periodCycle": "ANNUAL",
+      "service": "OTHFEE.PARKING",
+      "code": "OTHFEEPARKINGFIELDFEE",
+      "financialYear": "2020-30"
     }
   ]
 }

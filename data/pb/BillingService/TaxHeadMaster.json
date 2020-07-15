@@ -6408,7 +6408,7 @@
       "name": "OTHFEE.TRADE_LIC_FIELD_FEE",
       "code": "OTHFEE.TRADE_LIC_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -6418,7 +6418,7 @@
       "name": "OTHERS.CESS_FIELD_FEE",
       "code": "OTHERS.CESS_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -6428,7 +6428,7 @@
       "name": "OTHERS.DEPOSIT_FORT_FIELD_FEE",
       "code": "OTHERS.DEPOSIT_FORT_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -6438,7 +6438,7 @@
       "name": "OTHERS.CLAIM_FIELD_FEE",
       "code": "OTHERS.CLAIM_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -6448,7 +6448,7 @@
       "name": "OTHERS.DISPOSAL_FIELD_FEE",
       "code": "OTHERS.DISPOSAL_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -6458,7 +6458,7 @@
       "name": "OTHERS.RECOVERY_FIELD_FEE",
       "code": "OTHERS.RECOVERY_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -6468,7 +6468,7 @@
       "name": "OTHFEE.PARKING_FIELD_FEE",
       "code": "OTHFEE.PARKING_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
@@ -8308,7 +8308,7 @@
       "name": "TX.TOLL_FIELD_FEE",
       "code": "TX.TOLL_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
