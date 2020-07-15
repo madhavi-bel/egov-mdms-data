@@ -1558,14 +1558,6 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHFEE.TRADE_LIC",
-      "code": "OTHFEETRADE_LICFIELDFEE",
-      "financialYear": "2020-30"
-    },
-    {
-      "fromDate": 1585679400000,
-      "toDate": 1901212200000,
-      "periodCycle": "ANNUAL",
       "service": "OTHERS.CESS",
       "code": "OTHERSCESSFIELDFEE",
       "financialYear": "2020-30"
