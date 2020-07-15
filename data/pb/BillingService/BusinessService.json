@@ -1919,19 +1919,7 @@
       "isCitizen": true,
       "type": "Adhoc"
     },
-    {
-      "businessService": "Others.Deposit forfeited",
-      "code": "OTHERS.DEPOSIT_FORT",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc"
-    },
+    
     {
       "businessService": "Others.Insurance Claim Recovery",
       "code": "OTHERS.CLAIM",
@@ -1957,19 +1945,7 @@
       "isActive": true,
       "isCitizen": true,
       "type": "Adhoc"
-    },
-    {
-      "businessService": "Others.Recovery from Employees/ Contracters",
-      "code": "OTHERS.RECOVERY",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc"
     }
+    
   ]
 }
