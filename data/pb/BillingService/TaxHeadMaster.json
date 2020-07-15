@@ -6402,76 +6402,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHFEE.TRADE_LIC",
-      "name": "OTHFEE.TRADE_LIC_FIELD_FEE",
-      "code": "OTHFEE.TRADE_LIC_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_FIELD_FEE",
-      "code": "OTHERS.CESS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.DEPOSIT_FORT",
-      "name": "OTHERS.DEPOSIT_FORT_FIELD_FEE",
-      "code": "OTHERS.DEPOSIT_FORT_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.CLAIM",
-      "name": "OTHERS.CLAIM_FIELD_FEE",
-      "code": "OTHERS.CLAIM_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.DISPOSAL",
-      "name": "OTHERS.DISPOSAL_FIELD_FEE",
-      "code": "OTHERS.DISPOSAL_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.RECOVERY",
-      "name": "OTHERS.RECOVERY_FIELD_FEE",
-      "code": "OTHERS.RECOVERY_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "OTHFEE.PARKING",
-      "name": "OTHFEE.PARKING_FIELD_FEE",
-      "code": "OTHFEE.PARKING_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+  
     {
       "category": "CHARGES",
       "service": "OTHFEE.TREE_AUC",
@@ -8308,7 +8239,7 @@
       "name": "TX.TOLL_FIELD_FEE",
       "code": "TX.TOLL_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false
     },
