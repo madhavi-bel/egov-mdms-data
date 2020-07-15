@@ -6415,6 +6415,16 @@
     {
       "category": "CHARGES",
       "service": "OTHERS.CESS",
+      "name": "OTHERS.CESS_TAX",
+      "code": "OTHERS.CESS_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+        {
+      "category": "CHARGES",
+      "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_FIELD_FEE",
       "code": "OTHERS.CESS_FIELD_FEE",
       "isDebit": false,
