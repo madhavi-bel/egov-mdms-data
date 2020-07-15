@@ -1109,5 +1109,6 @@
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "tx.propty.receipt.id"
     }
+
   ]
 }
