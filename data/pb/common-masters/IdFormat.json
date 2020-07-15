@@ -1108,42 +1108,6 @@
     {
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "tx.propty.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "tx.toll.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "othfee.trade_lic.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.cess.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.deposit_fort.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.claim.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.disposal.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.recovery.receipt.id"
-    },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.recovery.receipt.id"
-    }, 
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "othfee.parking.receipt.id"
     }
 
   ]
