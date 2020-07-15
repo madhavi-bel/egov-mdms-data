@@ -16299,24 +16299,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1708,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1709,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
-  "rolecode": "SUPERUSER",
-  "actionid": 1710,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "EGF_REPORT_VIEW",
   "actionid": 1708,
   "actioncode": "",
