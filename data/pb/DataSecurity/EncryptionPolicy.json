@@ -89,40 +89,22 @@
             "type" : "Normal"
           },
           {
-            "jsonPath" : "secretKey",
+            "jsonPath" : "merchantSecretKey",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "userName",
+            "jsonPath" : "merchantUserName",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "password",
+            "jsonPath" : "merchantPassword",
             "type" : "Normal"
-          } 
+          },
+          {
+            "jsonPath" : "merchantServiceId",
+            "type" : "Normal"
+          }  
         ]
-      },
- 
-      {
-        "key" : "PgDetailSearch",
-        "attributeList" : [
-          {
-            "jsonPath" : "merchantId",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "secretKey",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "userName",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "password",
-            "type" : "Normal"
-          } 
-        ]
-      }
+      } 
     ]
 }
