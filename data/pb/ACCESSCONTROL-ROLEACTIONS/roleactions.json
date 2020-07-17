@@ -17127,12 +17127,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "EMPLOYEE",
-  "actionid": 1802,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
     "rolecode": "CITIZEN",
     "actionid": 1803,
     "actioncode": "",
@@ -20254,12 +20248,6 @@
       },
     {
         "rolecode": "CITIZEN",
-        "actionid": 1802,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-    {
-        "rolecode": "CITIZEN",
         "actionid": 5003,
         "actioncode": "",
         "tenantId": "pb"
@@ -21347,12 +21335,6 @@
       {
         "rolecode": "DGDE",
         "actionid": 1799,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 1802,
         "actioncode": "",
         "tenantId": "pb"
       },
