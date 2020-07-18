@@ -14256,22 +14256,6 @@
       "leftIcon": "image:collections-bookmark"
     },
     {
-      "id": 5020,
-      "name": "NewCollection",
-      "url": "quickAction",
-      "displayName": "New collection",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "UC",
-      "code": "null",
-      "path": "UC.NewCollection",
-      "navigationURL": "uc/newCollection",
-      "quickAction": true,
-      "leftIcon": "content:add",
-      "rightIcon": ""
-    },
-    {
       "id": 1803,
       "name": "Receipts",
       "url": "url",
