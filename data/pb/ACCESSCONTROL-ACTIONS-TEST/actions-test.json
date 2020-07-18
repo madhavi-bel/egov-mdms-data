@@ -14260,7 +14260,6 @@
       "name": "NewCollection",
       "url": "quickAction",
       "displayName": "New collection",
-      "orderNumber": 4,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "null",
@@ -14268,7 +14267,7 @@
       "path": "null",
       "navigationURL": "uc/newCollection",
       "quickAction": false,
-      "leftIcon": "content:add",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
