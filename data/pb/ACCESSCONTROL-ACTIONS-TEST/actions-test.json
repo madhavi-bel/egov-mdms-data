@@ -14265,7 +14265,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "path": "null",
+      "path": "UC.NewCollection",
       "navigationURL": "uc/newCollection",
       "quickAction": true,
       "leftIcon": "content:add",
