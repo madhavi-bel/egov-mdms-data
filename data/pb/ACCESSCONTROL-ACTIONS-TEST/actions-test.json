@@ -14260,14 +14260,15 @@
       "name": "NewCollection",
       "url": "quickAction",
       "displayName": "New collection",
+      "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "null",
+      "serviceCode": "UC",
       "code": "null",
       "path": "null",
       "navigationURL": "uc/newCollection",
-      "quickAction": false,
-      "leftIcon": "",
+      "quickAction": true,
+      "leftIcon": "content:add",
       "rightIcon": ""
     },
     {
