@@ -20236,12 +20236,6 @@
       },
     {
         "rolecode": "CITIZEN",
-        "actionid": 5002,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-    {
-        "rolecode": "CITIZEN",
         "actionid": 5004,
         "actioncode": "",
         "tenantId": "pb"
