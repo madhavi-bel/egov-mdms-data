@@ -21460,12 +21460,6 @@
       },
       {
         "rolecode": "DGDE",
-        "actionid": 1887,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
         "actionid": 1888,
         "actioncode": "",
         "tenantId": "pb"
