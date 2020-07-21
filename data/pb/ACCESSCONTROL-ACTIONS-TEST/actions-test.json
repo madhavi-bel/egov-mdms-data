@@ -16711,6 +16711,20 @@
       "navigationURL": "integration/dss/ulb-home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+    {
+      "id": 5025,
+      "name": "Challan Search",
+      "url": "url",
+      "displayName": "Challan Search",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/challanSearch",
+      "path": "UC.ChallanSearch",
+      "leftIcon": "image:collections-bookmark"
     }
   ]
 }
