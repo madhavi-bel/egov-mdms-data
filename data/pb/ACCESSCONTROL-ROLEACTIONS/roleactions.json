@@ -21826,18 +21826,6 @@
       },
       {
         "rolecode": "DGDE",
-        "actionid": 5001,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 5002,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
         "actionid": 5003,
         "actioncode": "",
         "tenantId": "pb"
@@ -21845,24 +21833,6 @@
       {
         "rolecode": "DGDE",
         "actionid": 5004,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 5005,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 5006,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 5007,
         "actioncode": "",
         "tenantId": "pb"
       },
