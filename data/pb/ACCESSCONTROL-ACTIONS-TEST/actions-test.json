@@ -15362,7 +15362,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.TradeLicense",
-      "navigationURL": "integration/dss/mCollect",
+      "navigationURL": "integration/dss/tradelicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -16641,7 +16641,7 @@
       "id": 5020,
       "name": "Dashboard M Collect",
       "url": "url",
-      "displayName": "MCollect",
+      "displayName": "M Collect",
       "orderNumber": 5,
       "parentModule": "dss-dashboard",
       "enabled": true,
