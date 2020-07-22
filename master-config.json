@@ -662,6 +662,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
   },
   "Workflow": {
