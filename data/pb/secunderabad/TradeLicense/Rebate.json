@@ -1,0 +1,21 @@
+{
+  "tenantId": "pb.secunderabad",
+  "moduleName": "TradeLicense",
+  "Rebate": [
+    {
+      "rate": 25,
+      "maxAmount": null,
+      "flatAmount": 0.0,
+      "fromFY": "2018-19",
+      "endingDay": "31/03"
+
+    },
+    {
+      "rate": 25,
+      "maxAmount": null,
+      "flatAmount": 0.0,
+      "fromFY": "2019-20",
+      "endingDay": "31/03"
+    }
+  ]
+}

@@ -669,6 +669,13 @@
       "uniqueKeys": [
         "$.fromFY"
       ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
   },
   "Workflow": {
