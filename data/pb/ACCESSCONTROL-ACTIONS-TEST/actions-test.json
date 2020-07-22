@@ -16641,7 +16641,7 @@
       "id": 5020,
       "name": "Dashboard M Collect",
       "url": "url",
-      "displayName": "M Collect",
+      "displayName": "MCollect",
       "orderNumber": 5,
       "parentModule": "dss-dashboard",
       "enabled": true,
