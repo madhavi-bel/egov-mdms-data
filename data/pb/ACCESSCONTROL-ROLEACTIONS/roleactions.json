@@ -21919,6 +21919,30 @@
         "actionid": 5021,
         "actioncode": "",
         "tenantId": "pb"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 5027,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 5028,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 5029,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 5030,
+        "actioncode": "",
+        "tenantId": "pb"
       }
 
   ]
