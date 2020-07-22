@@ -16725,6 +16725,18 @@
       "navigationURL": "uc/challanSearch",
       "path": "UC.ChallanSearch",
       "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 5026,
+      "name": "DSS Dashboard Config M Collect",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/mCollect",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
