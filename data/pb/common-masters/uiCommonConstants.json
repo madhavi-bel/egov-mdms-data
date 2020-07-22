@@ -71,8 +71,8 @@
             "routePath": "/dashboard/ulb-overview",
             "isOrigin": true
           },
-          "ulb-tradelicense": {
-            "routePath": "/dashboard/ulb-tradelicense",
+          "ulb-tradeLicense": {
+            "routePath": "/dashboard/ulb-tradeLicense",
             "isOrigin": true
           },
           "ulb-home": {
