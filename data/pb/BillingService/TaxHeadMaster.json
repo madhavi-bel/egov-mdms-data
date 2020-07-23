@@ -12601,6 +12601,26 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TRADE_LIC",
+      "name": "OTHFEE.TRADE_LIC_CGST",
+      "code": "OTHFEE.TRADE_LIC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TRADE_LIC",
+      "name": "OTHFEE.TRADE_LIC_SGST",
+      "code": "OTHFEE.TRADE_LIC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
       "isRequired": false
     },
     {
@@ -12613,6 +12633,26 @@
       "order": "0",
       "isRequired": true
     },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.CESS",
+      "name": "OTHERS.CESS_CGST",
+      "code": "OTHERS.CESS_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.CESS",
+      "name": "OTHERS.CESS_SGST",
+      "code": "OTHERS.CESS_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
         {
       "category": "CHARGES",
       "service": "OTHERS.CESS",
@@ -12621,7 +12661,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "CHARGES",
@@ -12631,7 +12671,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "CHARGES",
@@ -12640,6 +12680,26 @@
       "code": "OTHERS.CLAIM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.CLAIM",
+      "name": "OTHERS.CLAIM_CGST",
+      "code": "OTHERS.CLAIM_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.CLAIM",
+      "name": "OTHERS.CLAIM_SGST",
+      "code": "OTHERS.CLAIM_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
       "order": "0",
       "isRequired": false
     },
@@ -12651,6 +12711,26 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.DISPOSAL",
+      "name": "OTHERS.DISPOSAL_CGST",
+      "code": "OTHERS.DISPOSAL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.DISPOSAL",
+      "name": "OTHERS.DISPOSAL_SGST",
+      "code": "OTHERS.DISPOSAL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
       "isRequired": false
     },
     {
@@ -12661,7 +12741,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "CHARGES",
@@ -12671,7 +12751,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
-      "isRequired": false
+      "isRequired": true
     }
   ]
 }
