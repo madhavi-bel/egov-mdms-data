@@ -1562,14 +1562,7 @@
       "code": "OTHERSCESSFIELDFEE",
       "financialYear": "2020-30"
     },
-    {
-      "fromDate": 1585679400000,
-      "toDate": 1901212200000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHERS.DEPOSIT",
-      "code": "OTHERSDEPOSIT_FORTFIELDFEE",
-      "financialYear": "2020-30"
-    },
+  
     {
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
@@ -1598,8 +1591,8 @@
       "fromDate": 1585679400000,
       "toDate": 1901212200000,
       "periodCycle": "ANNUAL",
-      "service": "OTHERS.RECOVERY",
-      "code": "OTHERSRECOVERYFIELDFEE",
+      "service": "OTHERS.DEPOSIT",
+      "code": "OTHERSDEPOSITFIELDFEE",
       "financialYear": "2020-30"
     },
     {

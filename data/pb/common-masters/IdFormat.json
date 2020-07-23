@@ -1123,7 +1123,7 @@
     },
     {
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.deposit_fort.receipt.id"
+      "idname": "others.deposit.receipt.id"
     },
     {
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -1137,10 +1137,6 @@
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "others.recovery.receipt.id"
     },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.recovery.receipt.id"
-    }, 
     {
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "othfee.parking.receipt.id"

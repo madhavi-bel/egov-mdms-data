@@ -12599,13 +12599,23 @@
       "name": "OTHFEE.TRADE_LIC_FIELD_FEE",
       "code": "OTHFEE.TRADE_LIC_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHFEE.TRADE_LIC",
+      "name": "OTHFEE.TRADE_LIC_TAX",
+      "code": "OTHFEE.TRADE_LIC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": true
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHFEE.TRADE_LIC",
+	{
+      "category": "TAX",
+     "service": "OTHFEE.TRADE_LIC",
       "name": "OTHFEE.TRADE_LIC_CGST",
       "code": "OTHFEE.TRADE_LIC_CGST",
       "isDebit": false,
@@ -12614,10 +12624,21 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
-      "service": "OTHFEE.TRADE_LIC",
+      "category": "TAX",
+       "service": "OTHFEE.TRADE_LIC",
       "name": "OTHFEE.TRADE_LIC_SGST",
       "code": "OTHFEE.TRADE_LIC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	
+	{
+      "category": "DEPOSIT",
+      "service": "OTHFEE.TRADE_LIC",
+      "name": "OTHFEE.TRADE_LIC_SEC_DEP",
+      "code": "OTHFEE.TRADE_LIC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12626,16 +12647,26 @@
     {
       "category": "CHARGES",
       "service": "OTHERS.CESS",
+      "name": "OTHERS.CESS_FIELD_FEE",
+      "code": "OTHERS.CESS_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_TAX",
       "code": "OTHERS.CESS_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "0",
+      "order": "1",
       "isRequired": true
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.CESS",
+	{
+      "category": "TAX",
+     "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_CGST",
       "code": "OTHERS.CESS_CGST",
       "isDebit": false,
@@ -12644,8 +12675,8 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
-      "service": "OTHERS.CESS",
+      "category": "TAX",
+       "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_SGST",
       "code": "OTHERS.CESS_SGST",
       "isDebit": false,
@@ -12653,25 +12684,26 @@
       "order": "0",
       "isRequired": false
     },
-        {
-      "category": "CHARGES",
+	
+	{
+      "category": "DEPOSIT",
       "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_FIELD_FEE",
-      "code": "OTHERS.CESS_FIELD_FEE",
+      "name": "OTHERS.CESS_SEC_DEP",
+      "code": "OTHERS.CESS_SEC_DEP",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
-      "isRequired": true
+      "isRequired": false
     },
     {
-      "category": "CHARGES",
-      "service": "OTHERS.DEPOSIT_FORT",
-      "name": "OTHERS.DEPOSIT_FORT_FIELD_FEE",
-      "code": "OTHERS.DEPOSIT_FORT_FIELD_FEE",
+      "category": "DEPOSIT",
+      "service": "OTHERS.CESS",
+      "name": "OTHERS.CESS_SEC_DEP",
+      "code": "OTHERS.CESS_SEC_DEP",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
-      "isRequired": true
+      "isRequired": false
     },
     {
       "category": "CHARGES",
@@ -12679,13 +12711,23 @@
       "name": "OTHERS.CLAIM_FIELD_FEE",
       "code": "OTHERS.CLAIM_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHERS.CLAIM",
+      "name": "OTHERS.CLAIM_TAX",
+      "code": "OTHERS.CLAIM_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": true
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.CLAIM",
+	{
+      "category": "TAX",
+     "service": "OTHERS.CLAIM",
       "name": "OTHERS.CLAIM_CGST",
       "code": "OTHERS.CLAIM_CGST",
       "isDebit": false,
@@ -12694,8 +12736,8 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
-      "service": "OTHERS.CLAIM",
+      "category": "TAX",
+       "service": "OTHERS.CLAIM",
       "name": "OTHERS.CLAIM_SGST",
       "code": "OTHERS.CLAIM_SGST",
       "isDebit": false,
@@ -12703,19 +12745,42 @@
       "order": "0",
       "isRequired": false
     },
+	
+	{
+      "category": "DEPOSIT",
+      "service": "OTHERS.CLAIM",
+      "name": "OTHERS.CLAIM_SEC_DEP",
+      "code": "OTHERS.CLAIM_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+  
+
     {
       "category": "CHARGES",
       "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_FIELD_FEE",
       "code": "OTHERS.DISPOSAL_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHERS.DISPOSAL",
+      "name": "OTHERS.DISPOSAL_TAX",
+      "code": "OTHERS.DISPOSAL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": true
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.DISPOSAL",
+	{
+      "category": "TAX",
+     "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_CGST",
       "code": "OTHERS.DISPOSAL_CGST",
       "isDebit": false,
@@ -12724,10 +12789,21 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
-      "service": "OTHERS.DISPOSAL",
+      "category": "TAX",
+       "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_SGST",
       "code": "OTHERS.DISPOSAL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	
+	{
+      "category": "DEPOSIT",
+      "service": "OTHERS.DISPOSAL",
+      "name": "OTHERS.DISPOSAL_SEC_DEP",
+      "code": "OTHERS.DISPOSAL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12739,9 +12815,50 @@
       "name": "OTHERS.RECOVERY_FIELD_FEE",
       "code": "OTHERS.RECOVERY_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHERS.RECOVERY",
+      "name": "OTHERS.RECOVERY_TAX",
+      "code": "OTHERS.RECOVERY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": true
+    },
+	{
+      "category": "TAX",
+     "service": "OTHERS.RECOVERY",
+      "name": "OTHERS.RECOVERY_CGST",
+      "code": "OTHERS.RECOVERY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+       "service": "OTHERS.RECOVERY",
+      "name": "OTHERS.RECOVERY_SGST",
+      "code": "OTHERS.RECOVERY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	
+	{
+      "category": "DEPOSIT",
+      "service": "OTHERS.RECOVERY",
+      "name": "OTHERS.RECOVERY_SEC_DEP",
+      "code": "OTHERS.RECOVERY_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     },
     {
       "category": "CHARGES",
@@ -12749,9 +12866,101 @@
       "name": "OTHFEE.PARKING_FIELD_FEE",
       "code": "OTHFEE.PARKING_FIELD_FEE",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHFEE.PARKING",
+      "name": "OTHFEE.PARKING_TAX",
+      "code": "OTHFEE.PARKING_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": true
+    },
+	{
+      "category": "TAX",
+     "service": "OTHFEE.PARKING",
+      "name": "OTHFEE.PARKING_CGST",
+      "code": "OTHFEE.PARKING_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+       "service": "OTHFEE.PARKING",
+      "name": "OTHFEE.PARKING_SGST",
+      "code": "OTHFEE.PARKING_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	
+	{
+      "category": "DEPOSIT",
+      "service": "OTHFEE.PARKING",
+      "name": "OTHFEE.PARKING_SEC_DEP",
+      "code": "OTHFEE.PARKING_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.DEPOSIT",
+      "name": "OTHERS.DEPOSIT_FIELD_FEE",
+      "code": "OTHERS.DEPOSIT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	  {
+      "category": "TAX",
+      "service": "OTHERS.DEPOSIT",
+      "name": "OTHERS.DEPOSIT_TAX",
+      "code": "OTHERS.DEPOSIT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+	{
+      "category": "TAX",
+     "service": "OTHERS.DEPOSIT",
+      "name": "OTHERS.DEPOSIT_CGST",
+      "code": "OTHERS.DEPOSIT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+       "service": "OTHERS.DEPOSIT",
+      "name": "OTHERS.DEPOSIT_SGST",
+      "code": "OTHERS.DEPOSIT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	
+	{
+      "category": "DEPOSIT",
+      "service": "OTHERS.DEPOSIT",
+      "name": "OTHERS.DEPOSIT_SEC_DEP",
+      "code": "OTHERS.DEPOSIT_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
