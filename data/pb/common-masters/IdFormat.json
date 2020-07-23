@@ -1117,10 +1117,7 @@
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "othfee.trade_lic.receipt.id"
     },
-    {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.cess.receipt.id"
-    },
+   
     {
       "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "others.deposit.receipt.id"

@@ -12644,67 +12644,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_FIELD_FEE",
-      "code": "OTHERS.CESS_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-	  {
-      "category": "TAX",
-      "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_TAX",
-      "code": "OTHERS.CESS_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-	{
-      "category": "TAX",
-     "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_CGST",
-      "code": "OTHERS.CESS_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-       "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_SGST",
-      "code": "OTHERS.CESS_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-	
-	{
-      "category": "DEPOSIT",
-      "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_SEC_DEP",
-      "code": "OTHERS.CESS_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "DEPOSIT",
-      "service": "OTHERS.CESS",
-      "name": "OTHERS.CESS_SEC_DEP",
-      "code": "OTHERS.CESS_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+ 
     {
       "category": "CHARGES",
       "service": "OTHERS.CLAIM",
