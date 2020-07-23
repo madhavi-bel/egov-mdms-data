@@ -466,7 +466,7 @@
       "format":"PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
     },
     {
-      "format": "PB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+      "format": "CB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
       "idname": "pg.txnid"
     },
     {
