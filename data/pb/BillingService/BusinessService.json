@@ -1728,7 +1728,19 @@
       "isCitizen": true,
       "type": "Adhoc"
     },
-    
+    {
+      "businessService": "Others.Cess",
+      "code": "OTHERS.CESS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc"
+    },
     
     {
       "businessService": "Others.Insurance Claim Recovery",
