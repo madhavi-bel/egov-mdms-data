@@ -20020,12 +20020,6 @@
     },
     {
       "rolecode": "UC_EMP",
-      "actionid": 5025,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
       "actionid": 5004,
       "actioncode": "",
       "tenantId": "pb"
@@ -21131,24 +21125,6 @@
       {
         "rolecode": "DGDE",
         "actionid": 1707,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 1715,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 1716,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "DGDE",
-        "actionid": 1717,
         "actioncode": "",
         "tenantId": "pb"
       },

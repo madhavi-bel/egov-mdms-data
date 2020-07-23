@@ -14252,21 +14252,7 @@
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "uc/search",
-      "path": "UC.Search",
-      "leftIcon": "image:collections-bookmark"
-    },
-    {
-      "id": 5021,
-      "name": "Challan Search",
-      "url": "url",
-      "displayName": "Challan Search",
-      "orderNumber": 4,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "UC",
-      "code": "null",
-      "navigationURL": "uc/challanSearch",
-      "path": "UC.ChallanSearch",
+      "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
     {
@@ -16711,20 +16697,6 @@
       "navigationURL": "integration/dss/ulb-home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    },
-    {
-      "id": 5025,
-      "name": "Challan Search",
-      "url": "url",
-      "displayName": "Challan Search",
-      "orderNumber": 4,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "UC",
-      "code": "null",
-      "navigationURL": "uc/challanSearch",
-      "path": "UC.ChallanSearch",
-      "leftIcon": "image:collections-bookmark"
     },
     {
       "id": 5026,
