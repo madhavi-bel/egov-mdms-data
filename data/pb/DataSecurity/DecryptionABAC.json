@@ -120,36 +120,6 @@
                   "jsonPath" : "*/addresses/*/address"
                 },
                 "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantId"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantSecretKey"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantUserName"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantPassword"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantServiceId"
-                },
-                "accessType" : "PLAIN"
               }
             ]
           },
@@ -460,36 +430,6 @@
               {
                 "attribute" : {
                   "jsonPath" : "*/addresses/*/address"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantId"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantSecretKey"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantUserName"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantPassword"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/merchantServiceId"
                 },
                 "accessType" : "PLAIN"
               }

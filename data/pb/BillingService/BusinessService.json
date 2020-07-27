@@ -50,7 +50,7 @@
       "collectionModesNotAllowed": [
         "DD"
       ],
-      "partPaymentAllowed": true,
+      "partPaymentAllowed": false,
       "minAmountPayable": 100,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
