@@ -1319,7 +1319,7 @@
 		},
 		{
 			"code": "CREDDEP.MNY_DEP",
-			"glcode": "2201513",
+			"glcode": "1103619",
 			"cb": "pb.pune"
 		},
 		{
@@ -1349,7 +1349,7 @@
 		},
 		{
 			"code": "ENTFEE.VEH",
-			"glcode": null,
+			"glcode": "2101131",
 			"cb": "pb.pune"
 		},
 		{
@@ -1389,7 +1389,7 @@
 		},
 		{
 			"code": "GRNTINT.INT_TD",
-			"glcode": "1101429",
+			"glcode": "1101711",
 			"cb": "pb.pune"
 		},
 		{
@@ -1549,7 +1549,7 @@
 		},
 		{
 			"code": "OTHFEE.ISS_BIRTHCERT",
-			"glcode": null,
+			"glcode": "2201592",
 			"cb": "pb.pune"
 		},
 		{
@@ -1919,7 +1919,7 @@
 		},
 		{
 			"code": "UC.CREMAT_CHRG",
-			"glcode": "2201599",
+			"glcode": "2201999",
 			"cb": "pb.pune"
 		},
 		{
