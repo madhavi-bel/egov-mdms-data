@@ -67,7 +67,7 @@
         "municipalityName": "Delhi Cantonment Board",
         "population":"110351"
       },
-      "address": "Office of Cantonment Board, Sadar Bazar, Delhi Cantt-10",
+      "address": "Office of Cantonment Board Delhi, Sadar Bazar, Delhi Cantt-10 Pin Code- 110010",
       "contactNumber": "011- 25693837,25695450 (Ext.)",
       "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Delhi.pdf"
     },
@@ -135,7 +135,7 @@
         "municipalityName": "Pune Cantonment Board",
         "population":"71831"
       },
-      "address": "Golibar Maidan, Pune Solpaur Road Pune 411001",
+      "address": "Office of the Cantonment Board Pune, Golibar Maidan, Pune Solpaur Road Pune 411001",
       "contactNumber": "020-26452159",
       "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
     },
