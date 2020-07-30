@@ -100,6 +100,15 @@
         "$.tenantId"
       ]
     },
+    "Help": {
+      "masterName": "Help",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenant"
+      ]
+    },
     "CensusYear": {
       "masterName": "CensusYear",
       "moduleDefinition": null,
