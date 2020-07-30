@@ -8,8 +8,6 @@
       "population": "53137",
       "malePopulation": "",
       "femalePopultion": "",
-      "workingPopulation": "",
-      "literacyRate": "",
       "languagesSpoken": ["HN","EN"]
     },
     {
@@ -18,8 +16,6 @@
       "population": "110351",
       "malePopulation": "",
       "femalePopultion": "",
-      "workingPopulation": "",
-      "literacyRate": "",
       "languagesSpoken": ["HN","EN"]
     },
     {
@@ -28,8 +24,6 @@
       "population": "63003",
       "malePopulation": "",
       "femalePopultion": "",
-      "workingPopulation": "",
-      "literacyRate": "",
       "languagesSpoken": ["HN","EN"]
     },
     {
@@ -38,9 +32,7 @@
       "population": "71831",
       "malePopulation": "",
       "femalePopultion": "",
-      "workingPopulation": "",
-      "literacyRate": "",
-      "languagesSpoken": ["HN","EN"]
+      "languagesSpoken": ["HN","EN","MA"]
     },
     {
       "code": "pb.secunderabad",
@@ -48,9 +40,7 @@
       "population": "217910",
       "malePopulation": "",
       "femalePopultion": "",
-      "workingPopulation": "",
-      "literacyRate": "",
-      "languagesSpoken": ["HN","EN"]
+      "languagesSpoken": ["HN","EN","TE"]
     }
   ]
 }
