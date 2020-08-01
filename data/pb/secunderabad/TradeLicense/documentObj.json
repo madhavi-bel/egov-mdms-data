@@ -36,6 +36,14 @@
             ],
             "required": true
           },
+		  {
+            "documentType": "BULDPHOTO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
+          },
           {
             "documentType": "PANCARD",
             "applicationType": [
@@ -91,14 +99,6 @@
               "RENEWAL"
             ],
             "required": false
-          },
-          {
-            "documentType": "BULDPHOTO",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
           }
         ],
         "tradeType": "TRADE"
