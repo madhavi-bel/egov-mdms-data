@@ -98,7 +98,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           }
         ],
         "tradeType": "TRADE"
