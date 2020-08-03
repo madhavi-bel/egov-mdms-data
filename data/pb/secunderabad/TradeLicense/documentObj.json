@@ -36,6 +36,14 @@
             ],
             "required": true
           },
+		  {
+            "documentType": "BULDPHOTO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
+          },
           {
             "documentType": "PANCARD",
             "applicationType": [
@@ -86,14 +94,6 @@
           },
           {
             "documentType": "PLANCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "BULDPHOTO",
             "applicationType": [
               "NEW",
               "RENEWAL"
