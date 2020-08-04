@@ -16419,6 +16419,12 @@
   "tenantId": "pb"
   },
   {
+  "rolecode": "SUPERUSER",
+  "actionid": 1722,
+  "actioncode": "",
+  "tenantId": "pb"
+  },
+  {
   "rolecode": "EGF_PAYMENT_CREATOR",
   "actionid": 1723,
   "actioncode": "",
@@ -21901,18 +21907,6 @@
         "actionid": 1890,
         "actioncode": "",
         "tenantId": "pb"
-      },
-      {
-      "rolecode": "UC_EMP",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pb"
-      },
-      {
-      "rolecode": "TL_CEMP",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pb"
       }
 
   ]

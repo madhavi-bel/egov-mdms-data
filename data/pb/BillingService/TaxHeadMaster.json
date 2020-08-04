@@ -2103,16 +2103,6 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
-      "service": "TL",
-      "name": "TL Garbage Charges",
-      "code": "TL_GARBAGE_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "4",
-      "isRequired": false
-    },
-    {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application form fee",
