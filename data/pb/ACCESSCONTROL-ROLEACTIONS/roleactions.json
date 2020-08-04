@@ -16419,12 +16419,6 @@
   "tenantId": "pb"
   },
   {
-  "rolecode": "SUPERUSER",
-  "actionid": 1722,
-  "actioncode": "",
-  "tenantId": "pb"
-  },
-  {
   "rolecode": "EGF_PAYMENT_CREATOR",
   "actionid": 1723,
   "actioncode": "",
