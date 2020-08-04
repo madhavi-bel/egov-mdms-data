@@ -3424,12 +3424,12 @@
     },
     {
       "code": "OTHERS.CESS",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.lucknow"
     },
     {
       "code": "OTHERS.CESS",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.pune"
     },
     {
@@ -3449,7 +3449,7 @@
     },
     {
       "code": "OTHERS.DEPOSIT_FORT",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.lucknow"
     },
     {
@@ -3469,12 +3469,12 @@
     },
     {
       "code": "OTHERS.CLAIM",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.delhi"
     },
     {
       "code": "OTHERS.CLAIM",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.lucknow"
     },
     {
@@ -3489,17 +3489,17 @@
     },
     {
       "code": "OTHERS.DISPOSAL",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.agra"
     },
     {
       "code": "OTHERS.DISPOSAL",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.delhi"
     },
     {
       "code": "OTHERS.DISPOSAL",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.lucknow"
     },
     {
@@ -3524,7 +3524,7 @@
     },
     {
       "code": "OTHERS.RECOVERY",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.lucknow"
     },
     {
@@ -3549,7 +3549,7 @@
     },
     {
       "code": "TX.TOLL",
-      "glcode": "null",
+      "glcode": null,
       "cb": "pb.lucknow"
     },
     {
