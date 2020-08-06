@@ -21913,12 +21913,6 @@
       "actionid": 698,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
-      "rolecode": "SUPERUSER",
-      "actionid": 5031,
-      "actioncode": "",
-      "tenantId": "pb"
       }
 
   ]
