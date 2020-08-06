@@ -7,19 +7,19 @@
       "code": "TL",
       "tenants": [
         {
-          "code": "pb.secunderabad"
-        },
-        {
           "code": "pb.agra"
-        },
+        },               
         {
           "code": "pb.delhi"
         },
         {
-          "code": "pb.pune"
+          "code": "pb.lucknow"
         },
         {
-          "code": "pb.lucknow"
+          "code": "pb.pune"
+        },        
+        {
+          "code": "pb.secunderabad"
         }
       ]
     },
@@ -28,19 +28,19 @@
       "code": "UC",
       "tenants": [
         {
-          "code": "pb.secunderabad"
-        },
-        {
           "code": "pb.agra"
-        },
+        },               
         {
           "code": "pb.delhi"
         },
         {
-          "code": "pb.pune"
+          "code": "pb.lucknow"
         },
         {
-          "code": "pb.lucknow"
+          "code": "pb.pune"
+        },        
+        {
+          "code": "pb.secunderabad"
         }
       ]
     } 
