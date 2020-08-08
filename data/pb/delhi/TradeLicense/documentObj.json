@@ -33,7 +33,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "REGCERT",
@@ -41,7 +41,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "PTAX",
@@ -49,7 +49,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "FIRENOC",
@@ -57,7 +57,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "APPLETTER",
@@ -65,7 +65,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "MEDCERT",
@@ -73,7 +73,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           }
         ],
         "tradeType": "TRADE"

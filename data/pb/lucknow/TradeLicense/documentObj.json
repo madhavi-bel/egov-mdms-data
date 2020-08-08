@@ -25,7 +25,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "REGCERT",
@@ -33,7 +33,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           }
         ],
         "tradeType": "TRADE"

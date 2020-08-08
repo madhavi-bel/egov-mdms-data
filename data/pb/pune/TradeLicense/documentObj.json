@@ -20,20 +20,14 @@
             ],
             "required": true
           },
-          {
-            "documentType": "OLDLICENCENO",
-            "applicationType": [
-              "RENEWAL"
-            ],
-            "required": true
-          },
+         
           {
             "documentType": "PTAX",
             "applicationType": [
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "MEDCERT",
@@ -41,10 +35,18 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": false
+            "required": true
           },
           {
             "documentType": "SHOPACTLICENCE",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
+          },
+          {
+            "documentType": "OLDLICENCENO",
             "applicationType": [
               "NEW",
               "RENEWAL"
