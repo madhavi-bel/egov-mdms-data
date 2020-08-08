@@ -550,7 +550,7 @@
           "idname": "tl.aplnumber"
     },
     {
-          "format": "CB-TL-[cbname]-[cy:yyyy]-[SEQ_EG_PT_LN]",
+          "format": "CB-TL-[cb:name]-[cy:yyyy]-[SEQ_EG_PT_LN]",
           "idname": "tl.licensenumber"
     },
     {
