@@ -550,19 +550,19 @@
           "idname": "tl.aplnumber"
     },
     {
-          "format": "CB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+          "format": "TL-CB-[cbname]-[cy:yyyy]-[SEQ_EG_PT_LN]",
           "idname": "tl.licensenumber"
     },
     {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "format": "UC/CB/[cbname]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "assrev.comp_concession.receipt.id"
     },
     {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "format": "UC/CB/[cbname]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "assrev.comp_tax.receipt.id"
     },
     {
-      "format": "CB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "format": "UC/CB/[cbname]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "assrev.comp_taxother.receipt.id"
     },
     {
