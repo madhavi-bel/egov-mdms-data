@@ -22255,6 +22255,36 @@
         "actionid": 1743,
         "actioncode": "",
         "tenantId": "pb"
+      },
+      {
+        "rolecode": "SW_CEMP",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SW_DOC_VERIFIER",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SW_FIELD_INSPECTOR",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SW_APPROVER",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "SW_CLERK",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pb"
       }
 
   ]
