@@ -56,6 +56,31 @@
       "code": "DGDE",
       "name": "DGDE user",
       "description": "DGDE user role"
+    },
+    {
+      "code": "WS_CEMP",
+      "name": "WS Counter Employee",
+      "description": "Counter Employee for  Water connection who files WC on behalf of the citizen"
+    },
+    {
+      "code": "WS_DOC_VERIFIER",
+      "name": "WS doc verifier",
+      "description": "Water connection document verifier"
+    },
+    {
+      "code": "WS_FIELD_INSPECTOR",
+      "name": "WS Field Inspector",
+      "description": "Water connection Field Inspector"
+    },
+    {
+      "code": "WS_APPROVER",
+      "name": "WS Approver",
+      "description": "Approver who verifies and approves the Water Connection application"
+    },
+    {
+      "code": "WS_CLERK",
+      "name": "WS Clerk",
+      "description": ""
     }
   ]
 }
