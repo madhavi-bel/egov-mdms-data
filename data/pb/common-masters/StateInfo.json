@@ -9,7 +9,7 @@
       "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/dgdeBannerWide.jpg",
       "logoUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/eChhawani.png",
       "hasLocalisation" : true,
-      "enableWhatsApp" : true,
+      "enableWhatsApp" : false,
       "defaultUrl" : {
           "citizen" : "/user/register",
           "employee" : "/user/login"
