@@ -19,6 +19,21 @@
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
+      "businessService": "PropertyTax.Create",
+      "code": "PT.CREATE",
+      "collectionModesNotAllowed": [
+        "DD",
+        "OFFLINE_NEFT",
+        "OFFLINE_RTGS",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": true,
+      "minAmountPayable": 100,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+    },
+    {
       "businessService": "WaterCharges",
       "code": "WC",
       "collectionModesNotAllowed": [
