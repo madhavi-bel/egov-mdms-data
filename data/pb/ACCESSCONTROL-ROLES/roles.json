@@ -26,12 +26,7 @@
       "code": "TL_APPROVER",
       "name": "TL Approver",
       "description": "Approver who verifies and approves the TL application"
-    },
-    {
-      "code": "EGF_ADMINISTRATOR",
-      "name": "Finance Adminsitrator",
-      "description": "All Employees who are Finance application administrator"
-    },
+    }, 
     {
       "code": "TL_FIELD_INSPECTOR",
       "name": "TL Field Inspector",
