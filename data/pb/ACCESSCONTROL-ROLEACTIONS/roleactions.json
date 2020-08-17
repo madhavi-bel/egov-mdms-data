@@ -21907,6 +21907,12 @@
         "actionid": 1890,
         "actioncode": "",
         "tenantId": "pb"
+      },
+      {
+        "rolecode": "DGDE",
+        "actionid": 5031,
+        "actioncode": "",
+        "tenantId": "pb"
       }
 
   ]
