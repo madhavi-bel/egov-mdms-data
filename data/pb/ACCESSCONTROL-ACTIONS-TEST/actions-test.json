@@ -16757,6 +16757,21 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5031,
+      "name": "eChallan create",
+      "url": "/echallan-services/eChallan/v1/_create",
+      "parentModule": "",
+      "displayName": "Create Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
     }
+
+
+   
   ]
 }
