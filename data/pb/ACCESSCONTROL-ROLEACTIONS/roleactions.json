@@ -9643,6 +9643,24 @@
       "actionid": 1933,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
