@@ -108,29 +108,24 @@
       "description": "SW Clerk can activate the connection application"
     },
     {
-    "code": "LME",
-    "name": "Last Mile Employee",
-    "description": "LME user role"
-    },
-    {
-      "code": "GAO",
-      "name": "Grievance Assigning Officer",
-      "description": "GAO user role"
-    },
-    {
-      "code": "PGR-EMP",
-      "name": "PGR Registering Employee",
-      "description": "PGR-EMP user role"
+      "code": "DGRO",
+      "name": "Department Grievance Routing Officer",
+      "description": "GRO for a sepcific dept who assings the grievances to last mile employees"
     },
     {
       "code": "CSR",
-      "name": "CSR Employee",
-      "description": "CSR user role"
+      "name": "Customer Support Representative",
+      "description": "Employee who files and follows up complaints on behalf of the citizen"
     },
     {
+      "code": "PGR-ADMIN",
+      "name": "PGR Administrator",
+      "description": "Admin role that has super access over the system"
+    },
+	  {
       "code": "GRO",
-      "name": "Grievance Redirecting Officer",
-      "description": "GRO user role"
+      "name": "Grievance Routing Officer",
+      "description": "Grievance Routing Officer"
     }
   ]
 }
