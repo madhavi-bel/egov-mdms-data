@@ -5739,7 +5739,7 @@
     {
       "id": 710,
       "name": "GenerateBill",
-      "url": "/billing-service/bill/_generate",
+      "url": "/billing-service/bill/v2/_generate",
       "displayName": "Generate Bill",
       "orderNumber": 9,
       "enabled": false,
