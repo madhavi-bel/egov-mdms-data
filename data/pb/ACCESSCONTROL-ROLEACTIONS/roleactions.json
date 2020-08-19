@@ -10099,6 +10099,12 @@
       "actionid": 1862,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5031,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
    
