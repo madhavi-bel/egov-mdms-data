@@ -144,7 +144,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Entry Fee.Parks Entry Fee",
@@ -156,7 +157,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Entry Fee.Playgrounds Entry Fee",
@@ -168,7 +170,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Entry Fee.Vehicle Entry Fee",
