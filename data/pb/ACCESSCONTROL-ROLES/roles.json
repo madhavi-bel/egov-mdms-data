@@ -106,6 +106,31 @@
       "code": "SW_CLERK",
       "name": "SW Clerk",
       "description": "SW Clerk can activate the connection application"
+    },
+    {
+    "code": "LME",
+    "name": "Last Mile Employee",
+    "description": "LME user role"
+    },
+    {
+      "code": "GAO",
+      "name": "Grievance Assigning Officer",
+      "description": "GAO user role"
+    },
+    {
+      "code": "PGR-EMP",
+      "name": "PGR Registering Employee",
+      "description": "PGR-EMP user role"
+    },
+    {
+      "code": "CSR",
+      "name": "CSR Employee",
+      "description": "CSR user role"
+    },
+    {
+      "code": "GRO",
+      "name": "Grievance Redirecting Officer",
+      "description": "GRO user role"
     }
   ]
 }
