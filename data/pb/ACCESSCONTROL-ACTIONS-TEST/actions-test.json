@@ -16769,7 +16769,35 @@
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 5032,
+      "name": "Search mcollect Bill",
+      "url": "/egov-searcher/bill-genie/mcollectbills/_get",
+      "parentModule": "",
+      "displayName": "Search mcollect Bill",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5033,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Localization",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "Localization",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+     }
 
 
    
