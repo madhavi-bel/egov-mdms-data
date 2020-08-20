@@ -80,7 +80,15 @@
             "isOrigin": true
           }
         }
-      }
+      }, 
+      "ui-localisation":{
+        "iframe-routes":{
+           "localization":{
+              "routePath":"/ui-localisation/#/egov-ui-framework/egov-localization/localization",
+              "isOrigin":true
+           }
+        }
+     }
     }
   ]
 }
