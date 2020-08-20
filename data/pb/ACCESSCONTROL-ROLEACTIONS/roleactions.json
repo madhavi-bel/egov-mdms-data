@@ -10429,6 +10429,18 @@
       "actionid": 1771,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 954,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 954,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
