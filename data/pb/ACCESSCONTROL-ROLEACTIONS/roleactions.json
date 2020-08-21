@@ -10477,6 +10477,12 @@
       "actionid": 5033,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1559,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
