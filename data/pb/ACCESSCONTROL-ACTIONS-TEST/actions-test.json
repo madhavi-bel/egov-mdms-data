@@ -16781,7 +16781,23 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 5033,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Localization",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "Localization",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+     }
 
 
    

@@ -23,7 +23,33 @@
           "label": "हिंदी",
           "value": "hi_IN"
         } 
-      ]
+      ],
+      "localizationModules":[
+       {
+          "label":"rainmaker-uc",
+          "value":"rainmaker-uc"
+       },
+       {
+          "label":"rainmaker-common",
+          "value":"rainmaker-common"
+       },
+       {
+          "label":"rainmaker-uc",
+          "value":"rainmaker-uc"
+       },
+       {
+          "label":"rainmaker-pgr",
+          "value":"rainmaker-pgr"
+       },
+       {
+          "label":"rainmaker-tl",
+          "value":"rainmaker-tl"
+       },
+       {
+          "label":"rainmaker-hr",
+          "value":"rainmaker-hr"
+       }
+    ]
     }
   ]
 }
