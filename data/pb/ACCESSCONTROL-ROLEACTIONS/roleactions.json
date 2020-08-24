@@ -7912,12 +7912,6 @@
     },
     {
       "rolecode": "UC_EMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
       "actionid": 1802,
       "actioncode": "",
       "tenantId": "pb"
