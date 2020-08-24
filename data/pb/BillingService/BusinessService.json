@@ -177,7 +177,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Entry Fee.Playgrounds Entry Fee",
