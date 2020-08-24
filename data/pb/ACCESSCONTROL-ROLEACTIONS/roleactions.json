@@ -8019,12 +8019,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "UC_EMP",
-      "actionid": 5030,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "DGDE",
       "actionid": 594,
       "actioncode": "",
