@@ -10185,12 +10185,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CSR",
-      "actionid": 1559,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1524,
       "actioncode": "",
