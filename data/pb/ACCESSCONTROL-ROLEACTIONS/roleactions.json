@@ -7486,12 +7486,6 @@
     },
     {
       "rolecode": "TL_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "TL_APPROVER",
       "actionid": 1778,
       "actioncode": "",
       "tenantId": "pb"
@@ -7642,12 +7636,6 @@
     },
     {
       "rolecode": "TL_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
@@ -7780,12 +7768,6 @@
     },
     {
       "rolecode": "TL_DOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
@@ -7907,12 +7889,6 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 1590,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "pb"
     },
