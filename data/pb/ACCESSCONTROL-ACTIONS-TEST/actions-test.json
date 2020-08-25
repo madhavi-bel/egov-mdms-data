@@ -16773,9 +16773,21 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
-     }
-
-
-   
+     },
+     {
+      "id": 5034,
+      "name": "MyComplaints",
+      "url": "url",
+      "displayName": "My Complaints",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints.MyComplaints",
+      "navigationURL": "my-complaints",
+      "leftIcon": "action:announcement",
+      "rightIcon": ""
+    }
   ]
 }
