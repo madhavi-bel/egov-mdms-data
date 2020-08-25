@@ -310,12 +310,6 @@
                   "jsonPath" : "*/employee"
                 },
                 "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/name"
-                },
-                "accessType" : "PLAIN"
               }
             ]
           }
