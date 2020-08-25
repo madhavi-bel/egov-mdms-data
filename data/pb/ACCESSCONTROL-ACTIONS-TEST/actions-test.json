@@ -11088,7 +11088,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "create-complaint",
+      "navigationURL": "add-complaint",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
