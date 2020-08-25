@@ -262,6 +262,12 @@
                   "jsonPath" : "*/addresses/*/address"
                 },
                 "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/employee"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
