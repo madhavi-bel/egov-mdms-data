@@ -10389,6 +10389,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "DGDE",
+      "actionid": 1560,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1591,
       "actioncode": "",
@@ -11410,6 +11416,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "DGDE",
+      "actionid": 1852,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1844,
       "actioncode": "",
@@ -11435,6 +11447,12 @@
     },
     {
       "rolecode": "PGR-ADMIN",
+      "actionid": 1853,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
       "actionid": 1853,
       "actioncode": "",
       "tenantId": "pb"
