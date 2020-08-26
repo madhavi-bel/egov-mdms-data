@@ -141,6 +141,27 @@
       "code": "GA",
       "name": "Grivance Administrator",
       "description": "System Administator for PGR. Can change PGR Master data only."
+    },
+    
+    {
+      "code": "PT_CEMP",
+      "name": "PT Counter Employee",
+      "description": "PT counter employee can take action as citizen"
+    },
+    {
+      "code": "PT_DOC_VERIFIER",
+      "name": "PT Document Verifier",
+      "description": "PT Document Verifier"
+    },
+    {
+      "code": "PT_FIELD_INSPECTOR",
+      "name": "PT Field Inspector",
+      "description": "PT Inspector can take action like verify and forword, send back to do"
+    },
+    {
+      "code": "PT_APPROVER",
+      "name": "PT Approver",
+      "description": "PT Approver can approve the property application"
     }
   ]
 }
