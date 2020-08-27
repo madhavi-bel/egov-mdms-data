@@ -11919,6 +11919,18 @@
       "actionid": 1897,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 1848,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 1849,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
