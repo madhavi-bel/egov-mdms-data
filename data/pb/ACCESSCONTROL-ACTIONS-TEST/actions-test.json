@@ -16764,6 +16764,21 @@
       "navigationURL": "my-complaints",
       "leftIcon": "action:announcement",
       "rightIcon": ""
+    },
+    {
+      "id": 5035,
+      "name": "StateSourceReport",
+      "url": "url",
+      "displayName": "CB Source Report",
+      "orderNumber": 7,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints.PGR Reports.StateSourceReport",
+      "navigationURL": "report/rainmaker-pgr/StateSourceReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
