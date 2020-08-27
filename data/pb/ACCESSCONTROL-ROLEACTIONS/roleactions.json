@@ -9735,6 +9735,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "WS_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1900,
       "actioncode": "",
@@ -9766,43 +9778,127 @@
     },
     {
       "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 698,
+      "actionid": 954,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_FIELD_INSPECTOR",
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1900,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_FIELD_INSPECTOR",
+      "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1901,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_FIELD_INSPECTOR",
+      "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_FIELD_INSPECTOR",
+      "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_FIELD_INSPECTOR",
+      "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 954,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 698,
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1899,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -9838,7 +9934,43 @@
     },
     {
       "rolecode": "WS_APPROVER",
-      "actionid": 698,
+      "actionid": 954,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1752,
       "actioncode": "",
       "tenantId": "pb"
     },
