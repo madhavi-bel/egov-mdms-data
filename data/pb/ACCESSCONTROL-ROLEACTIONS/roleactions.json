@@ -8320,7 +8320,7 @@
     },
     {
       "rolecode": "DGDE",
-      "actionid": 1909,
+      "actionid": 1852,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -10521,6 +10521,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "DGDE",
+      "actionid": 1560,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1591,
       "actioncode": "",
@@ -11542,6 +11548,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "DGDE",
+      "actionid": 1852,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1844,
       "actioncode": "",
@@ -11567,6 +11579,12 @@
     },
     {
       "rolecode": "PGR-ADMIN",
+      "actionid": 1853,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
       "actionid": 1853,
       "actioncode": "",
       "tenantId": "pb"
@@ -12031,6 +12049,24 @@
     {
       "rolecode": "PT_APPROVER",
       "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 1848,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 1849,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 5035,
       "actioncode": "",
       "tenantId": "pb"
     }
