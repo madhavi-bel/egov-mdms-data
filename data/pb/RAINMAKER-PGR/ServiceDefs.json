@@ -327,7 +327,7 @@
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
-      "menuPath": "Payment",
+      "menuPath": "Payments",
       "active": true
     },
     {
@@ -743,7 +743,7 @@
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
-      "menuPath": "Payment",
+      "menuPath": "Payments",
       "active": true
     },
     {
