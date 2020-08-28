@@ -296,6 +296,12 @@
                   "jsonPath" : "*/lastassignedto"
                 },
                 "accessType" : "PLAIN"
+              },              
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobileNumber"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
