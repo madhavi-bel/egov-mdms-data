@@ -162,6 +162,11 @@
       "code": "PT_APPROVER",
       "name": "PT Approver",
       "description": "PT Approver can approve the property application"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "ANONYMOUS",
+      "description": "ANONYMOUS user for action which does not require login"
     }
   ]
 }
