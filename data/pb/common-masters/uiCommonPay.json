@@ -887,19 +887,6 @@
       ]
     },
     {
-      "code": "OTHFEE.MED",
-      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
-      "receiptKey": "consolidatedreceipt",
-      "billKey": "mcollect-bill",
-      "buttons": [
-        {
-          "label": "COMMON_BUTTON_HOME",
-          "citizenUrl": "/abg/billSearch",
-          "employeeUrl": "/abg/billSearch"
-        }
-      ]
-    },
-    {
       "code": "OTHFEE.MISC",
       "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
       "receiptKey": "consolidatedreceipt",

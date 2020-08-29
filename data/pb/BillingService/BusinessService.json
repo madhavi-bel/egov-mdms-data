@@ -861,20 +861,6 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Other Fee and Fines.Medical fees",
-      "code": "OTHFEE.MED",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
       "businessService": "Other Fee and Fines.Miscellaneous charges",
       "code": "OTHFEE.MISC",
       "collectionModesNotAllowed": [
