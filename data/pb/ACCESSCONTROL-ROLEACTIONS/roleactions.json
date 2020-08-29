@@ -12183,6 +12183,48 @@
       "actionid": 1592,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "GA",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
