@@ -21,7 +21,21 @@
       "name": "Revenue",
       "code": "DEPT_37",
       "active": true
+    },
+    {
+      "name": "Water Department",
+      "code": "DEPT_11",
+      "active": true
+    },
+    {
+      "name": "Engineering Department",
+      "code": "DEPT_12",
+      "active": true
+    },
+    {
+      "name": "Electricity Department",
+      "code": "DEPT_14",
+      "active": true
     }
-    
   ]
 }

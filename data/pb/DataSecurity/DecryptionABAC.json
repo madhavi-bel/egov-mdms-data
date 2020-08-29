@@ -262,6 +262,18 @@
                   "jsonPath" : "*/addresses/*/address"
                 },
                 "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/employee"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/lastassignedto"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
@@ -276,6 +288,18 @@
               {
                 "attribute" : {
                   "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/lastassignedto"
+                },
+                "accessType" : "PLAIN"
+              },              
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobileNumber"
                 },
                 "accessType" : "PLAIN"
               }
@@ -308,6 +332,12 @@
               {
                 "attribute" : {
                   "jsonPath" : "*/employee"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               }

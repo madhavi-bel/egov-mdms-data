@@ -104,9 +104,9 @@
           "citizenUrl": "/bpastakeholder-citizen/home",
           "employeeUrl": "/bpastakeholder/search"
         }
-        ]
-        },
-         {
+      ]
+    },
+    {
       "code": "WS",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "consolidatedreceipt",
@@ -155,6 +155,1800 @@
           "label": "COMMON_BUTTON_HOME",
           "citizenUrl": "/wns-citizen/home",
           "employeeUrl": "/wns/search"
+        }
+      ]
+    },
+    {
+      "code": "ASSREV.COMP_CONCESSION",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "ASSREV.COMP_TAX",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "ASSREV.COMP_TAXOTHER",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "CREDDEP.MNY_DEP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "CREDDEP.CAND_SEC_DEP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "CREDDEP.SEC_DEP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "ENTFEE.MUSEUM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "ENTFEE.PARK",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "ENTFEE.PLYGRND",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "ENTFEE.VEH",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.MDM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.SBM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.INF",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.INT_SB",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.INT_LOAN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.REV_GRNT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.INT_FD",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "GRNTINT.INT_TD",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.APP_FEE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.BETT_CHRG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.BIRTH_REG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.BLD_FEE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.CATT_CHALLAN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.COMP_UNAUTH",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.COMPD_DLYAPP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.COMPD_FEE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.CONSRV",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.CONST_WASTE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.CRT_STMP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DRY_ANML_CHALLAN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DMG_CHRG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DEAD_ANML_CONT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DEATH_REG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DENG_CHALLAN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DEV_CHRG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DISTRAINT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DISTRAINT_TAX",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DRINK_WT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DUMP_GRBG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.EDU",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.ELEC_RLY",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.EMP_REG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.ENCRMNT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.MTN_TR",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.CERT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.DC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.GRNT_PERM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.OD",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.HC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.ISS_BIRTHCERT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.ISS_DEATHCERT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.MED",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.ISS_SANTICERT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.VOTERLIST",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.RICKSHW",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.LIC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.MISC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.MTN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.NDC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.NOTICE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.PENALT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.OTH_SHOW",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.PARK_ELEC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.PLASTIC_CHALLAN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.REG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.REGL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.REHRI",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.RD_SHOW",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.RTI",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.SLGHT_HS",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.TEHBAZZZRI",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.TNDR_FRM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.WATER_CHRG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.TREE_AUC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.TR_ASS_TAX",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.WF",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.COM_CEN_BK",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.EREC_POL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.EXB_CIRC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.CANTT_FUND",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.CA",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.GH",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.OFF_BLDG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.REMIS_REFND",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.ST_VEN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.TEL_TW",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.TEMP_STALL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.ULB_LEASE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.ULB_PATTA",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.ULB_NAZOOL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.ULB_SHP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "RENT.ULB_LIC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SALE.AUC_TREE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SALE.FRM_PUB",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SALE.PROD",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SALE.STR_SCRP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.CHQ_BNC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_ADM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_CONSER",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_ELEC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_PWD",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_ENGTP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_HOSP",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_RD",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_STR",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_TAX",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.APP_WATER",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "SRVC.SRVC_CHRG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "TX.ADVT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "TX.CONS",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "TX.PROF",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "TX.SANT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "TX.PROPTY",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.BUR_GRND",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.NEW_WATER_CONC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.CHNG_WATER_CONC",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.COST_FEED_AN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.CREMAT_CHRG",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.EDU_CESS",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.FNRL_VAN",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.GRBG_COLL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.LIB_MEM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.MTRL_STACK",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.PU_TLT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.PERM_BORE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.PROCES_FEE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.PUB_FEE",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.MOB_TLT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.RD_CUTT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.SEP_TNK_CLR",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "UC.WATER_TNK",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "TX.TOLL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHERS.CESS",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
+        }
+      ]
+    },
+    {
+      "code": "OTHERS.DEPOSIT",
+      "headerBandLabel": "PAYMENT_UC_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "mcollect-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/abg/billSearch",
+          "employeeUrl": "/abg/billSearch"
         }
       ]
     }

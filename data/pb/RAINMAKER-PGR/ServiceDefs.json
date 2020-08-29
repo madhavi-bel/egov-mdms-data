@@ -1,45 +1,26 @@
 {
   "tenantId": "pb",
   "moduleName": "RAINMAKER-PGR",
-  "ServiceDefs": [
+  "ServiceDefs":[
     {
-      "serviceCode": "NoStreetlight",
-      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "Streetlights",
+      "serviceCode": "NonSweepingofRoads",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "StreetLights",
-      "active": false
+      "menuPath": "RoadsandFootpaths",
+      "active": true
     },
     {
-      "serviceCode": "NonSweepingOfRoad",
-      "active": true,
-      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "serviceCode": "NonClearingofgarbage",
+      "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "order": 5
-    },
-    {
-      "serviceCode": "StreetLightNotWorking",
-      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "DEPT_1",
-      "slaHours": 336,
-      "menuPath": "StreetLights",
-      "active": true,
-      "order": 1
-    },
-    {
-      "serviceCode": "GarbageNeedsTobeCleared",
-      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Garbage",
-      "active": true,
-      "order": 4
+      "active": true
     },
     {
       "serviceCode": "DamagedGarbageBin",
-      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
@@ -47,230 +28,763 @@
     },
     {
       "serviceCode": "BurningOfGarbage",
-      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
       "active": true
     },
     {
-      "serviceCode": "OverflowingOrBlockedDrain",
-      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "DEPT_4",
+      "serviceCode": "OverfloworBlockedundergrounddrains",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Drains",
       "active": true
     },
     {
-      "serviceCode": "illegalDischargeOfSewage",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "serviceCode": "DesiltingofOpendrain",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "WaterandSewage",
+      "menuPath": "Drains",
       "active": true
     },
     {
-      "serviceCode": "BlockOrOverflowingSewage",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true,
-      "order": 2
-    },
-    {
-      "serviceCode": "ShortageOfWater",
-      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
-      "serviceCode": "NoWaterSupply",
-      "keywords": "water, supply, connection, drink, tap",
-      "department": "DEPT_4",
+      "serviceCode": "DamagedPublicToilets",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "WaterandSewage",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
-      "serviceCode": "DirtyWaterSupply",
-      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
-      "department": "DEPT_4",
+      "serviceCode": "Noncleaningofpublictoilets",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "WaterandSewage",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
-      "serviceCode": "BrokenWaterPipeOrLeakage",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "serviceCode": "StrayAnimals",
+      "keywords": "",
+      "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true,
-      "order": 3
-    },
-    {
-      "serviceCode": "WaterPressureisVeryLess",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
+      "menuPath": "Animals",
       "active": true
     },
     {
-      "serviceCode": "DamagedRoad",
-      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "WaterLoggedRoad",
-      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "ManholeCoverMissingOrDamaged",
-      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "DamagedOrBlockedFootpath",
-      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "ConstructionMaterialLyingOntheRoad",
-      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "RequestSprayingOrFoggingOperation",
-      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "serviceCode": "MosquitoMenace",
+      "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos",
       "active": true
     },
     {
-      "serviceCode": "StrayAnimals",
-      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "serviceCode": "ReportingofaDisease",
+      "keywords": "",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairstoManholes",
+      "keywords": "",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "MissingManholecovers",
+      "keywords": "",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "FoodpoisoninginEatingEstb",
+      "keywords": "",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Food",
+      "active": true
+    },
+    {
+      "serviceCode": "FoodAdulteration",
+      "keywords": "",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Food",
+      "active": true
+    },
+    {
+      "serviceCode": "NonClearanceofDeadAnimals",
+      "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
       "active": true
     },
     {
-      "serviceCode": "DeadAnimals",
-      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "serviceCode": "IllegalCuttingOfTrees",
+      "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Animals",
+      "menuPath": "Trees",
       "active": true
     },
     {
-      "serviceCode": "DirtyOrSmellyPublicToilets",
-      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "serviceCode": "CuttingOrTrimmingOfTreesRequired",
+      "keywords": "",
       "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Trees",
+      "active": true
+    },
+    {
+      "serviceCode": "Cleanlinessnotcarriedout",
+      "keywords": "",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Cleanliness",
+      "active": true
+    },
+    {
+      "serviceCode": "IllegalDischargeOfSewage",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "Nowatersupply",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "LowpressureinWatersupply",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "ShortsupplyofWater",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "WaterleakageInPipesOrValves",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "UnauthorisedPipelineTapping",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "PollutedWaterSupply",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "BlockedOrChokedSewerage",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "Pipelinebreakage",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "DelayinReleasingofnewwaterconnection",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "UnauthoriseduseofsuctionPump",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "Nonreceiptofwaterbill",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "Discrepancyinbilling",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "DelayinreleaseofSecondWaterConnection",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairstoHandpumponborewell",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairstoJetpumponborewell",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "Repairstosubmersiblepumpsetonborewell",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "NonReceiptofpublicwatertanker",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "NonReceiptofWatertankeronpayment",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "WaterBillOnlinePayment",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "WaterTankerOnlinePayment",
+      "keywords": "",
+      "department": "DEPT_11",
+      "slaHours": 336,
+      "menuPath": "Payments",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairsandreconstructionsofManholes",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairsBrokenundergroundseweragePipes",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "ReplacementsOfSmallSeweragedrainpipes",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairsOfOpendrains",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "ProvisionofRCCSlabsoverthestormwaterdrains",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage",
+      "active": true
+    },
+    {
+      "serviceCode": "WaterLoggedRoads",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairsToPotholes",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "RecarpetingoftheBlacktoproads",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "ProvisionofCementConcreteRoadsinlanes",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "ConstructionMaterialLyingOntheRoad",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "DamagedOrBlockedFootpath",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairstothePublicGroupLatrines",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
       "menuPath": "PublicToilets",
       "active": true
     },
     {
-      "serviceCode": "PublicToiletIsDamaged",
-      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
-      "department": "DEPT_3",
+      "serviceCode": "RepairstotheFootpaths",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairsOrReConstructionofculvertsonRoads",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
+      "active": true
+    },
+    {
+      "serviceCode": "RepairstotheUrinalBlock",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
       "menuPath": "PublicToilets",
       "active": true
     },
     {
-      "serviceCode": "NoWaterOrElectricityinPublicToilet",
-      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
-      "department": "DEPT_3",
+      "serviceCode": "ProvisionofChildrenplayequipmentsinparks",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "PublicToilets",
+      "menuPath": "Parks",
+      "active": true
+    },
+    {
+      "serviceCode": "RequestForConstructionOfWalls",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "Parks",
+      "active": true
+    },
+    {
+      "serviceCode": "RefillingofTreches",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
       "serviceCode": "IllegalShopsOnFootPath",
-      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "DEPT_6",
-      "slaHours": 336,
-      "menuPath": "LandViolations",
-      "active": true
-    },
-    {
-      "serviceCode": "IllegalConstructions",
-      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "DEPT_6",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
       "menuPath": "LandViolations",
       "active": true
     },
     {
       "serviceCode": "IllegalParking",
-      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "DEPT_6",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
       "menuPath": "LandViolations",
       "active": true
     },
     {
-      "serviceCode": "IllegalCuttingOfTrees",
-      "keywords": "tree, cut, illegal, unathourized, remove, plant",
-      "department": "DEPT_5",
+      "serviceCode": "UnauthorisedConstruction",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Trees",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
-      "serviceCode": "CuttingOrTrimmingOfTreeRequired",
-      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
-      "department": "DEPT_5",
+      "serviceCode": "DeviationFromSanctionedbuildingplan",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Trees",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
-      "serviceCode": "OpenDefecation",
-      "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "DEPT_3",
+      "serviceCode": "ConstructionOfUpperfloor",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "OpenDefecation",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
-      "serviceCode": "ParkRequiresMaintenance",
-      "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "DEPT_5",
+      "serviceCode": "Constructionofroomsincellar",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Parks",
+      "menuPath": "ConstructionDeviations",
+      "active": true
+    },
+    {
+      "serviceCode": "EncroachmentsOnGovernmentlands",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": true
+    },
+    {
+      "serviceCode": "EncroachmentsOnPubliclanes",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": true
+    },
+    {
+      "serviceCode": "EncroachmentOnNalas",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "LandViolations",
+      "active": true
+    },
+    {
+      "serviceCode": "PermDelayedForUndergroundWorks",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "Permissiondelayedforbuildingplans",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "PermDelayedforlayoutplans",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "PermDelayedForPlotsSubDivision",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "PermDelayedForWalls",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "PermDelayedforadditions",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "PermDelayedinrenewalofleases",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "DelayinRegularizationofUnauthConstruction",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "ProjectionofBuildingOverTheRoad",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "ConstructionDeviations",
+      "active": true
+    },
+    {
+      "serviceCode": "Obstructionofventilationbynewconstruction",
+      "keywords": "",
+      "department": "DEPT_12",
+      "slaHours": 336,
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
       "serviceCode": "Others",
-      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
-      "department": "DEPT_10",
+      "keywords": "",
+      "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "",
-      "active": true,
-      "order": 6
+      "menuPath": "Others",
+      "active": true
+    },
+    {
+      "serviceCode": "Replacementoffusedtubelights",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true
+    },
+    {
+      "serviceCode": "ReplacementofSVlamps",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true
+    },
+    {
+      "serviceCode": "RequestforNewSVlamporTubelightpoint",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true
+    },
+    {
+      "serviceCode": "NoStreetlight",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "StreetLights",
+      "active": true
+    },
+    {
+      "serviceCode": "Malfunctionsoftowers",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "Electricity",
+      "active": true
+    },
+    {
+      "serviceCode": "RequestforNewElectricpole",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "Electricity",
+      "active": true
+    },
+    {
+      "serviceCode": "Nolightingintheentirearea",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "Electricity",
+      "active": true
+    },
+    {
+      "serviceCode": "Others",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "Electricity",
+      "active": true
+    },
+    {
+      "serviceCode": "Delayintheassessmentoftheproperty",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "DelayinMutation",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "DelayedService",
+      "active": true
+    },
+    {
+      "serviceCode": "NonreceiptofTaxbills",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "DiscrepancyinTaxbills",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "NonissuanceofCB4Bforencashedcheque",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "PropertyTaxOnlinePayment",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Payments",
+      "active": true
+    },
+    {
+      "serviceCode": "Accountsrelatedissues",
+      "keywords": "",
+      "department": "DEPT_25",
+      "slaHours": 336,
+      "menuPath": "Accounts",
+      "active": true
+    },
+    {
+      "serviceCode": "CantonmentFundBuildingIssues",
+      "keywords": "",
+      "department": "DEPT_25",
+      "slaHours": 336,
+      "menuPath": "Accounts",
+      "active": true
+    },
+    {
+      "serviceCode": "MutationIssues",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "FreeholdConversionIssues",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "GLRExtractsIssues",
+      "keywords": "",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "TAX",
+      "active": true
     }
   ]
 }

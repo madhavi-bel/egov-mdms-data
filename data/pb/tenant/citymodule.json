@@ -43,6 +43,27 @@
           "code": "pb.secunderabad"
         }
       ]
-    } 
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "tenants": [
+        {
+          "code": "pb.agra"
+        },               
+        {
+          "code": "pb.delhi"
+        },
+        {
+          "code": "pb.lucknow"
+        },
+        {
+          "code": "pb.pune"
+        },        
+        {
+          "code": "pb.secunderabad"
+        }
+      ]
+    }  
   ]
 }
