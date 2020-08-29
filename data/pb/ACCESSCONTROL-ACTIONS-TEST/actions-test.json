@@ -11027,7 +11027,7 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "AllComplaints",
+      "path": "Complaints.AllComplaints",
       "navigationURL": "all-complaints",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
