@@ -12099,6 +12099,36 @@
       "actionid": 695,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 1555,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
