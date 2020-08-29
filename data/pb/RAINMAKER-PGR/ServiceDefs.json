@@ -7,7 +7,7 @@
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -55,7 +55,7 @@
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Public Toilets",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
@@ -63,7 +63,7 @@
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Public Toilets",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
@@ -71,7 +71,7 @@
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Public Toilets",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
@@ -367,7 +367,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -375,7 +375,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -383,7 +383,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -391,7 +391,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -399,7 +399,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -407,7 +407,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -415,7 +415,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -423,7 +423,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -431,7 +431,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Public Toilets",
+      "menuPath": "PublicToilets",
       "active": true
     },
     {
@@ -455,7 +455,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Roads and Footpaths",
+      "menuPath": "RoadsandFootpaths",
       "active": true
     },
     {
@@ -463,7 +463,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Land Violations",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
@@ -471,7 +471,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Land Violations",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
@@ -479,7 +479,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Land Violations",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
@@ -487,7 +487,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Contruction Deviations",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
@@ -495,7 +495,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Contruction Deviations",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
@@ -503,7 +503,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Contruction Deviations",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
@@ -511,7 +511,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Contruction Deviations",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
@@ -519,7 +519,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Land Violations",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
@@ -527,7 +527,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Land Violations",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
@@ -535,7 +535,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Land Violations",
+      "menuPath": "LandViolations",
       "active": true
     },
     {
@@ -543,7 +543,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -551,7 +551,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -559,7 +559,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -567,7 +567,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -575,7 +575,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -583,7 +583,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -591,7 +591,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -599,7 +599,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -607,7 +607,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -615,7 +615,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -623,7 +623,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -631,7 +631,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -639,7 +639,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -647,7 +647,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Contruction Deviations",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
@@ -655,7 +655,7 @@
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
-      "menuPath": "Contruction Deviations",
+      "menuPath": "ConstructionDeviations",
       "active": true
     },
     {
@@ -671,7 +671,7 @@
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
-      "menuPath": "Street Lights",
+      "menuPath": "Streetlights",
       "active": true
     },
     {
@@ -679,7 +679,7 @@
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
-      "menuPath": "Street Lights",
+      "menuPath": "Streetlights",
       "active": true
     },
     {
@@ -687,7 +687,7 @@
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
-      "menuPath": "Street Lights",
+      "menuPath": "Streetlights",
       "active": true
     },
     {
@@ -695,7 +695,7 @@
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
-      "menuPath": "Street Lights",
+      "menuPath": "Streetlights",
       "active": true
     },
     {
@@ -735,7 +735,7 @@
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
@@ -743,7 +743,7 @@
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
-      "menuPath": "Delayed Service",
+      "menuPath": "DelayedService",
       "active": true
     },
     {
