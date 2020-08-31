@@ -159,7 +159,7 @@
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Cleanliness",
+      "menuPath": "CleanlinessNotCarriedout",
       "active": true
     },
     {
@@ -783,7 +783,7 @@
       "keywords": "",
       "department": "DEPT_25",
       "slaHours": 336,
-      "menuPath": "Accounts",
+      "menuPath": "AccountsRelatedIssues",
       "active": true
     },
     {
@@ -791,7 +791,7 @@
       "keywords": "",
       "department": "DEPT_25",
       "slaHours": 336,
-      "menuPath": "Accounts",
+      "menuPath": "AccountsRelatedIssues",
       "active": true
     },
     {
