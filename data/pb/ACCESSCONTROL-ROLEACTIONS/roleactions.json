@@ -12225,6 +12225,12 @@
       "actionid": 701,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
