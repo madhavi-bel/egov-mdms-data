@@ -167,6 +167,11 @@
       "code": "ANONYMOUS",
       "name": "ANONYMOUS",
       "description": "ANONYMOUS user for action which does not require login"
+    },
+    {
+      "code": "STADMIN",
+      "name": "State Administrator",
+      "description": "Admin role that as access over a state"
     }
   ]
 }
