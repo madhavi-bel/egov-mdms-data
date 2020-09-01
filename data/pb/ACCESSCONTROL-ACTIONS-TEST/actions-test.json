@@ -14251,7 +14251,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/search",
+      "navigationURL": "uc/newCollection",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -16374,7 +16374,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "navigationURL": "uc/search",
+      "navigationURL": "uc/newCollection",
       "path": "",
       "leftIcon": "image:collections-bookmark"
     },
