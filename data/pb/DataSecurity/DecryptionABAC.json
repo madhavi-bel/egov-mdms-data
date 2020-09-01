@@ -299,7 +299,8 @@
               },              
               {
                 "attribute" : {
-                  "jsonPath" : "*/mobileNumber"
+                  "jsonPath" : "*/mobileNumber",
+                  "maskingTechnique" : "mobile"
                 },
                 "accessType" : "PLAIN"
               }
