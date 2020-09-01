@@ -16779,6 +16779,33 @@
       "navigationURL": "report/rainmaker-pgr/StateSourceReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 5036,
+      "name": "DSS Dashboard Config CB PGR",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-pgr",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5037,
+      "name": "Dashboard CB Complaints",
+      "url": "url",
+      "displayName": "Dashboard CB Complaints",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.CB Complaints",
+      "navigationURL": "integration/dss/ulb-pgr",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }

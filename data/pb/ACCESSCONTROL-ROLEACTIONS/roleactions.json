@@ -7317,6 +7317,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 5036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 698,
       "actioncode": "",
@@ -8231,6 +8243,12 @@
     {
       "rolecode": "DGDE",
       "actionid": 1888,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 1923,
       "actioncode": "",
       "tenantId": "pb"
     },
