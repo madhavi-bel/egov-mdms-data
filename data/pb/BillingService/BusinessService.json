@@ -1997,7 +1997,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Others.Cess",
+      "businessService": "Cess",
       "code": "OTHERS.CESS",
       "collectionModesNotAllowed": [
         "DD",
@@ -2012,7 +2012,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Others.Insurance Claim Recovery",
+      "businessService": "Insurance Claim Recovery",
       "code": "OTHERS.CLAIM",
       "collectionModesNotAllowed": [
         "DD",
@@ -2027,7 +2027,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Others.Profit on Disposal of Fixed assets",
+      "businessService": "Profit on Disposal of Fixed assets",
       "code": "OTHERS.DISPOSAL",
       "collectionModesNotAllowed": [
         "DD",
@@ -2042,7 +2042,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Others.Recovery from Employees/ Contracters",
+      "businessService": "Recovery from Employees/ Contracters",
       "code": "OTHERS.RECOVERY",
       "collectionModesNotAllowed": [
         "DD",
@@ -2057,7 +2057,7 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Others.Deposit forfeited",
+      "businessService": "Deposit forfeited",
       "code": "OTHERS.DEPOSIT",
       "collectionModesNotAllowed": [
         "DD",
