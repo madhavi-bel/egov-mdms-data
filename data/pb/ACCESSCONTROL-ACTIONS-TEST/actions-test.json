@@ -16806,18 +16806,6 @@
       "navigationURL": "integration/dss/ulb-pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    },
-    {
-      "id": 5038,
-      "name": "MDMS Search",
-      "url": "/egov-mdms-service/v1/_get",
-      "displayName": "MDMS Search",
-      "orderNumber": 0,
-      "parentModule": "306",
-      "enabled": false,
-      "serviceCode": "MDMS Search",
-      "code": "null",
-      "path": ""
     }
   ]
 }

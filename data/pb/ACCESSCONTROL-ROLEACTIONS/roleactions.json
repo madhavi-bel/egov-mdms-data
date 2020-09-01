@@ -12231,12 +12231,6 @@
       "actionid": 695,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 5038,
-      "actioncode": "",
-      "tenantId": "pb"
     }
   ]
 }
