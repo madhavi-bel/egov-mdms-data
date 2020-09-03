@@ -1396,6 +1396,12 @@
                   "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
+              }, 
+              {
+                "attribute" : {
+                  "jsonPath" : "*/consumername"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
