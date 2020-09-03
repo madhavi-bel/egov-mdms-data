@@ -16806,6 +16806,18 @@
       "navigationURL": "integration/dss/ulb-pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 5038,
+      "name": "Search PGR Service",
+      "url": "/egov-searcher/rainmaker-pgr-V2/serviceSearchWithDetails/_get ",
+      "parentModule": "",
+      "displayName": "Search PGR Service",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
