@@ -274,6 +274,12 @@
                   "jsonPath" : "*/lastassignedto"
                 },
                 "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/consumername"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
@@ -299,9 +305,10 @@
               },              
               {
                 "attribute" : {
-                  "jsonPath" : "*/mobileNumber"
+                  "jsonPath" : "*/mobileNumber",
+                  "maskingTechnique" : "mobile"
                 },
-                "accessType" : "PLAIN"
+                "accessType" : "MASK"
               }
             ]
           }
@@ -1351,6 +1358,12 @@
                   "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
+              }, 
+              {
+                "attribute" : {
+                  "jsonPath" : "*/consumername"
+                },
+                "accessType" : "PLAIN"
               }
             ]
           }
@@ -1381,6 +1394,12 @@
               {
                 "attribute" : {
                   "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              }, 
+              {
+                "attribute" : {
+                  "jsonPath" : "*/consumername"
                 },
                 "accessType" : "PLAIN"
               }

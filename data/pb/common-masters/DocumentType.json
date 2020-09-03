@@ -122,7 +122,8 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ]
+      ],
+      "maxFileSize":4000
     },
     {
       "code": "OWNERSHIPPROOF",
@@ -141,7 +142,8 @@
         ".png",
         ".jpeg"
       ],
-	  "active": true
+    "active": true,
+    "maxFileSize":4000
     },
     {
       "code": "OLDLICENCENO",

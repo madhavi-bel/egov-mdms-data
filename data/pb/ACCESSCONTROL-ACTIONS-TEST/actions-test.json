@@ -11111,7 +11111,7 @@
       "id": 1561,
       "name": "DepartmentWiseReport",
       "url": "url",
-      "displayName": "Departments",
+      "displayName": "DepartmentsWise",
       "orderNumber": 1,
       "parentModule": "rainmaker-pgr",
       "enabled": true,
@@ -11141,7 +11141,7 @@
       "id": 1563,
       "name": "FunctionaryWiseReport",
       "url": "url",
-      "displayName": "ULB Employees",
+      "displayName": "ULB Employees wise",
       "orderNumber": 4,
       "parentModule": "rainmaker-pgr",
       "enabled": true,
@@ -11156,7 +11156,7 @@
       "id": 1564,
       "name": "SourceWiseReport",
       "url": "url",
-      "displayName": "Source",
+      "displayName": "Source wise",
       "orderNumber": 5,
       "parentModule": "rainmaker-pgr",
       "enabled": true,
@@ -14251,7 +14251,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/search",
+      "navigationURL": "uc/newCollection",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -16374,7 +16374,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "navigationURL": "uc/search",
+      "navigationURL": "uc/newCollection",
       "path": "",
       "leftIcon": "image:collections-bookmark"
     },
@@ -16779,6 +16779,45 @@
       "navigationURL": "report/rainmaker-pgr/StateSourceReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 5036,
+      "name": "DSS Dashboard Config CB PGR",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-pgr",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5037,
+      "name": "Dashboard CB Complaints",
+      "url": "url",
+      "displayName": "Dashboard CB Complaints",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.CB Complaints",
+      "navigationURL": "integration/dss/ulb-pgr",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 5038,
+      "name": "Search PGR Service",
+      "url": "/egov-searcher/rainmaker-pgr-V2/serviceSearchWithDetails/_get ",
+      "parentModule": "",
+      "displayName": "Search PGR Service",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }
