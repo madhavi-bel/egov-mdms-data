@@ -122,8 +122,7 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ],
-      "maxFileSize":4000
+      ]
     },
     {
       "code": "OWNERSHIPPROOF",
@@ -133,7 +132,8 @@
         ".png",
         ".jpeg"
       ],
-	  "active": true
+    "active": true,
+    "maxFileSize":6000
     },
     {
       "code": "OWNERPHOTO",
@@ -143,7 +143,7 @@
         ".jpeg"
       ],
     "active": true,
-    "maxFileSize":4000
+    "maxFileSize":5000
     },
     {
       "code": "OLDLICENCENO",
@@ -152,7 +152,8 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ]
+      ],
+      "maxFileSize":5000
     },
     {
       "code": "AADHAARCARD",
@@ -162,7 +163,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "PANCARD",
@@ -172,7 +174,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
      {
       "code": "REGCERT",
@@ -182,7 +185,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "PTAX",
@@ -192,7 +196,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "BLUPRNT",
@@ -202,7 +207,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "NBNOC1",
@@ -212,7 +218,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "NBNOC2",
@@ -222,7 +229,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "PLANCERT",
@@ -232,7 +240,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "BULDPHOTO",
@@ -242,7 +251,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },{
       "code": "MEDCERT",
       "allowedFormat": [
@@ -251,7 +261,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "SHOPACTLICENCE",
@@ -261,7 +272,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "FIRENOC",
@@ -271,7 +283,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "ELECTBILL",
@@ -281,7 +294,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     },
     {
       "code": "APPLETTER",
@@ -291,7 +305,8 @@
         ".png",
         ".jpeg"
       ],
-      "active": true
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
