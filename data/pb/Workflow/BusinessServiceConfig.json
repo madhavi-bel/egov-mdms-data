@@ -9,10 +9,6 @@
     {
       "code": "FIRENOC",
       "isStateLevel": true
-    },
-    {
-      "code": "NewWS1",
-      "isStateLevel": true
     }
   ]
 }
