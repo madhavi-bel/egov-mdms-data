@@ -6496,12 +6496,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 1525,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 1526,
       "actioncode": "",
       "tenantId": "pb"
@@ -9802,12 +9796,6 @@
       "tenantid": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1525,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
-    {
       "rolecode": "CSR",
       "actionid": 1525,
       "actioncode": "",
@@ -9826,7 +9814,7 @@
       "tenantid": "pb"
     },
     {
-      "rolecode": "DGRO",
+      "rolecode": "GO",
       "actionid": 1525,
       "actioncode": "",
       "tenantid": "pb"
