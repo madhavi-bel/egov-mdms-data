@@ -16428,7 +16428,7 @@
     },
     {
       "id": 5007,
-      "name": "MiscReceiptULBShort",
+      "name": "MiscReceiptCB",
       "url": "url",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
@@ -16436,7 +16436,7 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptCB",
       "path": "Reports.miscellaneous Receipt Register"
     },
     {
@@ -16485,25 +16485,25 @@
     },
     {
       "id": 5012,
-      "name": "MiscReceiptULBShortMetadata",
-      "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
-      "displayName": "MiscReceiptULBShort metadata",
+      "name": "MiscReceiptCBMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptCB/metadata/_get",
+      "displayName": "MiscReceiptCB metadata",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptULBShort Metadata"
+      "path": "MiscReceiptCB Metadata"
     },
     {
       "id": 5013,
-      "name": "MiscReceiptULBShort",
-      "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
+      "name": "MiscReceiptCB",
+      "url": "/report/rainmaker-uc/MiscReceiptCB/_get",
       "displayName": "Misc Receipt Report",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "MiscReceiptULBShort"
+      "path": "MiscReceiptCB"
     },
     {
       "id": 5014,
