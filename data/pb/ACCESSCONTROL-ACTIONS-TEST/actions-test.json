@@ -16353,7 +16353,7 @@
     },
     {
       "id": 5001,
-      "name": "MiscReceiptULB",
+      "name": "MiscReceiptRegister",
       "url": "url",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
@@ -16361,7 +16361,7 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptRegister",
       "path": "Reports.Miscellaneous Receipt Register"
     },
     {
@@ -16381,7 +16381,7 @@
     {
       "id": 5003,
       "name": "UCReportMetadata",
-      "url": "/report/rainmaker-uc/MiscReceiptULB/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptRegister/metadata/_get",
       "displayName": "Universal Collection Report metadata",
       "orderNumber": 1,
       "enabled": true,
@@ -16392,7 +16392,7 @@
     {
       "id": 5004,
       "name": "UC Report",
-      "url": "/report/rainmaker-uc/MiscReceiptULB/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptRegister/_get",
       "displayName": "Universal Collection Report",
       "orderNumber": 0,
       "enabled": true,
