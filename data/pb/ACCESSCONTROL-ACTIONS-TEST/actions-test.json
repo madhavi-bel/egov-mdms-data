@@ -16818,6 +16818,44 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 5039,
+      "name": "ComplaintTypesStatusReport",
+      "url": "url",
+      "displayName": "Complaints Status Report",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints.PGR Reports.ComplaintTypesStatusReport",
+      "navigationURL": "report/rainmaker-pgr/ComplaintTypesStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 5040,
+      "name": "RainmakerPGR-ComplaintTypesStatusReport-Metadata",
+      "url": "/report/rainmaker-pgr/ComplaintTypesStatusReport/metadata/_get",
+      "displayName": "Rainmaker PGR report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "RainmakerPGRReports",
+      "code": "null",
+      "path": "PGR Report"
+    },
+    {
+      "id": 5041,
+      "name": "ComplaintTypesStatusReport",
+      "url": "/report/rainmaker-pgr/ComplaintTypesStatusReport/_get",
+      "displayName": "PGR Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "RainmakerPGRReports",
+      "code": "null",
+      "path": "PGR Report"
+    }
   ]
 }
