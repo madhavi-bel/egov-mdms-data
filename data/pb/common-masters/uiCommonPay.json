@@ -257,8 +257,8 @@
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
-          "citizenUrl": "/abg/billSearch",
-          "employeeUrl": "/abg/billSearch"
+          "citizenUrl": "/citizen/abg/billSearch",
+          "employeeUrl": "/uc/newCollection"
         }
       ]
     },
