@@ -16353,7 +16353,7 @@
     },
     {
       "id": 5001,
-      "name": "MiscReceiptULB",
+      "name": "MiscReceiptRegister",
       "url": "url",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
@@ -16361,7 +16361,7 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptRegister",
       "path": "Reports.Miscellaneous Receipt Register"
     },
     {
@@ -16381,7 +16381,7 @@
     {
       "id": 5003,
       "name": "UCReportMetadata",
-      "url": "/report/rainmaker-uc/MiscReceiptULB/metadata/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptRegister/metadata/_get",
       "displayName": "Universal Collection Report metadata",
       "orderNumber": 1,
       "enabled": true,
@@ -16392,7 +16392,7 @@
     {
       "id": 5004,
       "name": "UC Report",
-      "url": "/report/rainmaker-uc/MiscReceiptULB/_get",
+      "url": "/report/rainmaker-uc/MiscReceiptRegister/_get",
       "displayName": "Universal Collection Report",
       "orderNumber": 0,
       "enabled": true,
@@ -16428,7 +16428,7 @@
     },
     {
       "id": 5007,
-      "name": "MiscReceiptULBShort",
+      "name": "MiscReceiptCB",
       "url": "url",
       "displayName": "Miscellaneous Consumer Receipts",
       "orderNumber": 1,
@@ -16436,7 +16436,7 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptCB",
       "path": "Reports.miscellaneous Receipt Register"
     },
     {
@@ -16485,25 +16485,25 @@
     },
     {
       "id": 5012,
-      "name": "MiscReceiptULBShortMetadata",
-      "url": "/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
-      "displayName": "MiscReceiptULBShort metadata",
+      "name": "MiscReceiptCBMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptCB/metadata/_get",
+      "displayName": "MiscReceiptCB metadata",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptULBShort Metadata"
+      "path": "MiscReceiptCB Metadata"
     },
     {
       "id": 5013,
-      "name": "MiscReceiptULBShort",
-      "url": "/report/rainmaker-uc/MiscReceiptULBShort/_get",
+      "name": "MiscReceiptCB",
+      "url": "/report/rainmaker-uc/MiscReceiptCB/_get",
       "displayName": "Misc Receipt Report",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "MiscReceiptULBShort"
+      "path": "MiscReceiptCB"
     },
     {
       "id": 5014,
@@ -16818,6 +16818,44 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 5039,
+      "name": "ComplaintTypesStatusReport",
+      "url": "url",
+      "displayName": "Complaints Status Report",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints.PGR Reports.ComplaintTypesStatusReport",
+      "navigationURL": "report/rainmaker-pgr/ComplaintTypesStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 5040,
+      "name": "RainmakerPGR-ComplaintTypesStatusReport-Metadata",
+      "url": "/report/rainmaker-pgr/ComplaintTypesStatusReport/metadata/_get",
+      "displayName": "Rainmaker PGR report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "RainmakerPGRReports",
+      "code": "null",
+      "path": "PGR Report"
+    },
+    {
+      "id": 5041,
+      "name": "ComplaintTypesStatusReport",
+      "url": "/report/rainmaker-pgr/ComplaintTypesStatusReport/_get",
+      "displayName": "PGR Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "RainmakerPGRReports",
+      "code": "null",
+      "path": "PGR Report"
+    }
   ]
 }

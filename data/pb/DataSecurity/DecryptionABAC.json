@@ -1348,7 +1348,7 @@
         ]
       },
       {
-        "key" : "MiscReceiptULB",
+        "key" : "MiscReceiptRegister",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "EMPLOYEE",
@@ -1386,7 +1386,7 @@
         ]
       },
       {
-        "key" : "MiscReceiptULBShort",
+        "key" : "MiscReceiptCB",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "EMPLOYEE",
