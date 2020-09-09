@@ -7954,18 +7954,6 @@
     },
     {
       "rolecode": "UC_EMP",
-      "actionid": 5003,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 5004,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
       "actionid": 5004,
       "actioncode": "",
       "tenantId": "pb"
@@ -11354,6 +11342,12 @@
     {
       "rolecode": "STADMIN",
       "actionid": 1751,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1752,
       "actioncode": "",
       "tenantId": "pb"
     },
