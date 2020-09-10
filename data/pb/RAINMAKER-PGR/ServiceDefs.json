@@ -723,14 +723,6 @@
       "active": true
     },
     {
-      "serviceCode": "Others",
-      "keywords": "",
-      "department": "DEPT_14",
-      "slaHours": 336,
-      "menuPath": "Others",
-      "active": true
-    },
-    {
       "serviceCode": "DelayInTheAssessmentOfTheProperty",
       "keywords": "",
       "department": "DEPT_13",
@@ -816,6 +808,14 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "Others",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "Others",
       "active": true
     }
   ]
