@@ -58,11 +58,6 @@
       "description": "DGDE user role"
     },
     {
-      "code": "DGRO",
-      "name": "Department Grievance Routing Officer",
-      "description": "GRO for a sepcific dept who assings the grievances to last mile employees"
-    },
-    {
       "code": "CSR",
       "name": "Customer Support Representative",
       "description": "Employee who files and follows up complaints on behalf of the citizen"
@@ -78,19 +73,9 @@
       "description": "Grievance Routing Officer"
     },
     {
-      "code": "GO",
-      "name": "Grievance Officer",
-      "description": "Heads the grivance cell. Also all complaints that cannot be routed based on the rules are routed to Grievance Officer."
-    },
-    {
       "code": "RO",
       "name": "Redressal Officer",
       "description": "Employees that address citizens grievances."
-    },
-    {
-      "code": "GA",
-      "name": "Grivance Administrator",
-      "description": "System Administator for PGR. Can change PGR Master data only."
     },
     {
       "code": "ANONYMOUS",

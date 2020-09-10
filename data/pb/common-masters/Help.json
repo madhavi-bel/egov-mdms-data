@@ -5,32 +5,32 @@
     {
       "tenant": "pb.delhi",
       "code": "TL",
-      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Delhi.pdf"
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Delhi.pdf"
     },
     {
       "tenant": "pb.secunderabad",
       "code": "TL",
-      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
     },
     {
       "tenant": "pb.lucknow",
       "code": "TL",
-      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Lucknow.pdf"
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Lucknow.pdf"
     },
     {
       "tenant": "pb.agra",
       "code": "TL",
-      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Agra.pdf"
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Agra.pdf"
     },
     {
       "tenant": "pb.pune",
       "code": "TL",
-      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
     },
     {
       "tenant": "pb",
       "code": "UC",
-      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-CB-Impl/data/pb/mCollectHelp/mCollectHelp.pdf"
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/mCollectHelp/mCollectHelp.pdf"
     }
     
   ]
