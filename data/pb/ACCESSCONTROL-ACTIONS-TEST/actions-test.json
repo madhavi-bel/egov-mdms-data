@@ -11118,7 +11118,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.PGR Reports.DepartmentWiseReport",
-      "navigationURL": "report/rainmaker-pgr/ULBDepartmentReport",
+      "navigationURL": "report/rainmaker-pgr/CBDepartmentReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -11147,8 +11147,8 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.PGR Reports.ULBEmployeeWiseReport",
-      "navigationURL": "report/rainmaker-pgr/ULBEmployeeWiseReport",
+      "path": "Complaints.PGR Reports.CBEmployeeWiseReport",
+      "navigationURL": "report/rainmaker-pgr/CBEmployeeWiseReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -14859,8 +14859,8 @@
     },
     {
       "id": 1850,
-      "name": "RainmakerPGR-StateULBReport-Metadata",
-      "url": "/report/rainmaker-pgr/StateULBReport/metadata/_get",
+      "name": "RainmakerPGR-StateCBReport-Metadata",
+      "url": "/report/rainmaker-pgr/StateCBReport/metadata/_get",
       "displayName": "Rainmaker PGR report",
       "orderNumber": 1,
       "parentModule": "147",
@@ -14871,8 +14871,8 @@
     },
     {
       "id": 1851,
-      "name": "StateULBReport",
-      "url": "/report/rainmaker-pgr/StateULBReport/_get",
+      "name": "StateCBReport",
+      "url": "/report/rainmaker-pgr/StateCBReport/_get",
       "displayName": "PGR Report",
       "orderNumber": 0,
       "enabled": false,
@@ -14928,8 +14928,8 @@
     },
     {
       "id": 1856,
-      "name": "RainmakerPGR-ULBDepartmentReport-Metadata",
-      "url": "/report/rainmaker-pgr/ULBDepartmentReport/metadata/_get",
+      "name": "RainmakerPGR-CBDepartmentReport-Metadata",
+      "url": "/report/rainmaker-pgr/CBDepartmentReport/metadata/_get",
       "displayName": "Rainmaker PGR report",
       "orderNumber": 1,
       "parentModule": "147",
@@ -14940,8 +14940,8 @@
     },
     {
       "id": 1857,
-      "name": "ULBDepartmentReport",
-      "url": "/report/rainmaker-pgr/ULBDepartmentReport/_get",
+      "name": "CBDepartmentReport",
+      "url": "/report/rainmaker-pgr/CBDepartmentReport/_get",
       "displayName": "PGR Report",
       "orderNumber": 0,
       "enabled": false,
@@ -14951,8 +14951,8 @@
     },
     {
       "id": 1858,
-      "name": "RainmakerPGR-ULBEmployeeWiseReport-Metadata",
-      "url": "/report/rainmaker-pgr/ULBEmployeeWiseReport/metadata/_get",
+      "name": "RainmakerPGR-CBEmployeeWiseReport-Metadata",
+      "url": "/report/rainmaker-pgr/CBEmployeeWiseReport/metadata/_get",
       "displayName": "Rainmaker PGR report",
       "orderNumber": 1,
       "parentModule": "147",
@@ -14963,8 +14963,8 @@
     },
     {
       "id": 1859,
-      "name": "ULBEmployeeWiseReport",
-      "url": "/report/rainmaker-pgr/ULBEmployeeWiseReport/_get",
+      "name": "CBEmployeeWiseReport",
+      "url": "/report/rainmaker-pgr/CBEmployeeWiseReport/_get",
       "displayName": "PGR Report",
       "orderNumber": 0,
       "enabled": false,
@@ -15500,9 +15500,9 @@
     },
     {
       "id": 1908,
-      "name": "ULBEmployeeWiseReport",
-      "url": "/report/rainmaker-pgr/ULBEmployeeWiseReport/metadata/_get",
-      "displayName": "rainmaker-pgr-ULBEmployeeWiseReport",
+      "name": "CBEmployeeWiseReport",
+      "url": "/report/rainmaker-pgr/CBEmployeeWiseReport/metadata/_get",
+      "displayName": "rainmaker-pgr-CBEmployeeWiseReport",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
@@ -15596,9 +15596,9 @@
     },
     {
       "id": 1918,
-      "name": "ULBEmployeeWiseReport",
-      "url": "/report/rainmaker-pgr/ULBEmployeeWiseReport/_get",
-      "displayName": "rainmaker-pgr-ULBEmployeeWiseReport",
+      "name": "CBEmployeeWiseReport",
+      "url": "/report/rainmaker-pgr/CBEmployeeWiseReport/_get",
+      "displayName": "rainmaker-pgr-CBEmployeeWiseReport",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
@@ -16415,7 +16415,7 @@
     },
     {
       "id": 5006,
-      "name": "MiscReceiptULBCancelled",
+      "name": "MiscReceiptCBCancelled",
       "url": "url",
       "displayName": "Miscellaneous Cancelled Receipts",
       "orderNumber": 1,
@@ -16423,7 +16423,7 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptCBCancelled",
       "path": "Reports.miscellaneous Receipt Register"
     },
     {
@@ -16463,25 +16463,25 @@
     },
     {
       "id": 5010,
-      "name": "MiscReceiptULBCancelledMetadata",
-      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
-      "displayName": "MiscReceiptULBCancelled metadata",
+      "name": "MiscReceiptCBCancelledMetadata",
+      "url": "/report/rainmaker-uc/MiscReceiptCBCancelled/metadata/_get",
+      "displayName": "MiscReceiptCBCancelled metadata",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptULBCancelled Metadata"
+      "path": "MiscReceiptCBCancelled Metadata"
     },
     {
       "id": 5011,
-      "name": "MiscReceiptULBCancelled",
-      "url": "/report/rainmaker-uc/MiscReceiptULBCancelled/_get",
+      "name": "MiscReceiptCBCancelled",
+      "url": "/report/rainmaker-uc/MiscReceiptCBCancelled/_get",
       "displayName": "Misc BusinessService Collection Tenant Report",
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "MiscReceiptULBCancelled"
+      "path": "MiscReceiptCBCancelled"
     },
     {
       "id": 5012,
