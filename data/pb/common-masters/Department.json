@@ -41,6 +41,31 @@
       "name": "Office",
       "code": "DEPT_1",
       "active": true
+    },
+    {
+      "name": "Main Branch",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "Information Technology",
+      "code": "DEPT_39",
+      "active": true
+    },
+    {
+      "name": "Engineering Department",
+      "code": "DEPT_40",
+      "active": true
+    },
+    {
+      "name": "Horticulture",
+      "code": "DEPT_41",
+      "active": true
+    },
+    {
+      "name": "Sanitation",
+      "code": "DEPT_42",
+      "active": true
     }
   ]
 }

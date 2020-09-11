@@ -115,6 +115,12 @@
       "description": "AssistAccountant",
       "code": "DESIG_40",
       "active": true
+    },
+    {
+      "name": "Accountant",
+      "description": "Accountant",
+      "code": "DESIG_41",
+      "active": true
     }
   ]
 }
