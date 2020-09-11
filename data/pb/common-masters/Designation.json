@@ -111,8 +111,8 @@
       "active": true
     },
     {
-      "name": "AssistAccountant",
-      "description": "AssistAccountant",
+      "name": "Asst. Accountant",
+      "description": "Asst. Accountant",
       "code": "DESIG_40",
       "active": true
     },
@@ -134,5 +134,6 @@
       "code": "DESIG_43",
       "active": true
     }
+    
   ]
 }
