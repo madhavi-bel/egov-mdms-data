@@ -121,6 +121,18 @@
       "description": "Accountant",
       "code": "DESIG_41",
       "active": true
+    },
+    {
+      "name": "Dak Opr",
+      "description": "Dak Opr",
+      "code": "DESIG_42",
+      "active": true
+    },
+    {
+      "name": "OS",
+      "description": "OS",
+      "code": "DESIG_43",
+      "active": true
     }
   ]
 }
