@@ -3,7 +3,7 @@
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs":[
     {
-      "serviceCode": "NonSweepingofRoads",
+      "serviceCode": "NonSweepingOfRoads",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -11,7 +11,7 @@
       "active": true
     },
     {
-      "serviceCode": "NonClearingofgarbage",
+      "serviceCode": "NonClearingOfGarbage",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -35,7 +35,7 @@
       "active": true
     },
     {
-      "serviceCode": "OverfloworBlockedundergrounddrains",
+      "serviceCode": "OverflowOrBlockedUndergroundDrains",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -43,7 +43,7 @@
       "active": true
     },
     {
-      "serviceCode": "DesiltingofOpendrain",
+      "serviceCode": "DesiltingOfOpenDrain",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -51,7 +51,7 @@
       "active": true
     },
     {
-      "serviceCode": "NoWaterOrElectricityinPublicToilet",
+      "serviceCode": "NoWaterOrElectricityInPublicToilet",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -67,7 +67,7 @@
       "active": true
     },
     {
-      "serviceCode": "Noncleaningofpublictoilets",
+      "serviceCode": "NonCleaningOfPublicToilets",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -83,7 +83,7 @@
       "active": true
     },
     {
-      "serviceCode": "NonClearanceofDeadAnimals",
+      "serviceCode": "NonClearanceOfDeadAnimals",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -99,7 +99,7 @@
       "active": true
     },
     {
-      "serviceCode": "ReportingofaDisease",
+      "serviceCode": "ReportingOfaDisease",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -107,7 +107,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairstoManholes",
+      "serviceCode": "RepairsToManHoles",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -115,7 +115,7 @@
       "active": true
     },
     {
-      "serviceCode": "MissingManholecovers",
+      "serviceCode": "MissingManholeCovers",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -155,7 +155,7 @@
       "active": true
     },
     {
-      "serviceCode": "Cleanlinessnotcarriedout",
+      "serviceCode": "CleanlinessNotCarriedOut",
       "keywords": "",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -163,7 +163,7 @@
       "active": true
     },
     {
-      "serviceCode": "Nowatersupply",
+      "serviceCode": "NoWaterSupply",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -171,7 +171,7 @@
       "active": true
     },
     {
-      "serviceCode": "LowpressureinWatersupply",
+      "serviceCode": "LowPressureInWaterSupply",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -179,7 +179,7 @@
       "active": true
     },
     {
-      "serviceCode": "ShortsupplyofWater",
+      "serviceCode": "ShortSupplyOfWater",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -187,7 +187,7 @@
       "active": true
     },
     {
-      "serviceCode": "WaterleakageInPipesOrValves",
+      "serviceCode": "WaterLeakageInPipesOrValves",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -211,7 +211,7 @@
       "active": true
     },
     {
-      "serviceCode": "DelayinReleasingofnewwaterconnection",
+      "serviceCode": "DelayInReleasingOfNewWaterConnection",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -219,7 +219,7 @@
       "active": true
     },
     {
-      "serviceCode": "UnauthoriseduseofsuctionPump",
+      "serviceCode": "UnauthorisedUseOfSuctionPump",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -227,7 +227,7 @@
       "active": true
     },
     {
-      "serviceCode": "Nonreceiptofwaterbill",
+      "serviceCode": "NonReceiptOfWaterBill",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -235,7 +235,7 @@
       "active": true
     },
     {
-      "serviceCode": "Discrepancyinbilling",
+      "serviceCode": "DiscrepancyInBilling",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -267,7 +267,7 @@
       "active": true
     },
     {
-      "serviceCode": "Pipelinebreakage",
+      "serviceCode": "PipelineBreakage",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -275,7 +275,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairstoHandpumponborewell",
+      "serviceCode": "RepairsToHandpumpOnBorewell",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -283,7 +283,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairstoJetpumponborewell",
+      "serviceCode": "RepairsToJetPumpOnBorewell",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -291,7 +291,7 @@
       "active": true
     },
     {
-      "serviceCode": "Repairstosubmersiblepumpsetonborewell",
+      "serviceCode": "RepairsToSubmersiblePumpsetOnBorewell",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -299,7 +299,7 @@
       "active": true
     },
     {
-      "serviceCode": "NonReceiptofpublicwatertanker",
+      "serviceCode": "NonReceiptOfPublicWaterTanker",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -307,7 +307,7 @@
       "active": true
     },
     {
-      "serviceCode": "NonReceiptofWatertankeronpayment",
+      "serviceCode": "NonReceiptOfWaterTankerOnPayment",
       "keywords": "",
       "department": "DEPT_11",
       "slaHours": 336,
@@ -323,7 +323,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairsandreconstructionsofManholes",
+      "serviceCode": "RepairsAndReconstructionsOfManholes",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -331,7 +331,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairsBrokenundergroundseweragePipes",
+      "serviceCode": "RepairsBrokenUndergroundSeweragePipes",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -339,7 +339,7 @@
       "active": true
     },
     {
-      "serviceCode": "ReplacementsOfSmallSeweragedrainpipes",
+      "serviceCode": "ReplacementsOfSmallSewerageDrainpipes",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -347,7 +347,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairsOfOpendrains",
+      "serviceCode": "RepairsOfOpenDrains",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -355,7 +355,7 @@
       "active": true
     },
     {
-      "serviceCode": "ProvisionofRCCSlabsoverthestormwaterdrains",
+      "serviceCode": "ProvisionOfRccSlabsOverTheStormWaterDrains",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -371,7 +371,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairsToPotholes",
+      "serviceCode": "RepairsToPotHoles",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -379,7 +379,7 @@
       "active": true
     },
     {
-      "serviceCode": "RecarpetingoftheBlacktoproads",
+      "serviceCode": "RecarpetingOfTheBlackTopRoads",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -387,7 +387,7 @@
       "active": true
     },
     {
-      "serviceCode": "ProvisionofCementConcreteRoadsinlanes",
+      "serviceCode": "ProvisionOfCementConcreteRoadsInLanes",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -395,7 +395,7 @@
       "active": true
     },
     {
-      "serviceCode": "ConstructionMaterialLyingOntheRoad",
+      "serviceCode": "ConstructionMaterialLyingOnTheRoad",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -411,7 +411,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairstotheFootpaths",
+      "serviceCode": "RepairsToTheFootpaths",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -419,7 +419,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairsOrReConstructionofculvertsonRoads",
+      "serviceCode": "RepairsOrReConstructionOfCulvertsOnRoads",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -427,7 +427,7 @@
       "active": true
     },
     {
-      "serviceCode": "RepairstotheUrinalBlock",
+      "serviceCode": "RepairsToTheUrinalBlock",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -435,7 +435,7 @@
       "active": true
     },
     {
-      "serviceCode": "ProvisionofChildrenplayequipmentsinparks",
+      "serviceCode": "ProvisionOfChildrenPlayEquipmentsInParks",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -451,7 +451,7 @@
       "active": true
     },
     {
-      "serviceCode": "RefillingofTreches",
+      "serviceCode": "RefillingOfTreches",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -483,7 +483,7 @@
       "active": true
     },
     {
-      "serviceCode": "DeviationFromSanctionedbuildingplan",
+      "serviceCode": "DeviationFromSanctionedBuildingPlan",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -491,7 +491,7 @@
       "active": true
     },
     {
-      "serviceCode": "ConstructionOfUpperfloor",
+      "serviceCode": "ConstructionOfUpperFloor",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -499,7 +499,7 @@
       "active": true
     },
     {
-      "serviceCode": "Constructionofroomsincellar",
+      "serviceCode": "ConstructionOfRoomsInCellar",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -507,7 +507,7 @@
       "active": true
     },
     {
-      "serviceCode": "Constructionofroomsinbasementfloor",
+      "serviceCode": "ConstructionOfRoomsInBasementFloor",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -515,7 +515,7 @@
       "active": true
     },
     {
-      "serviceCode": "EncroachmentsOnGovernmentlands",
+      "serviceCode": "EncroachmentsOnGovernmentLands",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -523,7 +523,7 @@
       "active": true
     },
     {
-      "serviceCode": "EncroachmentsOnPubliclanes",
+      "serviceCode": "EncroachmentsOnPublicLanes",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -571,7 +571,7 @@
       "active": true
     },
     {
-      "serviceCode": "Permissiondelayedforbuildingplans",
+      "serviceCode": "PermissionDelayedForBuildingPlans",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -579,7 +579,7 @@
       "active": true
     },
     {
-      "serviceCode": "PermDelayedforlayoutplans",
+      "serviceCode": "PermDelayedForLayoutPlans",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -619,7 +619,7 @@
       "active": true
     },
     {
-      "serviceCode": "PermDelayedforalterations",
+      "serviceCode": "PermDelayedForAlterations",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -627,7 +627,7 @@
       "active": true
     },
     {
-      "serviceCode": "PermDelayedinrenewalofleases",
+      "serviceCode": "PermDelayedInRenewalOfLeases",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -635,7 +635,7 @@
       "active": true
     },
     {
-      "serviceCode": "DelayinRegularizationofUnauthConstruction",
+      "serviceCode": "DelayinRegularizationOfUnauthConstruction",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -651,7 +651,7 @@
       "active": true
     },
     {
-      "serviceCode": "Obstructionofventilationbynewconstruction",
+      "serviceCode": "ObstructionOfVentilationByNewConstruction",
       "keywords": "",
       "department": "DEPT_12",
       "slaHours": 336,
@@ -667,7 +667,7 @@
       "active": true
     },
     {
-      "serviceCode": "Replacementoffusedtubelights",
+      "serviceCode": "ReplacementOfFusedTubelights",
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
@@ -675,7 +675,7 @@
       "active": true
     },
     {
-      "serviceCode": "ReplacementofSVlamps",
+      "serviceCode": "ReplacementOfSvLamps",
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
@@ -683,7 +683,7 @@
       "active": true
     },
     {
-      "serviceCode": "RequestforNewSVlamporTubelightpoint",
+      "serviceCode": "RequestforNewSvLamporTubeLightpoint",
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
@@ -699,7 +699,7 @@
       "active": true
     },
     {
-      "serviceCode": "Malfunctionsoftowers",
+      "serviceCode": "MalfunctionsOfTowers",
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
@@ -707,7 +707,7 @@
       "active": true
     },
     {
-      "serviceCode": "RequestforNewElectricpole",
+      "serviceCode": "RequestForNewElectricpole",
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
@@ -715,7 +715,7 @@
       "active": true
     },
     {
-      "serviceCode": "Nolightingintheentirearea",
+      "serviceCode": "NoLightingInTheEntireArea",
       "keywords": "",
       "department": "DEPT_14",
       "slaHours": 336,
@@ -723,15 +723,7 @@
       "active": true
     },
     {
-      "serviceCode": "Others",
-      "keywords": "",
-      "department": "DEPT_14",
-      "slaHours": 336,
-      "menuPath": "Electricity",
-      "active": true
-    },
-    {
-      "serviceCode": "Delayintheassessmentoftheproperty",
+      "serviceCode": "DelayInTheAssessmentOfTheProperty",
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -739,7 +731,7 @@
       "active": true
     },
     {
-      "serviceCode": "DelayinMutation",
+      "serviceCode": "DelayInMutation",
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -747,7 +739,7 @@
       "active": true
     },
     {
-      "serviceCode": "NonreceiptofTaxbills",
+      "serviceCode": "NonReceiptOfTaxBills",
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -755,7 +747,7 @@
       "active": true
     },
     {
-      "serviceCode": "DiscrepancyinTaxbills",
+      "serviceCode": "DiscrepancyInTaxBills",
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -763,7 +755,7 @@
       "active": true
     },
     {
-      "serviceCode": "NonissuanceofCB4Bforencashedcheque",
+      "serviceCode": "NonIssuanceOfCb4bForEncashedCheque",
       "keywords": "",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -779,7 +771,7 @@
       "active": true
     },
     {
-      "serviceCode": "Accountsrelatedissues",
+      "serviceCode": "AccountsRelatedIssues",
       "keywords": "",
       "department": "DEPT_25",
       "slaHours": 336,
@@ -816,6 +808,14 @@
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "TAX",
+      "active": true
+    },
+    {
+      "serviceCode": "Others",
+      "keywords": "",
+      "department": "DEPT_14",
+      "slaHours": 336,
+      "menuPath": "Others",
       "active": true
     }
   ]
