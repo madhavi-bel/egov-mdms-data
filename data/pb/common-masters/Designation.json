@@ -91,6 +91,12 @@
       "description": "Superintendent",
       "code": "DESIG_39",
       "active": true
+    },
+    {
+      "name": "AssistAccountant",
+      "description": "AssistAccountant",
+      "code": "DESIG_40",
+      "active": true
     }
   ]
 }
