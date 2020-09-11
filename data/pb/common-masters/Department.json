@@ -36,6 +36,11 @@
       "name": "Electricity Department",
       "code": "DEPT_14",
       "active": true
+    },
+    {
+      "name": "Office",
+      "code": "DEPT_1",
+      "active": true
     }
   ]
 }

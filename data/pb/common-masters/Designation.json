@@ -3,6 +3,24 @@
   "moduleName": "common-masters",
   "Designation": [  
     {
+      "name": "Sectional Enggineer",
+      "description": "Sectional Enggineer",
+      "code": "DESIG_1",
+      "active": true
+    },
+    {
+      "name": "Asst. Executive Enggineer",
+      "description": "Asst. Executive Enggineer",
+      "code": "DESIG_2",
+      "active": true
+    },
+    {
+      "name": "Resident Medical Officer",
+      "description": "Resident Medical Officer",
+      "code": "DESIG_3",
+      "active": true
+    },
+    {
       "name": "Deputy Chief Executive Officer",
       "description": "Deputy Chief Executive Officer",
       "code": "DESIG_25",
