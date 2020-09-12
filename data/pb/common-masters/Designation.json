@@ -127,6 +127,12 @@
       "description": "Dak Opr",
       "code": "DESIG_42",
       "active": true
+    },
+    {
+      "name": "Typist",
+      "description": "Typist",
+      "code": "DESIG_43",
+      "active": true
     }    
   ]
 }
