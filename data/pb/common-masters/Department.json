@@ -61,6 +61,16 @@
       "name": "Sanitation",
       "code": "DEPT_42",
       "active": true
+    },
+    {
+      "name": "Administration",
+      "code": "DEPT_43",
+      "active": true
+    },
+    {
+      "name": "Public Works Department",
+      "code": "DEPT_44",
+      "active": true
     }
   ]
 }
