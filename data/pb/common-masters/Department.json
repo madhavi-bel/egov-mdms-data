@@ -71,6 +71,11 @@
       "name": "Public Works Department",
       "code": "DEPT_44",
       "active": true
+    },
+    {
+      "name": "Hospital",
+      "code": "DEPT_45",
+      "active": true
     }
   ]
 }
