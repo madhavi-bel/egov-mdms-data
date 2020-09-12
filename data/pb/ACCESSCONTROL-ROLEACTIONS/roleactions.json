@@ -9982,12 +9982,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1559,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "RO",
       "actionid": 428,
       "actioncode": "",
@@ -10336,13 +10330,6 @@
       "tenantId": "pb"
     },    
     {
-      "rolecode": "CITIZEN",
-      "actionid": 5034,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-   
-    {
       "rolecode": "DGDE",
       "actionid": 1848,
       "actioncode": "",
@@ -10687,6 +10674,12 @@
     {
       "rolecode": "STADMIN",
       "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1805,
       "actioncode": "",
       "tenantId": "pb"
     }
