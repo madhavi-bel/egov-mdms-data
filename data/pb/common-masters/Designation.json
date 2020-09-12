@@ -181,6 +181,12 @@
       "description": "Executive Engineer",
       "code": "DESIG_51",
       "active": true
+    },
+    {
+      "name": "Cantonment Engineer",
+      "description": "Cantonment Engineer",
+      "code": "DESIG_52",
+      "active": true
     }
   ]
 }
