@@ -3,6 +3,24 @@
   "moduleName": "common-masters",
   "Designation": [  
     {
+      "name": "Sectional Enggineer",
+      "description": "Sectional Enggineer",
+      "code": "DESIG_1",
+      "active": true
+    },
+    {
+      "name": "Asst. Executive Enggineer",
+      "description": "Asst. Executive Enggineer",
+      "code": "DESIG_2",
+      "active": true
+    },
+    {
+      "name": "Resident Medical Officer",
+      "description": "Resident Medical Officer",
+      "code": "DESIG_3",
+      "active": true
+    },
+    {
       "name": "Deputy Chief Executive Officer",
       "description": "Deputy Chief Executive Officer",
       "code": "DESIG_25",
@@ -93,10 +111,40 @@
       "active": true
     },
     {
-      "name": "AssistAccountant",
-      "description": "AssistAccountant",
+      "name": "Asst. Accountant",
+      "description": "Asst. Accountant",
       "code": "DESIG_40",
       "active": true
-    }
+    },
+    {
+      "name": "Accountant",
+      "description": "Accountant",
+      "code": "DESIG_41",
+      "active": true
+    },
+    {
+      "name": "Dak Opr",
+      "description": "Dak Opr",
+      "code": "DESIG_42",
+      "active": true
+    },
+    {
+      "name": "Typist",
+      "description": "Typist",
+      "code": "DESIG_43",
+      "active": true
+    },
+    {
+      "name": "Junior Engineer",
+      "description": "Junior Engineer",
+      "code": "DESIG_44",
+      "active": true
+    },
+    {
+      "name": "Asst Engineer",
+      "description": "Assistant Engineer",
+      "code": "DESIG_45",
+      "active": true
+    }    
   ]
 }
