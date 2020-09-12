@@ -133,6 +133,12 @@
       "description": "Typist",
       "code": "DESIG_43",
       "active": true
+    },
+    {
+      "name": "Junior Engineer",
+      "description": "Junior Engineer",
+      "code": "DESIG_44",
+      "active": true
     }    
   ]
 }
