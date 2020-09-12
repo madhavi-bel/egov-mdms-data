@@ -139,6 +139,12 @@
       "description": "Junior Engineer",
       "code": "DESIG_44",
       "active": true
+    },
+    {
+      "name": "Asst Executive Engineer",
+      "description": "Asst Executive Engineer",
+      "code": "DESIG_45",
+      "active": true
     }    
   ]
 }
