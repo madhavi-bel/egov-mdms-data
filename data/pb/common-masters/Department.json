@@ -41,6 +41,41 @@
       "name": "Office",
       "code": "DEPT_1",
       "active": true
+    },
+    {
+      "name": "Main Branch",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "Information Technology",
+      "code": "DEPT_39",
+      "active": true
+    },
+    {
+      "name": "Horticulture",
+      "code": "DEPT_41",
+      "active": true
+    },
+    {
+      "name": "Sanitation",
+      "code": "DEPT_42",
+      "active": true
+    },
+    {
+      "name": "Administration",
+      "code": "DEPT_43",
+      "active": true
+    },
+    {
+      "name": "Public Works Department",
+      "code": "DEPT_44",
+      "active": true
+    },
+    {
+      "name": "Hospital",
+      "code": "DEPT_45",
+      "active": true
     }
   ]
 }

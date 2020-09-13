@@ -145,6 +145,48 @@
       "description": "Assistant Engineer",
       "code": "DESIG_45",
       "active": true
-    }    
+    },
+    {
+      "name": "Resident Medical Officer",
+      "description": "Resident Medical Officer",
+      "code": "DESIG_46",
+      "active": true
+    },
+    {
+      "name": "Data Entry Operator",
+      "description": "Data Entry Operator",
+      "code": "DESIG_47",
+      "active": true
+    },
+    {
+      "name": "Programmer",
+      "description": "Programmer",
+      "code": "DESIG_48",
+      "active": true
+    },
+    {
+      "name": "Horticulturist",
+      "description": "Horticulturist",
+      "code": "DESIG_49",
+      "active": true
+    },
+    {
+      "name": "Officer In Charge",
+      "description": "Officer In Charge",
+      "code": "DESIG_50",
+      "active": true
+    },
+    {
+      "name": "Executive Engineer",
+      "description": "Executive Engineer",
+      "code": "DESIG_51",
+      "active": true
+    },
+    {
+      "name": "Cantonment Engineer",
+      "description": "Cantonment Engineer",
+      "code": "DESIG_52",
+      "active": true
+    }
   ]
 }

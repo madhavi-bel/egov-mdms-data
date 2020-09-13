@@ -9472,12 +9472,6 @@
     },
     {
       "rolecode": "TL_CEMP",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "TL_CEMP",
       "actionid": 713,
       "actioncode": "",
       "tenantId": "pb"
@@ -9988,12 +9982,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1559,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "RO",
       "actionid": 428,
       "actioncode": "",
@@ -10342,13 +10330,6 @@
       "tenantId": "pb"
     },    
     {
-      "rolecode": "CITIZEN",
-      "actionid": 5034,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-   
-    {
       "rolecode": "DGDE",
       "actionid": 1848,
       "actioncode": "",
@@ -10589,6 +10570,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "STADMIN",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    },    
+    {
       "rolecode": "GRO",
       "actionid": 5038,
       "actioncode": "",
@@ -10627,6 +10620,66 @@
     {
       "rolecode": "GRO",
       "actionid": 5041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RO",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RO",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1805,
       "actioncode": "",
       "tenantId": "pb"
     }
