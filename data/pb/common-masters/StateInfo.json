@@ -6,8 +6,8 @@
       "name": "DGDE",
       "code":"pb",
       "qrCodeURL":"",
-      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/dgdeBannerWide.jpg",
-      "logoUrl": "https://raw.githubusercontent.com/belegovgithub/egov-mdms-data/BEL-CB-Impl/data/pb/images/eChhawani.png",
+      "bannerUrl": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dgdeBannerWide.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/eChhawani.png",
       "hasLocalisation" : true,
       "enableWhatsApp" : false,
       "defaultUrl" : {
