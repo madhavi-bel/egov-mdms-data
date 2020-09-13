@@ -7269,66 +7269,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 5021,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5022,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5023,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5024,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5027,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5028,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5029,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5030,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5036,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5037,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "STADMIN",
       "actionid": 5021,
       "actioncode": "",
@@ -7607,18 +7547,6 @@
     {
       "rolecode": "TL_APPROVER",
       "actionid": 1928,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 5022,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 5029,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8069,18 +7997,6 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 5013,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 5021,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
-      "actionid": 5030,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -10404,96 +10320,6 @@
     {
       "rolecode": "CSR",
       "actionid": 1555,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1846,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GO",
-      "actionid": 1846,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 1846,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 1846,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 1846,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1847,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GO",
-      "actionid": 1847,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 1847,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 1847,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 1847,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1592,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GO",
-      "actionid": 1592,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 1592,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 1592,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 1592,
       "actioncode": "",
       "tenantId": "pb"
     },
