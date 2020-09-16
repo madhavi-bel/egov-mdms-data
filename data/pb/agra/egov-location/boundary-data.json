@@ -4,6 +4,396 @@
   "TenantBoundary": [
     {
       "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "100",
+        "boundaryNum": 1,
+        "name": "Agra",
+        "localname": "Agra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.agra",
+        "children": [
+          {
+            "id": "101",
+            "boundaryNum": 1,
+            "name": "Agra Cantonment Board",
+            "localname": "Agra Cantonment Board",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "102",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "01",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Bungalow Area Part - Ward 1",
+                    "code": "LOC01A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bungalow Area Part - Ward 1",
+                    "id": "103",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Chairhait - Ward 1",
+                    "code": "LOC01A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Chairhait - Ward 1",
+                    "id": "104",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Dargaia - Ward 1",
+                    "code": "LOC01A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Dargaia - Ward 1",
+                    "id": "105",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Nai Basti - Ward 1",
+                    "code": "LOC01A04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Nai Basti - Ward 1",
+                    "id": "106",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "02",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Bungalow Area Part - Ward 2",
+                    "code": "LOC02A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bungalow Area Part - Ward 2",
+                    "id": "130",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Shehzadi Mandi - Ward 2",
+                    "code": "LOC02A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Shehzadi Mandi - Ward 2",
+                    "id": "131",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "160",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "03",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Bungalow Area Part - Ward 3",
+                    "code": "LOC03A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bungalow Area Part - Ward 3",
+                    "id": "161",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Pratap Pura - Ward 3",
+                    "code": "LOC03A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Pratap Pura - Ward 3",
+                    "id": "162",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Sadar Bazar - Ward 3",
+                    "code": "LOC03A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Sadar Bazar - Ward 3",
+                    "id": "163",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "177",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "04",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Beech Ka Bazar - Ward 4",
+                    "code": "LOC04A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Beech Ka Bazar - Ward 4",
+                    "id": "178",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bungalow Area Part - Ward 4",
+                    "code": "LOC04A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bungalow Area Part - Ward 4",
+                    "id": "179",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Namner - Ward 4",
+                    "code": "LOC04A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Namner - Ward 4",
+                    "id": "180",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Naulakha Part - Ward 4",
+                    "code": "LOC04A04",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Naulakha Part - Ward 4",
+                    "id": "181",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "R.A. Bazar - Ward 4",
+                    "code": "LOC04A05",
+                    "children": [],
+                    "latitude": null,
+                    "name": "R.A. Bazar - Ward 4",
+                    "id": "182",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "205",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "05",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Bungalow Area Part - Ward 5",
+                    "code": "LOC05A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bungalow Area Part - Ward 5",
+                    "id": "206",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Sultanpura Part - Ward 5",
+                    "code": "LOC05A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Sultanpura Part - Ward 5",
+                    "id": "207",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Bagichi Hazam - Ward 5",
+                    "code": "LOC05A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bagichi Hazam - Ward 5",
+                    "id": "208",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "234",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "06",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Sultanpura Part - Ward 6",
+                    "code": "LOC06A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Sultanpura Part - Ward 6",
+                    "id": "235",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "303",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "07",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Krishna Nagar - Ward 7",
+                    "code": "LOC07A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Krishna Nagar - Ward 7",
+                    "id": "304",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              },
+              {
+                "id": "336",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "08",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "Bungalow Area Part - Ward 8",
+                    "code": "LOC08A01",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Bungalow Area Part - Ward 8",
+                    "id": "337",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "E.I. Bazar - Ward 8",
+                    "code": "LOC08A02",
+                    "children": [],
+                    "latitude": null,
+                    "name": "E.I. Bazar - Ward 8",
+                    "id": "338",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "Naulakha Part - Ward 8",
+                    "code": "LOC08A03",
+                    "children": [],
+                    "latitude": null,
+                    "name": "Naulakha Part - Ward 8",
+                    "id": "339",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
         "code": "ADMIN",
         "name": "ADMIN"
       },
