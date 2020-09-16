@@ -5762,16 +5762,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "CHARGES",
-      "service": "ENTFEE.PARK",
-      "name": "ENTFEE.PARK_FIELD_FEE",
-      "code": "ENTFEE.PARK_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+    
     {
       "category": "CHARGES",
       "service": "ENTFEE.PLYGRND",
@@ -7182,6 +7173,46 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_FIELD_FEE",
+      "code": "ENTFEE.PARK_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_CGST",
+      "code": "ENTFEE.PARK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_SGST",
+      "code": "ENTFEE.PARK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "DEPOSIT",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_SEC_DEP",
+      "code": "ENTFEE.PARK_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "5",
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -8604,26 +8635,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "TAX",
-      "service": "ENTFEE.PARK",
-      "name": "ENTFEE.PARK_CGST",
-      "code": "ENTFEE.PARK_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "ENTFEE.PARK",
-      "name": "ENTFEE.PARK_SGST",
-      "code": "ENTFEE.PARK_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+    
     {
       "category": "TAX",
       "service": "ENTFEE.PLYGRND",
@@ -11255,16 +11267,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "DEPOSIT",
-      "service": "ENTFEE.PARK",
-      "name": "ENTFEE.PARK_SEC_DEP",
-      "code": "ENTFEE.PARK_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+    
     {
       "category": "DEPOSIT",
       "service": "ENTFEE.PLYGRND",
