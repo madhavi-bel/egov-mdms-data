@@ -15675,7 +15675,7 @@
       "path": "Complaints.CreateComplaint",
       "navigationURL": "create-complaint",
       "quickAction": true,
-      "leftIcon": "content:add",
+      "leftIcon": "content:comment-plus",
       "rightIcon": ""
     },
     {
