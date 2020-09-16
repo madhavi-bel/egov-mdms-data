@@ -1,0 +1,77 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "100",
+        "boundaryNum": 1,
+        "name": "Testing",
+        "localname": "Testing",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.testing",
+        "children": [
+          {
+            "id": "101",
+            "boundaryNum": 1,
+            "name": "Testing Cantonment Board",
+            "localname": "Testing Cantonment Board",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE1",
+            "children": [
+              {
+                "id": "102",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "WardNo.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "01",
+                "children": [
+                  {
+                    "area": "AREA1",
+                    "localname": "VITTAL NAGAR ,HANUMAN NAGAR",
+                    "code": "LOC01001",
+                    "children": [],
+                    "latitude": null,
+                    "name": "VITTAL NAGAR ,HANUMAN NAGAR",
+                    "id": "103",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  },
+                  {
+                    "area": "AREA1",
+                    "localname": "CHINNA THOKATA(7 TEMPLE)",
+                    "code": "LOC01002",
+                    "children": [],
+                    "latitude": null,
+                    "name": "CHINNA THOKATA(7 TEMPLE)",
+                    "id": "104",
+                    "label": "Locality",
+                    "boundaryNum": 1,
+                    "longitude": null
+                  }
+                  
+                ]
+              }
+          
+              
+            ]
+          }
+        ]
+      }
+    }
+  
+
+  ]
+}
