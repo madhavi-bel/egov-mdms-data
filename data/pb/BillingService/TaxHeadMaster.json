@@ -6453,16 +6453,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "CHARGES",
-      "service": "OTHFEE.PARK",
-      "name": "OTHFEE.PARK_FIELD_FEE",
-      "code": "OTHFEE.PARK_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+    
     {
       "category": "CHARGES",
       "service": "OTH.CESS",
@@ -7832,6 +7823,47 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_FIELD_FEE",
+      "code": "OTHFEE.PARK_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_CGST",
+      "code": "OTHFEE.PARK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_SGST",
+      "code": "OTHFEE.PARK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "4",
+      "isRequired": false
+    },
+    
+    {
+      "category": "DEPOSIT",
+      "service": "OTHFEE.PARK",
+      "name": "OTHFEE.PARK_SEC_DEP",
+      "code": "OTHFEE.PARK_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -9713,26 +9745,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "TAX",
-      "service": "OTHFEE.PARK",
-      "name": "OTHFEE.PARK_CGST",
-      "code": "OTHFEE.PARK_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "OTHFEE.PARK",
-      "name": "OTHFEE.PARK_SGST",
-      "code": "OTHFEE.PARK_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+    
     {
       "category": "TAX",
       "service": "OTHFEE.PARK_ELEC",
@@ -11943,16 +11956,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "DEPOSIT",
-      "service": "OTHFEE.PARK",
-      "name": "OTHFEE.PARK_SEC_DEP",
-      "code": "OTHFEE.PARK_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
+   
     {
       "category": "DEPOSIT",
       "service": "OTH.CESS",
