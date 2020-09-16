@@ -78,6 +78,10 @@
           "ulb-home": {
             "routePath": "/dashboard/ulb-home",
             "isOrigin": true
+          },
+          "ulb-pgr": {
+            "routePath": "/dashboard/ulb-pgr",
+            "isOrigin": true
           }
         }
       }, 
