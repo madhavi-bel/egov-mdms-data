@@ -27,7 +27,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "BULDPHOTO",
@@ -35,7 +35,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
          	 
           {
@@ -44,7 +44,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "REGCERT",
@@ -52,7 +52,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "PTAX",
@@ -60,7 +60,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "BLUPRNT",
@@ -68,7 +68,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "NBNOC1",
@@ -76,7 +76,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "NBNOC2",
@@ -84,7 +84,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "PLANCERT",
@@ -92,7 +92,7 @@
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "OLDLICENCENO",

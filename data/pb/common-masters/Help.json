@@ -28,6 +28,11 @@
       "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
     },
     {
+      "tenant": "pb.testing",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/TLHelp/TradeTypeSubtypeDetails_Testing.pdf"
+    },
+    {
       "tenant": "pb",
       "code": "UC",
       "URL": "https://github.com/belegovgithub/egov-mdms-data/raw/BEL-v2/data/pb/mCollectHelp/mCollectHelp.pdf"
