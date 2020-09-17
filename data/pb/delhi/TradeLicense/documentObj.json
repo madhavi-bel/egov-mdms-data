@@ -52,14 +52,6 @@
             "required": true
           },
           {
-            "documentType": "FIRENOC",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
             "documentType": "APPLETTER",
             "applicationType": [
               "NEW",
@@ -68,12 +60,20 @@
             "required": true
           },
           {
+            "documentType": "FIRENOC",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
             "documentType": "MEDCERT",
             "applicationType": [
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           }
         ],
         "tradeType": "TRADE"

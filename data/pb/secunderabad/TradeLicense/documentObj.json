@@ -37,23 +37,6 @@
             ],
             "required": true
           },
-         	 
-          {
-            "documentType": "PANCARD",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
-            "documentType": "REGCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
           {
             "documentType": "PTAX",
             "applicationType": [
@@ -87,12 +70,28 @@
             "required": true
           },
           {
+            "documentType": "PANCARD",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "REGCERT",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
             "documentType": "PLANCERT",
             "applicationType": [
               "NEW",
               "RENEWAL"
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "OLDLICENCENO",
