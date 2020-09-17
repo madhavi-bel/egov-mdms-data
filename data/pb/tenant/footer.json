@@ -51,6 +51,10 @@
         {
           "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_3",
           "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_4",
+          "order": "4."
         }
       ]
     },
