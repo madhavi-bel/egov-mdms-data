@@ -1,0 +1,109 @@
+{
+    "tenantId": "pb.testingBndy",
+    "moduleName": "TradeLicense",
+    "documentObj": [
+      {
+        "allowedDocs": [
+          {
+            "documentType": "OWNERPHOTO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
+          },
+          {
+            "documentType": "OWNERSHIPPROOF",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": true
+          },
+         
+          {
+            "documentType": "AADHAARCARD",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "BULDPHOTO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+         	 
+          {
+            "documentType": "PANCARD",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "REGCERT",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "PTAX",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "BLUPRNT",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "NBNOC1",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "NBNOC2",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "PLANCERT",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
+            "documentType": "OLDLICENCENO",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          }
+        ],
+        "tradeType": "TRADE"
+      }
+    ]
+  }

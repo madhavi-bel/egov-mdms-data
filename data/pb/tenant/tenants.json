@@ -237,7 +237,41 @@
       "address": "Office of the Cantonment Board Testing, Court Compound, SP Road, Telangana 500003",
       "contactNumber": "040-27808600",
       "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
-    }  
+    } ,
+    {
+      "code": "pb.testingBndy",
+      "name": "Cantonment Board TestingBndy",
+      "description": "TestingBndy",
+      "logoId":  "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
+      "logoIdPdf": "scb.png",
+      "imageId": null,
+      "domainUrl": "scb.gov.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/secbadcantt",
+      "facebookUrl": null,
+      "emailId": "ceosecu-stats@nic.in",
+      "OfficeTimings": {
+        
+      },
+      "city": {
+        "name": "TestingBndy",
+        "localName": "TestingBndy Cantt",
+        "districtCode": "507",
+        "districtName": "Hyderabad",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.498276,
+        "latitude": 17.439930,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248471",
+        "regionCode": "7",
+        "municipalityName": "TestingBndy Cantonment Board"
+      },
+      "address": "Office of the Cantonment Board Testing, Court Compound, SP Road, Telangana 500003",
+      "contactNumber": "040-27808600",
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
+    }   
 
   ]
 }
