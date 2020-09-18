@@ -1329,7 +1329,7 @@
 		},
 		{
 			"code": "CREDDEP.SEC_DEP",
-			"glcode": null,
+			"glcode": "1103629",
 			"cb": "pb.pune"
 		},
 		{
@@ -1369,7 +1369,7 @@
 		},
 		{
 			"code": "GRNTINT.INT_SB",
-			"glcode": "1101429",
+			"glcode": "1101719",
 			"cb": "pb.pune"
 		},
 		{
@@ -1384,7 +1384,7 @@
 		},
 		{
 			"code": "GRNTINT.INT_FD",
-			"glcode": "1101719",
+			"glcode": "1101711",
 			"cb": "pb.pune"
 		},
 		{
@@ -1394,7 +1394,7 @@
 		},
 		{
 			"code": "OTHFEE.APP_FEE",
-			"glcode": "1101711",
+			"glcode": "2201535",
 			"cb": "pb.pune"
 		},
 		{
@@ -1424,7 +1424,7 @@
 		},
 		{
 			"code": "OTHFEE.COMPD_DLYAPP",
-			"glcode": "2201559",
+			"glcode": "2201555",
 			"cb": "pb.pune"
 		},
 		{
@@ -1434,7 +1434,7 @@
 		},
 		{
 			"code": "OTHFEE.CONSRV",
-			"glcode": "3201555",
+			"glcode": "2101113",
 			"cb": "pb.pune"
 		},
 		{
@@ -1444,7 +1444,7 @@
 		},
 		{
 			"code": "OTHFEE.CRT_STMP",
-			"glcode": "5401521",
+			"glcode": "2201999",
 			"cb": "pb.pune"
 		},
 		{
@@ -1454,7 +1454,7 @@
 		},
 		{
 			"code": "OTHFEE.DMG_CHRG",
-			"glcode": "2201599",
+			"glcode": "2201554",
 			"cb": "pb.pune"
 		},
 		{
@@ -1474,12 +1474,12 @@
 		},
 		{
 			"code": "OTHFEE.DEV_CHRG",
-			"glcode": "8301531",
+			"glcode": "2201541",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.DISTRAINT",
-			"glcode": null,
+			"glcode": "2101557",
 			"cb": "pb.pune"
 		},
 		{
@@ -1499,7 +1499,7 @@
 		},
 		{
 			"code": "OTHFEE.EDU",
-			"glcode": "2201611",
+			"glcode": "9201511",
 			"cb": "pb.pune"
 		},
 		{
@@ -1509,7 +1509,7 @@
 		},
 		{
 			"code": "OTHFEE.EMP_REG",
-			"glcode": "9201511",
+			"glcode": "2101531",
 			"cb": "pb.pune"
 		},
 		{
@@ -1519,12 +1519,12 @@
 		},
 		{
 			"code": "OTHFEE.MTN_TR",
-			"glcode": "2201531",
+			"glcode": "2201591",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.CERT",
-			"glcode": null,
+			"glcode": "2201592",
 			"cb": "pb.pune"
 		},
 		{
@@ -1549,12 +1549,12 @@
 		},
 		{
 			"code": "OTHFEE.ISS_BIRTHCERT",
-			"glcode": "2201592",
+			"glcode": "8101592",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.ISS_DEATHCERT",
-			"glcode": "2201221",
+			"glcode": "8101592",
 			"cb": "pb.pune"
 		},
 		{
@@ -1564,7 +1564,7 @@
 		},
 		{
 			"code": "OTHFEE.VOTERLIST",
-			"glcode": "8301592",
+			"glcode": "2201592",
 			"cb": "pb.pune"
 		},
 		{
@@ -1574,22 +1574,22 @@
 		},
 		{
 			"code": "OTHFEE.LIC",
-			"glcode": "1301592",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "OTHFEE.MED",
-			"glcode": null,
-			"cb": "pb.pune"
-		},
-		{
-			"code": "OTHFEE.MISC",
 			"glcode": "2201532",
 			"cb": "pb.pune"
 		},
 		{
-			"code": "OTHFEE.MTN",
+			"code": "OTHFEE.MED",
 			"glcode": "8101512",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.MISC",
+			"glcode": "1101519",
+			"cb": "pb.pune"
+		},
+		{
+			"code": "OTHFEE.MTN",
+			"glcode": "2201591",
 			"cb": "pb.pune"
 		},
 		{
@@ -1599,12 +1599,12 @@
 		},
 		{
 			"code": "OTHFEE.NOTICE",
-			"glcode": "2201591",
+			"glcode": "2101553",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.PENALT",
-			"glcode": "2201592",
+			"glcode": "2201551",
 			"cb": "pb.pune"
 		},
 		{
@@ -1624,7 +1624,7 @@
 		},
 		{
 			"code": "OTHFEE.REG",
-			"glcode": null,
+			"glcode": "2101531",
 			"cb": "pb.pune"
 		},
 		{
@@ -1644,12 +1644,12 @@
 		},
 		{
 			"code": "OTHFEE.RTI",
-			"glcode": "2201551",
+			"glcode": "2201534",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.SLGHT_HS",
-			"glcode": null,
+			"glcode": "6201514",
 			"cb": "pb.pune"
 		},
 		{
@@ -1659,22 +1659,22 @@
 		},
 		{
 			"code": "OTHFEE.TNDR_FRM",
-			"glcode": "6201514",
+			"glcode": "2201535",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.TRADE_LIC",
-			"glcode": "2201999",
+			"glcode": "2101141",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.TREE_AUC",
-			"glcode": "2201532",
+			"glcode": "2201593",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "OTHFEE.TR_ASS_TAX",
-			"glcode": "2201593",
+			"glcode": "2201592",
 			"cb": "pb.pune"
 		},
 		{
@@ -1689,7 +1689,7 @@
 		},
 		{
 			"code": "OTHFEE.PARKING",
-			"glcode": "2201611",
+			"glcode": "2201562",
 			"cb": "pb.pune"
 		},
 		{
@@ -1714,7 +1714,7 @@
 		},
 		{
 			"code": "OTHFEE.RECOVERY",
-			"glcode": "1101999",
+			"glcode": "2201921",
 			"cb": "pb.pune"
 		},
 		{
@@ -1794,12 +1794,12 @@
 		},
 		{
 			"code": "RENT.ULB_LIC",
-			"glcode": "2201313",
+			"glcode": "2201532",
 			"cb": "pb.pune"
 		},
 		{
 			"code": "SALE.AUC_TREE",
-			"glcode": "2201593",
+			"glcode": "2201691",
 			"cb": "pb.pune"
 		},
 		{
@@ -1814,17 +1814,17 @@
 		},
 		{
 			"code": "SALE.STR_SCRP",
-			"glcode": "2201631",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "SRVC.CHQ_BNC",
 			"glcode": "2201999",
 			"cb": "pb.pune"
 		},
 		{
+			"code": "SRVC.CHQ_BNC",
+			"glcode": "2201559",
+			"cb": "pb.pune"
+		},
+		{
 			"code": "SRVC.APP_ADM",
-			"glcode": "1101535",
+			"glcode": "2201535",
 			"cb": "pb.pune"
 		},
 		{
@@ -1904,7 +1904,7 @@
 		},
 		{
 			"code": "UC.NEW_WATER_CONC",
-			"glcode": "4201533",
+			"glcode": "2101533",
 			"cb": "pb.pune"
 		},
 		{
@@ -1974,7 +1974,7 @@
 		},
 		{
 			"code": "UC.RD_CUTT",
-			"glcode": "2201554",
+			"glcode": "2201999",
 			"cb": "pb.pune"
 		},
 		{
