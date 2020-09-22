@@ -5759,7 +5759,7 @@
       "code": "ECHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     
@@ -8622,7 +8622,7 @@
       "code": "ECHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8632,7 +8632,7 @@
       "code": "ECHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     
@@ -11264,7 +11264,7 @@
       "code": "ECHALLAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     
