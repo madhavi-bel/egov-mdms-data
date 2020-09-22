@@ -252,57 +252,6 @@
           "order": "3."
         }
       ]
-    },
-    {
-      "code": "pb.testingBndy",
-      "service": "TL",
-      "heading":"PDF_STATIC_LABEL_DISCLAIMER",
-      "receiptFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
-          "order": "3."
-        }
-      ],
-      "billFooterContent": [
-        {
-          "disclaimer": "nocNeighbour1",
-          "order": "1."
-        },
-        {
-          "disclaimer": "nocNeighbour2",
-          "order": "2."
-        },
-        {
-          "disclaimer": "planCert",
-          "order": "3."
-        },
-        {
-          "disclaimer": "buildingPhoto",
-          "order": "4."
-        }
-      ],
-      "disclaimerContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_1",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_2",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_3",
-          "order": "3."
-        }
-      ]
-    } 
+    }
   ]
 }
