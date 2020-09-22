@@ -794,8 +794,7 @@
       "masterName": "TaxHeadMaster",
       "isStateLevel": true,
       "uniqueKeys": [
-        "$.code",
-        "$.service"
+        "$.code"        
       ]
     },
     "BusinessService": {
