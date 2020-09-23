@@ -70,6 +70,14 @@
             "required": true
           },
           {
+            "documentType": "PLANCERT",
+            "applicationType": [
+              "NEW",
+              "RENEWAL"
+            ],
+            "required": false
+          },
+          {
             "documentType": "PANCARD",
             "applicationType": [
               "NEW",
@@ -79,14 +87,6 @@
           },
           {
             "documentType": "REGCERT",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": false
-          },
-          {
-            "documentType": "PLANCERT",
             "applicationType": [
               "NEW",
               "RENEWAL"

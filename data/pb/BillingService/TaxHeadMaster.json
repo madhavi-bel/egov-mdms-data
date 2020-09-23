@@ -249,7 +249,7 @@
       "code": "TX.NO_DUES_CERTIFICATE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -269,7 +269,7 @@
       "code": "ADVT.HOARDINGS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -289,7 +289,7 @@
       "code": "ADVT.UNIPOLLS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -309,7 +309,7 @@
       "code": "RT.MUNICIPAL_SHOPS_RENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -329,7 +329,7 @@
       "code": "RT.LAND_RENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -349,7 +349,7 @@
       "code": "RT.TOWER_RENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -369,7 +369,7 @@
       "code": "RT.PARKING_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -389,7 +389,7 @@
       "code": "RT.JAMIN_THEKA_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -409,7 +409,7 @@
       "code": "ADMN.ELECTION_RALLY_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -429,7 +429,7 @@
       "code": "ADMN.PARKING_DURING_ELECTION_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -449,7 +449,7 @@
       "code": "ADMN.ROAD_SHOW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -469,7 +469,7 @@
       "code": "FN.ADVANCE_PROVIDENT_FUND_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -489,7 +489,7 @@
       "code": "ST.STATIONARY_NOT_INCOME_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -509,7 +509,7 @@
       "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -529,7 +529,7 @@
       "code": "CH.SANTITATION_DUMPING_GARBAGE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -549,7 +549,7 @@
       "code": "FTP.TELECOM_TOWER_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -569,7 +569,7 @@
       "code": "TX.ELECTRICITY_CHUNGI_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -589,7 +589,7 @@
       "code": "FTP.DRAFTSMEN_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -609,7 +609,7 @@
       "code": "FTP.COMPREMASING_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -629,7 +629,7 @@
       "code": "FTP.BUILDING_PLANNER_RENEW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -649,7 +649,7 @@
       "code": "NKS.NAKSHA_SAMJOTA_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -669,7 +669,7 @@
       "code": "NKS.NAKSHA_CHANGES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -689,7 +689,7 @@
       "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -709,7 +709,7 @@
       "code": "OM.WATER_CONNECTION/DISCONNECTION_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -729,7 +729,7 @@
       "code": "NKS.NAKSHA_RENEW_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -749,7 +749,7 @@
       "code": "NKS.NOC/COMPLETION_OF_BUILDING_APPROVAL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -769,7 +769,7 @@
       "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -789,7 +789,7 @@
       "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -809,7 +809,7 @@
       "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -829,7 +829,7 @@
       "code": "CH.PLASTIC_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -849,7 +849,7 @@
       "code": "CH.REHRI_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -869,7 +869,7 @@
       "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -889,7 +889,7 @@
       "code": "CH.DENGUE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -909,7 +909,7 @@
       "code": "CH.LITTERING_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -929,7 +929,7 @@
       "code": "SNT.LICENCE_PURE_FOOD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -949,7 +949,7 @@
       "code": "OTHER.MISC_CHALLANS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -969,7 +969,7 @@
       "code": "NKS.REGULARISATION_OF_BUILDINGS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -989,7 +989,7 @@
       "code": "WF.CONTRACTOR_ENLISTMENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1009,7 +1009,7 @@
       "code": "WF.TENDER FORM FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1029,7 +1029,7 @@
       "code": "TB.ADVERTISEMENT_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1049,7 +1049,7 @@
       "code": "TB.TEHBAZAARI_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1069,7 +1069,7 @@
       "code": "FN.PF_TRANSFER_(ACCOUNTS)_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1089,7 +1089,7 @@
       "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1109,7 +1109,7 @@
       "code": "TX.TRANSFER_PROPERTY_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1129,7 +1129,7 @@
       "code": "ADMN.RTI_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1149,7 +1149,7 @@
       "code": "ADMN.NO_DUES_CERTIFICATE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1169,7 +1169,7 @@
       "code": "FTP.ARCHITECT_LICENSE_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1189,7 +1189,7 @@
       "code": "TEHBAZAARI FEE.CHALLAN_UNDER_SECTION_156_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1209,7 +1209,7 @@
       "code": "FN.RECOVERY_EMPLOYEE/CONTRACTOR_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1229,7 +1229,7 @@
       "code": "FN.GRANTS_CHEQUE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1249,7 +1249,7 @@
       "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1269,7 +1269,7 @@
       "code": "OTHER.REGISTERY_AND_BANK_LOAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1289,7 +1289,7 @@
       "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1309,7 +1309,7 @@
       "code": "SNT.DEAD_ANIMALS_CONTRACT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1329,7 +1329,7 @@
       "code": "FN.GPF_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1349,7 +1349,7 @@
       "code": "FN.CPF_RECEIVED_CHECK_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1369,7 +1369,7 @@
       "code": "RT.TOWER_INSTALLATION_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1389,7 +1389,7 @@
       "code": "RT.TOWER_ANNUAL_RENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1409,7 +1409,7 @@
       "code": "CSS.COW_CESS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1429,7 +1429,7 @@
       "code": "CH.CATTLE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1449,7 +1449,7 @@
       "code": "TB.REHRI_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1469,7 +1469,7 @@
       "code": "LCF.MANUAL_RIKSHAW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1489,7 +1489,7 @@
       "code": "CH.DAIRY_ANIMALS_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1509,7 +1509,7 @@
       "code": "CH.BIDI_&_CIGRETTE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1529,7 +1529,7 @@
       "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1549,7 +1549,7 @@
       "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1569,7 +1569,7 @@
       "code": "RT.STREET_VENDOR_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1589,7 +1589,7 @@
       "code": "FTP.CONSTRUCTION_WASTE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1609,7 +1609,7 @@
       "code": "FTP.DEMOLITION_WASTE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1629,7 +1629,7 @@
       "code": "SNT.CLEAN_SAFAI_SANITATION_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1649,7 +1649,7 @@
       "code": "OM.PLUMBER_LICENSE_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1669,7 +1669,7 @@
       "code": "ADVT.LIGHT_WALA_BOARD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1689,7 +1689,7 @@
       "code": "ADVT.WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -1709,7 +1709,7 @@
       "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -2359,7 +2359,7 @@
       "code": "TX.NO_DUES_CERTIFICATE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2369,7 +2369,7 @@
       "code": "TX.NO_DUES_CERTIFICATE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2379,7 +2379,7 @@
       "code": "ADVT.HOARDINGS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2389,7 +2389,7 @@
       "code": "ADVT.HOARDINGS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2399,7 +2399,7 @@
       "code": "ADVT.UNIPOLLS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2409,7 +2409,7 @@
       "code": "ADVT.UNIPOLLS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2419,7 +2419,7 @@
       "code": "RT.MUNICIPAL_SHOPS_RENT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2429,7 +2429,7 @@
       "code": "RT.MUNICIPAL_SHOPS_RENT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2439,7 +2439,7 @@
       "code": "RT.LAND_RENT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2449,7 +2449,7 @@
       "code": "RT.LAND_RENT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2459,7 +2459,7 @@
       "code": "RT.TOWER_RENT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2469,7 +2469,7 @@
       "code": "RT.TOWER_RENT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2479,7 +2479,7 @@
       "code": "RT.PARKING_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2489,7 +2489,7 @@
       "code": "RT.PARKING_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2499,7 +2499,7 @@
       "code": "RT.JAMIN_THEKA_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2509,7 +2509,7 @@
       "code": "RT.JAMIN_THEKA_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2519,7 +2519,7 @@
       "code": "ADMN.ELECTION_RALLY_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2529,7 +2529,7 @@
       "code": "ADMN.ELECTION_RALLY_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2539,7 +2539,7 @@
       "code": "ADMN.PARKING_DURING_ELECTION_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2549,7 +2549,7 @@
       "code": "ADMN.PARKING_DURING_ELECTION_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2559,7 +2559,7 @@
       "code": "ADMN.ROAD_SHOW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2569,7 +2569,7 @@
       "code": "ADMN.ROAD_SHOW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2579,7 +2579,7 @@
       "code": "FN.ADVANCE_PROVIDENT_FUND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2589,7 +2589,7 @@
       "code": "FN.ADVANCE_PROVIDENT_FUND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2599,7 +2599,7 @@
       "code": "ST.STATIONARY_NOT_INCOME_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2609,7 +2609,7 @@
       "code": "ST.STATIONARY_NOT_INCOME_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2619,7 +2619,7 @@
       "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2629,7 +2629,7 @@
       "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2639,7 +2639,7 @@
       "code": "CH.SANTITATION_DUMPING_GARBAGE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2649,7 +2649,7 @@
       "code": "CH.SANTITATION_DUMPING_GARBAGE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2659,7 +2659,7 @@
       "code": "FTP.TELECOM_TOWER_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2669,7 +2669,7 @@
       "code": "FTP.TELECOM_TOWER_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2679,7 +2679,7 @@
       "code": "TX.ELECTRICITY_CHUNGI_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2689,7 +2689,7 @@
       "code": "TX.ELECTRICITY_CHUNGI_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2699,7 +2699,7 @@
       "code": "FTP.DRAFTSMEN_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2709,7 +2709,7 @@
       "code": "FTP.DRAFTSMEN_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2719,7 +2719,7 @@
       "code": "FTP.COMPREMASING_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2729,7 +2729,7 @@
       "code": "FTP.COMPREMASING_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2739,7 +2739,7 @@
       "code": "FTP.BUILDING_PLANNER_RENEW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2749,7 +2749,7 @@
       "code": "FTP.BUILDING_PLANNER_RENEW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2759,7 +2759,7 @@
       "code": "NKS.NAKSHA_SAMJOTA_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2769,7 +2769,7 @@
       "code": "NKS.NAKSHA_SAMJOTA_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2779,7 +2779,7 @@
       "code": "NKS.NAKSHA_CHANGES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2789,7 +2789,7 @@
       "code": "NKS.NAKSHA_CHANGES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2799,7 +2799,7 @@
       "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2809,7 +2809,7 @@
       "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2819,7 +2819,7 @@
       "code": "OM.WATER_CONNECTION_DISCONNECTION_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2829,7 +2829,7 @@
       "code": "OM.WATER_CONNECTION_DISCONNECTION_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2839,7 +2839,7 @@
       "code": "NKS.NAKSHA_RENEW_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2849,7 +2849,7 @@
       "code": "NKS.NAKSHA_RENEW_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2859,7 +2859,7 @@
       "code": "NKS.NOC_COMPLETION_OF_BUILDING_APPROVAL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2869,7 +2869,7 @@
       "code": "NKS.NOC_COMPLETION_OF_BUILDING_APPROVAL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2879,7 +2879,7 @@
       "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2889,7 +2889,7 @@
       "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2899,7 +2899,7 @@
       "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2909,7 +2909,7 @@
       "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2919,7 +2919,7 @@
       "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2929,7 +2929,7 @@
       "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2939,7 +2939,7 @@
       "code": "CH.PLASTIC_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2949,7 +2949,7 @@
       "code": "CH.PLASTIC_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2959,7 +2959,7 @@
       "code": "CH.REHRI_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2969,7 +2969,7 @@
       "code": "CH.REHRI_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2979,7 +2979,7 @@
       "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -2989,7 +2989,7 @@
       "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2999,7 +2999,7 @@
       "code": "CH.DENGUE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3009,7 +3009,7 @@
       "code": "CH.DENGUE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3019,7 +3019,7 @@
       "code": "CH.LITTERING_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3029,7 +3029,7 @@
       "code": "CH.LITTERING_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3039,7 +3039,7 @@
       "code": "SNT.LICENCE_PURE_FOOD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3049,7 +3049,7 @@
       "code": "SNT.LICENCE_PURE_FOOD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3059,7 +3059,7 @@
       "code": "OTHER.MISC_CHALLANS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3069,7 +3069,7 @@
       "code": "OTHER.MISC_CHALLANS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3079,7 +3079,7 @@
       "code": "NKS.REGULARISATION_OF_BUILDINGS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3089,7 +3089,7 @@
       "code": "NKS.REGULARISATION_OF_BUILDINGS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3099,7 +3099,7 @@
       "code": "WF.CONTRACTOR_ENLISTMENT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3109,7 +3109,7 @@
       "code": "WF.CONTRACTOR_ENLISTMENT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3119,7 +3119,7 @@
       "code": "WF.TENDERFORMFEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3129,7 +3129,7 @@
       "code": "WF.TENDERFORMFEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3139,7 +3139,7 @@
       "code": "TB.ADVERTISEMENT_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3149,7 +3149,7 @@
       "code": "TB.ADVERTISEMENT_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3159,7 +3159,7 @@
       "code": "TB.TEHBAZAARI_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3169,7 +3169,7 @@
       "code": "TB.TEHBAZAARI_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3179,7 +3179,7 @@
       "code": "FN.PF_TRANSFER_(ACCOUNTS)_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3189,7 +3189,7 @@
       "code": "FN.PF_TRANSFER_(ACCOUNTS)_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3199,7 +3199,7 @@
       "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3209,7 +3209,7 @@
       "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3219,7 +3219,7 @@
       "code": "TX.TRANSFER_PROPERTY_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3229,7 +3229,7 @@
       "code": "TX.TRANSFER_PROPERTY_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3239,7 +3239,7 @@
       "code": "ADMN.RTI_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3249,7 +3249,7 @@
       "code": "ADMN.RTI_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3259,7 +3259,7 @@
       "code": "ADMN.NO_DUES_CERTIFICATE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3269,7 +3269,7 @@
       "code": "ADMN.NO_DUES_CERTIFICATE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3279,7 +3279,7 @@
       "code": "FTP.ARCHITECT_LICENSE_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3289,7 +3289,7 @@
       "code": "FTP.ARCHITECT_LICENSE_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3299,7 +3299,7 @@
       "code": "TB.CHALLAN_UNDER_SECTION_156_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3309,7 +3309,7 @@
       "code": "TB.CHALLAN_UNDER_SECTION_156_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3319,7 +3319,7 @@
       "code": "FN.RECOVERY_EMPLOYEE_CONTRACTOR_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3329,7 +3329,7 @@
       "code": "FN.RECOVERY_EMPLOYEE_CONTRACTOR_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3339,7 +3339,7 @@
       "code": "FN.GRANTS_CHEQUE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3349,7 +3349,7 @@
       "code": "FN.GRANTS_CHEQUE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3359,7 +3359,7 @@
       "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3369,7 +3369,7 @@
       "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3379,7 +3379,7 @@
       "code": "OTHER.REGISTERY_AND_BANK_LOAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3389,7 +3389,7 @@
       "code": "OTHER.REGISTERY_AND_BANK_LOAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3399,7 +3399,7 @@
       "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3409,7 +3409,7 @@
       "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3419,7 +3419,7 @@
       "code": "SNT.DEAD_ANIMALS_CONTRACT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3429,7 +3429,7 @@
       "code": "SNT.DEAD_ANIMALS_CONTRACT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3439,7 +3439,7 @@
       "code": "FN.GPF_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3449,7 +3449,7 @@
       "code": "FN.GPF_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3459,7 +3459,7 @@
       "code": "FN.CPF_RECEIVED_CHECK_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3469,7 +3469,7 @@
       "code": "FN.CPF_RECEIVED_CHECK_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3479,7 +3479,7 @@
       "code": "RT.TOWER_INSTALLATION_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3489,7 +3489,7 @@
       "code": "RT.TOWER_INSTALLATION_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3499,7 +3499,7 @@
       "code": "RT.TOWER_ANNUAL_RENT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3509,7 +3509,7 @@
       "code": "RT.TOWER_ANNUAL_RENT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3519,7 +3519,7 @@
       "code": "CSS.COW_CESS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3529,7 +3529,7 @@
       "code": "CSS.COW_CESS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3539,7 +3539,7 @@
       "code": "CH.CATTLE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3549,7 +3549,7 @@
       "code": "CH.CATTLE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3559,7 +3559,7 @@
       "code": "TB.REHRI_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3569,7 +3569,7 @@
       "code": "TB.REHRI_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3579,7 +3579,7 @@
       "code": "LCF.MANUAL_RIKSHAW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3589,7 +3589,7 @@
       "code": "LCF.MANUAL_RIKSHAW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3599,7 +3599,7 @@
       "code": "CH.DAIRY_ANIMALS_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3609,7 +3609,7 @@
       "code": "CH.DAIRY_ANIMALS_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3619,7 +3619,7 @@
       "code": "CH.BIDI_AND_CIGRETTE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3629,7 +3629,7 @@
       "code": "CH.BIDI_AND_CIGRETTE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3639,7 +3639,7 @@
       "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3649,7 +3649,7 @@
       "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3659,7 +3659,7 @@
       "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3669,7 +3669,7 @@
       "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3679,7 +3679,7 @@
       "code": "RT.STREET_VENDOR_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3689,7 +3689,7 @@
       "code": "RT.STREET_VENDOR_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3699,7 +3699,7 @@
       "code": "FTP.CONSTRUCTION_WASTE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3709,7 +3709,7 @@
       "code": "FTP.CONSTRUCTION_WASTE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3719,7 +3719,7 @@
       "code": "FTP.DEMOLITION_WASTE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3729,7 +3729,7 @@
       "code": "FTP.DEMOLITION_WASTE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3739,7 +3739,7 @@
       "code": "SNT.CLEAN_SAFAI_SANITATION_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3749,7 +3749,7 @@
       "code": "SNT.CLEAN_SAFAI_SANITATION_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3759,7 +3759,7 @@
       "code": "OM.PLUMBER_LICENSE_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3769,7 +3769,7 @@
       "code": "OM.PLUMBER_LICENSE_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3779,7 +3779,7 @@
       "code": "ADVT.LIGHT_WALA_BOARD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3789,7 +3789,7 @@
       "code": "ADVT.LIGHT_WALA_BOARD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3799,7 +3799,7 @@
       "code": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3809,7 +3809,7 @@
       "code": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3829,7 +3829,7 @@
       "code": "TX.HOUSE_TAX_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -3839,7 +3839,7 @@
       "code": "TX.House_Tax_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3849,7 +3849,7 @@
       "code": "TX.House_Tax_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3869,7 +3869,7 @@
       "code": "NKS.NO_DUE_CERTIFICATE_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -3879,7 +3879,7 @@
       "code": "NKS.NO_DUE_CERTIFICATE_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3889,7 +3889,7 @@
       "code": "NKS.NO_DUE_CERTIFICATE_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3909,7 +3909,7 @@
       "code": "NKS.COLONY_SAMBANDHI_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -3919,7 +3919,7 @@
       "code": "NKS.COLONY_SAMBANDHI_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3929,7 +3929,7 @@
       "code": "NKS.COLONY_SAMBANDHI_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3949,7 +3949,7 @@
       "code": "NKS.NAKSHA_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -3959,7 +3959,7 @@
       "code": "NKS.NAKSHA_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -3969,7 +3969,7 @@
       "code": "NKS.NAKSHA_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -3989,7 +3989,7 @@
       "code": "WF.OFC_PERMISSION_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -3999,7 +3999,7 @@
       "code": "WF.OFC_PERMISSION_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4009,7 +4009,7 @@
       "code": "WF.OFC_PERMISSION_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4029,7 +4029,7 @@
       "code": "NKS.HADUD_CERTIFICATE_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4039,7 +4039,7 @@
       "code": "NKS.HADUD_CERTIFICATE_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4049,7 +4049,7 @@
       "code": "NKS.HADUD_CERTIFICATE_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4069,7 +4069,7 @@
       "code": "NKS.BUILDING_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4079,7 +4079,7 @@
       "code": "NKS.BUILDING_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4089,7 +4089,7 @@
       "code": "NKS.BUILDING_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4109,7 +4109,7 @@
       "code": "NKS.BOUNDARY_WALL_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4119,7 +4119,7 @@
       "code": "NKS.BOUNDARY_WALL_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4129,7 +4129,7 @@
       "code": "NKS.BOUNDARY_WALL_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4149,7 +4149,7 @@
       "code": "NKS.MALBA_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4159,7 +4159,7 @@
       "code": "NKS.MALBA_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4169,7 +4169,7 @@
       "code": "NKS.MALBA_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4189,7 +4189,7 @@
       "code": "NKS.DEVELOPMENT_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4199,7 +4199,7 @@
       "code": "NKS.DEVELOPMENT_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4209,7 +4209,7 @@
       "code": "NKS.DEVELOPMENT_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4229,7 +4229,7 @@
       "code": "NKS.CHANGE_OF_LAND_USE_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4239,7 +4239,7 @@
       "code": "NKS.CHANGE_OF_LAND_USE_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4249,7 +4249,7 @@
       "code": "NKS.CHANGE_OF_LAND_USE_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4269,7 +4269,7 @@
       "code": "NKS.UNDER_DEVELOPMENT_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4279,7 +4279,7 @@
       "code": "NKS.UNDER_DEVELOPMENT_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4289,7 +4289,7 @@
       "code": "NKS.UNDER_DEVELOPMENT_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4309,7 +4309,7 @@
       "code": "OTHER.WATER_CHARGES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4319,7 +4319,7 @@
       "code": "OTHER.WATER_CHARGES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4329,7 +4329,7 @@
       "code": "OTHER.WATER_CHARGES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4349,7 +4349,7 @@
       "code": "OTHER.OTHERS_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4359,7 +4359,7 @@
       "code": "OTHER.OTHERS_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4369,7 +4369,7 @@
       "code": "OTHER.OTHERS_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4389,7 +4389,7 @@
       "code": "CSS.LABOR_CESS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4399,7 +4399,7 @@
       "code": "CSS.LABOR_CESS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4409,7 +4409,7 @@
       "code": "CSS.LABOR_CESS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4429,7 +4429,7 @@
       "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4439,7 +4439,7 @@
       "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4449,7 +4449,7 @@
       "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4469,7 +4469,7 @@
       "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4479,7 +4479,7 @@
       "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4489,7 +4489,7 @@
       "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4509,7 +4509,7 @@
       "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4519,7 +4519,7 @@
       "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4529,7 +4529,7 @@
       "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4549,7 +4549,7 @@
       "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4559,7 +4559,7 @@
       "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4569,7 +4569,7 @@
       "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4589,7 +4589,7 @@
       "code": "OM.ROAD_CUT_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4599,7 +4599,7 @@
       "code": "OM.ROAD_CUT_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4609,7 +4609,7 @@
       "code": "OM.ROAD_CUT_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4629,7 +4629,7 @@
       "code": "ADMN.PARKING_BOOKING_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4639,7 +4639,7 @@
       "code": "ADMN.PARKING_BOOKING_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4649,7 +4649,7 @@
       "code": "ADMN.PARKING_BOOKING_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4669,7 +4669,7 @@
       "code": "ADVT.CANOPY_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4679,7 +4679,7 @@
       "code": "ADVT.CANOPY_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4689,7 +4689,7 @@
       "code": "ADVT.CANOPY_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4709,7 +4709,7 @@
       "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4719,7 +4719,7 @@
       "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4729,7 +4729,7 @@
       "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4749,7 +4749,7 @@
       "code": "TX.Property_Tax_2013-14_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4759,7 +4759,7 @@
       "code": "TX.Property_Tax_2013-14_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4769,7 +4769,7 @@
       "code": "TX.Property_Tax_2013-14_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4789,7 +4789,7 @@
       "code": "OTHER.NOC_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4799,7 +4799,7 @@
       "code": "OTHER.NCO_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4809,7 +4809,7 @@
       "code": "OTHER.NOC_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4829,7 +4829,7 @@
       "code": "OTHER.FIRE_NOC_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4839,7 +4839,7 @@
       "code": "OTHER.FIRE_NOC_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4849,7 +4849,7 @@
       "code": "OTHER.FIRE_NOC_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4869,7 +4869,7 @@
       "code": "OTHER.FIRE_TENDER_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4879,7 +4879,7 @@
       "code": "OTHER.FIRE_TENDER_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4889,7 +4889,7 @@
       "code": "OTHER.FIRE_TENDER_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4909,7 +4909,7 @@
       "code": "OTHER.FIRE_CALL_REPORT_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4919,7 +4919,7 @@
       "code": "OTHER.FIRE_CALL_REPORT_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4929,7 +4929,7 @@
       "code": "OTHER.FIRE_CALL_REPORT_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4949,7 +4949,7 @@
       "code": "OTHER.BUS_ADDA_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4959,7 +4959,7 @@
       "code": "OTHER.BUS_ADDA_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -4969,7 +4969,7 @@
       "code": "OTHER.BUS_ADDA_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -4989,7 +4989,7 @@
       "code": "NKS.RAIN_HARVESTING_CHARGES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -4999,7 +4999,7 @@
       "code": "NKS.RAIN_HARVESTING_CHARGES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5009,7 +5009,7 @@
       "code": "NKS.RAIN_HARVESTING_CHARGES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5029,7 +5029,7 @@
       "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5039,7 +5039,7 @@
       "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5049,7 +5049,7 @@
       "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5069,7 +5069,7 @@
       "code": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5079,7 +5079,7 @@
       "code": "FN.SECURITY_DEPOSIT_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5089,7 +5089,7 @@
       "code": "FN.SECURITY_DEPOSIT_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5109,7 +5109,7 @@
       "code": "OTHER.DISPENSARY_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5119,7 +5119,7 @@
       "code": "OTHER.DISPENSARY_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5129,7 +5129,7 @@
       "code": "OTHER.DISPENSARY_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5149,7 +5149,7 @@
       "code": "RT.SALE_OF_LAND_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5159,7 +5159,7 @@
       "code": "RT.SALE_OF_LAND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5169,7 +5169,7 @@
       "code": "RT.SALE_OF_LAND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5189,7 +5189,7 @@
       "code": "OTHER.LICENSE_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5199,7 +5199,7 @@
       "code": "OTHER.LICENSE_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5209,7 +5209,7 @@
       "code": "OTHER.LICENSE_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5229,7 +5229,7 @@
       "code": "OTHER.CANDY_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5239,7 +5239,7 @@
       "code": "OTHER.CANDY_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5249,7 +5249,7 @@
       "code": "OTHER.CANDY_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5269,7 +5269,7 @@
       "code": "OTHER.CONSERVANCY_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5279,7 +5279,7 @@
       "code": "OTHER.CONSERVANCY_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5289,7 +5289,7 @@
       "code": "OTHER.CONSERVANCY_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5309,7 +5309,7 @@
       "code": "NKS.SUB_DIVISION_CHARGES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5319,7 +5319,7 @@
       "code": "NKS.SUB_DIVISION_CHARGES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5329,7 +5329,7 @@
       "code": "NKS.SUB_DIVISION_CHARGES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5349,7 +5349,7 @@
       "code": "NKS.INFORMATION_CERTIFICATE_FEES_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5359,7 +5359,7 @@
       "code": "NKS.INFORMATION_CERTIFICATE_FEES_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5369,7 +5369,7 @@
       "code": "NKS.INFORMATION_CERTIFICATE_FEES_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5389,7 +5389,7 @@
       "code": "NKS.BUILDING_SAFETY_CERTIFICATE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5399,7 +5399,7 @@
       "code": "NKS.BUILDING_SAFETY_CERTIFICATE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5409,7 +5409,7 @@
       "code": "NKS.BUILDING_SAFETY_CERTIFICATE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5429,7 +5429,7 @@
       "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5439,7 +5439,7 @@
       "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5449,7 +5449,7 @@
       "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5469,7 +5469,7 @@
       "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5479,7 +5479,7 @@
       "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5489,7 +5489,7 @@
       "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5509,7 +5509,7 @@
       "code": "CH.BURNING_OF_WASTE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5519,7 +5519,7 @@
       "code": "CH.BURNING_OF_WASTE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5529,7 +5529,7 @@
       "code": "CH.BURNING_OF_WASTE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5549,7 +5549,7 @@
       "code": "OTHER.SALE_OF_COMPOST_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5559,7 +5559,7 @@
       "code": "OTHER.SALE_OF_COMPOST_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5569,7 +5569,7 @@
       "code": "OTHER.SALE_OF_COMPOST_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5589,7 +5589,7 @@
       "code": "OTHER.SALE_OF_RECYCLABLE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5599,7 +5599,7 @@
       "code": "OTHER.SALE_OF_RECYCLABLE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5609,7 +5609,7 @@
       "code": "OTHER.SALE_OF_RECYCLABLE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5629,7 +5629,7 @@
       "code": "LCF.TRADE_LICENSE_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5639,7 +5639,7 @@
       "code": "LCF.TRADE_LICENSE_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5649,7 +5649,7 @@
       "code": "LCF.TRADE_LICENSE_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5679,7 +5679,7 @@
       "code": "OTHER.DOG_REGISTRATION_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -5689,7 +5689,7 @@
       "code": "OTHER.DOG_REGISTRATION_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -5699,7 +5699,7 @@
       "code": "ASSREV.COMP_CONCESSION_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5709,7 +5709,7 @@
       "code": "ASSREV.COMP_TAX_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5719,7 +5719,7 @@
       "code": "ASSREV.COMP_TAXOTHER_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5729,7 +5729,7 @@
       "code": "CREDDEP.MNY_DEP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5739,7 +5739,7 @@
       "code": "CREDDEP.CAND_SEC_DEP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5749,7 +5749,7 @@
       "code": "CREDDEP.SEC_DEP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5759,10 +5759,9 @@
       "code": "ENTFEE.MUSEUM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-    
     {
       "category": "CHARGES",
       "service": "ENTFEE.PLYGRND",
@@ -5770,7 +5769,7 @@
       "code": "ENTFEE.PLYGRND_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5780,7 +5779,7 @@
       "code": "ENTFEE.VEH_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5790,7 +5789,7 @@
       "code": "GRNTINT.MDM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5800,7 +5799,7 @@
       "code": "GRNTINT.SBM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5810,7 +5809,7 @@
       "code": "GRNTINT.INF_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5820,7 +5819,7 @@
       "code": "GRNTINT.INT_SB_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5830,7 +5829,7 @@
       "code": "GRNTINT.INT_LOAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5840,7 +5839,7 @@
       "code": "GRNTINT.REV_GRNT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5850,7 +5849,7 @@
       "code": "GRNTINT.INT_FD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5860,7 +5859,7 @@
       "code": "GRNTINT.INT_TD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5870,7 +5869,7 @@
       "code": "OTHFEE.APP_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5880,7 +5879,7 @@
       "code": "OTHFEE.BETT_CHRG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5890,7 +5889,7 @@
       "code": "OTHFEE.BIRTH_REG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5900,7 +5899,7 @@
       "code": "OTHFEE.BLD_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5910,7 +5909,7 @@
       "code": "OTHFEE.CATT_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5920,7 +5919,7 @@
       "code": "OTHFEE.COMP_UNAUTH_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5930,7 +5929,7 @@
       "code": "OTHFEE.COMPD_DLYAPP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5940,7 +5939,7 @@
       "code": "OTHFEE.COMPD_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5950,7 +5949,7 @@
       "code": "OTHFEE.CONSRV_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5960,7 +5959,7 @@
       "code": "OTHFEE.CONST_WASTE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5970,7 +5969,7 @@
       "code": "OTHFEE.CRT_STMP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5980,7 +5979,7 @@
       "code": "OTHFEE.DRY_ANML_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -5990,7 +5989,7 @@
       "code": "OTHFEE.DMG_CHRG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6000,7 +5999,7 @@
       "code": "OTHFEE.DEAD_ANML_CONT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6010,7 +6009,7 @@
       "code": "OTHFEE.DEATH_REG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6020,7 +6019,7 @@
       "code": "OTHFEE.DENG_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6030,7 +6029,7 @@
       "code": "OTHFEE.DEV_CHRG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6040,7 +6039,7 @@
       "code": "OTHFEE.DISTRAINT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6050,7 +6049,7 @@
       "code": "OTHFEE.DISTRAINT_TAX_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6060,7 +6059,7 @@
       "code": "OTHFEE.DRINK_WT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6070,7 +6069,7 @@
       "code": "OTHFEE.DUMP_GRBG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6080,7 +6079,7 @@
       "code": "OTHFEE.EDU_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6090,7 +6089,7 @@
       "code": "OTHFEE.ELEC_RLY_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6100,7 +6099,7 @@
       "code": "OTHFEE.EMP_REG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6110,7 +6109,7 @@
       "code": "OTHFEE.ENCRMNT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6120,7 +6119,7 @@
       "code": "OTHFEE.MTN_TR_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6130,7 +6129,7 @@
       "code": "OTHFEE.CERT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6140,7 +6139,7 @@
       "code": "OTHFEE.DC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6150,7 +6149,7 @@
       "code": "OTHFEE.GRNT_PERM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6160,7 +6159,7 @@
       "code": "OTHFEE.OD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6170,7 +6169,7 @@
       "code": "OTHFEE.HC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6180,7 +6179,7 @@
       "code": "OTHFEE.ISS_BIRTHCERT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6190,7 +6189,7 @@
       "code": "OTHFEE.ISS_DEATHCERT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6200,7 +6199,7 @@
       "code": "OTHFEE.ISS_SANTICERT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6210,7 +6209,7 @@
       "code": "OTHFEE.VOTERLIST_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6220,7 +6219,7 @@
       "code": "OTHFEE.RICKSHW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6230,7 +6229,7 @@
       "code": "OTHFEE.LIC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6240,7 +6239,7 @@
       "code": "OTHFEE.MED_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6250,7 +6249,7 @@
       "code": "OTHFEE.MISC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6260,7 +6259,7 @@
       "code": "OTHFEE.MTN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6270,7 +6269,7 @@
       "code": "OTHFEE.NDC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6280,7 +6279,7 @@
       "code": "OTHFEE.NOTICE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6290,7 +6289,7 @@
       "code": "OTHFEE.PENALT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6300,7 +6299,7 @@
       "code": "OTHFEE.OTH_SHOW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6310,7 +6309,7 @@
       "code": "OTHFEE.PARK_ELEC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6320,7 +6319,7 @@
       "code": "OTHFEE.PLASTIC_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6330,7 +6329,7 @@
       "code": "OTHFEE.REG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6340,7 +6339,7 @@
       "code": "OTHFEE.REGL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6350,7 +6349,7 @@
       "code": "OTHFEE.REHRI_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6360,7 +6359,7 @@
       "code": "OTHFEE.RD_SHOW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6370,7 +6369,7 @@
       "code": "OTHFEE.RTI_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6380,7 +6379,7 @@
       "code": "OTHFEE.SLGHT_HS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6390,7 +6389,7 @@
       "code": "OTHFEE.TEHBAZZZRI_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6400,10 +6399,9 @@
       "code": "OTHFEE.TNDR_FRM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-  
     {
       "category": "CHARGES",
       "service": "OTHFEE.TREE_AUC",
@@ -6411,7 +6409,7 @@
       "code": "OTHFEE.TREE_AUC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6421,7 +6419,7 @@
       "code": "OTHFEE.TR_ASS_TAX_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6431,7 +6429,7 @@
       "code": "OTHFEE.WF_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6441,7 +6439,7 @@
       "code": "OTHFEE.WATER_CHRG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6491,7 +6489,7 @@
       "code": "OTHFEE.PARK_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -6501,7 +6499,7 @@
       "code": "OTH.CESS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6511,7 +6509,7 @@
       "code": "OTH.DEP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6521,7 +6519,7 @@
       "code": "OTH.INC_CLM_REV_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6531,7 +6529,7 @@
       "code": "OTH.PRFT_DIS_FA_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6541,7 +6539,7 @@
       "code": "OTH.RCV_EMP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6551,7 +6549,7 @@
       "code": "RENT.COM_CEN_BK_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6561,7 +6559,7 @@
       "code": "RENT.EREC_POL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6571,7 +6569,7 @@
       "code": "RENT.EXB_CIRC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6581,7 +6579,7 @@
       "code": "RENT.CANTT_FUN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6591,7 +6589,7 @@
       "code": "RENT.CA_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6601,7 +6599,7 @@
       "code": "RENT.GH_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6611,7 +6609,7 @@
       "code": "RENT.OFF_BLDG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6621,7 +6619,7 @@
       "code": "RENT.REMIS_REFND_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6631,7 +6629,7 @@
       "code": "RENT.ST_VEN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6641,7 +6639,7 @@
       "code": "RENT.TEL_TW_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6651,7 +6649,7 @@
       "code": "RENT.TEMP_STALL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6661,7 +6659,7 @@
       "code": "RENT.ULB_LEASE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6671,7 +6669,7 @@
       "code": "RENT.ULB_PATTA_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6681,7 +6679,7 @@
       "code": "RENT.ULB_NAZOOL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6691,7 +6689,7 @@
       "code": "RENT.ULB_SHP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6701,7 +6699,7 @@
       "code": "RENT.ULB_LIC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6711,7 +6709,7 @@
       "code": "SALE.AUC_TREE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6721,7 +6719,7 @@
       "code": "SALE.FRM_PUB_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6731,7 +6729,7 @@
       "code": "SALE.PROD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6741,7 +6739,7 @@
       "code": "SALE.STR_SCRP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6751,7 +6749,7 @@
       "code": "SRVC.CHQ_BNC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6761,7 +6759,7 @@
       "code": "SRVC.APP_ADM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6771,7 +6769,7 @@
       "code": "SRVC.APP_CONSER_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6781,7 +6779,7 @@
       "code": "SRVC.APP_ELEC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6791,7 +6789,7 @@
       "code": "SRVC.APP_PWD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6801,7 +6799,7 @@
       "code": "SRVC.APP_ENGTP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6811,7 +6809,7 @@
       "code": "SRVC.APP_HOSP_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6821,7 +6819,7 @@
       "code": "SRVC.APP_RD_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6831,7 +6829,7 @@
       "code": "SRVC.APP_STR_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6841,7 +6839,7 @@
       "code": "SRVC.APP_TAX_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6851,7 +6849,7 @@
       "code": "SRVC.APP_WATER_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6861,7 +6859,7 @@
       "code": "SRVC.SRVC_CHRG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6870,7 +6868,7 @@
       "name": "TX.ADVT_TAX",
       "code": "TX.ADVT_TAX",
       "isDebit": false,
-      "isActualDemand":true,
+      "isActualDemand": true,
       "order": "1",
       "isRequired": true
     },
@@ -6880,7 +6878,7 @@
       "name": "TX.CONS_TAX",
       "code": "TX.CONS_TAX",
       "isDebit": false,
-      "isActualDemand":true,
+      "isActualDemand": true,
       "order": "1",
       "isRequired": true
     },
@@ -6890,7 +6888,7 @@
       "name": "TX.PROF_TAX",
       "code": "TX.PROF_TAX",
       "isDebit": false,
-      "isActualDemand":true,
+      "isActualDemand": true,
       "order": "1",
       "isRequired": true
     },
@@ -6900,7 +6898,7 @@
       "name": "TX.SANT_TAX",
       "code": "TX.SANT_TAX",
       "isDebit": false,
-      "isActualDemand":true,
+      "isActualDemand": true,
       "order": "1",
       "isRequired": true
     },
@@ -6910,7 +6908,7 @@
       "name": "TX.TOLL_TAX",
       "code": "TX.TOLL_TAX",
       "isDebit": false,
-      "isActualDemand":true,
+      "isActualDemand": true,
       "order": "1",
       "isRequired": true
     },
@@ -6921,7 +6919,7 @@
       "code": "UC.BUR_GRND_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6931,7 +6929,7 @@
       "code": "UC.NEW_WATER_CONC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6941,7 +6939,7 @@
       "code": "UC.CHNG_WATER_CONC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6951,7 +6949,7 @@
       "code": "UC.COST_FEED_AN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6961,7 +6959,7 @@
       "code": "UC.CREMAT_CHRG_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6971,7 +6969,7 @@
       "code": "UC.EDU_CESS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6981,7 +6979,7 @@
       "code": "UC.FNRL_VAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -6991,7 +6989,7 @@
       "code": "UC.GRBG_COLL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7001,7 +6999,7 @@
       "code": "UC.LIB_MEM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7011,7 +7009,7 @@
       "code": "UC.MTRL_STACK_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7021,7 +7019,7 @@
       "code": "UC.PU_TLT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7031,7 +7029,7 @@
       "code": "UC.PERM_BORE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7041,7 +7039,7 @@
       "code": "UC.PROCES_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7051,7 +7049,7 @@
       "code": "UC.PUB_FEE_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7061,7 +7059,7 @@
       "code": "UC.MOB_TLT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7071,7 +7069,7 @@
       "code": "UC.RD_CUTT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7081,7 +7079,7 @@
       "code": "UC.SEP_TNK_CLR_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7091,7 +7089,7 @@
       "code": "UC.WATER_TNK_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -7894,7 +7892,6 @@
       "order": "1",
       "isRequired": true
     },
-    
     {
       "category": "TAX",
       "service": "OTH.CESS",
@@ -8272,7 +8269,7 @@
       "code": "TX.ADVT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -8282,7 +8279,7 @@
       "code": "TX.CONS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -8292,7 +8289,7 @@
       "code": "TX.PROF_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -8302,7 +8299,7 @@
       "code": "TX.SANT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -8312,7 +8309,7 @@
       "code": "TX.TOLL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -8502,7 +8499,7 @@
       "code": "ASSREV.COMP_CONCESSION_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8512,7 +8509,7 @@
       "code": "ASSREV.COMP_CONCESSION_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8522,7 +8519,7 @@
       "code": "ASSREV.COMP_TAX_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8532,7 +8529,7 @@
       "code": "ASSREV.COMP_TAX_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8542,7 +8539,7 @@
       "code": "ASSREV.COMP_TAXOTHER_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8552,7 +8549,7 @@
       "code": "ASSREV.COMP_TAXOTHER_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8562,7 +8559,7 @@
       "code": "CREDDEP.CAND_SEC_DEP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8572,7 +8569,7 @@
       "code": "CREDDEP.CAND_SEC_DEP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8582,7 +8579,7 @@
       "code": "CREDDEP.MNY_DEP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8592,7 +8589,7 @@
       "code": "CREDDEP.MNY_DEP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8602,7 +8599,7 @@
       "code": "CREDDEP.SEC_DEP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8612,7 +8609,7 @@
       "code": "CREDDEP.SEC_DEP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8622,7 +8619,7 @@
       "code": "ENTFEE.MUSEUM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8632,10 +8629,9 @@
       "code": "ENTFEE.MUSEUM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-    
     {
       "category": "TAX",
       "service": "ENTFEE.PLYGRND",
@@ -8643,7 +8639,7 @@
       "code": "ENTFEE.PLYGRND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8653,7 +8649,7 @@
       "code": "ENTFEE.PLYGRND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8663,7 +8659,7 @@
       "code": "ENTFEE.VEH_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8673,7 +8669,7 @@
       "code": "ENTFEE.VEH_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8683,7 +8679,7 @@
       "code": "GRNTINT.INF_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8693,7 +8689,7 @@
       "code": "GRNTINT.INF_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8703,7 +8699,7 @@
       "code": "GRNTINT.INT_FD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8713,7 +8709,7 @@
       "code": "GRNTINT.INT_FD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8723,7 +8719,7 @@
       "code": "GRNTINT.INT_LOAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8733,7 +8729,7 @@
       "code": "GRNTINT.INT_LOAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8743,7 +8739,7 @@
       "code": "GRNTINT.INT_SB_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8753,7 +8749,7 @@
       "code": "GRNTINT.INT_SB_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8763,7 +8759,7 @@
       "code": "GRNTINT.INT_TD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8773,7 +8769,7 @@
       "code": "GRNTINT.INT_TD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8783,7 +8779,7 @@
       "code": "GRNTINT.MDM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8793,7 +8789,7 @@
       "code": "GRNTINT.MDM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8803,7 +8799,7 @@
       "code": "GRNTINT.REV_GRNT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8813,7 +8809,7 @@
       "code": "GRNTINT.REV_GRNT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8823,7 +8819,7 @@
       "code": "GRNTINT.SBM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8833,7 +8829,7 @@
       "code": "GRNTINT.SBM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8843,7 +8839,7 @@
       "code": "OTH.CESS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8853,7 +8849,7 @@
       "code": "OTH.CESS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8863,7 +8859,7 @@
       "code": "OTH.DEP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8873,7 +8869,7 @@
       "code": "OTH.DEP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8883,7 +8879,7 @@
       "code": "OTH.INC_CLM_REV_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8893,7 +8889,7 @@
       "code": "OTH.INC_CLM_REV_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8903,7 +8899,7 @@
       "code": "OTH.PRFT_DIS_FA_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8913,7 +8909,7 @@
       "code": "OTH.PRFT_DIS_FA_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8923,7 +8919,7 @@
       "code": "OTH.RCV_EMP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8933,7 +8929,7 @@
       "code": "OTH.RCV_EMP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8943,7 +8939,7 @@
       "code": "OTHFEE.APP_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8953,7 +8949,7 @@
       "code": "OTHFEE.APP_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8963,7 +8959,7 @@
       "code": "OTHFEE.BETT_CHRG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8973,7 +8969,7 @@
       "code": "OTHFEE.BETT_CHRG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -8983,7 +8979,7 @@
       "code": "OTHFEE.BIRTH_REG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -8993,7 +8989,7 @@
       "code": "OTHFEE.BIRTH_REG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9003,7 +8999,7 @@
       "code": "OTHFEE.BLD_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9013,7 +9009,7 @@
       "code": "OTHFEE.BLD_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9023,7 +9019,7 @@
       "code": "OTHFEE.CATT_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9033,7 +9029,7 @@
       "code": "OTHFEE.CATT_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9043,7 +9039,7 @@
       "code": "OTHFEE.CERT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9053,7 +9049,7 @@
       "code": "OTHFEE.CERT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9063,7 +9059,7 @@
       "code": "OTHFEE.COMP_UNAUTH_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9073,7 +9069,7 @@
       "code": "OTHFEE.COMP_UNAUTH_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9083,7 +9079,7 @@
       "code": "OTHFEE.COMPD_DLYAPP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9093,7 +9089,7 @@
       "code": "OTHFEE.COMPD_DLYAPP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9103,7 +9099,7 @@
       "code": "OTHFEE.COMPD_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9113,7 +9109,7 @@
       "code": "OTHFEE.COMPD_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9123,7 +9119,7 @@
       "code": "OTHFEE.CONSRV_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9133,7 +9129,7 @@
       "code": "OTHFEE.CONSRV_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9143,7 +9139,7 @@
       "code": "OTHFEE.CONST_WASTE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9153,7 +9149,7 @@
       "code": "OTHFEE.CONST_WASTE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9163,7 +9159,7 @@
       "code": "OTHFEE.CRT_STMP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9173,7 +9169,7 @@
       "code": "OTHFEE.CRT_STMP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9183,7 +9179,7 @@
       "code": "OTHFEE.DC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9193,7 +9189,7 @@
       "code": "OTHFEE.DC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9203,7 +9199,7 @@
       "code": "OTHFEE.DEAD_ANML_CONT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9213,7 +9209,7 @@
       "code": "OTHFEE.DEAD_ANML_CONT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9223,7 +9219,7 @@
       "code": "OTHFEE.DEATH_REG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9233,7 +9229,7 @@
       "code": "OTHFEE.DEATH_REG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9243,7 +9239,7 @@
       "code": "OTHFEE.DENG_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9253,7 +9249,7 @@
       "code": "OTHFEE.DENG_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9263,7 +9259,7 @@
       "code": "OTHFEE.DEV_CHRG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9273,7 +9269,7 @@
       "code": "OTHFEE.DEV_CHRG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9283,7 +9279,7 @@
       "code": "OTHFEE.DISTRAINT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9293,7 +9289,7 @@
       "code": "OTHFEE.DISTRAINT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9303,7 +9299,7 @@
       "code": "OTHFEE.DISTRAINT_TAX_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9313,7 +9309,7 @@
       "code": "OTHFEE.DISTRAINT_TAX_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9323,7 +9319,7 @@
       "code": "OTHFEE.DMG_CHRG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9333,7 +9329,7 @@
       "code": "OTHFEE.DMG_CHRG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9343,7 +9339,7 @@
       "code": "OTHFEE.DRINK_WT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9353,7 +9349,7 @@
       "code": "OTHFEE.DRINK_WT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9363,7 +9359,7 @@
       "code": "OTHFEE.DRY_ANML_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9373,7 +9369,7 @@
       "code": "OTHFEE.DRY_ANML_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9383,7 +9379,7 @@
       "code": "OTHFEE.DUMP_GRBG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9393,7 +9389,7 @@
       "code": "OTHFEE.DUMP_GRBG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9403,7 +9399,7 @@
       "code": "OTHFEE.EDU_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9413,7 +9409,7 @@
       "code": "OTHFEE.EDU_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9423,7 +9419,7 @@
       "code": "OTHFEE.ELEC_RLY_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9433,7 +9429,7 @@
       "code": "OTHFEE.ELEC_RLY_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9443,7 +9439,7 @@
       "code": "OTHFEE.EMP_REG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9453,7 +9449,7 @@
       "code": "OTHFEE.EMP_REG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9463,7 +9459,7 @@
       "code": "OTHFEE.ENCRMNT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9473,7 +9469,7 @@
       "code": "OTHFEE.ENCRMNT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9483,7 +9479,7 @@
       "code": "OTHFEE.GRNT_PERM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9493,7 +9489,7 @@
       "code": "OTHFEE.GRNT_PERM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9503,7 +9499,7 @@
       "code": "OTHFEE.HC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9513,7 +9509,7 @@
       "code": "OTHFEE.HC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9523,7 +9519,7 @@
       "code": "OTHFEE.ISS_BIRTHCERT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9533,7 +9529,7 @@
       "code": "OTHFEE.ISS_BIRTHCERT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9543,7 +9539,7 @@
       "code": "OTHFEE.ISS_DEATHCERT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9553,7 +9549,7 @@
       "code": "OTHFEE.ISS_DEATHCERT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9563,7 +9559,7 @@
       "code": "OTHFEE.ISS_SANTICERT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9573,7 +9569,7 @@
       "code": "OTHFEE.ISS_SANTICERT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9583,7 +9579,7 @@
       "code": "OTHFEE.LIC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9593,7 +9589,7 @@
       "code": "OTHFEE.LIC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9603,7 +9599,7 @@
       "code": "OTHFEE.MED_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9613,7 +9609,7 @@
       "code": "OTHFEE.MED_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9623,7 +9619,7 @@
       "code": "OTHFEE.MISC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9633,7 +9629,7 @@
       "code": "OTHFEE.MISC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9643,7 +9639,7 @@
       "code": "OTHFEE.MTN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9653,7 +9649,7 @@
       "code": "OTHFEE.MTN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9663,7 +9659,7 @@
       "code": "OTHFEE.MTN_TR_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9673,7 +9669,7 @@
       "code": "OTHFEE.MTN_TR_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9683,7 +9679,7 @@
       "code": "OTHFEE.NDC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9693,7 +9689,7 @@
       "code": "OTHFEE.NDC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9703,7 +9699,7 @@
       "code": "OTHFEE.NOTICE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9713,7 +9709,7 @@
       "code": "OTHFEE.NOTICE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9723,7 +9719,7 @@
       "code": "OTHFEE.OD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9733,7 +9729,7 @@
       "code": "OTHFEE.OD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9743,7 +9739,7 @@
       "code": "OTHFEE.OTH_SHOW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9753,10 +9749,9 @@
       "code": "OTHFEE.OTH_SHOW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-    
     {
       "category": "TAX",
       "service": "OTHFEE.PARK_ELEC",
@@ -9764,7 +9759,7 @@
       "code": "OTHFEE.PARK_ELEC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9774,7 +9769,7 @@
       "code": "OTHFEE.PARK_ELEC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9784,7 +9779,7 @@
       "code": "OTHFEE.PENALT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9794,7 +9789,7 @@
       "code": "OTHFEE.PENALT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9804,7 +9799,7 @@
       "code": "OTHFEE.PLASTIC_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9814,7 +9809,7 @@
       "code": "OTHFEE.PLASTIC_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9824,7 +9819,7 @@
       "code": "OTHFEE.RD_SHOW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9834,7 +9829,7 @@
       "code": "OTHFEE.RD_SHOW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9844,7 +9839,7 @@
       "code": "OTHFEE.REG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9854,7 +9849,7 @@
       "code": "OTHFEE.REG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9864,7 +9859,7 @@
       "code": "OTHFEE.REGL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9874,7 +9869,7 @@
       "code": "OTHFEE.REGL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9884,7 +9879,7 @@
       "code": "OTHFEE.REHRI_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9894,7 +9889,7 @@
       "code": "OTHFEE.REHRI_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9904,7 +9899,7 @@
       "code": "OTHFEE.RICKSHW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9914,7 +9909,7 @@
       "code": "OTHFEE.RICKSHW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9924,7 +9919,7 @@
       "code": "OTHFEE.RTI_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9934,7 +9929,7 @@
       "code": "OTHFEE.RTI_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9944,7 +9939,7 @@
       "code": "OTHFEE.SLGHT_HS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9954,7 +9949,7 @@
       "code": "OTHFEE.SLGHT_HS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9964,7 +9959,7 @@
       "code": "OTHFEE.TEHBAZZZRI_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9974,7 +9969,7 @@
       "code": "OTHFEE.TEHBAZZZRI_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -9984,7 +9979,7 @@
       "code": "OTHFEE.TNDR_FRM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -9994,7 +9989,7 @@
       "code": "OTHFEE.TNDR_FRM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10004,7 +9999,7 @@
       "code": "OTHFEE.TR_ASS_TAX_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10014,7 +10009,7 @@
       "code": "OTHFEE.TR_ASS_TAX_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10024,7 +10019,7 @@
       "code": "OTHFEE.TREE_AUC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10034,7 +10029,7 @@
       "code": "OTHFEE.TREE_AUC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10044,7 +10039,7 @@
       "code": "OTHFEE.VOTERLIST_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10054,7 +10049,7 @@
       "code": "OTHFEE.VOTERLIST_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10064,7 +10059,7 @@
       "code": "OTHFEE.WATER_CHRG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10074,7 +10069,7 @@
       "code": "OTHFEE.WATER_CHRG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10084,7 +10079,7 @@
       "code": "OTHFEE.WF_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10094,7 +10089,7 @@
       "code": "OTHFEE.WF_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10104,7 +10099,7 @@
       "code": "RENT.CA_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10114,7 +10109,7 @@
       "code": "RENT.CA_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10124,7 +10119,7 @@
       "code": "RENT.CANTT_FUND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10134,7 +10129,7 @@
       "code": "RENT.CANTT_FUND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10144,7 +10139,7 @@
       "code": "RENT.COM_CEN_BK_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10154,7 +10149,7 @@
       "code": "RENT.COM_CEN_BK_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10164,7 +10159,7 @@
       "code": "RENT.EREC_POL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10174,7 +10169,7 @@
       "code": "RENT.EREC_POL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10184,7 +10179,7 @@
       "code": "RENT.EXB_CIRC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10194,7 +10189,7 @@
       "code": "RENT.EXB_CIRC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10204,7 +10199,7 @@
       "code": "RENT.GH_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10214,7 +10209,7 @@
       "code": "RENT.GH_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10224,7 +10219,7 @@
       "code": "RENT.OFF_BLDG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10234,7 +10229,7 @@
       "code": "RENT.OFF_BLDG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10244,7 +10239,7 @@
       "code": "RENT.REMIS_REFND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10254,7 +10249,7 @@
       "code": "RENT.REMIS_REFND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10264,7 +10259,7 @@
       "code": "RENT.ST_VEN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10274,7 +10269,7 @@
       "code": "RENT.ST_VEN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10284,7 +10279,7 @@
       "code": "RENT.TEL_TW_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10294,7 +10289,7 @@
       "code": "RENT.TEL_TW_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10304,7 +10299,7 @@
       "code": "RENT.TEMP_STALL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10314,7 +10309,7 @@
       "code": "RENT.TEMP_STALL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10324,7 +10319,7 @@
       "code": "RENT.ULB_LEASE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10334,7 +10329,7 @@
       "code": "RENT.ULB_LEASE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10344,7 +10339,7 @@
       "code": "RENT.ULB_LIC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10354,7 +10349,7 @@
       "code": "RENT.ULB_LIC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10364,7 +10359,7 @@
       "code": "RENT.ULB_NAZOOL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10374,7 +10369,7 @@
       "code": "RENT.ULB_NAZOOL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10384,7 +10379,7 @@
       "code": "RENT.ULB_PATTA_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10394,7 +10389,7 @@
       "code": "RENT.ULB_PATTA_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10404,7 +10399,7 @@
       "code": "RENT.ULB_SHP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10414,7 +10409,7 @@
       "code": "RENT.ULB_SHP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10424,7 +10419,7 @@
       "code": "SALE.AUC_TREE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10434,7 +10429,7 @@
       "code": "SALE.AUC_TREE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10444,7 +10439,7 @@
       "code": "SALE.FRM_PUB_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10454,7 +10449,7 @@
       "code": "SALE.FRM_PUB_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10464,7 +10459,7 @@
       "code": "SALE.PROD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10474,7 +10469,7 @@
       "code": "SALE.PROD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10484,7 +10479,7 @@
       "code": "SALE.STR_SCRP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10494,7 +10489,7 @@
       "code": "SALE.STR_SCRP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10504,7 +10499,7 @@
       "code": "SRVC.APP_ADM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10514,7 +10509,7 @@
       "code": "SRVC.APP_ADM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10524,7 +10519,7 @@
       "code": "SRVC.APP_CONSER_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10534,7 +10529,7 @@
       "code": "SRVC.APP_CONSER_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10544,7 +10539,7 @@
       "code": "SRVC.APP_ELEC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10554,7 +10549,7 @@
       "code": "SRVC.APP_ELEC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10564,7 +10559,7 @@
       "code": "SRVC.APP_ENGTP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10574,7 +10569,7 @@
       "code": "SRVC.APP_ENGTP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10584,7 +10579,7 @@
       "code": "SRVC.APP_HOSP_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10594,7 +10589,7 @@
       "code": "SRVC.APP_HOSP_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10604,7 +10599,7 @@
       "code": "SRVC.APP_PWD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10614,7 +10609,7 @@
       "code": "SRVC.APP_PWD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10624,7 +10619,7 @@
       "code": "SRVC.APP_RD_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10634,7 +10629,7 @@
       "code": "SRVC.APP_RD_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10644,7 +10639,7 @@
       "code": "SRVC.APP_STR_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10654,7 +10649,7 @@
       "code": "SRVC.APP_STR_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10664,7 +10659,7 @@
       "code": "SRVC.APP_TAX_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10674,7 +10669,7 @@
       "code": "SRVC.APP_TAX_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10684,7 +10679,7 @@
       "code": "SRVC.APP_WATER_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10694,7 +10689,7 @@
       "code": "SRVC.APP_WATER_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10704,7 +10699,7 @@
       "code": "SRVC.CHQ_BNC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10714,7 +10709,7 @@
       "code": "SRVC.CHQ_BNC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10724,7 +10719,7 @@
       "code": "SRVC.SRVC_CHRG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10734,7 +10729,7 @@
       "code": "SRVC.SRVC_CHRG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10744,7 +10739,7 @@
       "code": "TX.ADVT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10754,7 +10749,7 @@
       "code": "TX.ADVT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10764,7 +10759,7 @@
       "code": "TX.CONS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10774,7 +10769,7 @@
       "code": "TX.CONS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10784,7 +10779,7 @@
       "code": "TX.PROF_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10794,7 +10789,7 @@
       "code": "TX.PROF_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10804,7 +10799,7 @@
       "code": "TX.SANT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10814,7 +10809,7 @@
       "code": "TX.SANT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10824,7 +10819,7 @@
       "code": "TX.TOLL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10834,7 +10829,7 @@
       "code": "TX.TOLL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10844,7 +10839,7 @@
       "code": "UC.BUR_GRND_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10854,7 +10849,7 @@
       "code": "UC.BUR_GRND_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10864,7 +10859,7 @@
       "code": "UC.CHNG_WATER_CONC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10874,7 +10869,7 @@
       "code": "UC.CHNG_WATER_CONC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10884,7 +10879,7 @@
       "code": "UC.COST_FEED_AN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10894,7 +10889,7 @@
       "code": "UC.COST_FEED_AN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10904,7 +10899,7 @@
       "code": "UC.CREMAT_CHRG_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10914,7 +10909,7 @@
       "code": "UC.CREMAT_CHRG_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10924,7 +10919,7 @@
       "code": "UC.EDU_CESS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10934,7 +10929,7 @@
       "code": "UC.EDU_CESS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10944,7 +10939,7 @@
       "code": "UC.FNRL_VAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10954,7 +10949,7 @@
       "code": "UC.FNRL_VAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10964,7 +10959,7 @@
       "code": "UC.GRBG_COLL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10974,7 +10969,7 @@
       "code": "UC.GRBG_COLL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -10984,7 +10979,7 @@
       "code": "UC.LIB_MEM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -10994,7 +10989,7 @@
       "code": "UC.LIB_MEM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11004,7 +10999,7 @@
       "code": "UC.MOB_TLT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11014,7 +11009,7 @@
       "code": "UC.MOB_TLT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11024,7 +11019,7 @@
       "code": "UC.MTRL_STACK_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11034,7 +11029,7 @@
       "code": "UC.MTRL_STACK_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11044,7 +11039,7 @@
       "code": "UC.NEW_WATER_CONC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11054,7 +11049,7 @@
       "code": "UC.NEW_WATER_CONC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11064,7 +11059,7 @@
       "code": "UC.PERM_BORE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11074,7 +11069,7 @@
       "code": "UC.PERM_BORE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11084,7 +11079,7 @@
       "code": "UC.PROCES_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11094,7 +11089,7 @@
       "code": "UC.PROCES_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11104,7 +11099,7 @@
       "code": "UC.PU_TLT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11114,7 +11109,7 @@
       "code": "UC.PU_TLT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11124,7 +11119,7 @@
       "code": "UC.PUB_FEE_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11134,7 +11129,7 @@
       "code": "UC.PUB_FEE_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11144,7 +11139,7 @@
       "code": "UC.RD_CUTT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11154,7 +11149,7 @@
       "code": "UC.RD_CUTT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11164,7 +11159,7 @@
       "code": "UC.SEP_TNK_CLR_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11174,7 +11169,7 @@
       "code": "UC.SEP_TNK_CLR_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11184,7 +11179,7 @@
       "code": "UC.WATER_TNK_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -11194,7 +11189,7 @@
       "code": "UC.WATER_TNK_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -11204,7 +11199,7 @@
       "code": "ASSREV.COMP_CONCESSION_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11214,7 +11209,7 @@
       "code": "ASSREV.COMP_TAX_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11224,7 +11219,7 @@
       "code": "ASSREV.COMP_TAXOTHER_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11234,7 +11229,7 @@
       "code": "CREDDEP.MNY_DEP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11244,7 +11239,7 @@
       "code": "CREDDEP.CAND_SEC_DEP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11254,7 +11249,7 @@
       "code": "CREDDEP.SEC_DEP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11264,10 +11259,9 @@
       "code": "ENTFEE.MUSEUM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
-    
     {
       "category": "DEPOSIT",
       "service": "ENTFEE.PLYGRND",
@@ -11275,7 +11269,7 @@
       "code": "ENTFEE.PLYGRND_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11285,7 +11279,7 @@
       "code": "ENTFEE.VEH_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11295,7 +11289,7 @@
       "code": "GRNTINT.MDM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11305,7 +11299,7 @@
       "code": "GRNTINT.SBM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11315,7 +11309,7 @@
       "code": "GRNTINT.INF_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11325,7 +11319,7 @@
       "code": "GRNTINT.INT_SB_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11335,7 +11329,7 @@
       "code": "GRNTINT.INT_LOAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11345,7 +11339,7 @@
       "code": "GRNTINT.REV_GRNT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11355,7 +11349,7 @@
       "code": "GRNTINT.INT_FD_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11365,7 +11359,7 @@
       "code": "GRNTINT.INT_TD_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11375,7 +11369,7 @@
       "code": "OTHFEE.APP_FEE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11385,7 +11379,7 @@
       "code": "OTHFEE.BETT_CHRG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11395,7 +11389,7 @@
       "code": "OTHFEE.BIRTH_REG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11405,7 +11399,7 @@
       "code": "OTHFEE.BLD_FEE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11415,7 +11409,7 @@
       "code": "OTHFEE.CATT_CHALLAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11425,7 +11419,7 @@
       "code": "OTHFEE.COMP_UNAUTH_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11435,7 +11429,7 @@
       "code": "OTHFEE.COMPD_DLYAPP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11445,7 +11439,7 @@
       "code": "OTHFEE.COMPD_FEE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11455,7 +11449,7 @@
       "code": "OTHFEE.CONSRV_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11465,7 +11459,7 @@
       "code": "OTHFEE.CONST_WASTE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11475,7 +11469,7 @@
       "code": "OTHFEE.CRT_STMP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11485,7 +11479,7 @@
       "code": "OTHFEE.DRY_ANML_CHALLAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11495,7 +11489,7 @@
       "code": "OTHFEE.DMG_CHRG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11505,7 +11499,7 @@
       "code": "OTHFEE.DEAD_ANML_CONT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11515,7 +11509,7 @@
       "code": "OTHFEE.DEATH_REG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11525,7 +11519,7 @@
       "code": "OTHFEE.DENG_CHALLAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11535,7 +11529,7 @@
       "code": "OTHFEE.DEV_CHRG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11545,7 +11539,7 @@
       "code": "OTHFEE.DISTRAINT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11555,7 +11549,7 @@
       "code": "OTHFEE.DISTRAINT_TAX_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11565,7 +11559,7 @@
       "code": "OTHFEE.DRINK_WT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11575,7 +11569,7 @@
       "code": "OTHFEE.DUMP_GRBG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11585,7 +11579,7 @@
       "code": "OTHFEE.EDU_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11595,7 +11589,7 @@
       "code": "OTHFEE.ELEC_RLY_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11605,7 +11599,7 @@
       "code": "OTHFEE.EMP_REG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11615,7 +11609,7 @@
       "code": "OTHFEE.ENCRMNT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11625,7 +11619,7 @@
       "code": "OTHFEE.MTN_TR_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11635,7 +11629,7 @@
       "code": "OTHFEE.CERT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11645,7 +11639,7 @@
       "code": "OTHFEE.DC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11655,7 +11649,7 @@
       "code": "OTHFEE.GRNT_PERM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11665,7 +11659,7 @@
       "code": "OTHFEE.OD_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11675,7 +11669,7 @@
       "code": "OTHFEE.HC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11685,7 +11679,7 @@
       "code": "OTHFEE.ISS_BIRTHCERT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11695,7 +11689,7 @@
       "code": "OTHFEE.ISS_DEATHCERT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11705,7 +11699,7 @@
       "code": "OTHFEE.ISS_SANTICERT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11715,7 +11709,7 @@
       "code": "OTHFEE.VOTERLIST_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11725,7 +11719,7 @@
       "code": "OTHFEE.RICKSHW_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11735,7 +11729,7 @@
       "code": "OTHFEE.LIC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11745,7 +11739,7 @@
       "code": "OTHFEE.MED_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11755,7 +11749,7 @@
       "code": "OTHFEE.MISC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11765,7 +11759,7 @@
       "code": "OTHFEE.MTN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11775,7 +11769,7 @@
       "code": "OTHFEE.NDC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11785,7 +11779,7 @@
       "code": "OTHFEE.NOTICE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11795,7 +11789,7 @@
       "code": "OTHFEE.PENALT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11805,7 +11799,7 @@
       "code": "OTHFEE.OTH_SHOW_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11815,7 +11809,7 @@
       "code": "OTHFEE.PARK_ELEC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11825,7 +11819,7 @@
       "code": "OTHFEE.PLASTIC_CHALLAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11835,7 +11829,7 @@
       "code": "OTHFEE.REG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11845,7 +11839,7 @@
       "code": "OTHFEE.REGL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11855,7 +11849,7 @@
       "code": "OTHFEE.REHRI_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11865,7 +11859,7 @@
       "code": "OTHFEE.RD_SHOW_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11875,7 +11869,7 @@
       "code": "OTHFEE.RTI_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11885,7 +11879,7 @@
       "code": "OTHFEE.SLGHT_HS_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11895,7 +11889,7 @@
       "code": "OTHFEE.TEHBAZZZRI_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11905,7 +11899,7 @@
       "code": "OTHFEE.TNDR_FRM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11915,7 +11909,7 @@
       "code": "OTHFEE.TL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11925,7 +11919,7 @@
       "code": "OTHFEE.TREE_AUC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11935,7 +11929,7 @@
       "code": "OTHFEE.TR_ASS_TAX_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11945,7 +11939,7 @@
       "code": "OTHFEE.WF_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11955,10 +11949,9 @@
       "code": "OTHFEE.WATER_CHRG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
-    
     {
       "category": "DEPOSIT",
       "service": "OTH.CESS",
@@ -11966,7 +11959,7 @@
       "code": "OTH.CESS_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11976,7 +11969,7 @@
       "code": "OTH.DEP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11986,7 +11979,7 @@
       "code": "OTH.INC_CLM_REV_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -11996,7 +11989,7 @@
       "code": "OTH.PRFT_DIS_FA_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12006,7 +11999,7 @@
       "code": "OTH.RCV_EMP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12016,7 +12009,7 @@
       "code": "RENT.COM_CEN_BK_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12026,7 +12019,7 @@
       "code": "RENT.EREC_POL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12036,7 +12029,7 @@
       "code": "RENT.EXB_CIRC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12046,7 +12039,7 @@
       "code": "RENT.CANTT_FUND_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12056,7 +12049,7 @@
       "code": "RENT.CA_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12066,7 +12059,7 @@
       "code": "RENT.GH_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12076,7 +12069,7 @@
       "code": "RENT.OFF_BLDG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12086,7 +12079,7 @@
       "code": "RENT.REMIS_REFND_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12096,7 +12089,7 @@
       "code": "RENT.ST_VEN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12106,7 +12099,7 @@
       "code": "RENT.TEL_TW_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12116,7 +12109,7 @@
       "code": "RENT.TEMP_STALL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12126,7 +12119,7 @@
       "code": "RENT.ULB_LEASE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12136,7 +12129,7 @@
       "code": "RENT.ULB_PATTA_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12146,7 +12139,7 @@
       "code": "RENT.ULB_NAZOOL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12156,7 +12149,7 @@
       "code": "RENT.ULB_SHP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12166,7 +12159,7 @@
       "code": "RENT.ULB_LIC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12176,7 +12169,7 @@
       "code": "SALE.AUC_TREE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12186,7 +12179,7 @@
       "code": "SALE.FRM_PUB_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12196,7 +12189,7 @@
       "code": "SALE.PROD_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12206,7 +12199,7 @@
       "code": "SALE.STR_SCRP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12216,7 +12209,7 @@
       "code": "SRVC.CHQ_BNC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12226,7 +12219,7 @@
       "code": "SRVC.APP_ADM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12236,7 +12229,7 @@
       "code": "SRVC.APP_CONSER_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12246,7 +12239,7 @@
       "code": "SRVC.APP_ELEC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12256,7 +12249,7 @@
       "code": "SRVC.APP_PWD_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12266,7 +12259,7 @@
       "code": "SRVC.APP_ENGTP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12276,7 +12269,7 @@
       "code": "SRVC.APP_HOSP_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12286,7 +12279,7 @@
       "code": "SRVC.APP_RD_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12296,7 +12289,7 @@
       "code": "SRVC.APP_STR_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12306,7 +12299,7 @@
       "code": "SRVC.APP_TAX_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12316,7 +12309,7 @@
       "code": "SRVC.APP_WATER_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12326,7 +12319,7 @@
       "code": "SRVC.SRVC_CHRG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12336,7 +12329,7 @@
       "code": "TX.ADVT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12346,7 +12339,7 @@
       "code": "TX.CONS_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12356,7 +12349,7 @@
       "code": "TX.PROF_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12366,7 +12359,7 @@
       "code": "TX.SANT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12376,7 +12369,7 @@
       "code": "TX.TOLL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12386,7 +12379,7 @@
       "code": "UC.BUR_GRND_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12396,7 +12389,7 @@
       "code": "UC.NEW_WATER_CONC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12406,7 +12399,7 @@
       "code": "UC.CHNG_WATER_CONC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12416,7 +12409,7 @@
       "code": "UC.COST_FEED_AN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12426,7 +12419,7 @@
       "code": "UC.CREMAT_CHRG_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12436,7 +12429,7 @@
       "code": "UC.EDU_CESS_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12446,7 +12439,7 @@
       "code": "UC.FNRL_VAN_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12456,7 +12449,7 @@
       "code": "UC.GRBG_COLL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12466,7 +12459,7 @@
       "code": "UC.LIB_MEM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12476,7 +12469,7 @@
       "code": "UC.MTRL_STACK_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12486,7 +12479,7 @@
       "code": "UC.PU_TLT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12496,7 +12489,7 @@
       "code": "UC.PERM_BORE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12506,7 +12499,7 @@
       "code": "UC.PROCES_FEE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12516,7 +12509,7 @@
       "code": "UC.PUB_FEE_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12526,7 +12519,7 @@
       "code": "UC.MOB_TLT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12536,7 +12529,7 @@
       "code": "UC.RD_CUTT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12546,7 +12539,7 @@
       "code": "UC.SEP_TNK_CLR_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12556,7 +12549,7 @@
       "code": "UC.WATER_TNK_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12566,7 +12559,7 @@
       "code": "TX.PROPTY_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12576,7 +12569,7 @@
       "code": "TX.PROPTY_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
@@ -12586,7 +12579,7 @@
       "code": "TX.PROPTY_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
     {
@@ -12596,7 +12589,7 @@
       "code": "TX.PROPTY_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
     {
@@ -12616,10 +12609,10 @@
       "code": "OTHFEE.TRADE_LIC_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHFEE.TRADE_LIC",
       "name": "OTHFEE.TRADE_LIC_TAX",
@@ -12629,35 +12622,34 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHFEE.TRADE_LIC",
+      "service": "OTHFEE.TRADE_LIC",
       "name": "OTHFEE.TRADE_LIC_CGST",
       "code": "OTHFEE.TRADE_LIC_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHFEE.TRADE_LIC",
+      "service": "OTHFEE.TRADE_LIC",
       "name": "OTHFEE.TRADE_LIC_SGST",
       "code": "OTHFEE.TRADE_LIC_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHFEE.TRADE_LIC",
       "name": "OTHFEE.TRADE_LIC_SEC_DEP",
       "code": "OTHFEE.TRADE_LIC_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12667,10 +12659,10 @@
       "code": "OTHERS.CESS_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_TAX",
@@ -12680,38 +12672,36 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHERS.CESS",
+      "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_CGST",
       "code": "OTHERS.CESS_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHERS.CESS",
+      "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_SGST",
       "code": "OTHERS.CESS_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHERS.CESS",
       "name": "OTHERS.CESS_SEC_DEP",
       "code": "OTHERS.CESS_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
-
     {
       "category": "CHARGES",
       "service": "OTHERS.CLAIM",
@@ -12719,10 +12709,10 @@
       "code": "OTHERS.CLAIM_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHERS.CLAIM",
       "name": "OTHERS.CLAIM_TAX",
@@ -12732,39 +12722,36 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHERS.CLAIM",
+      "service": "OTHERS.CLAIM",
       "name": "OTHERS.CLAIM_CGST",
       "code": "OTHERS.CLAIM_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHERS.CLAIM",
+      "service": "OTHERS.CLAIM",
       "name": "OTHERS.CLAIM_SGST",
       "code": "OTHERS.CLAIM_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHERS.CLAIM",
       "name": "OTHERS.CLAIM_SEC_DEP",
       "code": "OTHERS.CLAIM_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
-  
-
     {
       "category": "CHARGES",
       "service": "OTHERS.DISPOSAL",
@@ -12772,10 +12759,10 @@
       "code": "OTHERS.DISPOSAL_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_TAX",
@@ -12785,35 +12772,34 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHERS.DISPOSAL",
+      "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_CGST",
       "code": "OTHERS.DISPOSAL_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHERS.DISPOSAL",
+      "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_SGST",
       "code": "OTHERS.DISPOSAL_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHERS.DISPOSAL",
       "name": "OTHERS.DISPOSAL_SEC_DEP",
       "code": "OTHERS.DISPOSAL_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12823,10 +12809,10 @@
       "code": "OTHERS.RECOVERY_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHERS.RECOVERY",
       "name": "OTHERS.RECOVERY_TAX",
@@ -12836,35 +12822,34 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHERS.RECOVERY",
+      "service": "OTHERS.RECOVERY",
       "name": "OTHERS.RECOVERY_CGST",
       "code": "OTHERS.RECOVERY_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHERS.RECOVERY",
+      "service": "OTHERS.RECOVERY",
       "name": "OTHERS.RECOVERY_SGST",
       "code": "OTHERS.RECOVERY_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHERS.RECOVERY",
       "name": "OTHERS.RECOVERY_SEC_DEP",
       "code": "OTHERS.RECOVERY_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12874,10 +12859,10 @@
       "code": "OTHFEE.PARKING_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHFEE.PARKING",
       "name": "OTHFEE.PARKING_TAX",
@@ -12887,35 +12872,34 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHFEE.PARKING",
+      "service": "OTHFEE.PARKING",
       "name": "OTHFEE.PARKING_CGST",
       "code": "OTHFEE.PARKING_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHFEE.PARKING",
+      "service": "OTHFEE.PARKING",
       "name": "OTHFEE.PARKING_SGST",
       "code": "OTHFEE.PARKING_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHFEE.PARKING",
       "name": "OTHFEE.PARKING_SEC_DEP",
       "code": "OTHFEE.PARKING_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     },
     {
@@ -12925,10 +12909,10 @@
       "code": "OTHERS.DEPOSIT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "2",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHERS.DEPOSIT",
       "name": "OTHERS.DEPOSIT_TAX",
@@ -12938,35 +12922,34 @@
       "order": "1",
       "isRequired": true
     },
-	{
+    {
       "category": "TAX",
-     "service": "OTHERS.DEPOSIT",
+      "service": "OTHERS.DEPOSIT",
       "name": "OTHERS.DEPOSIT_CGST",
       "code": "OTHERS.DEPOSIT_CGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "3",
       "isRequired": false
     },
     {
       "category": "TAX",
-       "service": "OTHERS.DEPOSIT",
+      "service": "OTHERS.DEPOSIT",
       "name": "OTHERS.DEPOSIT_SGST",
       "code": "OTHERS.DEPOSIT_SGST",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "4",
       "isRequired": false
     },
-	
-	{
+    {
       "category": "DEPOSIT",
       "service": "OTHERS.DEPOSIT",
       "name": "OTHERS.DEPOSIT_SEC_DEP",
       "code": "OTHERS.DEPOSIT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
-      "order": "0",
+      "order": "5",
       "isRequired": false
     }
   ]
