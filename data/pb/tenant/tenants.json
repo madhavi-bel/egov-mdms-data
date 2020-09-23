@@ -223,7 +223,7 @@
         "name": "Testing",
         "localName": "Testing Cantt",
         "districtCode": "507",
-        "districtName": "Hyderabad",
+        "districtName": "Testing",
         "regionName": "Southern Command",
         "ulbGrade": "Cantonment Board",
         "longitude": 78.498276,
@@ -234,10 +234,11 @@
         "regionCode": "7",
         "municipalityName": "Testing Cantonment Board"
       },
-      "address": "Office of the Cantonment Board Testing, Court Compound, SP Road, Telangana 500003",
+      "address": "Office of the Cantonment Board Testing, Court Compound, SP Road, Test 500003",
       "contactNumber": "040-27808600",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
-    }  
+      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Testing.pdf"
+    }
+    
 
   ]
 }
