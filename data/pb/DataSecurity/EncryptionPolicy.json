@@ -5,7 +5,10 @@
       {
         "key" : "User",
         "attributeList" : [
-          
+          {
+            "jsonPath" : "name",
+            "type" : "Normal"
+          },
           {
             "jsonPath" : "mobileNumber",
             "type" : "Normal"
@@ -55,7 +58,10 @@
             "jsonPath" : "userName",
             "type" : "Normal"
           },
-          
+          {
+            "jsonPath" : "name",
+            "type" : "Normal"
+          },
           {
             "jsonPath" : "mobileNumber",
             "type" : "Normal"
