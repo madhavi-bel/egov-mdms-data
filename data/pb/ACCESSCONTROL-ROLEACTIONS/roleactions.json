@@ -10508,6 +10508,12 @@
       "actionid": 1805,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5042,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

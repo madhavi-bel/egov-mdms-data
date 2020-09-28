@@ -16856,6 +16856,18 @@
       "serviceCode": "RainmakerPGRReports",
       "code": "null",
       "path": "PGR Report"
+    },
+    {
+      "id": 5042,
+      "name": "eChallan search",
+      "url": "/echallan-services/eChallan/v1/_search",
+      "parentModule": "",
+      "displayName": "Search Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
     }
   ]
 }
