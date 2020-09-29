@@ -14662,7 +14662,7 @@
     {
       "id": 1834,
       "name": "Pdf Generator create",
-      "url": "/filestore/v1/pdfData/_create",  
+      "url": "/pdf-service/v1/_create",
       "displayName": "Pdf Generator create",
       "orderNumber": 1,
       "enabled": false,
