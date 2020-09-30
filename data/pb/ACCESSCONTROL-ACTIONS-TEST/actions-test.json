@@ -16868,6 +16868,121 @@
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1980,
+      "name": "consolidatedreceipt search",
+      "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
+      "displayName": "consolidatedreceipt search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1981,
+      "name": "tlreceipt search",
+      "url": "/egov-pdf/download/TL/tlreceipt",
+      "displayName": "tlreceipt search",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1982,
+      "name": "tlcertificate search",
+      "url": "/egov-pdf/download/TL/tlcertificate",
+      "displayName": "tlcertificate search",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1983,
+      "name": "tlrenewalcertificate search",
+      "url": "/egov-pdf/download/TL/tlrenewalcertificate",
+      "displayName": "tlrenewalcertificate search",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1984,
+      "name": "ptmutationcertificate search",
+      "url": "/egov-pdf/download/PT/ptmutationcertificate",
+      "displayName": "ptmutationcertificate search",
+      "orderNumber": 7,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1985,
+      "name": "ptbill search",
+      "url": "/egov-pdf/download/PT/ptbill",
+      "displayName": "ptbill search",
+      "orderNumber": 8,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1986,
+      "name": "ptreceipt search",
+      "url": "/egov-pdf/download/PT/ptreceipt",
+      "displayName": "ptreceipt search",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1987,
+      "name": "ptreceipt search",
+      "url": "/egov-pdf/download/UC/mcollect-challan",
+      "displayName": "ptreceipt search",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1988,
+      "name": "ptreceipt search",
+      "url": "/egov-pdf/download/UC/mcollect-bill",
+      "displayName": "ptreceipt search",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1989,
+      "name": "ptreceipt search",
+      "url": "/egov-pdf/download/TL/tradelicense-appl-receipt",
+      "displayName": "ptreceipt search",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
   ]
 }
