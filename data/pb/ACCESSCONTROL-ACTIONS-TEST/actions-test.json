@@ -16983,6 +16983,18 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5043,
+      "name": "eChallan update",
+      "url": "/echallan-services/eChallan/v1/_update",
+      "parentModule": "",
+      "displayName": "Update Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
     }
   ]
 }
