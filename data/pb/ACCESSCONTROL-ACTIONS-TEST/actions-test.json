@@ -16995,6 +16995,17 @@
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 5044,
+      "name": "Locality searcher endpoint for TL",
+      "url": "/egov-searcher/rainmaker-pt-customsearch-punjab/searchLocalitiesUsedInRevenue/_get",
+      "displayName": "TL locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }
