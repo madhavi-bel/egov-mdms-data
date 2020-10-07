@@ -17006,6 +17006,21 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 5045,
+      "name": "UniversalCollectionSearch",
+      "url": "url",
+      "displayName": "Search",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/search",
+      "path": "UC.Search",
+      "leftIcon": "places:business-center"
+    }
+
   ]
 }
