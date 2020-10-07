@@ -17011,15 +17011,29 @@
       "id": 5045,
       "name": "UniversalCollectionSearch",
       "url": "url",
-      "displayName": "Search",
+      "displayName": "Challan Search",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/search",
+      "navigationURL": "uc/searchChallan",
       "path": "UC.Search",
       "leftIcon": "places:business-center"
+    },
+    {
+      "id": 5046,
+      "name": "rainmaker-uc-collection",
+      "url": "url",
+      "displayName": "Universal Collection",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "",
+      "navigationURL": "uc/newCollection",
+      "path": "UC.NewCollection",
+      "leftIcon": "image:collections-bookmark"
     }
 
   ]
