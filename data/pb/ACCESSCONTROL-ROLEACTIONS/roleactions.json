@@ -11590,14 +11590,26 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 1895,
+      "rolecode": "WS_CEMP",
+      "actionid": 1966,
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
+{
       "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 1776,
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 1966,
       "actioncode": "",
       "tenantId": "pb"
     }
