@@ -11588,6 +11588,18 @@
       "actionid": 5045,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1776,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
