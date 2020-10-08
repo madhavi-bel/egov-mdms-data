@@ -17046,7 +17046,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Reports.MiscReceiptUnpaidChallan",
-      "navigationURL": "/report/rainmaker-uc/MiscReceiptUnpaidChallan",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptUnpaidChallan",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
