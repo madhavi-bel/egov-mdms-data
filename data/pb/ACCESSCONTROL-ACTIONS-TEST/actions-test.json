@@ -17034,6 +17034,44 @@
       "navigationURL": "uc/newCollection",
       "path": "UC.NewCollection",
       "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 5047,
+      "name": "Unpaid Challan Register",
+      "url": "url",
+      "displayName": "Unpaid Challan Register",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-uc",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Reports.MiscReceiptUnpaidChallan",
+      "navigationURL": "/report/rainmaker-uc/MiscReceiptUnpaidChallan",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 5048,
+      "name": "MiscReceiptUnpaidChallan-Metadata",
+      "url": "/report/rainmaker-uc/MiscReceiptUnpaidChallan/metadata/_get",
+      "displayName": "Rainmaker PGR report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscReceiptUnpaidChallan"
+    },
+    {
+      "id": 5049,
+      "name": "MiscReceiptUnpaidChallan",
+      "url": "/report/rainmaker-uc/MiscReceiptUnpaidChallan/_get",
+      "displayName": "PGR Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscReceiptUnpaidChallan"
     }
 
   ]
