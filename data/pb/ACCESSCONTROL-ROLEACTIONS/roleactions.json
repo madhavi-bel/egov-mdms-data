@@ -11588,6 +11588,48 @@
       "actionid": 5045,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+{
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5047,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5048,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5049,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
