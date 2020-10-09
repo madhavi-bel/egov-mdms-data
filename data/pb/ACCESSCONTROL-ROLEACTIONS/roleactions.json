@@ -8662,12 +8662,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 705,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 591,
       "actioncode": "",
       "tenantId": "pb"
@@ -9473,18 +9467,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1864,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1863,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 704,
       "actioncode": "",
       "tenantId": "pb"
     },
