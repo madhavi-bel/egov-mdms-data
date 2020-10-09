@@ -2070,6 +2070,28 @@
       "isCitizen": true,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "WS.ONE_TIME_FEE",
+      "code": "WS.ONE_TIME_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "SW.ONE_TIME_FEE",
+      "code": "SW.ONE_TIME_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
