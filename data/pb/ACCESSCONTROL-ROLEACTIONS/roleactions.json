@@ -11630,6 +11630,18 @@
       "actionid": 5049,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
