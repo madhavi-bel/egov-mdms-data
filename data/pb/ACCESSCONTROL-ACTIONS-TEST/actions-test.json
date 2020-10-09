@@ -16976,7 +16976,7 @@
     {
       "id": 1989,
       "name": "ptreceipt search",
-      "url": "/egov-pdf/download/TL/tradelicense-appl-receipt",
+      "url": "/egov-pdf/download/TL/tl-appl-receipt",
       "displayName": "ptreceipt search",
       "orderNumber": 9,
       "enabled": false,
