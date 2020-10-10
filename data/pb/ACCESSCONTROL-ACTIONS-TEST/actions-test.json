@@ -16870,7 +16870,7 @@
       "path": ""
     },
     {
-      "id": 1980,
+      "id": 1991,
       "name": "consolidatedreceipt search",
       "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
       "displayName": "consolidatedreceipt search",
@@ -16882,7 +16882,7 @@
     },
 
     {
-      "id": 1981,
+      "id": 1993,
       "name": "tlreceipt search",
       "url": "/egov-pdf/download/TL/tlreceipt",
       "displayName": "tlreceipt search",
@@ -16894,7 +16894,7 @@
     },
 
     {
-      "id": 1982,
+      "id": 1994,
       "name": "tlcertificate search",
       "url": "/egov-pdf/download/TL/tlcertificate",
       "displayName": "tlcertificate search",
@@ -16906,7 +16906,7 @@
     },
 
     {
-      "id": 1983,
+      "id": 1995,
       "name": "tlrenewalcertificate search",
       "url": "/egov-pdf/download/TL/tlrenewalcertificate",
       "displayName": "tlrenewalcertificate search",
@@ -16918,7 +16918,7 @@
     },
 
     {
-      "id": 1984,
+      "id": 1997,
       "name": "ptmutationcertificate search",
       "url": "/egov-pdf/download/PT/ptmutationcertificate",
       "displayName": "ptmutationcertificate search",
@@ -16930,7 +16930,7 @@
     },
 
     {
-      "id": 1985,
+      "id": 1998,
       "name": "ptbill search",
       "url": "/egov-pdf/download/PT/ptbill",
       "displayName": "ptbill search",
@@ -16941,7 +16941,7 @@
       "path": ""
     },
     {
-      "id": 1986,
+      "id": 1999,
       "name": "ptreceipt search",
       "url": "/egov-pdf/download/PT/ptreceipt",
       "displayName": "ptreceipt search",
@@ -16952,10 +16952,10 @@
       "path": ""
     },
     {
-      "id": 1987,
-      "name": "ptreceipt search",
+      "id": 5050,
+      "name": "mchallan search",
       "url": "/egov-pdf/download/UC/mcollect-challan",
-      "displayName": "ptreceipt search",
+      "displayName": "mchallan search",
       "orderNumber": 9,
       "enabled": false,
       "serviceCode": "egov-pdf",
@@ -16963,10 +16963,10 @@
       "path": ""
     },
     {
-      "id": 1988,
-      "name": "ptreceipt search",
+      "id": 5051,
+      "name": "mbill search",
       "url": "/egov-pdf/download/UC/mcollect-bill",
-      "displayName": "ptreceipt search",
+      "displayName": "mbill search",
       "orderNumber": 9,
       "enabled": false,
       "serviceCode": "egov-pdf",
@@ -16974,10 +16974,10 @@
       "path": ""
     },
     {
-      "id": 1989,
-      "name": "ptreceipt search",
+      "id": 5052,
+      "name": "tlappreceipt search",
       "url": "/egov-pdf/download/TL/tl-appl-receipt",
-      "displayName": "ptreceipt search",
+      "displayName": "tlappreceipt search",
       "orderNumber": 9,
       "enabled": false,
       "serviceCode": "egov-pdf",
