@@ -11654,6 +11654,12 @@
       "actionid": 1987,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1834,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
