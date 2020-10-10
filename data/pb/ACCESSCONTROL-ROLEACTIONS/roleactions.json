@@ -7269,66 +7269,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1991,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1993,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1994,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1995,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1997,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1998,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1999,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5050,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5051,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 5052,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "STADMIN",
       "actionid": 5021,
       "actioncode": "",
@@ -8321,60 +8261,6 @@
     {
       "rolecode": "DGDE",
       "actionid": 1904,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1991,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1993,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1994,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1995,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1997,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1998,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 1999,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 5051,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 5052,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -11766,6 +11652,12 @@
     {
       "rolecode": "TL_APPROVER",
       "actionid": 1834,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5051,
       "actioncode": "",
       "tenantId": "pb"
     }
