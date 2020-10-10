@@ -16374,7 +16374,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "navigationURL": "uc/newCollection",
+      "navigationURL": "uc/searchChallan",
       "path": "",
       "leftIcon": "image:collections-bookmark"
     },
