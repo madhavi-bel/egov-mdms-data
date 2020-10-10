@@ -14251,7 +14251,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "uc/newCollection",
+      "navigationURL": "uc/searchChallan",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -17006,20 +17006,6 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 5045,
-      "name": "UniversalCollectionSearch",
-      "url": "url",
-      "displayName": "Challan Search",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "UC",
-      "code": "null",
-      "navigationURL": "uc/searchChallan",
-      "path": "UC.Search",
-      "leftIcon": "places:business-center"
     },
     {
       "id": 5046,
