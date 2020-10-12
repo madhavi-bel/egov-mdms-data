@@ -15282,7 +15282,7 @@
       "name": "rainmaker-citizen-wns",
       "url": "url",
       "displayName": "Water & Sewerage",
-      "orderNumber": 13,
+      "orderNumber": 6,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "wns",
