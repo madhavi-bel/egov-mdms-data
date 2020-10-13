@@ -36,7 +36,11 @@
       "tenant": "pb",
       "code": "UC",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/MCollectServiceCategory.pdf"
+    },
+    {
+      "tenant": "pb.almora",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/almora/TradeTypeSubtypeDetails_Almora.pdf"
     }
-    
   ]
 }

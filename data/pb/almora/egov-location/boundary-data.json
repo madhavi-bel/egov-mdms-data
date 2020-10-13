@@ -1,0 +1,311 @@
+{
+  "tenantId": "pb.almora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Almora",
+        "localname": "Almora",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.almora",
+        "children": [
+          {
+            "id": "144256c6-9d17-425a-8525-495ca33cf6d7",
+            "boundaryNum": 1,
+            "name": "Zone",
+            "localname": "Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "c65d8f95-d99b-49aa-8a26-8336181275ca",
+                "boundaryNum": 1,
+                "name": "Ward-1",
+                "localname": "Ward-1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800326",
+                "children": [
+                  {
+                    "id": "795a7300-971d-4d46-b3c9-fbb8e9c76b69",
+                    "boundaryNum": 1,
+                    "name": "Maurya Gate - Ward-1 - Z001",
+                    "localname": "Maurya Gate - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "57fd9b4f-3d05-4e63-8dbb-d086754a9030",
+                    "boundaryNum": 1,
+                    "name": "Devdar Hotel - Ward-1 - Z001",
+                    "localname": "Devdar Hotel - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b99ee211-a30a-4383-a122-5e80dce43a87",
+                    "boundaryNum": 1,
+                    "name": "Summer House - Ward-1 - Z001",
+                    "localname": "Summer House - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9e07bdd3-4c02-4a47-afe5-f1ae985a1aa4",
+                    "boundaryNum": 1,
+                    "name": "Beckett House - Ward-1 - Z001",
+                    "localname": "Beckett House - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d90f3b40-836c-4a5f-a5e3-5c44f5af56fd",
+                    "boundaryNum": 1,
+                    "name": "Thapa Niwas - Ward-1 - Z001",
+                    "localname": "Thapa Niwas - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a26b0120-1aee-4da8-a39a-46d162ca7939",
+                    "boundaryNum": 1,
+                    "name": "Family Depot - Ward-1 - Z001",
+                    "localname": "Family Depot - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC06",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "735b29cb-aab1-4e46-ac45-45deb7355543",
+                    "boundaryNum": 1,
+                    "name": "Alexendra Line - Ward-1 - Z001",
+                    "localname": "Alexendra Line - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC07",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4f224a25-d846-4152-ac3b-dad4051037fd",
+                    "boundaryNum": 1,
+                    "name": "Cattle Pound - Ward-1 - Z001",
+                    "localname": "Cattle Pound - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC08",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "581bcd1f-d911-4d24-8642-842f1d3d22d1",
+                    "boundaryNum": 1,
+                    "name": "MES Quarters - Ward-1 - Z001",
+                    "localname": "MES Quarters - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC09",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "75af2104-275d-4aab-9233-e566d30c19aa",
+                    "boundaryNum": 1,
+                    "name": "Forest Chowki - Ward-1 - Z001",
+                    "localname": "Forest Chowki - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b8edccab-e7bc-46bc-a6fa-3d363659dbd0",
+                    "boundaryNum": 1,
+                    "name": "Vivekanand  Parisar - Ward-1 - Z001",
+                    "localname": "Vivekanand  Parisar - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4f7fcf31-0b65-4e0c-83aa-186db65f4c8e",
+                    "boundaryNum": 1,
+                    "name": "Baroj - Ward-1 - Z001",
+                    "localname": "Baroj - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "de44d516-9117-4ff7-bddd-e1809ee153a9",
+                    "boundaryNum": 1,
+                    "name": "Brighten lodge - Ward-1 - Z001",
+                    "localname": "Brighten lodge - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ea3c71ab-e7c8-47f3-be93-a270ecf53dbe",
+                    "boundaryNum": 1,
+                    "name": "Thomas House - Ward-1 - Z001",
+                    "localname": "Thomas House - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a0860e26-5baf-459f-9d7c-5834b621a9da",
+                    "boundaryNum": 1,
+                    "name": "Almora House - Ward-1 - Z001",
+                    "localname": "Almora House - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6f36dd8a-8c50-4c2c-a4ff-994f2518a1cd",
+                    "boundaryNum": 1,
+                    "name": "Cantt. Staff Quarter - Ward-1 - Z001",
+                    "localname": "Cantt. Staff Quarter - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "78caab90-219b-487b-b5ff-449f535a9fa2",
+                    "boundaryNum": 1,
+                    "name": "New Safaiwala Line - Ward-1 - Z001",
+                    "localname": "New Safaiwala Line - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3c0ec12c-1ca6-47da-8d92-abd63563cb2b",
+                    "boundaryNum": 1,
+                    "name": "Takiya Compound - Ward-1 - Z001",
+                    "localname": "Takiya Compound - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f56eb527-fb0d-4d44-b0db-329d1f22d178",
+                    "boundaryNum": 1,
+                    "name": "The-Deodar Bungalow - Ward-1 - Z001",
+                    "localname": "The-Deodar Bungalow - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7c0f0c4b-dcee-45c4-a0f9-9de1e83709f5",
+                    "boundaryNum": 1,
+                    "name": "Circuit House Staff quarters - Ward-1 - Z001",
+                    "localname": "Circuit House Staff quarters - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "543fbc8c-7584-41dc-a934-2068d66d7f46",
+                    "boundaryNum": 1,
+                    "name": "Summer Lease - Ward-1 - Z001",
+                    "localname": "Summer Lease - Ward-1 - Z001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "126c76a2-b49e-4bf9-80a8-c95392eb91fb",
+                "boundaryNum": 1,
+                "name": "Ward-2",
+                "localname": "Ward-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800327",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
