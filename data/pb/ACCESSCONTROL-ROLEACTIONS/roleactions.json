@@ -11876,6 +11876,12 @@
       "actionid": 2001,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
