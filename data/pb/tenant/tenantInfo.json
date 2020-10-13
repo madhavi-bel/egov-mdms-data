@@ -8,7 +8,10 @@
       "population": "53137",
       "malePopulation": "",
       "femalePopultion": "",
-      "languagesSpoken": ["HN","EN"]
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     },
     {
       "code": "pb.delhi",
@@ -16,7 +19,10 @@
       "population": "110351",
       "malePopulation": "",
       "femalePopultion": "",
-      "languagesSpoken": ["HN","EN"]
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     },
     {
       "code": "pb.lucknow",
@@ -24,7 +30,10 @@
       "population": "63003",
       "malePopulation": "",
       "femalePopultion": "",
-      "languagesSpoken": ["HN","EN"]
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     },
     {
       "code": "pb.pune",
@@ -32,7 +41,11 @@
       "population": "71831",
       "malePopulation": "",
       "femalePopultion": "",
-      "languagesSpoken": ["HN","EN","MA"]
+      "languagesSpoken": [
+        "HN",
+        "EN",
+        "MA"
+      ]
     },
     {
       "code": "pb.secunderabad",
@@ -40,7 +53,11 @@
       "population": "217910",
       "malePopulation": "",
       "femalePopultion": "",
-      "languagesSpoken": ["HN","EN","TE"]
+      "languagesSpoken": [
+        "HN",
+        "EN",
+        "TE"
+      ]
     },
     {
       "code": "pb.testing",
@@ -48,8 +65,21 @@
       "population": "217910",
       "malePopulation": "",
       "femalePopultion": "",
-      "languagesSpoken": ["HN","EN","TE"]
+      "languagesSpoken": [
+        "HN",
+        "EN",
+        "TE"
+      ]
+    },
+    {
+      "code": "pb.almora",
+      "districtCode": "Almora",
+      "population": "1391",
+      "malePopulation": "948",
+      "femalePopultion": "443",
+      "languagesSpoken": [
+        "HI"
+      ]
     }
-  
   ]
 }

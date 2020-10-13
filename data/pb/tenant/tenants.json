@@ -14,9 +14,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "ceoagra-stats@nic.in",
-      "OfficeTimings": {
-        
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Agra",
         "localName": "Agra Cantt",
@@ -25,17 +23,17 @@
         "regionName": "Central Command",
         "ulbGrade": "Cantonment Board",
         "longitude": 77.990784,
-        "latitude":  27.15894,
+        "latitude": 27.15894,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "277255",
         "regionCode": "4",
         "municipalityName": "Agra Cantonment Board",
-        "population":"53137"
+        "population": "53137"
       },
       "address": "Office of Cantt. Board Agra 114- Fatehpur Sikri Road, Agra Cantt. – 282001 Uttar Pradesh",
       "contactNumber": "0562-2227379",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Agra.pdf"
+      "TLhelpUrl": "https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Agra.pdf"
     },
     {
       "code": "pb.delhi",
@@ -47,10 +45,9 @@
       "domainUrl": "https://cbdelhi.in/",
       "type": "CITY",
       "twitterUrl": "https://twitter.com/ceo_delhi",
-      "facebookUrl":" https://web.facebook.com/Delhi-Cantonment-Board-1631341707194108/?skip_nax_wizard=true",
+      "facebookUrl": " https://web.facebook.com/Delhi-Cantonment-Board-1631341707194108/?skip_nax_wizard=true",
       "emailId": "ceodelh-stats@nic.in",
-      "OfficeTimings": {
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Delhi",
         "localName": "Delhi Cantt",
@@ -65,11 +62,11 @@
         "code": "276403",
         "regionCode": "5",
         "municipalityName": "Delhi Cantonment Board",
-        "population":"110351"
+        "population": "110351"
       },
       "address": "Office of Cantonment Board Delhi, Sadar Bazar, Delhi Cantt-10 Pin Code- 110010",
       "contactNumber": "011- 25693837,25695450 (Ext.)",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Delhi.pdf"
+      "TLhelpUrl": "https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Delhi.pdf"
     },
     {
       "code": "pb",
@@ -82,9 +79,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": null,
-      "OfficeTimings": {
-        
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Delhi",
         "localName": null,
@@ -97,7 +92,6 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "276403"
-         
       },
       "address": "Directorate General Defence Estates, Raksha Sampada Bhawan, Ulaan Baatar Marg,Delhi Cantt - 110 010.",
       "contactNumber": "011-25674981"
@@ -114,8 +108,7 @@
       "twitterUrl": "https://twitter.com/cblucknow",
       "facebookUrl": "https://www.facebook.com/Lucknow-Cantonment-Board-409601926156503/",
       "emailId": "ceoluck-stats@nic.in",
-      "OfficeTimings": {
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Lucknow",
         "localName": "Lucknow Cantt",
@@ -130,11 +123,11 @@
         "code": "277269",
         "regionCode": "4",
         "municipalityName": "Lucknow Cantonment Board",
-        "population":"63003"
+        "population": "63003"
       },
       "address": "Office of the Cantonment Board Lucknow 31, Nehru Road, Lucknow Cantt Dist- Lucknow ,Uttar Pradesh Pin Code- 226002",
       "contactNumber": "0522-2480037(O) 0522-2480610(F)",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Lucknow.pdf"
+      "TLhelpUrl": "https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Lucknow.pdf"
     },
     {
       "code": "pb.pune",
@@ -148,8 +141,7 @@
       "twitterUrl": "https://twitter.com/ceo_pune",
       "facebookUrl": null,
       "emailId": "ceopune-stats@nic.in",
-      "OfficeTimings": {
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Pune",
         "localName": "Pune Cantt",
@@ -164,17 +156,17 @@
         "code": "277298",
         "regionCode": "7",
         "municipalityName": "Pune Cantonment Board",
-        "population":"71831"
+        "population": "71831"
       },
       "address": "Office of the Cantonment Board Pune, Golibar Maidan, Pune Solpaur Road Pune 411001",
       "contactNumber": "020-26452159",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
+      "TLhelpUrl": "https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Pune.pdf"
     },
     {
       "code": "pb.secunderabad",
       "name": "Cantonment Board Secunderabad",
       "description": "Secunderabad",
-      "logoId":  "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
       "logoIdPdf": "scb.png",
       "imageId": null,
       "domainUrl": "scb.gov.in",
@@ -182,9 +174,7 @@
       "twitterUrl": "https://twitter.com/secbadcantt",
       "facebookUrl": null,
       "emailId": "ceo.scb2009@gmail.com",
-      "OfficeTimings": {
-        
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Secunderabad",
         "localName": "Secunderabad Cantt",
@@ -193,7 +183,7 @@
         "regionName": "Southern Command",
         "ulbGrade": "Cantonment Board",
         "longitude": 78.498276,
-        "latitude": 17.439930,
+        "latitude": 17.43993,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "248471",
@@ -202,13 +192,13 @@
       },
       "address": "Office of the Cantonment Board Secunderabad, Court Compound, SP Road, Telangana 500003",
       "contactNumber": "040-27808600",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
+      "TLhelpUrl": "https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
     },
     {
       "code": "pb.testing",
       "name": "Cantonment Board Testing",
       "description": "Testing",
-      "logoId":  "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
       "logoIdPdf": "scb.png",
       "imageId": null,
       "domainUrl": "scb.gov.in",
@@ -216,9 +206,7 @@
       "twitterUrl": "https://twitter.com/secbadcantt",
       "facebookUrl": null,
       "emailId": "ceosecu-stats@nic.in",
-      "OfficeTimings": {
-        
-      },
+      "OfficeTimings": {},
       "city": {
         "name": "Testing",
         "localName": "Testing Cantt",
@@ -227,7 +215,7 @@
         "regionName": "Southern Command",
         "ulbGrade": "Cantonment Board",
         "longitude": 78.498276,
-        "latitude": 17.439930,
+        "latitude": 17.43993,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "248471",
@@ -236,8 +224,41 @@
       },
       "address": "Office of the Cantonment Board Testing, Court Compound, SP Road, Telangana 500003",
       "contactNumber": "040-27808600",
-      "TLhelpUrl":"https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
-    }  
-
+      "TLhelpUrl": "https://github.com/belegovgithub/egov-mdms-data/blob/BEL-CB-Impl/data/pb/TLHelp/TradeTypeSubtypeDetails_Secunderabad.pdf"
+    },
+    {
+      "code": "pb.almora",
+      "name": "CB Almora",
+      "description": "Almora",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/almoralogo.png",
+      "logoIdPdf": "almora.png",
+      "imageId": null,
+      "domainUrl": "https://cbalmora.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/almoracantt",
+      "facebookUrl": "https://www.facebook.com/cbalmora",
+      "emailId": "ceoalmo-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Almora",
+        "localName": "Almora Cantt",
+        "districtCode": "45",
+        "districtName": "Almora",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.645381,
+        "latitude": 29.587522,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "263601",
+        "regionCode": "--",
+        "municipalityName": "CB Almora",
+        "population": "1391"
+      },
+      "address": "Office of Cantonment Board,Tagore Bhwan, Almora Cantt-263601",
+      "contactNumber": "Ph No: 05962- 230049"
+    }
   ]
 }
