@@ -14662,7 +14662,7 @@
     {
       "id": 1834,
       "name": "Pdf Generator create",
-      "url": "/pdf-service/v1/_create",
+      "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
       "displayName": "Pdf Generator create",
       "orderNumber": 1,
       "enabled": false,
@@ -16872,7 +16872,7 @@
     {
       "id": 1991,
       "name": "consolidatedreceipt search",
-      "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
+      "url": "/pdf-service/v1/_create",
       "displayName": "consolidatedreceipt search",
       "orderNumber": 1,
       "enabled": false,
