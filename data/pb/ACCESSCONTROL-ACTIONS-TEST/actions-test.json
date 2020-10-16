@@ -17267,6 +17267,36 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5053,
+      "name": "NewChallan",
+      "url": "quickAction",
+      "displayName": "New Challan",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "",
+      "path": "UC",
+      "navigationURL": "uc/newCollection",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 5054,
+      "name": "SearchChallan",
+      "url": "quickAction",
+      "displayName": "Search Challan",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/searchChallan",
+      "path": "",
+      "leftIcon": "places:business-center"
     }
 
   ]
