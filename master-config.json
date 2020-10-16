@@ -808,8 +808,7 @@
       "masterName": "GLCode",
       "isStateLevel": false,
       "uniqueKeys": [
-        "$.code",
-        "$.cb"
+        "$.code" 
       ]
     }
   },
