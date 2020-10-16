@@ -78,8 +78,17 @@
       "malePopulation": "948",
       "femalePopultion": "443",
       "languagesSpoken": [
-        "HI"
+        "HN",
+        "KU"
       ]
+    },
+    {
+      "code": "pb.ahmednagar",
+      "districtCode": "Ahmednagar",
+      "population": "28986",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "languagesSpoken": []
     }
   ]
 }

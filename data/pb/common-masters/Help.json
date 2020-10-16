@@ -41,6 +41,11 @@
       "tenant": "pb.almora",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/almora/TradeTypeSubtypeDetails_Almora.pdf"
+    },
+    {
+      "tenant": "pb.ahmednagar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ahmednagar/TradeTypeSubtypeDetails_Ahmednagar.pdf"
     }
   ]
 }
