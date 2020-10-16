@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.ahmednagar",
-  "moduleName": "mCollect",
-  "BillingService": [
+  "moduleName": "BillingService",
+  "GLCode": [
     [
       {
         "code": "ASSREV.COMP_CONCESSION",

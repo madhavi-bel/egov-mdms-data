@@ -804,9 +804,9 @@
         "$.code"
       ]
     },
-    "ServiceGLCODEMapping": {
-      "masterName": "ServiceGLCODEMapping",
-      "isStateLevel": true,
+    "GLCode": {
+      "masterName": "GLCode",
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code",
         "$.cb"
