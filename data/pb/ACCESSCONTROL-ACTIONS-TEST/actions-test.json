@@ -17278,7 +17278,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "",
-      "path": "UC",
+      "path": "",
       "navigationURL": "uc/newCollection",
       "leftIcon": "places:business-center",
       "rightIcon": "",
