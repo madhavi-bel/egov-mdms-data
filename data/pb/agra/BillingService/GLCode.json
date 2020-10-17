@@ -2,823 +2,875 @@
   "tenantId": "pb.agra",
   "moduleName": "BillingService",
   "GLCode": [
-    [
-      {
-        "code": "ASSREV.COMP_CONCESSION",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "ASSREV.COMP_TAX",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "ASSREV.COMP_TAXOTHER",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "CREDDEP.MNY_DEP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "CREDDEP.CAND_SEC_DEP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "CREDDEP.SEC_DEP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "ENTFEE.MUSEUM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "ENTFEE.PARK",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "ENTFEE.PLYGRND",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "ENTFEE.VEH",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.MDM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.SBM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.INF",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.INT_SB",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.INT_LOAN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.REV_GRNT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.INT_FD",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "GRNTINT.INT_TD",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.APP_FEE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.BETT_CHRG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.BIRTH_REG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.BLD_FEE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.CATT_CHALLAN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.COMP_UNAUTH",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.COMPD_DLYAPP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.COMPD_FEE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.CONSRV",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.CONST_WASTE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.CRT_STMP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DRY_ANML_CHALLAN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DMG_CHRG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DEAD_ANML_CONT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DEATH_REG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DENG_CHALLAN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DEV_CHRG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DISTRAINT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DISTRAINT_TAX",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DRINK_WT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DUMP_GRBG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.EDU",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.ELEC_RLY",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.EMP_REG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.ENCRMNT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.MTN_TR",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.CERT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.DC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.GRNT_PERM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.OD",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.HC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.ISS_BIRTHCERT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.ISS_DEATHCERT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.ISS_SANTICERT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.VOTERLIST",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.RICKSHW",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.LIC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.MED",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.MISC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.MTN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.NDC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.NOTICE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.PENALT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.OTH_SHOW",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.PARK_ELEC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.PLASTIC_CHALLAN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.REG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.REGL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.REHRI",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.RD_SHOW",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.RTI",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.SLGHT_HS",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.TEHBAZZZRI",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.TNDR_FRM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.TREE_AUC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.TR_ASS_TAX",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.WF",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.WATER_CHRG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHFEE.PARKING",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHERS.CESS",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHERS.DEPOSIT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHERS.CLAIM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHERS.DISPOSAL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "OTHERS.RECOVERY",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.COM_CEN_BK",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.EREC_POL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.EXB_CIRC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.CANTT_FUND",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.CA",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.GH",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.OFF_BLDG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.REMIS_REFND",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.ST_VEN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.TEL_TW",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.TEMP_STALL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.ULB_LEASE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.ULB_PATTA",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.ULB_NAZOOL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.ULB_SHP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "RENT.ULB_LIC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SALE.AUC_TREE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SALE.FRM_PUB",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SALE.PROD",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SALE.STR_SCRP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_ADM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_CONSER",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_ELEC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_PWD",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_ENGTP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_HOSP",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_RD",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_STR",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_TAX",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.APP_WATER",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "SRVC.SRVC_CHRG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "TX.ADVT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "TX.CONS",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "TX.PROF",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "TX.SANT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "TX.TOLL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.BUR_GRND",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.NEW_WATER_CONC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.CHNG_WATER_CONC",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.COST_FEED_AN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.CREMAT_CHRG",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.EDU_CESS",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.FNRL_VAN",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.GRBG_COLL",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.LIB_MEM",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.MTRL_STACK",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.PU_TLT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.PERM_BORE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.PROCES_FEE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.PUB_FEE",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.MOB_TLT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.RD_CUTT",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.SEP_TNK_CLR",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      },
-      {
-        "code": "UC.WATER_TNK",
-        "glcode": "1",
-        "dept": "3",
-        "fund": "4"
-      }
-    ]
+    {
+      "code": "ASSREV.COMP_CONCESSION",
+      "glcode": "2201799",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "ASSREV.COMP_TAX",
+      "glcode": "2201191",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "ASSREV.COMP_TAXOTHER",
+      "glcode": "2101199",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "CREDDEP.MNY_DEP",
+      "glcode": "1103611",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "CREDDEP.CAND_SEC_DEP",
+      "glcode": "1301535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "CREDDEP.SEC_DEP",
+      "glcode": "1103621",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "ENTFEE.MUSEUM",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "ENTFEE.PARK",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "ENTFEE.PLYGRND",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "ENTFEE.VEH",
+      "glcode": "2201162",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.MDM",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.SBM",
+      "glcode": "1103219",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.INF",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.INT_SB",
+      "glcode": "1101719",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.INT_LOAN",
+      "glcode": "1104679",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.REV_GRNT",
+      "glcode": "2201412",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.INT_FD",
+      "glcode": "1101711",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "GRNTINT.INT_TD",
+      "glcode": "1101711",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.APP_FEE",
+      "glcode": "3201535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.BETT_CHRG",
+      "glcode": "3201543",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.BIRTH_REG",
+      "glcode": "8301531",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.BLD_FEE",
+      "glcode": "3201541",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CATT_CHALLAN",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.COMP_UNAUTH",
+      "glcode": "3201555",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.COMPD_DLYAPP",
+      "glcode": "3201555",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.COMPD_FEE",
+      "glcode": "3201555",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CONSRV",
+      "glcode": "5401525",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CONST_WASTE",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CRT_STMP",
+      "glcode": "2201539",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DRY_ANML_CHALLAN",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DMG_CHRG",
+      "glcode": "2901554",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DEAD_ANML_CONT",
+      "glcode": "2201313",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DEATH_REG",
+      "glcode": "8301531",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DENG_CHALLAN",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DEV_CHRG",
+      "glcode": "3201541",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DISTRAINT",
+      "glcode": "3201557",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DISTRAINT_TAX",
+      "glcode": "2201557",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DRINK_WT",
+      "glcode": "4201611",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DUMP_GRBG",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.EDU",
+      "glcode": "9101511",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.ELEC_RLY",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.EMP_REG",
+      "glcode": "2201531",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.ENCRMNT",
+      "glcode": "2201513",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.MTN_TR",
+      "glcode": "2201591",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CERT",
+      "glcode": "2201592",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DC",
+      "glcode": "2201592",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.GRNT_PERM",
+      "glcode": "2201621",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.OD",
+      "glcode": "1101559",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.HC",
+      "glcode": "2201221",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.ISS_BIRTHCERT",
+      "glcode": "8301531",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.ISS_DEATHCERT",
+      "glcode": "8301531",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.ISS_SANTICERT",
+      "glcode": "5101529",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.VOTERLIST",
+      "glcode": "1301592",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.RICKSHW",
+      "glcode": "2201532",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.LIC",
+      "glcode": "1101532",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.MED",
+      "glcode": "2201512",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.MISC",
+      "glcode": "2201599",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.MTN",
+      "glcode": "2201591",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.NDC",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.NOTICE",
+      "glcode": "2201553",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.PENALT",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.OTH_SHOW",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.PARK_ELEC",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.PLASTIC_CHALLAN",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.REG",
+      "glcode": "2201531",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.REGL",
+      "glcode": "1301535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.REHRI",
+      "glcode": "1101551",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.RD_SHOW",
+      "glcode": "2201994",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.RTI",
+      "glcode": "2201539",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.SLGHT_HS",
+      "glcode": "6201514",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.TEHBAZZZRI",
+      "glcode": "6101513",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.TNDR_FRM",
+      "glcode": "2201535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "1101537",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.TREE_AUC",
+      "glcode": "2201593",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.TR_ASS_TAX",
+      "glcode": "2201592",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.WF",
+      "glcode": "2201552",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.WATER_CHRG",
+      "glcode": "2201611",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": "2201562",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CESS",
+      "glcode": "1101571",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DEPOSIT_FORT",
+      "glcode": "1103659",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.CLAIM",
+      "glcode": "1103571",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.DISPOSAL",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.RECOVERY",
+      "glcode": "1104653",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.COM_CEN_BK",
+      "glcode": "1101327",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.EREC_POL",
+      "glcode": "2201597",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.EXB_CIRC",
+      "glcode": "2201994",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.CANTT_FUND",
+      "glcode": "2201326",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.CA",
+      "glcode": "2201326",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.GH",
+      "glcode": "7401323",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.OFF_BLDG",
+      "glcode": "2201322",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.REMIS_REFND",
+      "glcode": "1103671",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.ST_VEN",
+      "glcode": "2201513",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.TEL_TW",
+      "glcode": "2201327",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.TEMP_STALL",
+      "glcode": "2201314",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.ULB_LEASE",
+      "glcode": "2201314",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.ULB_PATTA",
+      "glcode": "2201314",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.ULB_NAZOOL",
+      "glcode": "2201314",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.ULB_SHP",
+      "glcode": "2201322",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "RENT.ULB_LIC",
+      "glcode": "2201314",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SALE.AUC_TREE",
+      "glcode": "7301631",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SALE.FRM_PUB",
+      "glcode": "2901631",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SALE.PROD",
+      "glcode": "2201699",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SALE.STR_SCRP",
+      "glcode": "2201631",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.CHQ_BNC",
+      "glcode": "1101579",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_ADM",
+      "glcode": "1101535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_CONSER",
+      "glcode": "5101535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_ELEC",
+      "glcode": "4801535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_PWD",
+      "glcode": "3901535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_ENGTP",
+      "glcode": "3901535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_HOSP",
+      "glcode": "8101535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_RD",
+      "glcode": "2201535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_STR",
+      "glcode": "1801535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_TAX",
+      "glcode": "2101535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.APP_WATER",
+      "glcode": "4201535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "SRVC.SRVC_CHRG",
+      "glcode": "2201231",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "TX.ADVT",
+      "glcode": "2101121",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "TX.CONS",
+      "glcode": "2101113",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "TX.PROF",
+      "glcode": "2101141",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "TX.SANT",
+      "glcode": "2101119",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.BUR_GRND",
+      "glcode": "6401319",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.NEW_WATER_CONC",
+      "glcode": "4201533",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.CHNG_WATER_CONC",
+      "glcode": "4201533",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.COST_FEED_AN",
+      "glcode": "7202913",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.CREMAT_CHRG",
+      "glcode": "2901519",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.EDU_CESS",
+      "glcode": "9101571",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.FNRL_VAN",
+      "glcode": "7501991",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.GRBG_COLL",
+      "glcode": "5401526",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.LIB_MEM",
+      "glcode": "9401535",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.MTRL_STACK",
+      "glcode": "2201515",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.PU_TLT",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.PERM_BORE",
+      "glcode": "4201597",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.PROCES_FEE",
+      "glcode": "1101596",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.PUB_FEE",
+      "glcode": "1101569",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.MOB_TLT",
+      "glcode": "5101525",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.RD_CUTT",
+      "glcode": "3101554",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.SEP_TNK_CLR",
+      "glcode": "5201525",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "UC.WATER_TNK",
+      "glcode": "4201611",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.TRADE_LIC",
+      "glcode": "1101537",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHFEE.PARKING",
+      "glcode": "2201562",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHERS.CESS",
+      "glcode": "1101571",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHERS.DEPOSIT_FORT",
+      "glcode": "1103659",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHERS.CLAIM",
+      "glcode": "1103571",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHERS.DISPOSAL",
+      "glcode": null,
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "OTHERS.RECOVERY",
+      "glcode": "1104653",
+      "dept": null,
+      "fund": null
+    },
+    {
+      "code": "TX.TOLL",
+      "glcode": "2201162",
+      "dept": null,
+      "fund": null
+    }
   ]
 }
