@@ -342,6 +342,21 @@
       "connectionType": "Non Metered",
       "minimumCharge": 350,
       "slabs": []
+    },
+    {
+      "id": "20",
+      "buildingType": "Mixed",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 150
+        }
+      ]
     }
   ]
 }
