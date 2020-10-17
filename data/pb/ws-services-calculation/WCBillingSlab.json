@@ -357,6 +357,51 @@
           "charge": 150
         }
       ]
+    },
+    {
+      "id": "21",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 150
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 150
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 150
+        }
+      ]
     }
   ]
 }
