@@ -360,22 +360,7 @@
     },
     {
       "id": "21",
-      "buildingType": "NONRESIDENTIAL.OTHERS",
-      "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
-      
-      "minimumCharge": 150,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 150
-        }
-      ]
-    },
-    {
-      "id": "21",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "Other Non-Residential",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
       
@@ -390,7 +375,22 @@
     },
     {
       "id": "22",
-      "buildingType": "NONRESIDENTIAL.INDUSTRIAL",
+      "buildingType": "Institutional",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 150
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "buildingType": "Industrial",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
       
