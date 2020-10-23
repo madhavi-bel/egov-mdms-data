@@ -11955,6 +11955,18 @@
       "actionid": 5054,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5055,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 5055,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 	
   ]

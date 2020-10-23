@@ -17297,6 +17297,17 @@
       "navigationURL": "uc/searchChallan",
       "path": "",
       "leftIcon": "places:business-center"
+    },
+    {
+      "id": 5055,
+      "name": "mchallan search",
+      "url": "/egov-pdf/download/UC/mcollect-receipt",
+      "displayName": "mchallan search",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
 
   ]
