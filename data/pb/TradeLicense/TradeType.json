@@ -1840,7 +1840,7 @@
     },
     {
       "code": "TRADE.GENERAL.E29",
-      "uom": "SFT",
+      "uom": "NOS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1876,7 +1876,7 @@
     },
     {
       "code": "TRADE.GENERAL.E30",
-      "uom": "SFT",
+      "uom": "NOS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
