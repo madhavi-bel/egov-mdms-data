@@ -947,7 +947,7 @@
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "RoadType": {
