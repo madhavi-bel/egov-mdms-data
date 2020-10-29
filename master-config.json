@@ -1004,75 +1004,75 @@
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
     },
     "SW_CHARGE": {
       "masterName": "SW_CHARGE",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "SW_TIME_PENALTY": {
       "masterName": "SW_TIME_PENALTY",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
      "SW_Round_Off": {
       "masterName": "SW_Round_Off",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   }
