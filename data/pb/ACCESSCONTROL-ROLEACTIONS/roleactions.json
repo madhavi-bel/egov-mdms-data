@@ -11939,18 +11939,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "DGDE",
-      "actionid": 5058,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 5059,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
     {
       "rolecode": "UC_EMP",
       "actionid": 5053,
@@ -11972,6 +11960,18 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 5055,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5058,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5059,
       "actioncode": "",
       "tenantId": "pb"
     }
