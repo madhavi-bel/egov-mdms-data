@@ -107,20 +107,6 @@
         }
       ],
       "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
-    },
-    {
-      "code": "PROPERTY_TAX_RECIEPT",
-      "documentType": "PROPERTY_TAX_RECIEPT",
-      "active": true,
-      "required": false,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "PROPERTY_TAX_RECIEPT",
-          "active": true
-        }
-      ],
-      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
-    }
+    } 
   ]
 }
