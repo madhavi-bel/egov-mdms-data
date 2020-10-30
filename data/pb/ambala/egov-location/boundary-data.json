@@ -1,0 +1,420 @@
+{
+  "tenantId": "pb.ambala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ambala",
+        "localname": "Ambala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ambala",
+        "children": [
+          {
+            "id": "08d57180-b5b0-4b07-9557-7aaffcdf4512",
+            "boundaryNum": 1,
+            "name": "Ambala Cantt",
+            "localname": "Ambala Cantt",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "471d0f34-bf61-45d5-b938-1015a0ed1feb",
+                "boundaryNum": 1,
+                "name": "WARD No.-0001",
+                "localname": "WARD No.-0001",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0001",
+                "children": [
+                  {
+                    "id": "ff02184b-22c5-4bba-a5c6-dcefed9d0376",
+                    "boundaryNum": 1,
+                    "name": "RHA Parade - WARD No.-0001",
+                    "localname": "RHA Parade - WARD No.-0001",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0001",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "302cc815-248f-4e3e-a4e4-1f2fe03f14ab",
+                "boundaryNum": 1,
+                "name": "WARD No.-0002",
+                "localname": "WARD No.-0002",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0002",
+                "children": [
+                  {
+                    "id": "a955bd5c-e01f-47b9-941d-503b2a837981",
+                    "boundaryNum": 1,
+                    "name": "RHA Bazar - WARD No.-0002",
+                    "localname": "RHA Bazar - WARD No.-0002",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0002",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9fd21b59-740b-44e6-9969-033c669086e2",
+                "boundaryNum": 1,
+                "name": "WARD No.-0003",
+                "localname": "WARD No.-0003",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0003",
+                "children": [
+                  {
+                    "id": "53e7fcdc-9e21-4709-a0c2-26b8752fcc8f",
+                    "boundaryNum": 1,
+                    "name": "Rasala Bazar - WARD No.-0003",
+                    "localname": "Rasala Bazar - WARD No.-0003",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0003",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ba2c4302-e174-4063-b49c-ecadcd742b67",
+                    "boundaryNum": 1,
+                    "name": "PWD Colony - WARD No.-0003",
+                    "localname": "PWD Colony - WARD No.-0003",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0004",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c2092407-a9d8-401d-b99b-ee77aea492c5",
+                    "boundaryNum": 1,
+                    "name": "Harding line - WARD No.-0003",
+                    "localname": "Harding line - WARD No.-0003",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0005",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e4c3c680-2f14-4591-af2f-d06cf3c0bf69",
+                    "boundaryNum": 1,
+                    "name": "Patel Park - WARD No.-0003",
+                    "localname": "Patel Park - WARD No.-0003",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0006",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9c50a232-3f31-4f51-81df-d23054d54c8d",
+                    "boundaryNum": 1,
+                    "name": "Chirya wali line - WARD No.-0003",
+                    "localname": "Chirya wali line - WARD No.-0003",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0007",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d8de563a-073e-4e0f-bcec-3f18cc8708ab",
+                    "boundaryNum": 1,
+                    "name": "Race course road etc - WARD No.-0003",
+                    "localname": "Race course road etc - WARD No.-0003",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0008",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5128b21-2dcf-48da-ac06-f5fa757d79b9",
+                "boundaryNum": 1,
+                "name": "WARD No.-0004",
+                "localname": "WARD No.-0004",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0004",
+                "children": [
+                  {
+                    "id": "6c0ecb4e-63d3-440f-bfe6-b29e89fcc6a6",
+                    "boundaryNum": 1,
+                    "name": "Air force qtrs - WARD No.-0004",
+                    "localname": "Air force qtrs - WARD No.-0004",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0009",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3cc5159b-b859-4066-acf2-8d55043d882c",
+                    "boundaryNum": 1,
+                    "name": "mall road - WARD No.-0004",
+                    "localname": "mall road - WARD No.-0004",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0010",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d02be0b3-4a89-4565-94a6-df6d797bf1d4",
+                    "boundaryNum": 1,
+                    "name": "SIRHIND CLUB STAFF ROAD ETC - WARD No.-0004",
+                    "localname": "SIRHIND CLUB STAFF ROAD ETC - WARD No.-0004",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0011",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f63f62d4-6156-4a37-97f8-431d4e040396",
+                "boundaryNum": 1,
+                "name": "WARD No.-0005",
+                "localname": "WARD No.-0005",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0005",
+                "children": [
+                  {
+                    "id": "3f5d1637-82ff-43e5-9ae8-070564ae64c1",
+                    "boundaryNum": 1,
+                    "name": "MILITARY DAIRY FARM - WARD No.-0005",
+                    "localname": "MILITARY DAIRY FARM - WARD No.-0005",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0012",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "89ba3550-537e-480e-b94d-099cb9fa85ed",
+                    "boundaryNum": 1,
+                    "name": "MALL ROAD - WARD No.-0005",
+                    "localname": "MALL ROAD - WARD No.-0005",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0013",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "27e5a9e4-f314-44c2-b0de-4b78fb23cd29",
+                    "boundaryNum": 1,
+                    "name": "ALEXANDER ROAD ETC - WARD No.-0005",
+                    "localname": "ALEXANDER ROAD ETC - WARD No.-0005",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0014",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4cfa804-f9c4-487d-8a1b-a736c7c34c88",
+                "boundaryNum": 1,
+                "name": "WARD No.-0006",
+                "localname": "WARD No.-0006",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0006",
+                "children": [
+                  {
+                    "id": "10b30d69-0a39-4831-bb83-f7f157e5d47e",
+                    "boundaryNum": 1,
+                    "name": "Allenby line - WARD No.-0006",
+                    "localname": "Allenby line - WARD No.-0006",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0015",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6ddb1f2b-d607-4f29-955a-78d64da80fc3",
+                    "boundaryNum": 1,
+                    "name": "railway colony - WARD No.-0006",
+                    "localname": "railway colony - WARD No.-0006",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0016",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "85af3fab-5d33-41c8-a067-f9757b46d66e",
+                    "boundaryNum": 1,
+                    "name": "MES QTRS ETC - WARD No.-0006",
+                    "localname": "MES QTRS ETC - WARD No.-0006",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0017",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b9af0e13-bf5a-4a42-bec8-3d29693d5470",
+                "boundaryNum": 1,
+                "name": "WARD No.-0007",
+                "localname": "WARD No.-0007",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0007",
+                "children": [
+                  {
+                    "id": "608434cd-89db-4a79-8920-a0d3f27b40fc",
+                    "boundaryNum": 1,
+                    "name": "RAILWAY COLONY - WARD No.-0007",
+                    "localname": "RAILWAY COLONY - WARD No.-0007",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0018",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "353a2cb5-1a75-4f8d-b6aa-120b64d2fea4",
+                    "boundaryNum": 1,
+                    "name": "DUDLA MANDI - WARD No.-0007",
+                    "localname": "DUDLA MANDI - WARD No.-0007",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0019",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4f5408a1-339e-4b93-90de-65e7e4cf80a3",
+                    "boundaryNum": 1,
+                    "name": "GULAB MANDI/SEHZADA MANDI - WARD No.-0007",
+                    "localname": "GULAB MANDI/SEHZADA MANDI - WARD No.-0007",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0020",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6d7e9950-76c9-4683-b917-fe3cf050b6fa",
+                    "boundaryNum": 1,
+                    "name": "HIMMAT PURA - WARD No.-0007",
+                    "localname": "HIMMAT PURA - WARD No.-0007",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0021",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "be93687e-4aff-4608-b1a0-f10ceb00740f",
+                    "boundaryNum": 1,
+                    "name": "KUSHTA ASHRAM - WARD No.-0007",
+                    "localname": "KUSHTA ASHRAM - WARD No.-0007",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0022",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "977630e0-b91b-4798-86d2-d13c240c4af7",
+                "boundaryNum": 1,
+                "name": "WARD No.-0008",
+                "localname": "WARD No.-0008",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "800366-0008",
+                "children": [
+                  {
+                    "id": "9641858b-eabd-4f1a-a044-f7059d088f28",
+                    "boundaryNum": 1,
+                    "name": "PNT COLONY - WARD No.-0008",
+                    "localname": "PNT COLONY - WARD No.-0008",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0023",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "877815e0-51cd-4bfb-a135-ed4d26769cea",
+                    "boundaryNum": 1,
+                    "name": "RAILWAY COLONY - WARD No.-0008",
+                    "localname": "RAILWAY COLONY - WARD No.-0008",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ACBLC0024",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
