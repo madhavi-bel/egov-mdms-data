@@ -11929,18 +11929,13 @@
     } ,
     {
       "rolecode": "DGDE",
-      "actionid": 1711,
+      "actionid": 5056,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "DGDE",
-      "actionid": 1712,
-      "actioncode": "",
-      "tenantId": "pb"
-    },   {
-      "rolecode": "DGDE",
-      "actionid": 1713,
+      "actionid": 5057,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -11965,6 +11960,18 @@
     {
       "rolecode": "UC_EMP",
       "actionid": 5055,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5058,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5059,
       "actioncode": "",
       "tenantId": "pb"
     }
