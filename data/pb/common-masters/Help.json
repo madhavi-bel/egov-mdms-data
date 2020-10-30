@@ -38,14 +38,9 @@
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/MCollectServiceCategory.pdf"
     },
     {
-      "tenant": "pb.almora",
+      "tenant": "pb.ambala",
       "code": "TL",
-      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/almora/TradeTypeSubtypeDetails_Almora.pdf"
-    },
-    {
-      "tenant": "pb.ahmednagar",
-      "code": "TL",
-      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ahmednagar/TradeTypeSubtypeDetails_Ahmednagar.pdf"
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ambala/TradeTypeSubtypeDetails_Ambala.pdf"
     }
   ]
 }
