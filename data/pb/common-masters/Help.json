@@ -46,6 +46,11 @@
       "tenant": "pb.bareilly",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/bareilly/TradeTypeSubtypeDetails_Bareilly.pdf"
+    },
+    {
+      "tenant": "pb.mathura",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/mathura/TradeTypeSubtypeDetails_Mathura.pdf"
     }
   ]
 }

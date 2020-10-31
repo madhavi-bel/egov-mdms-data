@@ -293,6 +293,40 @@
       },
       "address": "Office of the Bareilly Cantonment Board, Bungalow No. 54 Serpentine Road, Bareilly Cantt -243001",
       "contactNumber": "0581-2421127"
+    },
+    {
+      "code": "pb.mathura",
+      "name": "Cantonment Board Mathura",
+      "description": "Mathura",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/mathuralogo.png",
+      "logoIdPdf": "mathura.png",
+      "imageId": null,
+      "domainUrl": "http://cbmathura.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbmathura",
+      "facebookUrl": "https://www.facebook.com/cbmathura",
+      "emailId": "ceomath-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Mathura",
+        "localName": "Mathura Cantt",
+        "districtCode": null,
+        "districtName": "Mathura",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 77.69297,
+        "latitude": 27.485634,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "800800",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Mathura",
+        "population": "25603"
+      },
+      "address": "Cantonment Board Office, Near Regimental Bazar, Mathura Cantt. - 281001",
+      "contactNumber": "0565-2470178"
     }
   ]
 }
