@@ -494,11 +494,11 @@
       "idname": "sw.receipt.id"
     },
     {
-      "format": "WS-APP-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]",
+      "format": "WS-APP-[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
       "idname": "waterservice.application.id"
     },
     {
-      "format": "SW-APP-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]",
+      "format": "SW-APP-[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
       "idname": "sewerageservice.application.id"
     },
     {
