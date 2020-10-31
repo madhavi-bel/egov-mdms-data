@@ -73,10 +73,12 @@
     },
     {
       "code": "pb.ambala",
-      "districtCode": "Ambala",
+      "districtCode": "58",
       "population": "55370",
       "malePopulation": "33226",
       "femalePopultion": "22144",
+      "workingPopulation": "-",
+      "literacyRate": "81.7",
       "languagesSpoken": [
         "HN"
       ]

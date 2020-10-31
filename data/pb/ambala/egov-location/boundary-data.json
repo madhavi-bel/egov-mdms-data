@@ -18,7 +18,7 @@
         "code": "pb.ambala",
         "children": [
           {
-            "id": "08d57180-b5b0-4b07-9557-7aaffcdf4512",
+            "id": "88f00603-d495-4f75-a449-22df59ecc28c",
             "boundaryNum": 1,
             "name": "Ambala Cantt",
             "localname": "Ambala Cantt",
@@ -28,20 +28,20 @@
             "code": "Z001",
             "children": [
               {
-                "id": "471d0f34-bf61-45d5-b938-1015a0ed1feb",
+                "id": "33755c56-7554-4186-a554-9912b8afab0f",
                 "boundaryNum": 1,
-                "name": "WARD No.-0001",
-                "localname": "WARD No.-0001",
+                "name": "WARD No-1",
+                "localname": "WARD No-1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0001",
                 "children": [
                   {
-                    "id": "ff02184b-22c5-4bba-a5c6-dcefed9d0376",
+                    "id": "6365f62f-cfdc-4fe0-a573-51aeb0d101a0",
                     "boundaryNum": 1,
-                    "name": "RHA Parade - WARD No.-0001",
-                    "localname": "RHA Parade - WARD No.-0001",
+                    "name": "RHA Parade - WARD No-1",
+                    "localname": "RHA Parade - WARD No-1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -52,20 +52,20 @@
                 ]
               },
               {
-                "id": "302cc815-248f-4e3e-a4e4-1f2fe03f14ab",
+                "id": "9cbab025-d737-4142-89d8-6ea8217efa22",
                 "boundaryNum": 1,
-                "name": "WARD No.-0002",
-                "localname": "WARD No.-0002",
+                "name": "WARD No- 2",
+                "localname": "WARD No- 2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0002",
                 "children": [
                   {
-                    "id": "a955bd5c-e01f-47b9-941d-503b2a837981",
+                    "id": "e929cc97-49b1-40f8-9e88-df913e718a80",
                     "boundaryNum": 1,
-                    "name": "RHA Bazar - WARD No.-0002",
-                    "localname": "RHA Bazar - WARD No.-0002",
+                    "name": "RHA Bazar - WARD No- 2",
+                    "localname": "RHA Bazar - WARD No- 2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -76,20 +76,20 @@
                 ]
               },
               {
-                "id": "9fd21b59-740b-44e6-9969-033c669086e2",
+                "id": "3d5279c9-ca1f-4f79-8501-8b841f136ecd",
                 "boundaryNum": 1,
-                "name": "WARD No.-0003",
-                "localname": "WARD No.-0003",
+                "name": "WARD No- 3",
+                "localname": "WARD No- 3",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0003",
                 "children": [
                   {
-                    "id": "53e7fcdc-9e21-4709-a0c2-26b8752fcc8f",
+                    "id": "1627f29d-99ae-46f4-818e-a055f54c83e6",
                     "boundaryNum": 1,
-                    "name": "Rasala Bazar - WARD No.-0003",
-                    "localname": "Rasala Bazar - WARD No.-0003",
+                    "name": "Rasala Bazar - WARD No- 3",
+                    "localname": "Rasala Bazar - WARD No- 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -98,10 +98,10 @@
                     "children": []
                   },
                   {
-                    "id": "ba2c4302-e174-4063-b49c-ecadcd742b67",
+                    "id": "18534e82-be56-40c7-9633-7e9bb64381a3",
                     "boundaryNum": 1,
-                    "name": "PWD Colony - WARD No.-0003",
-                    "localname": "PWD Colony - WARD No.-0003",
+                    "name": "PWD Colony - WARD No- 3",
+                    "localname": "PWD Colony - WARD No- 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -110,10 +110,10 @@
                     "children": []
                   },
                   {
-                    "id": "c2092407-a9d8-401d-b99b-ee77aea492c5",
+                    "id": "fb488e74-a0d5-4714-8e8d-659006f719fc",
                     "boundaryNum": 1,
-                    "name": "Harding line - WARD No.-0003",
-                    "localname": "Harding line - WARD No.-0003",
+                    "name": "Harding line - WARD No- 3",
+                    "localname": "Harding line - WARD No- 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -122,10 +122,10 @@
                     "children": []
                   },
                   {
-                    "id": "e4c3c680-2f14-4591-af2f-d06cf3c0bf69",
+                    "id": "dc3180f3-2fcb-4714-9a6a-2d08590af8b9",
                     "boundaryNum": 1,
-                    "name": "Patel Park - WARD No.-0003",
-                    "localname": "Patel Park - WARD No.-0003",
+                    "name": "Patel Park - WARD No- 3",
+                    "localname": "Patel Park - WARD No- 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -134,10 +134,10 @@
                     "children": []
                   },
                   {
-                    "id": "9c50a232-3f31-4f51-81df-d23054d54c8d",
+                    "id": "fb240568-9fd0-436c-ba05-b2d3557ceab8",
                     "boundaryNum": 1,
-                    "name": "Chirya wali line - WARD No.-0003",
-                    "localname": "Chirya wali line - WARD No.-0003",
+                    "name": "Chirya wali line - WARD No- 3",
+                    "localname": "Chirya wali line - WARD No- 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -146,10 +146,10 @@
                     "children": []
                   },
                   {
-                    "id": "d8de563a-073e-4e0f-bcec-3f18cc8708ab",
+                    "id": "e08755fe-adbe-424a-8bff-20fdbe53eb4e",
                     "boundaryNum": 1,
-                    "name": "Race course road etc - WARD No.-0003",
-                    "localname": "Race course road etc - WARD No.-0003",
+                    "name": "Race course road etc - WARD No- 3",
+                    "localname": "Race course road etc - WARD No- 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -160,20 +160,20 @@
                 ]
               },
               {
-                "id": "f5128b21-2dcf-48da-ac06-f5fa757d79b9",
+                "id": "a1fd676e-47f1-4f20-a717-fb5829cc4af2",
                 "boundaryNum": 1,
-                "name": "WARD No.-0004",
-                "localname": "WARD No.-0004",
+                "name": "WARD No- 4",
+                "localname": "WARD No- 4",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0004",
                 "children": [
                   {
-                    "id": "6c0ecb4e-63d3-440f-bfe6-b29e89fcc6a6",
+                    "id": "452dc515-f960-4a40-958e-ae0615a18a8a",
                     "boundaryNum": 1,
-                    "name": "Air force qtrs - WARD No.-0004",
-                    "localname": "Air force qtrs - WARD No.-0004",
+                    "name": "Air force qtrs - WARD No- 4",
+                    "localname": "Air force qtrs - WARD No- 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -182,10 +182,10 @@
                     "children": []
                   },
                   {
-                    "id": "3cc5159b-b859-4066-acf2-8d55043d882c",
+                    "id": "e6d5cbc7-631f-4aa9-ab53-eaaa920cc4bb",
                     "boundaryNum": 1,
-                    "name": "mall road - WARD No.-0004",
-                    "localname": "mall road - WARD No.-0004",
+                    "name": "mall road - WARD No- 4",
+                    "localname": "mall road - WARD No- 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -194,10 +194,10 @@
                     "children": []
                   },
                   {
-                    "id": "d02be0b3-4a89-4565-94a6-df6d797bf1d4",
+                    "id": "98a81dd2-ee20-4b6a-97f6-00682657f313",
                     "boundaryNum": 1,
-                    "name": "SIRHIND CLUB STAFF ROAD ETC - WARD No.-0004",
-                    "localname": "SIRHIND CLUB STAFF ROAD ETC - WARD No.-0004",
+                    "name": "SIRHIND CLUB STAFF ROAD ETC - WARD No- 4",
+                    "localname": "SIRHIND CLUB STAFF ROAD ETC - WARD No- 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -208,20 +208,20 @@
                 ]
               },
               {
-                "id": "f63f62d4-6156-4a37-97f8-431d4e040396",
+                "id": "cf2c882d-355c-4e0f-9f27-4752198ad889",
                 "boundaryNum": 1,
-                "name": "WARD No.-0005",
-                "localname": "WARD No.-0005",
+                "name": "WARD No- 5",
+                "localname": "WARD No- 5",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0005",
                 "children": [
                   {
-                    "id": "3f5d1637-82ff-43e5-9ae8-070564ae64c1",
+                    "id": "8313ef1e-59e5-4d48-a7a3-ae38777d8168",
                     "boundaryNum": 1,
-                    "name": "MILITARY DAIRY FARM - WARD No.-0005",
-                    "localname": "MILITARY DAIRY FARM - WARD No.-0005",
+                    "name": "MILITARY DAIRY FARM - WARD No- 5",
+                    "localname": "MILITARY DAIRY FARM - WARD No- 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -230,10 +230,10 @@
                     "children": []
                   },
                   {
-                    "id": "89ba3550-537e-480e-b94d-099cb9fa85ed",
+                    "id": "4040a686-b7e9-47b6-8e19-fdf925ba9104",
                     "boundaryNum": 1,
-                    "name": "MALL ROAD - WARD No.-0005",
-                    "localname": "MALL ROAD - WARD No.-0005",
+                    "name": "MALL ROAD - WARD No- 5",
+                    "localname": "MALL ROAD - WARD No- 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -242,10 +242,10 @@
                     "children": []
                   },
                   {
-                    "id": "27e5a9e4-f314-44c2-b0de-4b78fb23cd29",
+                    "id": "8363bf79-3643-4b40-a1f8-beaf6f5e6d6a",
                     "boundaryNum": 1,
-                    "name": "ALEXANDER ROAD ETC - WARD No.-0005",
-                    "localname": "ALEXANDER ROAD ETC - WARD No.-0005",
+                    "name": "ALEXANDER ROAD ETC - WARD No- 5",
+                    "localname": "ALEXANDER ROAD ETC - WARD No- 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -256,20 +256,20 @@
                 ]
               },
               {
-                "id": "c4cfa804-f9c4-487d-8a1b-a736c7c34c88",
+                "id": "3c075afb-d0e6-45c9-9498-daa998bc65f3",
                 "boundaryNum": 1,
-                "name": "WARD No.-0006",
-                "localname": "WARD No.-0006",
+                "name": "WARD No- 6",
+                "localname": "WARD No- 6",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0006",
                 "children": [
                   {
-                    "id": "10b30d69-0a39-4831-bb83-f7f157e5d47e",
+                    "id": "cd404c67-9478-4c8a-9c5a-585ba378aa0a",
                     "boundaryNum": 1,
-                    "name": "Allenby line - WARD No.-0006",
-                    "localname": "Allenby line - WARD No.-0006",
+                    "name": "Allenby line - WARD No- 6",
+                    "localname": "Allenby line - WARD No- 6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -278,10 +278,10 @@
                     "children": []
                   },
                   {
-                    "id": "6ddb1f2b-d607-4f29-955a-78d64da80fc3",
+                    "id": "18d3db24-6eb1-4970-8c2b-553b130a8488",
                     "boundaryNum": 1,
-                    "name": "railway colony - WARD No.-0006",
-                    "localname": "railway colony - WARD No.-0006",
+                    "name": "railway colony - WARD No- 6",
+                    "localname": "railway colony - WARD No- 6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -290,10 +290,10 @@
                     "children": []
                   },
                   {
-                    "id": "85af3fab-5d33-41c8-a067-f9757b46d66e",
+                    "id": "9b6de436-50f6-4e06-b49a-377372fb09e0",
                     "boundaryNum": 1,
-                    "name": "MES QTRS ETC - WARD No.-0006",
-                    "localname": "MES QTRS ETC - WARD No.-0006",
+                    "name": "MES QTRS ETC - WARD No- 6",
+                    "localname": "MES QTRS ETC - WARD No- 6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -304,20 +304,20 @@
                 ]
               },
               {
-                "id": "b9af0e13-bf5a-4a42-bec8-3d29693d5470",
+                "id": "81579905-428d-4eda-8a34-3d87de2aa9e0",
                 "boundaryNum": 1,
-                "name": "WARD No.-0007",
-                "localname": "WARD No.-0007",
+                "name": "WARD No- 7",
+                "localname": "WARD No- 7",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0007",
                 "children": [
                   {
-                    "id": "608434cd-89db-4a79-8920-a0d3f27b40fc",
+                    "id": "439a1bee-1afd-4d00-bc9b-6b801d417ab2",
                     "boundaryNum": 1,
-                    "name": "RAILWAY COLONY - WARD No.-0007",
-                    "localname": "RAILWAY COLONY - WARD No.-0007",
+                    "name": "RAILWAY COLONY - WARD No- 7",
+                    "localname": "RAILWAY COLONY - WARD No- 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -326,10 +326,10 @@
                     "children": []
                   },
                   {
-                    "id": "353a2cb5-1a75-4f8d-b6aa-120b64d2fea4",
+                    "id": "a7842287-1e54-4215-9541-8f56b73c7b46",
                     "boundaryNum": 1,
-                    "name": "DUDLA MANDI - WARD No.-0007",
-                    "localname": "DUDLA MANDI - WARD No.-0007",
+                    "name": "DUDLA MANDI - WARD No- 7",
+                    "localname": "DUDLA MANDI - WARD No- 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -338,10 +338,10 @@
                     "children": []
                   },
                   {
-                    "id": "4f5408a1-339e-4b93-90de-65e7e4cf80a3",
+                    "id": "5ad09549-5932-41da-a9df-f1996527fade",
                     "boundaryNum": 1,
-                    "name": "GULAB MANDI/SEHZADA MANDI - WARD No.-0007",
-                    "localname": "GULAB MANDI/SEHZADA MANDI - WARD No.-0007",
+                    "name": "GULAB MANDI/SEHZADA MANDI - WARD No- 7",
+                    "localname": "GULAB MANDI/SEHZADA MANDI - WARD No- 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -350,10 +350,10 @@
                     "children": []
                   },
                   {
-                    "id": "6d7e9950-76c9-4683-b917-fe3cf050b6fa",
+                    "id": "a17c85ff-71e7-484a-b5bf-95c071d27992",
                     "boundaryNum": 1,
-                    "name": "HIMMAT PURA - WARD No.-0007",
-                    "localname": "HIMMAT PURA - WARD No.-0007",
+                    "name": "HIMMAT PURA - WARD No- 7",
+                    "localname": "HIMMAT PURA - WARD No- 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -362,10 +362,10 @@
                     "children": []
                   },
                   {
-                    "id": "be93687e-4aff-4608-b1a0-f10ceb00740f",
+                    "id": "beea2a4a-4e1e-4898-84fc-9ecfaeb691f3",
                     "boundaryNum": 1,
-                    "name": "KUSHTA ASHRAM - WARD No.-0007",
-                    "localname": "KUSHTA ASHRAM - WARD No.-0007",
+                    "name": "KUSHTA ASHRAM - WARD No- 7",
+                    "localname": "KUSHTA ASHRAM - WARD No- 7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -376,20 +376,20 @@
                 ]
               },
               {
-                "id": "977630e0-b91b-4798-86d2-d13c240c4af7",
+                "id": "c58a8b1d-f928-456c-9085-55237df04146",
                 "boundaryNum": 1,
-                "name": "WARD No.-0008",
-                "localname": "WARD No.-0008",
+                "name": "WARD No- 8",
+                "localname": "WARD No- 8",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
                 "code": "800366-0008",
                 "children": [
                   {
-                    "id": "9641858b-eabd-4f1a-a044-f7059d088f28",
+                    "id": "f4e92b37-683d-4a2e-bc60-53cf9312b69a",
                     "boundaryNum": 1,
-                    "name": "PNT COLONY - WARD No.-0008",
-                    "localname": "PNT COLONY - WARD No.-0008",
+                    "name": "PNT COLONY - WARD No- 8",
+                    "localname": "PNT COLONY - WARD No- 8",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -398,10 +398,10 @@
                     "children": []
                   },
                   {
-                    "id": "877815e0-51cd-4bfb-a135-ed4d26769cea",
+                    "id": "dbb32fb3-6864-4eb9-a151-c30cb21f7d8e",
                     "boundaryNum": 1,
-                    "name": "RAILWAY COLONY - WARD No.-0008",
-                    "localname": "RAILWAY COLONY - WARD No.-0008",
+                    "name": "RAILWAY COLONY - WARD No- 8",
+                    "localname": "RAILWAY COLONY - WARD No- 8",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
