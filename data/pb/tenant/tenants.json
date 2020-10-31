@@ -259,6 +259,40 @@
       },
       "address": "Office of Cantonment Board, 229 Race Course Road, Ambala Cantt. 133001",
       "contactNumber": "(0171)2642026"
+    },
+    {
+      "code": "pb.bareilly",
+      "name": "BAREILLY CANTONMENT BOARD",
+      "description": "Bareilly",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/bareillylogo.png",
+      "logoIdPdf": "bareilly.png",
+      "imageId": null,
+      "domainUrl": "www.cbbareilly.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ceobare-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Bareilly",
+        "localName": "BAREILLY CANTT",
+        "districtCode": "130",
+        "districtName": "BAREILLY",
+        "regionName": "CENTRAL COMMAND",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.438141,
+        "latitude": 28.320947,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277258",
+        "regionCode": null,
+        "municipalityName": "BAREILLY CANTONMENT BOARD",
+        "population": null
+      },
+      "address": "Office of the Bareilly Cantonment Board, Bungalow No. 54 Serpentine Road, Bareilly Cantt -243001",
+      "contactNumber": "0581-2421127"
     }
   ]
 }
