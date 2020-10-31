@@ -1,0 +1,324 @@
+{
+  "tenantId": "pb.mathura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mathura",
+        "localname": "Mathura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mathura",
+        "children": [
+          {
+            "id": "bccce9b4-9259-4831-9e66-246f59bafb6a",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "3552f419-fe57-487a-a2d1-0f750cc5956e",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "a0b93b09-82c6-4ee8-a787-a1bdc3c18805",
+                    "boundaryNum": 1,
+                    "name": "Regimental Bazar - Ward No. 1",
+                    "localname": "Regimental Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1-01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7c2874a5-142e-4156-b35f-4e06144ac3bf",
+                    "boundaryNum": 1,
+                    "name": "Ahata Seth - Ward No. 1",
+                    "localname": "Ahata Seth - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1-02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "73dc19c3-92bd-42a7-9878-0b4068699112",
+                    "boundaryNum": 1,
+                    "name": "Khatik Mohalla - Ward No. 1",
+                    "localname": "Khatik Mohalla - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1-03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50517868-42fb-4ec9-b526-1e13f5a55810",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "49782513-7fec-4c73-9168-3118a8dfb658",
+                    "boundaryNum": 1,
+                    "name": "Mayur Vihar - Ward No. 2",
+                    "localname": "Mayur Vihar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2-01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "cb8d91ef-6614-4406-8424-038de42f69f7",
+                    "boundaryNum": 1,
+                    "name": "Rajaram Patti - Ward No. 2",
+                    "localname": "Rajaram Patti - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2-02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3df48fba-a36f-466d-9362-6d434ae373dc",
+                    "boundaryNum": 1,
+                    "name": "MES Colony - Ward No. 2",
+                    "localname": "MES Colony - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2-03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2e355088-46c5-4a25-91e4-aaf8567f3767",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "e759a015-7219-432f-a368-fca726d58905",
+                    "boundaryNum": 1,
+                    "name": "Nai Basti - Ward No. 3",
+                    "localname": "Nai Basti - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3-01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "17cd2e20-db01-45e6-86ef-aee78587a93b",
+                    "boundaryNum": 1,
+                    "name": "Dairy Farm - Ward No. 3",
+                    "localname": "Dairy Farm - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3-02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "097b37ee-66a4-4930-87ac-2bc9b7af05d6",
+                    "boundaryNum": 1,
+                    "name": "Army Officer Colony - Ward No. 3",
+                    "localname": "Army Officer Colony - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3-03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab82e9c6-6927-4cdb-a71c-899c793e8ace",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "6a1b0f63-2095-48fe-b24b-d1167e7522b4",
+                    "boundaryNum": 1,
+                    "name": "Pandit Deen Dayal Upadhyay Veterinary University - Ward No. 4",
+                    "localname": "Pandit Deen Dayal Upadhyay Veterinary University - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4-01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5f05b762-62bb-4cce-9831-dc8a04502750",
+                    "boundaryNum": 1,
+                    "name": "New Horn Line - Ward No. 4",
+                    "localname": "New Horn Line - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4-02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22a774de-013f-45a5-b79b-b08f5b50dc63",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "1905fce8-9b9d-4f82-b0cd-37c59effc49c",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Nagar - Ward No. 5",
+                    "localname": "Hanuman Nagar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5-01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a5343bd8-2456-4fef-95d0-04da04444850",
+                    "boundaryNum": 1,
+                    "name": "RATC Lines - Ward No. 5",
+                    "localname": "RATC Lines - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5-02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8afff44e-61a0-4704-91ff-379e3804b403",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "25a77fbf-f64b-4d51-997e-dbca767269c4",
+                    "boundaryNum": 1,
+                    "name": "Motikunj Colony - Ward No. 6",
+                    "localname": "Motikunj Colony - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6-01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "53499684-d49b-4230-a15e-a8f5febd1bef",
+                    "boundaryNum": 1,
+                    "name": "Motikunj Ext. Colony - Ward No. 6",
+                    "localname": "Motikunj Ext. Colony - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6-02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "fa63aea5-5402-4e42-a84e-265b5532d0e7",
+                    "boundaryNum": 1,
+                    "name": "Railway Colony - Ward No. 6",
+                    "localname": "Railway Colony - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6-03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "653e5154-ce94-4759-9f7d-31d2ceba1e0d",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "6d160ce8-90e1-421c-ad3b-6b5850edcbc5",
+                    "boundaryNum": 1,
+                    "name": "Chandanvan Colony - Ward No. 7",
+                    "localname": "Chandanvan Colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7-01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
