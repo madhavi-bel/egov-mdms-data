@@ -327,6 +327,40 @@
       },
       "address": "Cantonment Board Office, Near Regimental Bazar, Mathura Cantt. - 281001",
       "contactNumber": "0565-2470178"
+    },
+    {
+      "code": "pb.allahabad",
+      "name": "Cantonment Board Allahabad",
+      "description": "Allahabad",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/allahabadlogo.png",
+      "logoIdPdf": "allahabad.png",
+      "imageId": null,
+      "domainUrl": "canttboardalld.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cballahabad",
+      "facebookUrl": null,
+      "emailId": "ceoalla-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Allahabad",
+        "localName": "Allahabad Cantt",
+        "districtCode": "120",
+        "districtName": "PRAYAGRAJ",
+        "regionName": null,
+        "ulbGrade": "Cantonment Board",
+        "longitude": 81.821569,
+        "latitude": 25.460825,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277256",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Allahabad",
+        "population": null
+      },
+      "address": "Office of Cantonment Board Allahabad 2 Ashoka Road New Cantt Pin - 211001",
+      "contactNumber": "Ph No-0532-2422121,\nFax - 0532-2420193"
     }
   ]
 }

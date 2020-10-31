@@ -106,6 +106,18 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.allahabad",
+      "districtCode": "120",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }
