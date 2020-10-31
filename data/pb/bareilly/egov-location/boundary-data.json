@@ -1,0 +1,215 @@
+{
+  "tenantId": "pb.bareilly",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bareilly",
+        "localname": "Bareilly",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bareilly",
+        "children": [
+          {
+            "id": "c4163fff-2f36-4805-8431-5458e5ea5e23",
+            "boundaryNum": 1,
+            "name": "Bareilly Zone",
+            "localname": "Bareilly Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "946518da-193a-4382-b24c-4ed58ff4cdd0",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": []
+              },
+              {
+                "id": "13588e52-ea1e-454b-9bce-6b399ee05b03",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "3ab6bdf8-cd81-4467-bf96-cb4ff7c00ee3",
+                    "boundaryNum": 1,
+                    "name": "BUNGALOW AREA - Ward No. 2",
+                    "localname": "BUNGALOW AREA - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a25ccc0-dd07-4822-a4d2-b94fd33f851e",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "4063fda6-8cd1-4f20-970d-7ba9e78b8a2c",
+                    "boundaryNum": 1,
+                    "name": "SADAR BAZAR - Ward No. 3",
+                    "localname": "SADAR BAZAR - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d4e31b4-d436-4ad6-8279-dc965c852a65",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "8220ecce-b4ae-4ddf-836c-175306208f0c",
+                    "boundaryNum": 1,
+                    "name": "SADAR BAZAR - Ward No. 4",
+                    "localname": "SADAR BAZAR - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37b89afa-580d-4da3-8e85-f480d299309e",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "f6eae3d2-5135-4878-9a91-b3d7e1df1cc8",
+                    "boundaryNum": 1,
+                    "name": "SADAR BAZAR - Ward No. 5",
+                    "localname": "SADAR BAZAR - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC04",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "973e2ecc-d243-4955-9796-263356b08340",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "051c6714-630f-4be0-bb5c-222ee6665679",
+                    "boundaryNum": 1,
+                    "name": "BUNGALOW AREA - Ward No. 6",
+                    "localname": "BUNGALOW AREA - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b55750b5-e565-48a9-b915-6cecf74e0f25",
+                    "boundaryNum": 1,
+                    "name": "RA BAZAR - Ward No. 6",
+                    "localname": "RA BAZAR - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC06",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "08450b40-2102-4754-b5ac-d91e36ce8ac7",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "ed65a5c0-f178-4d64-aa4c-9bdc46ef0ff7",
+                    "boundaryNum": 1,
+                    "name": "BI BAZAR - Ward No. 7",
+                    "localname": "BI BAZAR - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC07",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "89740861-8663-4c1c-a602-e52c7bf3ca82",
+                    "boundaryNum": 1,
+                    "name": "BUNGALOW AREA - Ward No. 7",
+                    "localname": "BUNGALOW AREA - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC08",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

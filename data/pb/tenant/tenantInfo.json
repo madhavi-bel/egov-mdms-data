@@ -80,6 +80,18 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.bareilly",
+      "districtCode": "130",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }
