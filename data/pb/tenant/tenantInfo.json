@@ -118,6 +118,19 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.meerut",
+      "districtCode": "169",
+      "population": "93684",
+      "malePopulation": "53511",
+      "femalePopultion": "40173",
+      "workingPopulation": "-",
+      "literacyRate": "0.7284",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     }
   ]
 }

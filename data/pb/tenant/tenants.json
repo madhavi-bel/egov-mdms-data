@@ -361,6 +361,40 @@
       },
       "address": "Office of Cantonment Board Allahabad 2 Ashoka Road New Cantt Pin - 211001",
       "contactNumber": "Ph No-0532-2422121,\nFax - 0532-2420193"
+    },
+    {
+      "code": "pb.meerut",
+      "name": "Cantonment Board Meerut",
+      "description": "Meerut",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/meerutlogo.png",
+      "logoIdPdf": "meerut.png",
+      "imageId": null,
+      "domainUrl": "https://cbmrt.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbmeerut",
+      "facebookUrl": "www.facebook.com/cantonmentboardmeerut.meerut.7",
+      "emailId": "ceomeer-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Meerut",
+        "localName": "Meerut Cantt",
+        "districtCode": "169",
+        "districtName": "Meerut",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 77.6822,
+        "latitude": 28.9938,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "250001",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Meerut",
+        "population": "93684"
+      },
+      "address": "Office of the Cantonment Board, 114, Cariappa Road, Meerut Cantt",
+      "contactNumber": "0121-2643400, 264418"
     }
   ]
 }
