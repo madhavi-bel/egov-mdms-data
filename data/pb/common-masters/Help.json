@@ -61,6 +61,11 @@
       "tenant": "pb.meerut",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/meerut/TradeTypeSubtypeDetails_Meerut.pdf"
+    },
+    {
+      "tenant": "pb.mhow",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/mhow/TradeTypeSubtypeDetails_Mhow.pdf"
     }
   ]
 }

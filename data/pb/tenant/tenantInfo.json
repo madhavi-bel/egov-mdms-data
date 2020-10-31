@@ -131,6 +131,18 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.mhow",
+      "districtCode": "410",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }

@@ -395,6 +395,40 @@
       },
       "address": "Office of the Cantonment Board, 114, Cariappa Road, Meerut Cantt",
       "contactNumber": "0121-2643400, 264418"
+    },
+    {
+      "code": "pb.mhow",
+      "name": "Cantonment Board Mhow",
+      "description": "Mhow",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/mhowlogo.png",
+      "logoIdPdf": "mhow.png",
+      "imageId": null,
+      "domainUrl": "cbmhow.org.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cbmhow@dgest.org",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Mhow",
+        "localName": "Mhow Cantt",
+        "districtCode": "410",
+        "districtName": "Indore",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 75.756531,
+        "latitude": 22.552437,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277272",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Mhow",
+        "population": null
+      },
+      "address": "Office of The Cantonment Board, Opposite Mhow Court, Mhow Cantt",
+      "contactNumber": "Ph No: 07324-273226"
     }
   ]
 }
