@@ -56,6 +56,11 @@
       "tenant": "pb.allahabad",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/allahabad/TradeTypeSubtypeDetails_Allahabad.pdf"
+    },
+    {
+      "tenant": "pb.meerut",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/meerut/TradeTypeSubtypeDetails_Meerut.pdf"
     }
   ]
 }

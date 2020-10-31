@@ -1,0 +1,648 @@
+{
+  "tenantId": "pb.meerut",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Meerut",
+        "localname": "Meerut",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.meerut",
+        "children": [
+          {
+            "id": "18b05d76-df25-45bd-aaca-2fd56f9ac066",
+            "boundaryNum": 1,
+            "name": "Meerut Zone",
+            "localname": "Meerut Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "a5a200a1-49b5-4965-a5a6-3850fa1baade",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "ed8d9a53-562b-457a-b4af-ef05a7bfd4a4",
+                    "boundaryNum": 1,
+                    "name": "Subhash Nagar - Ward 1",
+                    "localname": "Subhash Nagar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f996d9a4-f7dd-4b00-b06d-5d753a707e65",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 1",
+                    "localname": "Bungalow Area - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "99dbbbc8-1e8f-40d4-b548-1bf9fcb9740d",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 1",
+                    "localname": "Military Area - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af096933-30b2-4812-a4bd-8f183e07b56a",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "8bffc6a4-3fbc-4b1c-acd1-d59ba147deaa",
+                    "boundaryNum": 1,
+                    "name": "Bakri Mohalla - Ward 2",
+                    "localname": "Bakri Mohalla - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "197d99e1-2344-4c11-9bf2-393a681d69f1",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 2",
+                    "localname": "Bungalow Area - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c4816f99-7437-4de1-a05e-764ca15d233b",
+                    "boundaryNum": 1,
+                    "name": "Ghosi Mohalla - Ward 2",
+                    "localname": "Ghosi Mohalla - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "64963459-d38e-4d4a-a0c1-a5fa60ab41f0",
+                    "boundaryNum": 1,
+                    "name": "Handiya Mohalla - Ward 2",
+                    "localname": "Handiya Mohalla - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce28d887-9723-4c9e-8fc9-b62b9aac1ab1",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "1ab73483-fa6c-4609-8783-9874573a301c",
+                    "boundaryNum": 1,
+                    "name": "Bakri Mohalla - Ward 3",
+                    "localname": "Bakri Mohalla - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "85cac0bf-a5c9-4d3b-adb7-4ceac9d3b074",
+                    "boundaryNum": 1,
+                    "name": "Maida Mohalla - Ward 3",
+                    "localname": "Maida Mohalla - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4665db78-8dba-4ed7-86c8-7957854f3bb5",
+                    "boundaryNum": 1,
+                    "name": "Jamun Mohalla - Ward 3",
+                    "localname": "Jamun Mohalla - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "00446f9c-4d3f-4473-9f4a-d991b795be42",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 3",
+                    "localname": "Bungalow Area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5abb03ad-0d06-4852-b6b2-d82227d979da",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 3",
+                    "localname": "Military Area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8558a2e6-7ac5-4f57-a7fc-a2ee5576744b",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "7a809e1c-6944-4d8f-a97d-ffd796d17c2a",
+                    "boundaryNum": 1,
+                    "name": "Kabari Bazar - Ward 4",
+                    "localname": "Kabari Bazar - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "38df6aa5-f0cf-4f51-9347-0024ccb10e53",
+                    "boundaryNum": 1,
+                    "name": "Chanakya Puri - Ward 4",
+                    "localname": "Chanakya Puri - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "221b7ca8-b510-4be8-93f1-e1961cb7018c",
+                    "boundaryNum": 1,
+                    "name": "Patel Puri (Rangsaj) - Ward 4",
+                    "localname": "Patel Puri (Rangsaj) - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a32f5ec0-0b92-4a73-8f90-9833a04c43f1",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 4",
+                    "localname": "Bungalow Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "02d3d17a-ff60-4e85-ae52-9eb7b1d67173",
+                    "boundaryNum": 1,
+                    "name": "Ravindar Puri - Ward 4",
+                    "localname": "Ravindar Puri - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7760a8a4-ad1f-4039-8ffb-7f982fe3dd20",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 4",
+                    "localname": "Military Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73d720d8-920c-404e-865b-4ccfb6586f90",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "6c7405b7-1b48-4ef2-a19b-47a74a837fb0",
+                    "boundaryNum": 1,
+                    "name": "Ganj Bazar - Ward 5",
+                    "localname": "Ganj Bazar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c4cdeb9c-4de8-49f9-9ef0-7a278c3dced2",
+                    "boundaryNum": 1,
+                    "name": "Tehsil Compound - Ward 5",
+                    "localname": "Tehsil Compound - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "768d25d0-fcd7-40ee-8249-920b2b030595",
+                    "boundaryNum": 1,
+                    "name": "Alimpura (Baleshwarpuri) - Ward 5",
+                    "localname": "Alimpura (Baleshwarpuri) - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0e9217b6-5189-4873-80d0-67c887aab881",
+                    "boundaryNum": 1,
+                    "name": "Dal Mandi - Ward 5",
+                    "localname": "Dal Mandi - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "42b03157-bece-4c3a-ab37-53434bd309b1",
+                    "boundaryNum": 1,
+                    "name": "Swaraj Puri - Ward 5",
+                    "localname": "Swaraj Puri - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "06fe0119-007f-4b43-ad6f-0d883e5bb1a7",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 5",
+                    "localname": "Bungalow Area - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dd5fcc95-13cf-4b83-b047-dcc5a8110e55",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 5",
+                    "localname": "Military Area - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "086d6aaf-1e9a-4935-992b-84983fccdb9a",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "37cee185-6cc3-4b9f-a22d-3a0d14ea7165",
+                    "boundaryNum": 1,
+                    "name": "Dharam Puri - Ward 6",
+                    "localname": "Dharam Puri - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "865e090f-ada1-4e4d-869a-d9c62dbb5d4e",
+                    "boundaryNum": 1,
+                    "name": "Chowk Bazar - Ward 6",
+                    "localname": "Chowk Bazar - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7af11e97-a90d-4444-b84e-d89efd06496c",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 6",
+                    "localname": "Bungalow Area - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e137bc89-896a-4963-99fd-527162dccd51",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Puri - Ward 6",
+                    "localname": "Ranjit Puri - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "061a176a-3e9f-4fc2-9e29-304be69c19ac",
+                    "boundaryNum": 1,
+                    "name": "Arvind Puri - Ward 6",
+                    "localname": "Arvind Puri - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ba3b4766-14d5-4662-85e3-9b3341e70bc5",
+                    "boundaryNum": 1,
+                    "name": "Durga Bari - Ward 6",
+                    "localname": "Durga Bari - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e178a767-8afa-4641-a88b-80b632389f49",
+                    "boundaryNum": 1,
+                    "name": "City Railway Station - Ward 6",
+                    "localname": "City Railway Station - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "558a6192-6905-4ff5-ac95-65cd6c11488c",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 6",
+                    "localname": "Military Area - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34eb255c-e56b-4658-9c28-42f927c00303",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "e4c99e61-2c48-4fe0-8231-7736bb50bdd2",
+                    "boundaryNum": 1,
+                    "name": "Tandael Mohalla - Ward 7",
+                    "localname": "Tandael Mohalla - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5b620f5b-542e-4f7f-800e-e298910eb9b4",
+                    "boundaryNum": 1,
+                    "name": "Grass Mandi - Ward 7",
+                    "localname": "Grass Mandi - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC35",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "293091dd-6685-4567-9348-49b764e7f65f",
+                    "boundaryNum": 1,
+                    "name": "Shivaji Colony - Ward 7",
+                    "localname": "Shivaji Colony - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC36",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "60b735b3-00f3-44b7-af2f-fffa2c19469f",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 7",
+                    "localname": "Military Area - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC37",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0fcefc0a-1553-4b7d-8838-4222994a7125",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "838dde9c-292e-402f-8bf1-5895a4ccc88b",
+                    "boundaryNum": 1,
+                    "name": "Harsh Puri - Ward 8",
+                    "localname": "Harsh Puri - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC38",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ac692414-b47a-4803-b550-d1eb16f45bba",
+                    "boundaryNum": 1,
+                    "name": "Jubli Ganj - Ward 8",
+                    "localname": "Jubli Ganj - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC39",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0a717cec-edf9-41ba-b4a4-05c01ae03556",
+                    "boundaryNum": 1,
+                    "name": "Cantt Railway Station - Ward 8",
+                    "localname": "Cantt Railway Station - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC40",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "486e3bdf-2a6e-47a0-aeeb-53d27c626f00",
+                    "boundaryNum": 1,
+                    "name": "Lekha Nagar - Ward 8",
+                    "localname": "Lekha Nagar - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC41",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ab2f6891-491f-498a-9a50-5a569d8f3f96",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 8",
+                    "localname": "Bungalow Area - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC42",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "649a3fa2-c3a3-430e-a03f-0feadc5a10dc",
+                    "boundaryNum": 1,
+                    "name": "Military Area - Ward 8",
+                    "localname": "Military Area - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC43",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
