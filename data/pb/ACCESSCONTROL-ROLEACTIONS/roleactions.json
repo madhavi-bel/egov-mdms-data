@@ -11974,6 +11974,158 @@
       "actionid": 5059,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5061,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 	
   ]

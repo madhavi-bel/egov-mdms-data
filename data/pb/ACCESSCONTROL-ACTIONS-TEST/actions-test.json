@@ -17362,6 +17362,28 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5060,
+      "name": "WS Estimate Notice",
+      "url": "/egov-pdf/download/WS/ws-estimationnotice",
+      "displayName": "Estimate Notice",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5061,
+      "name": "WS Sanction Letter",
+      "url": "/egov-pdf/download/WS/ws-sanctionletter",
+      "displayName": "Sanction Letter",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
 
   ]
