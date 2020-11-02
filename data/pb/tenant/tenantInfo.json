@@ -207,6 +207,18 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.dagshai",
+      "districtCode": "25",
+      "population": "2904",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }

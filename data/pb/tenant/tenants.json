@@ -599,6 +599,40 @@
       },
       "address": "Office of Cantonment Board, Danapur Cantt-801503",
       "contactNumber": "Ph No: 06115-227414"
+    },
+    {
+      "code": "pb.dagshai",
+      "name": "Cantonment Board Dagshai",
+      "description": "Dagshai",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dagshailogo.png",
+      "logoIdPdf": "dagshai.png",
+      "imageId": null,
+      "domainUrl": "http://www.cbdagshai.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CBDagshai",
+      "facebookUrl": "https://www.facebook.com/people/CB-Dagshai/100011210190972",
+      "emailId": "ceodags-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dagshai",
+        "localName": "Dagshai Cantt",
+        "districtCode": "25",
+        "districtName": "Solan",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 77.052076,
+        "latitude": 30.886417,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": null,
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Dagshai",
+        "population": "2904"
+      },
+      "address": "Office of Cantonment Board Dagshai,Solan,HP.173210",
+      "contactNumber": "Ph No. :01792-266152 Fax No. 01792-266153"
     }
   ]
 }

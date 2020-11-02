@@ -91,6 +91,11 @@
       "tenant": "pb.danapur",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/danapur/TradeTypeSubtypeDetails_Danapur.pdf"
+    },
+    {
+      "tenant": "pb.dagshai",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dagshai/TradeTypeSubtypeDetails_Dagshai.pdf"
     }
   ]
 }
