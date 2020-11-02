@@ -312,7 +312,7 @@
       "city": {
         "name": "Mathura",
         "localName": "Mathura Cantt",
-        "districtCode": null,
+        "districtCode": 167,
         "districtName": "Mathura",
         "regionName": "Central Command",
         "ulbGrade": "Cantonment Board",

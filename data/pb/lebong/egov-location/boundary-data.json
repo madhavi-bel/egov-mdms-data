@@ -18,7 +18,7 @@
         "code": "pb.lebong",
         "children": [
           {
-            "id": "b488c1bf-a079-4d25-b166-fcec607b4054",
+            "id": "6d7071ec-b8d7-4ddc-bcf8-7f4af0aa480b",
             "boundaryNum": 1,
             "name": "Lebong cantt",
             "localname": "Lebong cantt",
@@ -28,7 +28,7 @@
             "code": "Z001",
             "children": [
               {
-                "id": "b86de5a5-4a11-40b8-a623-d1a37b4f384f",
+                "id": "34e54df1-0a19-4dfe-aaaf-dda6242011be",
                 "boundaryNum": 1,
                 "name": "Sadar Bazar Ward -1",
                 "localname": "Sadar Bazar Ward -1",
@@ -38,21 +38,21 @@
                 "code": "W001",
                 "children": [
                   {
-                    "id": "fb2c8531-1b24-4731-8043-b968cd0f0cd0",
+                    "id": "9516a26b-e2b4-40ab-a6ff-ee3bb2869f56",
                     "boundaryNum": 1,
                     "name": "Sadar Bazar - Sadar Bazar Ward -1",
                     "localname": "Sadar Bazar - Sadar Bazar Ward -1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2020-01-01",
+                    "code": "01_01",
                     "area": "Z001",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "06ce1105-f29d-4097-b799-2a0cf54be2aa",
+                "id": "71f7188d-c620-4078-ac55-807c292275e5",
                 "boundaryNum": 1,
                 "name": "Cricket Bazar Ward -2",
                 "localname": "Cricket Bazar Ward -2",
@@ -62,51 +62,15 @@
                 "code": "W002",
                 "children": [
                   {
-                    "id": "593a2a7d-7c0f-4062-aea4-85fdb91c377b",
+                    "id": "22d7422d-11bf-4792-8e77-70a1097a8467",
                     "boundaryNum": 1,
                     "name": "CRICKET BAZAR - Cricket Bazar Ward -2",
                     "localname": "CRICKET BAZAR - Cricket Bazar Ward -2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2020-02-01",
+                    "code": "2020-02-01 00:00:00",
                     "area": "Z001",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "9500e23a-27be-42ae-bfb0-b96a284d7fb8",
-            "boundaryNum": 1,
-            "name": "nan",
-            "localname": "nan",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "nan",
-            "children": [
-              {
-                "id": "b3abb1dc-4530-4be4-ac46-fbbe16aef712",
-                "boundaryNum": 1,
-                "name": "nan",
-                "localname": "nan",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "nan",
-                "children": [
-                  {
-                    "id": "db00ff1d-5320-4a4f-8eb6-1c57a5400034",
-                    "boundaryNum": 1,
-                    "name": "nan - nan",
-                    "localname": "nan - nan",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "NaT",
-                    "area": "NAN",
                     "children": []
                   }
                 ]
