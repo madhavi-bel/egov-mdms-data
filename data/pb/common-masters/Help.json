@@ -101,6 +101,11 @@
       "tenant": "pb.roorkee",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/roorkee/TradeTypeSubtypeDetails_Roorkee.pdf"
+    },
+    {
+      "tenant": "pb.pachmarhi",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/pachmarhi/TradeTypeSubtypeDetails_Pachmarhi.pdf"
     }
   ]
 }

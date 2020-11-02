@@ -667,6 +667,40 @@
       },
       "address": "Office of Cantonment Board, Lal Kurti, Roorkee Cantt.",
       "contactNumber": "Ph No - 01332-271184"
+    },
+    {
+      "code": "pb.pachmarhi",
+      "name": "Cantonment Board Pachmarhi",
+      "description": "Pachmarhi",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/pachmarhilogo.png",
+      "logoIdPdf": "pachmarhi.png",
+      "imageId": null,
+      "domainUrl": "https://canttboardpachmarhi.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/PachmarhiCantt",
+      "facebookUrl": "https://www.facebook.com/CBpachmarhi",
+      "emailId": "cbpachmarhi@dgest.org\nceopach-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Pachmarhi",
+        "localName": "Pachmarhi Cantt",
+        "districtCode": "409",
+        "districtName": "Hoshangabad",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.4346,
+        "latitude": 22.4674,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "461881",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Pachmarhi",
+        "population": "12062"
+      },
+      "address": "Office of the Chief Executive Officer, Near Bus Stand, Pipariya Road, Pachmarhi\nDistrict Hoshangabad 461881 Madhya Pradesh",
+      "contactNumber": "07578-252027, 07578252441"
     }
   ]
 }

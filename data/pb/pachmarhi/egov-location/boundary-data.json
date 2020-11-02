@@ -1,0 +1,318 @@
+{
+  "tenantId": "pb.pachmarhi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pachmarhi",
+        "localname": "Pachmarhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.pachmarhi",
+        "children": [
+          {
+            "id": "1e385f7f-623c-4b04-b699-1bc4db43c8d6",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "72341111-7d1c-4ea4-85bb-428ffa975fdb",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "50fd5b53-4958-4fb9-b732-58576a2b5d1b",
+                    "boundaryNum": 1,
+                    "name": "Patel Road - Ward No. 1",
+                    "localname": "Patel Road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9fe1a2b6-a326-4132-b514-f537a395e1cb",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Ganj - Ward No. 1",
+                    "localname": "Gandhi Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5ee2ac58-3f1b-4282-baec-4bb69bbdce1c",
+                    "boundaryNum": 1,
+                    "name": "Aruna Ganj - Ward No. 1",
+                    "localname": "Aruna Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4552c14e-b28e-4b54-b2b2-d1803ba0479e",
+                    "boundaryNum": 1,
+                    "name": "Patel Road - Ward No. 1",
+                    "localname": "Patel Road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1672a40a-5f8d-4a6f-8526-c94c0118ae1c",
+                    "boundaryNum": 1,
+                    "name": "Jawahar Chowk - Ward No. 1",
+                    "localname": "Jawahar Chowk - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c5bcf26d-b364-46d1-a90c-5b6cada6ce52",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Chowk - Ward No. 1",
+                    "localname": "Gandhi Chowk - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "032bc21b-51d1-432c-8e98-b8c39058310a",
+                    "boundaryNum": 1,
+                    "name": "Arvind Road - Ward No. 1",
+                    "localname": "Arvind Road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "837f85a8-1960-4057-a7d2-5e58d050f3d7",
+                    "boundaryNum": 1,
+                    "name": "Shubhash Road - Ward No. 1",
+                    "localname": "Shubhash Road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "acc12deb-f368-4f1a-ad82-a391bbc83c74",
+                    "boundaryNum": 1,
+                    "name": "Aruna Ganj - Ward No. 1",
+                    "localname": "Aruna Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "03_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b9aea1e3-f4ab-4c59-95b1-2ce47d63d4c6",
+                    "boundaryNum": 1,
+                    "name": "Gopal Ganj - Ward No. 1",
+                    "localname": "Gopal Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e203a657-69a2-4e21-8097-62654d533555",
+                    "boundaryNum": 1,
+                    "name": "Tilak Ganj - Ward No. 1",
+                    "localname": "Tilak Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c3037f19-d58e-4258-b15c-cf6c5075553c",
+                    "boundaryNum": 1,
+                    "name": "Arvind Road - Ward No. 1",
+                    "localname": "Arvind Road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "867e28af-7134-46a8-8547-1849520da303",
+                    "boundaryNum": 1,
+                    "name": "Ballabh Ganj - Ward No. 1",
+                    "localname": "Ballabh Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f3cd6314-005e-433a-bf71-c9ef617bf19f",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Ganj - Ward No. 1",
+                    "localname": "Gandhi Ganj - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "fae371a1-f51b-4ee2-bab7-91d4782a7800",
+                    "boundaryNum": 1,
+                    "name": "PTS - Ward No. 1",
+                    "localname": "PTS - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "06_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ad24a105-5c12-4f3b-ae81-cecd558f14d1",
+                    "boundaryNum": 1,
+                    "name": "Cantt Colony - Ward No. 1",
+                    "localname": "Cantt Colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "06_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d1595e81-4455-422f-a3a2-da2eeb784c69",
+                    "boundaryNum": 1,
+                    "name": "Army Area - Ward No. 1",
+                    "localname": "Army Area - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "07_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a672b37-d055-44ec-813d-b4a41c221b44",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": []
+              },
+              {
+                "id": "62070179-d79b-4e1b-804e-b216fe36c4eb",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": []
+              },
+              {
+                "id": "2911b794-90c3-4275-ba4c-0c73e481644e",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": []
+              },
+              {
+                "id": "3ed2e41b-7407-4c07-af53-22c24f038ab5",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": []
+              },
+              {
+                "id": "f7563936-e310-4c2b-9342-34ff68bdcede",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": []
+              },
+              {
+                "id": "74f42d73-e011-47ea-b5eb-a39cad168153",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
