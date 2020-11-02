@@ -497,6 +497,40 @@
       },
       "address": "Office of Cantonment Board, Lebong Cantt. - 734105",
       "contactNumber": "0354-2276225"
+    },
+    {
+      "code": "pb.jammu",
+      "name": "Cantonment Board Jammu",
+      "description": "Jammu",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jammulogo.png",
+      "logoIdPdf": "jammu.png",
+      "imageId": null,
+      "domainUrl": "http://cbjammu.org",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbjammu",
+      "facebookUrl": "https://www.facebook.com/cantonment.boardjammu",
+      "emailId": "ceojamm-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Jammu",
+        "localName": "Jammu Cantt",
+        "districtCode": "5",
+        "districtName": "Jammu",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 74.8331,
+        "latitude": 32.6893,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277309",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Jammu",
+        "population": "28396"
+      },
+      "address": "Office of the Cantonment Board, Jammu Cantt- 180003",
+      "contactNumber": "Ph No: 0191-2450992"
     }
   ]
 }

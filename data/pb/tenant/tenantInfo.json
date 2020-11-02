@@ -170,6 +170,18 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.jammu",
+      "districtCode": "5",
+      "population": "28396",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }
