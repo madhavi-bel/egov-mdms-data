@@ -18,7 +18,7 @@
         "code": "pb.allahabad",
         "children": [
           {
-            "id": "280378f1-8e90-4a32-981c-8c5e501a83f1",
+            "id": "729809bc-b53f-45d8-8ca9-198bbc3affa7",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -28,7 +28,7 @@
             "code": "Z001",
             "children": [
               {
-                "id": "876df2ad-e152-4d4a-a0e8-017c8a107117",
+                "id": "4499ed23-34df-4a6b-9268-978f8c0f738d",
                 "boundaryNum": 1,
                 "name": "Ward No. 1",
                 "localname": "Ward No. 1",
@@ -38,21 +38,21 @@
                 "code": "W001",
                 "children": [
                   {
-                    "id": "35834062-7694-420c-af61-db947198b45f",
+                    "id": "72c8e60a-1493-4397-9288-e421cde61570",
                     "boundaryNum": 1,
                     "name": "Sadar Bazar - Ward No. 1",
                     "localname": "Sadar Bazar - Ward No. 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "01-01",
+                    "code": "01_01",
                     "area": "Z001",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a348fee8-58f1-43af-9e9e-b257e2f7f070",
+                "id": "c01b7dd0-4947-4902-9892-50198598801c",
                 "boundaryNum": 1,
                 "name": "Ward No. 2",
                 "localname": "Ward No. 2",
@@ -62,7 +62,7 @@
                 "code": "W002",
                 "children": [
                   {
-                    "id": "ded74496-2e52-45e3-8e13-3c6b970a374b",
+                    "id": "c71770e5-57a6-47d6-be62-77b84ac1ac8e",
                     "boundaryNum": 1,
                     "name": "B.I. Bazar - Ward No. 2",
                     "localname": "B.I. Bazar - Ward No. 2",
@@ -74,7 +74,7 @@
                     "children": []
                   },
                   {
-                    "id": "6b6157ab-c350-4e91-9e92-7694de9d6cfe",
+                    "id": "3421e3e5-5d9f-4356-acf7-0312e94e457f",
                     "boundaryNum": 1,
                     "name": "I. I. Bazar - Ward No. 2",
                     "localname": "I. I. Bazar - Ward No. 2",
@@ -88,7 +88,7 @@
                 ]
               },
               {
-                "id": "a93ce3c9-b5a4-43da-beb0-597f7496b832",
+                "id": "a6e27486-acd4-4889-901d-36f0e55e531d",
                 "boundaryNum": 1,
                 "name": "Ward No. 3",
                 "localname": "Ward No. 3",
@@ -98,7 +98,7 @@
                 "code": "W003",
                 "children": [
                   {
-                    "id": "a0353883-aed8-4c26-b303-3ce9ea15e6cb",
+                    "id": "d64e44e4-e46e-4867-9fe8-30b8f3fa4095",
                     "boundaryNum": 1,
                     "name": "Shambhu Barrack - Ward No. 3",
                     "localname": "Shambhu Barrack - Ward No. 3",
@@ -112,7 +112,7 @@
                 ]
               },
               {
-                "id": "a5d9f0c0-d532-44c7-9b79-84fcf6b6193f",
+                "id": "c689615f-1f7f-4c8f-a374-8e3b59291844",
                 "boundaryNum": 1,
                 "name": "Ward No. 4",
                 "localname": "Ward No. 4",
@@ -122,7 +122,7 @@
                 "code": "W004",
                 "children": [
                   {
-                    "id": "bea223fd-e1a4-42b7-96a4-888e5496ccbc",
+                    "id": "757a4e03-aa0d-4414-a47a-0763d89d095f",
                     "boundaryNum": 1,
                     "name": "R.A Bazar - Ward No. 4",
                     "localname": "R.A Bazar - Ward No. 4",
@@ -134,7 +134,7 @@
                     "children": []
                   },
                   {
-                    "id": "e6de1eb7-74ad-4334-9cc1-b57f0c26bae4",
+                    "id": "068489bb-6311-4fdc-998e-e8eb7701e035",
                     "boundaryNum": 1,
                     "name": "Meagherganj - Ward No. 4",
                     "localname": "Meagherganj - Ward No. 4",
@@ -148,7 +148,7 @@
                 ]
               },
               {
-                "id": "720c78fb-80d0-45ba-a320-c0e3b1bafdcd",
+                "id": "58ce59e7-d559-4930-adf1-396273cf815e",
                 "boundaryNum": 1,
                 "name": "Ward No. 5",
                 "localname": "Ward No. 5",
@@ -158,7 +158,7 @@
                 "code": "W005",
                 "children": [
                   {
-                    "id": "34003172-ecb1-4846-b5ca-190d5af6d417",
+                    "id": "3fc110fa-8ac0-497c-8e55-2d1c9defa299",
                     "boundaryNum": 1,
                     "name": "Officer Line - Ward No. 5",
                     "localname": "Officer Line - Ward No. 5",
@@ -170,21 +170,21 @@
                     "children": []
                   },
                   {
-                    "id": "f4181154-32df-46ab-bb04-c312ddf70acf",
+                    "id": "8e9ea06e-b023-4eb7-94ba-7d1286aa6dbc",
                     "boundaryNum": 1,
                     "name": "Kachodi Gali - Ward No. 5",
                     "localname": "Kachodi Gali - Ward No. 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2020-05-02 00:00:00",
+                    "code": "05_02",
                     "area": "Z001",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "235ae7c2-59bb-446f-afa8-6fc3729a2de1",
+                "id": "994b1454-81b5-469a-b6ef-6e6264ec9b14",
                 "boundaryNum": 1,
                 "name": "Ward No. 6",
                 "localname": "Ward No. 6",
@@ -194,7 +194,7 @@
                 "code": "W006",
                 "children": [
                   {
-                    "id": "0f00401b-5c8d-42f4-af74-d8bb5ff3b546",
+                    "id": "2fa76ae3-e7a9-488f-b63b-705e7b4bd5e4",
                     "boundaryNum": 1,
                     "name": "Chetham Line - Ward No. 6",
                     "localname": "Chetham Line - Ward No. 6",
@@ -206,7 +206,7 @@
                     "children": []
                   },
                   {
-                    "id": "797bc0a2-9cd6-41c2-a8cb-9b9b0435e8af",
+                    "id": "3c053f4a-c066-43e4-af58-548dca96a50d",
                     "boundaryNum": 1,
                     "name": "Baghara - Ward No. 6",
                     "localname": "Baghara - Ward No. 6",
@@ -218,7 +218,7 @@
                     "children": []
                   },
                   {
-                    "id": "eb4c626b-a230-43b1-bdf1-30db29097120",
+                    "id": "112279f5-2d45-48c3-aa13-bf58ae0b2b10",
                     "boundaryNum": 1,
                     "name": "Galla Bazar - Ward No. 6",
                     "localname": "Galla Bazar - Ward No. 6",
@@ -232,7 +232,7 @@
                 ]
               },
               {
-                "id": "a55ae1fc-c083-4d43-88ec-bca31d7cbf84",
+                "id": "b4714bb7-b16d-47c9-88ab-32b494978baa",
                 "boundaryNum": 1,
                 "name": "Ward No. 7",
                 "localname": "Ward No. 7",
@@ -242,7 +242,7 @@
                 "code": "W007",
                 "children": [
                   {
-                    "id": "52465a38-a0e0-4fb2-abd1-7dc5280eb417",
+                    "id": "11b883de-baec-4d28-b96d-697c41c224e6",
                     "boundaryNum": 1,
                     "name": "Kydganj - Ward No. 7",
                     "localname": "Kydganj - Ward No. 7",
@@ -254,7 +254,7 @@
                     "children": []
                   },
                   {
-                    "id": "f1b39ccf-7b77-45fb-9b32-c3a55964b923",
+                    "id": "d524a9f8-326d-480f-b02d-8caf3ebb530c",
                     "boundaryNum": 1,
                     "name": "Beni Bandh - Ward No. 7",
                     "localname": "Beni Bandh - Ward No. 7",
