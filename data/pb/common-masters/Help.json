@@ -81,6 +81,11 @@
       "tenant": "pb.jammu",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jammu/TradeTypeSubtypeDetails_Jammu.pdf"
+    },
+    {
+      "tenant": "pb.jalandhar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jalandhar/TradeTypeSubtypeDetails_Jalandhar.pdf"
     }
   ]
 }

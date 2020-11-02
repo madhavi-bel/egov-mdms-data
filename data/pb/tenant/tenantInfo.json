@@ -182,6 +182,19 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.jalandhar",
+      "districtCode": "34",
+      "population": "47845",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "PU",
+        "HN"
+      ]
     }
   ]
 }
