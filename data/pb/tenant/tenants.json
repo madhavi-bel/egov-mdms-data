@@ -565,6 +565,40 @@
       },
       "address": "Office of the Cantonment Board, Jindan Road, Jalandhar Cantt, Jalandhar, Punjab-144005",
       "contactNumber": "0181-2260250"
+    },
+    {
+      "code": "pb.danapur",
+      "name": "Cantonment Board Danapur",
+      "description": "Danapur",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/danapurlogo.png",
+      "logoIdPdf": "danapur.png",
+      "imageId": null,
+      "domainUrl": "https://www.cbdanapur.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/danapurcb",
+      "facebookUrl": "https://www.facebook.com/CBDanapur",
+      "emailId": "ceodana-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Danapur",
+        "localName": "Danapur Cantt",
+        "districtCode": "212",
+        "districtName": "Patna",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 85.0415,
+        "latitude": 25.6352,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277261",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Danapur",
+        "population": "28723"
+      },
+      "address": "Office of Cantonment Board, Danapur Cantt-801503",
+      "contactNumber": "Ph No: 06115-227414"
     }
   ]
 }

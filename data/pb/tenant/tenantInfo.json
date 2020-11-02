@@ -195,6 +195,18 @@
         "PU",
         "HN"
       ]
+    },
+    {
+      "code": "pb.danapur",
+      "districtCode": "212",
+      "population": "28723",
+      "malePopulation": "16091",
+      "femalePopultion": "12632",
+      "workingPopulation": "--",
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }

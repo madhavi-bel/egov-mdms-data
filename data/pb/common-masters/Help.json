@@ -86,6 +86,11 @@
       "tenant": "pb.jalandhar",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jalandhar/TradeTypeSubtypeDetails_Jalandhar.pdf"
+    },
+    {
+      "tenant": "pb.danapur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/danapur/TradeTypeSubtypeDetails_Danapur.pdf"
     }
   ]
 }

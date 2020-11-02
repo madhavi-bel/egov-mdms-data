@@ -53,6 +53,9 @@
         },
         {
           "code": "pb.jalandhar"
+        },
+	{
+          "code": "pb.danapur"
         }
       ]
     },
@@ -107,6 +110,9 @@
         },
         {
           "code": "pb.jalandhar"
+        },
+	{
+          "code": "pb.danapur"
         }
       ]
     },
@@ -161,6 +167,9 @@
         },
         {
           "code": "pb.jalandhar"
+        },
+	{
+          "code": "pb.danapur"
         }
       ]
     }
