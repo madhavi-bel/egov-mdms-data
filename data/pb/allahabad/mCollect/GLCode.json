@@ -5,21 +5,21 @@
     [
       {
         "code": "ASSREV.COMP_CONCESSION",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "ASSREV.COMP_TAX",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "ASSREV.COMP_TAXOTHER",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "CREDDEP.MNY_DEP",
@@ -29,9 +29,9 @@
       },
       {
         "code": "CREDDEP.CAND_SEC_DEP",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "CREDDEP.SEC_DEP",
@@ -41,21 +41,21 @@
       },
       {
         "code": "ENTFEE.MUSEUM",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "ENTFEE.PARK",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "ENTFEE.PLYGRND",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "ENTFEE.VEH",
@@ -65,15 +65,15 @@
       },
       {
         "code": "GRNTINT.MDM",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "GRNTINT.SBM",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "GRNTINT.INF",
@@ -89,15 +89,15 @@
       },
       {
         "code": "GRNTINT.INT_LOAN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "GRNTINT.REV_GRNT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "GRNTINT.INT_FD",
@@ -113,9 +113,9 @@
       },
       {
         "code": "OTHFEE.APP_FEE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.BETT_CHRG",
@@ -125,63 +125,63 @@
       },
       {
         "code": "OTHFEE.BIRTH_REG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.BLD_FEE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.CATT_CHALLAN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.COMP_UNAUTH",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.COMPD_DLYAPP",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.COMPD_FEE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.CONSRV",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.CONST_WASTE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.CRT_STMP",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DRY_ANML_CHALLAN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DMG_CHRG",
@@ -191,27 +191,27 @@
       },
       {
         "code": "OTHFEE.DEAD_ANML_CONT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DEATH_REG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DENG_CHALLAN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DEV_CHRG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DISTRAINT",
@@ -221,21 +221,21 @@
       },
       {
         "code": "OTHFEE.DISTRAINT_TAX",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DRINK_WT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DUMP_GRBG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.EDU",
@@ -245,57 +245,57 @@
       },
       {
         "code": "OTHFEE.ELEC_RLY",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.EMP_REG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.ENCRMNT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.MTN_TR",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.CERT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.DC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.GRNT_PERM",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.OD",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.HC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.ISS_BIRTHCERT",
@@ -305,27 +305,27 @@
       },
       {
         "code": "OTHFEE.ISS_DEATHCERT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.ISS_SANTICERT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.VOTERLIST",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.RICKSHW",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.LIC",
@@ -341,9 +341,9 @@
       },
       {
         "code": "OTHFEE.MISC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.MTN",
@@ -353,39 +353,39 @@
       },
       {
         "code": "OTHFEE.NDC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.NOTICE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.PENALT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.OTH_SHOW",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.PARK_ELEC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.PLASTIC_CHALLAN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.REG",
@@ -395,33 +395,33 @@
       },
       {
         "code": "OTHFEE.REGL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.REHRI",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.RD_SHOW",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.RTI",
         "glcode": "190-1534",
-        "dept": "nan",
-        "fund": "nan"
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.SLGHT_HS",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.TEHBAZZZRI",
@@ -437,21 +437,21 @@
       },
       {
         "code": "OTHFEE.TREE_AUC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.TR_ASS_TAX",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.WF",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.WATER_CHRG",
@@ -467,33 +467,33 @@
       },
       {
         "code": "OTHERS.CESS",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHERS.DEPOSIT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHERS.CLAIM",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHERS.DISPOSAL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHERS.RECOVERY",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.COM_CEN_BK",
@@ -503,15 +503,15 @@
       },
       {
         "code": "RENT.EREC_POL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.EXB_CIRC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.CANTT_FUND",
@@ -521,9 +521,9 @@
       },
       {
         "code": "RENT.CA",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.GH",
@@ -539,45 +539,45 @@
       },
       {
         "code": "RENT.REMIS_REFND",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.ST_VEN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.TEL_TW",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.TEMP_STALL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.ULB_LEASE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.ULB_PATTA",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.ULB_NAZOOL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "RENT.ULB_SHP",
@@ -587,15 +587,15 @@
       },
       {
         "code": "RENT.ULB_LIC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "SALE.AUC_TREE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "SALE.FRM_PUB",
@@ -605,9 +605,9 @@
       },
       {
         "code": "SALE.PROD",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "SALE.STR_SCRP",
@@ -683,9 +683,9 @@
       },
       {
         "code": "TX.ADVT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "TX.CONS",
@@ -695,27 +695,27 @@
       },
       {
         "code": "TX.PROF",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "TX.SANT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "TX.TOLL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.BUR_GRND",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.NEW_WATER_CONC",
@@ -731,33 +731,33 @@
       },
       {
         "code": "UC.COST_FEED_AN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.CREMAT_CHRG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.EDU_CESS",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.FNRL_VAN",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.GRBG_COLL",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.LIB_MEM",
@@ -767,33 +767,33 @@
       },
       {
         "code": "UC.MTRL_STACK",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.PU_TLT",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.PERM_BORE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.PROCES_FEE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.PUB_FEE",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.MOB_TLT",
@@ -809,9 +809,9 @@
       },
       {
         "code": "UC.SEP_TNK_CLR",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.WATER_TNK",

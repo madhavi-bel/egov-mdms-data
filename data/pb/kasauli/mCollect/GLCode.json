@@ -54,7 +54,7 @@
       {
         "code": "ENTFEE.PLYGRND",
         "glcode": "-",
-        "dept": "nan",
+        "dept": null,
         "fund": "-"
       },
       {
@@ -372,14 +372,14 @@
       {
         "code": "OTHFEE.OTH_SHOW",
         "glcode": "-",
-        "dept": "nan",
-        "fund": "nan"
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.PARK_ELEC",
         "glcode": "-",
-        "dept": "nan",
-        "fund": "nan"
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.PLASTIC_CHALLAN",

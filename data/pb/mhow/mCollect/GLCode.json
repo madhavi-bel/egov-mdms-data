@@ -5,7 +5,7 @@
     [
       {
         "code": "ASSREV.COMP_CONCESSION",
-        "glcode": "nan",
+        "glcode": null,
         "dept": "-",
         "fund": "-"
       },
@@ -13,13 +13,13 @@
         "code": "ASSREV.COMP_TAX",
         "glcode": "210-1169",
         "dept": "112",
-        "fund": "nan"
+        "fund": null
       },
       {
         "code": "ASSREV.COMP_TAXOTHER",
         "glcode": "210-1199",
         "dept": "210",
-        "fund": "nan"
+        "fund": null
       },
       {
         "code": "CREDDEP.MNY_DEP",
@@ -31,7 +31,7 @@
         "code": "CREDDEP.CAND_SEC_DEP",
         "glcode": "110-3619",
         "dept": "110",
-        "fund": "nan"
+        "fund": null
       },
       {
         "code": "CREDDEP.SEC_DEP",
@@ -353,9 +353,9 @@
       },
       {
         "code": "OTHFEE.NDC",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "OTHFEE.NOTICE",
@@ -737,9 +737,9 @@
       },
       {
         "code": "UC.CREMAT_CHRG",
-        "glcode": "nan",
-        "dept": "nan",
-        "fund": "nan"
+        "glcode": null,
+        "dept": null,
+        "fund": null
       },
       {
         "code": "UC.EDU_CESS",
