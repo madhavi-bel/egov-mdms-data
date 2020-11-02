@@ -143,6 +143,20 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.lebong",
+      "districtCode": "309",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "NE",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
