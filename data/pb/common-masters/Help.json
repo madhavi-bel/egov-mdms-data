@@ -96,6 +96,11 @@
       "tenant": "pb.dagshai",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dagshai/TradeTypeSubtypeDetails_Dagshai.pdf"
+    },
+    {
+      "tenant": "pb.roorkee",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/roorkee/TradeTypeSubtypeDetails_Roorkee.pdf"
     }
   ]
 }

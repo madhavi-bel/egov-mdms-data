@@ -219,6 +219,18 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.roorkee",
+      "districtCode": "50",
+      "population": "14689 Roorkee Cantt (Census- 2011)",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }
