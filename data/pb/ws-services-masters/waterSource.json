@@ -59,9 +59,9 @@
     },
     {
       "name": "Test",
-      "code": "Test.TEST",
-      "active": true,
-      "description": "Test water source which doesn't have subSource"
+      "code": "TEST",
+      "active": true 
+      
     }
   ]
 }
