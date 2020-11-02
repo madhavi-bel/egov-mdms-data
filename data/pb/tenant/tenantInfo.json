@@ -143,6 +143,19 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.kasauli",
+      "districtCode": "25",
+      "population": "3885",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     }
   ]
 }

@@ -429,6 +429,40 @@
       },
       "address": "Office of The Cantonment Board, Opposite Mhow Court, Mhow Cantt",
       "contactNumber": "Ph No: 07324-273226"
+    },
+    {
+      "code": "pb.kasauli",
+      "name": "Cantonment Board Kasauli",
+      "description": "Kasauli",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kasaulilogo.png",
+      "logoIdPdf": "kasauli.png",
+      "imageId": null,
+      "domainUrl": "https://cbkasauli.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CBKasauli",
+      "facebookUrl": "https://www.facebook.com/Cantonment-Board-Kasauli-157748314382589/",
+      "emailId": "ceokasa-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kasauli",
+        "localName": "Kasauli Cantt",
+        "districtCode": "25",
+        "districtName": "Solan",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 76.9649,
+        "latitude": 30.9013,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": null,
+        "regionCode": "---",
+        "municipalityName": "Cantonment Board Kasauli",
+        "population": "3885"
+      },
+      "address": "Office of the Cantonment Board Kasauli,Solan,HP 173204",
+      "contactNumber": "Ph. No 01792-273029"
     }
   ]
 }

@@ -66,6 +66,11 @@
       "tenant": "pb.mhow",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/mhow/TradeTypeSubtypeDetails_Mhow.pdf"
+    },
+    {
+      "tenant": "pb.kasauli",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kasauli/TradeTypeSubtypeDetails_Kasauli.pdf"
     }
   ]
 }
