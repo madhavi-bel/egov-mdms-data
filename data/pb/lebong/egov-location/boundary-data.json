@@ -18,7 +18,7 @@
         "code": "pb.lebong",
         "children": [
           {
-            "id": "6d7071ec-b8d7-4ddc-bcf8-7f4af0aa480b",
+            "id": "4bdf9eab-d312-4492-b848-2548cad2e10c",
             "boundaryNum": 1,
             "name": "Lebong cantt",
             "localname": "Lebong cantt",
@@ -28,7 +28,7 @@
             "code": "Z001",
             "children": [
               {
-                "id": "34e54df1-0a19-4dfe-aaaf-dda6242011be",
+                "id": "876d2eee-a744-4732-86ea-1c78fba39ce0",
                 "boundaryNum": 1,
                 "name": "Sadar Bazar Ward -1",
                 "localname": "Sadar Bazar Ward -1",
@@ -38,7 +38,7 @@
                 "code": "W001",
                 "children": [
                   {
-                    "id": "9516a26b-e2b4-40ab-a6ff-ee3bb2869f56",
+                    "id": "cd39d086-ca23-44ba-b393-de1732484b10",
                     "boundaryNum": 1,
                     "name": "Sadar Bazar - Sadar Bazar Ward -1",
                     "localname": "Sadar Bazar - Sadar Bazar Ward -1",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "id": "71f7188d-c620-4078-ac55-807c292275e5",
+                "id": "0aff49d3-2ed5-497c-bea2-973ac0f5a166",
                 "boundaryNum": 1,
                 "name": "Cricket Bazar Ward -2",
                 "localname": "Cricket Bazar Ward -2",
@@ -62,14 +62,14 @@
                 "code": "W002",
                 "children": [
                   {
-                    "id": "22d7422d-11bf-4792-8e77-70a1097a8467",
+                    "id": "431c8a33-2927-4491-b4f3-3d8e7d17d1b1",
                     "boundaryNum": 1,
                     "name": "CRICKET BAZAR - Cricket Bazar Ward -2",
                     "localname": "CRICKET BAZAR - Cricket Bazar Ward -2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2020-02-01 00:00:00",
+                    "code": "02_01",
                     "area": "Z001",
                     "children": []
                   }
