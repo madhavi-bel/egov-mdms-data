@@ -803,6 +803,40 @@
       },
       "address": "Office of Cantonment Board Dehuroad, Pune-412101",
       "contactNumber": "Ph No:- 020-27671222, 27672610(Fax)"
+    },
+    {
+      "code": "pb.ahmednagar",
+      "name": "Cantonment Board Ahmednagar",
+      "description": "Ahmednagar",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ahmednagarlogo.png",
+      "logoIdPdf": "ahmednagar.png",
+      "imageId": null,
+      "domainUrl": "cbahmednagar.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/ahmednagarcantt",
+      "facebookUrl": "https://www.facebook.com/ahmednagarcantt/",
+      "emailId": "ceoahmedn-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Ahmednagar",
+        "localName": "Ahmednagar Cantt",
+        "districtCode": "466",
+        "districtName": "Ahmednagar",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 74.7662308,
+        "latitude": 19.0886424,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277285",
+        "regionCode": "-",
+        "municipalityName": "Cantonment Board Ahmednagar",
+        "population": "28986"
+      },
+      "address": "Office of Cantonment Board, AMX Chowk, Camp, Bhinagar, Ahmednagar, 414002.",
+      "contactNumber": "0241-2326008"
     }
   ]
 }
