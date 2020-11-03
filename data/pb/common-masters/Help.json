@@ -131,6 +131,11 @@
       "tenant": "pb.amritsar",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/amritsar/TradeTypeSubtypeDetails_Amritsar.pdf"
+    },
+    {
+      "tenant": "pb.ramgarh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ramgarh/TradeTypeSubtypeDetails_Ramgarh.pdf"
     }
   ]
 }

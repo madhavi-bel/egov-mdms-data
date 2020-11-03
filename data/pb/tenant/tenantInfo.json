@@ -310,6 +310,16 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.ramgarh",
+      "districtCode": "607",
+      "population": "88781",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
     }
   ]
 }
