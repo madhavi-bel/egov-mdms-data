@@ -905,6 +905,40 @@
       },
       "address": "Office of Cantonment Board, Near Old Bus Stand, Ramgarh Cantt-829122",
       "contactNumber": "Ph No: 06553-222228"
+    },
+    {
+      "code": "pb.jalapahar",
+      "name": "CANTONMENT BOARD JALAPAHAR",
+      "description": "Jalapahar",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jalapaharlogo.png",
+      "logoIdPdf": "jalapahar.png",
+      "imageId": null,
+      "domainUrl": "http://cbjalapahar.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CEOJALAPAHAR",
+      "facebookUrl": "https://www.facebook.com/Cantonment-Board-Office-Jalapahar-Ministry-of-Defence-1382463245386641/",
+      "emailId": "ceojalap-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Jalapahar",
+        "localName": "Jalapahar Cantt",
+        "districtCode": "309",
+        "districtName": "Darjeeling",
+        "regionName": "Eastern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 88.259067,
+        "latitude": 27.027593,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277280",
+        "regionCode": "--",
+        "municipalityName": "CANTONMENT BOARD JALAPAHAR",
+        "population": "1711"
+      },
+      "address": "Office of The Cantonment Board,Jalapahar Cantt-734103",
+      "contactNumber": "Mob:8900723508"
     }
   ]
 }
