@@ -141,6 +141,11 @@
       "tenant": "pb.ramgarh",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ramgarh/TradeTypeSubtypeDetails_Ramgarh.pdf"
+    },
+    {
+      "tenant": "pb.wellington",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/wellington/TradeTypeSubtypeDetails_Wellington.pdf"
     }
   ]
 }

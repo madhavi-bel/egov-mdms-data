@@ -939,6 +939,40 @@
       },
       "address": "Office of The Cantonment Board,Jalapahar Cantt-734103",
       "contactNumber": "Mob:8900723508"
+    },
+    {
+      "code": "pb.wellington",
+      "name": "Cantonment Board Wellington",
+      "description": "Wellington",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/wellingtonlogo.png",
+      "logoIdPdf": "wellington.png",
+      "imageId": null,
+      "domainUrl": "https://cbwellington.in",
+      "type": "CITY",
+      "twitterUrl": "twitter.com/WellingtonCantt",
+      "facebookUrl": "-",
+      "emailId": "ceowell-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Wellington",
+        "localName": "Wellington Cantonment",
+        "districtCode": "587",
+        "districtName": "The Nilgiris",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 76.7838469,
+        "latitude": 11.3556913,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277302",
+        "regionCode": "-",
+        "municipalityName": "Cantonment Board Wellington",
+        "population": "19462"
+      },
+      "address": "The Chief Executive Officer,\nCantonment Board,\nMinistry of Defence,\nWellington,The Nilgiris - 643 231",
+      "contactNumber": "0423-2230213"
     }
   ]
 }

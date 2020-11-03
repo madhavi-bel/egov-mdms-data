@@ -334,6 +334,16 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.wellington",
+      "districtCode": "587",
+      "population": "19462",
+      "malePopulation": "10867",
+      "femalePopultion": "8595",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
     }
   ]
 }
