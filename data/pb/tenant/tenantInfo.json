@@ -255,6 +255,20 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.deolali",
+      "districtCode": "20",
+      "population": "54027",
+      "malePopulation": "28269",
+      "femalePopultion": "25758",
+      "workingPopulation": "79.9",
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
