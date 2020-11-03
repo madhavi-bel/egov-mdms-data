@@ -257,6 +257,21 @@
       ]
     },
     {
+
+      "code": "pb.dehuroad",
+      "districtCode": "490",
+      "population": "48961",
+      "malePopulation": "25971",
+      "femalePopultion": "22990",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "EN"
+      ]
+    },
+    {
       "code": "pb.deolali",
       "districtCode": "20",
       "population": "54027",
