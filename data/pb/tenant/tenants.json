@@ -735,6 +735,40 @@
       },
       "address": "Office of the Cantonment Board, Nasirabad, Rajasthan - 305601",
       "contactNumber": "01491-220019"
+    },
+    {
+      "code": "pb.dehuroad",
+      "name": "Cantonment Board Dehuroad",
+      "description": "Dehuroad",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dehuroadlogo.png",
+      "logoIdPdf": "dehuroad.png",
+      "imageId": null,
+      "domainUrl": "http://cbdehuroad.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/board_ceo",
+      "facebookUrl": "https://www.facebook.com/dehuroadcantonmentboard.cbdr.9/",
+      "emailId": "ceodehuroad@gmail.com,\nceodehu-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dehuroad",
+        "localName": "Dehuroad Cantt.",
+        "districtCode": "490",
+        "districtName": "Pune",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 73.735272,
+        "latitude": 18.681861,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "412101",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Dehuroad",
+        "population": "48961"
+      },
+      "address": "Office of Cantonment Board Dehuroad, Pune-412101",
+      "contactNumber": "Ph No:- 020-27671222, 27672610(Fax)"
     }
   ]
 }
