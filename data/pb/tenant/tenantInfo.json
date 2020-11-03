@@ -284,6 +284,20 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.amritsar",
+      "districtCode": "27",
+      "population": "10410",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "PU",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
