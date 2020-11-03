@@ -121,11 +121,6 @@
       "tenant": "pb.deolali",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/deolali/TradeTypeSubtypeDetails_Deolali.pdf"
-    },
-    {
-      "tenant": "pb.ahmednagar",
-      "code": "TL",
-      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ahmednagar/TradeTypeSubtypeDetails_Ahmednagar.pdf"
     }
   ]
 }
