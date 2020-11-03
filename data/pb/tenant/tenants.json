@@ -701,6 +701,40 @@
       },
       "address": "Office of the Chief Executive Officer, Near Bus Stand, Pipariya Road, Pachmarhi\nDistrict Hoshangabad 461881 Madhya Pradesh",
       "contactNumber": "07578-252027, 07578252441"
+    },
+    {
+      "code": "pb.nasirabad",
+      "name": "Cantonment Board Nasirabad",
+      "description": "Nasirabad",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/nasirabadlogo.png",
+      "logoIdPdf": "nasirabad.png",
+      "imageId": null,
+      "domainUrl": "www.cbnasirabad.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbnasirabad",
+      "facebookUrl": "https://www.facebook.com/CantonmentBoardNasirabad/",
+      "emailId": "ceonasi-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Nasirabad",
+        "localName": "Nasirabad Cantt",
+        "districtCode": "86",
+        "districtName": "Ajmer",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 74.734407,
+        "latitude": 26.297028,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": null,
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Nasirabad",
+        "population": "50804"
+      },
+      "address": "Office of the Cantonment Board, Nasirabad, Rajasthan - 305601",
+      "contactNumber": "01491-220019"
     }
   ]
 }

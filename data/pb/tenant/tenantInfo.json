@@ -243,6 +243,18 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.nasirabad",
+      "districtCode": "86",
+      "population": "50804",
+      "malePopulation": "28581",
+      "femalePopultion": "22223",
+      "workingPopulation": "19888",
+      "literacyRate": "0.8839",
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }
