@@ -28,17 +28,6 @@
             "code": "Z001",
             "children": [
               {
-                "id": "946518da-193a-4382-b24c-4ed58ff4cdd0",
-                "boundaryNum": 1,
-                "name": "Ward No. 1",
-                "localname": "Ward No. 1",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "W001",
-                "children": []
-              },
-              {
                 "id": "13588e52-ea1e-454b-9bce-6b399ee05b03",
                 "boundaryNum": 1,
                 "name": "Ward No. 2",
@@ -62,6 +51,17 @@
                   }
                 ]
               },
+              {
+                "id": "946518da-193a-4382-b24c-4ed58ff4cdd0",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": []
+              },              
               {
                 "id": "7a25ccc0-dd07-4822-a4d2-b94fd33f851e",
                 "boundaryNum": 1,

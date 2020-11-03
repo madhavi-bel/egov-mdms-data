@@ -28,28 +28,6 @@
             "code": "Z001",
             "children": [
               {
-                "id": "3adb9b51-fa91-4460-8615-f6b1eac625be",
-                "boundaryNum": 1,
-                "name": "Ward No. 1",
-                "localname": "Ward No. 1",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "W0001",
-                "children": []
-              },
-              {
-                "id": "590c394f-c139-4b0e-b003-a4101b339986",
-                "boundaryNum": 1,
-                "name": "Ward No. 2",
-                "localname": "Ward No. 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "W0002",
-                "children": []
-              },
-              {
                 "id": "e33bc7b4-4027-4e1e-9e93-aa3ab94a4fed",
                 "boundaryNum": 1,
                 "name": "Ward No. 3",
@@ -73,6 +51,28 @@
                   }
                 ]
               },
+              {
+                "id": "3adb9b51-fa91-4460-8615-f6b1eac625be",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W0001",
+                "children": []
+              },
+              {
+                "id": "590c394f-c139-4b0e-b003-a4101b339986",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W0002",
+                "children": []
+              },              
               {
                 "id": "17d06795-566c-4f36-b34b-fc17147685b8",
                 "boundaryNum": 1,

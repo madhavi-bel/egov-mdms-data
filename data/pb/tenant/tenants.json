@@ -873,6 +873,40 @@
       "contactNumber": "0183-2224738"
     },
     {
+      "code": "pb.ramgarh",
+      "name": "Cantonment board Ramgarh",
+      "description": "Ramgarh",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ramgarhlogo.png",
+      "logoIdPdf": "ramgarh.png",
+      "imageId": null,
+      "domainUrl": "http://cbramgarh.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ceoramg-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Ramgarh",
+        "localName": "Ramgarh Cantt",
+        "districtCode": "607",
+        "districtName": "Ramgarh",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 85.5110673,
+        "latitude": 23.6750489,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "2662",
+        "regionCode": null,
+        "municipalityName": "Cantonment board Ramgarh",
+        "population": "88781"
+      },
+      "address": "Office of Cantonment Board, Near Old Bus Stand, Ramgarh Cantt-829122",
+      "contactNumber": "Ph No: 06553-222228"
+    },
+    {
       "code": "pb.jalapahar",
       "name": "CANTONMENT BOARD JALAPAHAR",
       "description": "Jalapahar",
