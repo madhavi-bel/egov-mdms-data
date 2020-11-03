@@ -837,6 +837,40 @@
       },
       "address": "Office of Cantonment Board, AMX Chowk, Camp, Bhinagar, Ahmednagar, 414002.",
       "contactNumber": "0241-2326008"
+    },
+    {
+      "code": "pb.amritsar",
+      "name": "Cantonment Board Amritsar",
+      "description": "Amritsar",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/amritsarlogo.png",
+      "logoIdPdf": "amritsar.png",
+      "imageId": null,
+      "domainUrl": "https://cbamritsar.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/BoardCantt",
+      "facebookUrl": null,
+      "emailId": "ceoamri-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Amritsar",
+        "localName": "Amritsar Cantt",
+        "districtCode": "27",
+        "districtName": "Amritsar",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 74.8723,
+        "latitude": 31.634,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277304",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Amritsar",
+        "population": "10410"
+      },
+      "address": "Office of Cantonment Board Amritsar, Harkirat Road, Amritsar",
+      "contactNumber": "0183-2224738"
     }
   ]
 }

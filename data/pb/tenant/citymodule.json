@@ -77,6 +77,9 @@
         },
         {
           "code": "pb.ahmednagar"
+        },
+	{
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -155,6 +158,9 @@
         },
         {
           "code": "pb.ahmednagar"
+        },
+	{
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -233,6 +239,9 @@
         },
         {
           "code": "pb.ahmednagar"
+        },
+	{
+          "code": "pb.amritsar"
         }
       ]
     }
