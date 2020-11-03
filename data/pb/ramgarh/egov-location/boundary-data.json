@@ -1,0 +1,468 @@
+{
+  "tenantId": "pb.ramgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ramgarh",
+        "localname": "Ramgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ramgarh",
+        "children": [
+          {
+            "id": "61e1de3f-d41e-44b8-a9ee-d0ea6d086b64",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "05af4088-33c5-4c6b-9c7c-952ef01c9e93",
+                "boundaryNum": 1,
+                "name": "Ward No. 01",
+                "localname": "Ward No. 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "4a7ccefd-3c7b-4a26-8107-c01e5e24f425",
+                    "boundaryNum": 1,
+                    "name": "Ranchi Road - Ward No. 01",
+                    "localname": "Ranchi Road - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e4dd0684-a5c5-4ad8-8260-5df12a6361db",
+                    "boundaryNum": 1,
+                    "name": "Argada - Ward No. 01",
+                    "localname": "Argada - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ba94a098-c609-4beb-a5a8-c0d6c3896065",
+                    "boundaryNum": 1,
+                    "name": "Marrar - Ward No. 01",
+                    "localname": "Marrar - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "8d5deac3-5300-4dcf-b982-bd12079deb41",
+                    "boundaryNum": 1,
+                    "name": "Hesla - Ward No. 01",
+                    "localname": "Hesla - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4e31d226-9a4a-4f94-8779-be063caa6642",
+                "boundaryNum": 1,
+                "name": "Ward No. 02",
+                "localname": "Ward No. 02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "b2d5d146-9eea-49fb-9357-3392409aeff5",
+                    "boundaryNum": 1,
+                    "name": "Jhanda Chowk - Ward No. 02",
+                    "localname": "Jhanda Chowk - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dafec6b4-543a-439d-8a88-a7780bb961f9",
+                    "boundaryNum": 1,
+                    "name": "Thana Chowk - Ward No. 02",
+                    "localname": "Thana Chowk - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6a62e513-8f6f-494d-b21f-f56e0e4f7c45",
+                    "boundaryNum": 1,
+                    "name": "Golpar - Ward No. 02",
+                    "localname": "Golpar - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "02199531-7675-4714-8ad7-0e889b6aa7f5",
+                    "boundaryNum": 1,
+                    "name": "Naisarai - Ward No. 02",
+                    "localname": "Naisarai - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cd23d633-d976-46ca-9b44-7cb5331d8535",
+                "boundaryNum": 1,
+                "name": "Ward No. 03",
+                "localname": "Ward No. 03",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "6bd2b708-77aa-4123-909d-d0a7ed8c7e13",
+                    "boundaryNum": 1,
+                    "name": "Dusadh Tola - Ward No. 03",
+                    "localname": "Dusadh Tola - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f5090f37-8555-4df6-8586-0984e772d4e0",
+                    "boundaryNum": 1,
+                    "name": "saudagar Tola - Ward No. 03",
+                    "localname": "saudagar Tola - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "010ef9d2-37ce-49e5-94ef-cd42665af521",
+                "boundaryNum": 1,
+                "name": "Ward No. 04",
+                "localname": "Ward No. 04",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "3fec4371-bd2c-4394-9704-fecee8cd43b0",
+                    "boundaryNum": 1,
+                    "name": "Koyari Tola - Ward No. 04",
+                    "localname": "Koyari Tola - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "87816977-a19c-4ca4-88a8-ea82cfd414d6",
+                    "boundaryNum": 1,
+                    "name": "Kuwar Tola - Ward No. 04",
+                    "localname": "Kuwar Tola - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "626d816a-8bce-4992-96fd-dfdcfe48a88f",
+                    "boundaryNum": 1,
+                    "name": "Gola Road - Ward No. 04",
+                    "localname": "Gola Road - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e87df317-11bf-4104-ae98-7fe2c85f3d47",
+                    "boundaryNum": 1,
+                    "name": "Parsotiya - Ward No. 04",
+                    "localname": "Parsotiya - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "21524bd2-5400-47e9-8361-a55698b349d5",
+                    "boundaryNum": 1,
+                    "name": "Bazar Tard - Ward No. 04",
+                    "localname": "Bazar Tard - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61fbc159-fb06-4f71-8e4e-ca9d8bd6e3f4",
+                "boundaryNum": 1,
+                "name": "Ward No. 05",
+                "localname": "Ward No. 05",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "dc2ffefd-133a-41be-b2c1-4ad32dfee5ae",
+                    "boundaryNum": 1,
+                    "name": "Bangali Tola - Ward No. 05",
+                    "localname": "Bangali Tola - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6c2b6022-1f8e-41b4-8489-1c4cb28e95f6",
+                    "boundaryNum": 1,
+                    "name": "Chhotki Murram - Ward No. 05",
+                    "localname": "Chhotki Murram - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c76d310f-f8fa-4c7a-b843-1e875a41209f",
+                    "boundaryNum": 1,
+                    "name": "Bijulia - Ward No. 05",
+                    "localname": "Bijulia - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "aa599784-d847-4701-b4bc-6fe3fde36aa4",
+                    "boundaryNum": 1,
+                    "name": "Goriyari bagh - Ward No. 05",
+                    "localname": "Goriyari bagh - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a3df49b-b6b0-495d-a00b-d35b69eea05d",
+                "boundaryNum": 1,
+                "name": "Ward No. 06",
+                "localname": "Ward No. 06",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "6f301879-34b8-4e98-9031-2031c497f069",
+                    "boundaryNum": 1,
+                    "name": "Patratu basti - Ward No. 06",
+                    "localname": "Patratu basti - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b562210e-88c2-43bc-89dd-2b49e08ff11f",
+                    "boundaryNum": 1,
+                    "name": "Jara Tola - Ward No. 06",
+                    "localname": "Jara Tola - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae0a754c-d144-4a34-89c1-014cc87c9fbb",
+                "boundaryNum": 1,
+                "name": "Ward No. 07",
+                "localname": "Ward No. 07",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "0e1c563c-bfc8-4067-aad0-1f9d040fae9c",
+                    "boundaryNum": 1,
+                    "name": "Pochra - Ward No. 07",
+                    "localname": "Pochra - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f256e1fb-ae90-4299-a39b-3522ad390e65",
+                    "boundaryNum": 1,
+                    "name": "Chhotka Kana - Ward No. 07",
+                    "localname": "Chhotka Kana - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6c8bb03b-7ee4-4a66-bff1-fa78039bc055",
+                    "boundaryNum": 1,
+                    "name": "Jamira - Ward No. 07",
+                    "localname": "Jamira - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5739c8cd-fb81-4c68-80a9-166bbc37e2de",
+                    "boundaryNum": 1,
+                    "name": "Kaira Bihar - Ward No. 07",
+                    "localname": "Kaira Bihar - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a3d25e8-aae6-4c02-bd7b-9166faca7e76",
+                "boundaryNum": 1,
+                "name": "Ward No. 08",
+                "localname": "Ward No. 08",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "a9c778ca-409b-4c30-bd1f-23a2fa36888e",
+                    "boundaryNum": 1,
+                    "name": "Lohar Tola - Ward No. 08",
+                    "localname": "Lohar Tola - Ward No. 08",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2a67c9d1-cf9c-4dbe-9aa4-2cee5055f9ae",
+                    "boundaryNum": 1,
+                    "name": "Main Road - Ward No. 08",
+                    "localname": "Main Road - Ward No. 08",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "46cc9178-71fe-4f31-ac36-94768870ca85",
+                    "boundaryNum": 1,
+                    "name": "O.D.A - Ward No. 08",
+                    "localname": "O.D.A - Ward No. 08",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8_3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
