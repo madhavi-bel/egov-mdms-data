@@ -69,8 +69,11 @@
         {
           "code": "pb.nasirabad"
         },
-	{
+	      {
           "code": "pb.dehuroad"
+        },
+        {
+          "code": "pb.deolali"
         }
       ]
     },
@@ -141,8 +144,11 @@
         {
           "code": "pb.nasirabad"
         },
-	{
+	      {
           "code": "pb.dehuroad"
+        },
+        {
+          "code": "pb.deolali"
         }
       ]
     },
@@ -213,8 +219,11 @@
         {
           "code": "pb.nasirabad"
         },
-	{
+	      {
           "code": "pb.dehuroad"
+        },
+        {
+          "code": "pb.deolali"
         }
       ]
     }

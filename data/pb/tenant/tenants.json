@@ -737,38 +737,38 @@
       "contactNumber": "01491-220019"
     },
     {
-      "code": "pb.dehuroad",
-      "name": "Cantonment Board Dehuroad",
-      "description": "Dehuroad",
-      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dehuroadlogo.png",
-      "logoIdPdf": "dehuroad.png",
+      "code": "pb.deolali",
+      "name": "Cantonment Board Deolali",
+      "description": "Deolali",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/deolalilogo.png",
+      "logoIdPdf": "deolali.png",
       "imageId": null,
-      "domainUrl": "http://cbdehuroad.org/",
+      "domainUrl": "https://www.cbdeolali.org.in/",
       "type": "CITY",
-      "twitterUrl": "https://twitter.com/board_ceo",
-      "facebookUrl": "https://www.facebook.com/dehuroadcantonmentboard.cbdr.9/",
-      "emailId": "ceodehuroad@gmail.com,\nceodehu-stats@nic.in",
+      "twitterUrl": "https://twitter.com/ceodeolali",
+      "facebookUrl": null,
+      "emailId": "ceodeol-stats@nic.in",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
       "city": {
-        "name": "Dehuroad",
-        "localName": "Dehuroad Cantt.",
-        "districtCode": "490",
-        "districtName": "Pune",
+        "name": "Deolali",
+        "localName": "Deolali Cantonment",
+        "districtCode": "20",
+        "districtName": "Nashik",
         "regionName": "Southern Command",
         "ulbGrade": "Cantonment Board",
-        "longitude": 73.735272,
-        "latitude": 18.681861,
+        "longitude": 73.8289,
+        "latitude": 19.8999,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "412101",
-        "regionCode": "--",
-        "municipalityName": "Cantonment Board Dehuroad",
-        "population": "48961"
+        "code": "422401",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Deolali",
+        "population": "54027"
       },
-      "address": "Office of Cantonment Board Dehuroad, Pune-412101",
-      "contactNumber": "Ph No:- 020-27671222, 27672610(Fax)"
+      "address": "Office of the Cantonment Board Deolali, Cannaught Road, Deolali Camp, Pin code 422401",
+      "contactNumber": "Tel : 0253 2491206"
     }
   ]
 }

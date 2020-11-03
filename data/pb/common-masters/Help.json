@@ -116,6 +116,11 @@
       "tenant": "pb.dehuroad",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dehuroad/TradeTypeSubtypeDetails_Dehuroad.pdf"
+    },
+    {
+      "tenant": "pb.deolali",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/deolali/TradeTypeSubtypeDetails_Deolali.pdf"
     }
   ]
 }
