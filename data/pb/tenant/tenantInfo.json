@@ -309,6 +309,20 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.jalapahar",
+      "districtCode": "309",
+      "population": "1711",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "NE",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }

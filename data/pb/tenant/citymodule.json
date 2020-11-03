@@ -80,6 +80,9 @@
         },
 	{
           "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.jalapahar"
         }
       ]
     },
@@ -161,6 +164,9 @@
         },
 	{
           "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.jalapahar"
         }
       ]
     },
@@ -242,6 +248,9 @@
         },
 	{
           "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.jalapahar"
         }
       ]
     }
