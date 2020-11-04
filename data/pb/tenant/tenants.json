@@ -1381,6 +1381,40 @@
       },
       "address": "Cantonment Board Office\n Yol Cantonment Board,\n Khas Yol,Distt. Kangra (Himachal Pradesh).",
       "contactNumber": "01892-236014"
+    },
+    {
+      "code": "pb.jutogh",
+      "name": "JUTOGH CANTT.",
+      "description": "Jutogh",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jutoghlogo.png",
+      "logoIdPdf": "jutogh.png",
+      "imageId": null,
+      "domainUrl": "https://cbjutogh.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CeoJutogh",
+      "facebookUrl": "https://www.facebook.com/jutoghcantt",
+      "emailId": "ceojuto-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Jutogh",
+        "localName": "Jutogh Cantt.",
+        "districtCode": "23",
+        "districtName": "Shimla",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 77.1098773,
+        "latitude": 31.1033947,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "171008",
+        "regionCode": null,
+        "municipalityName": "JUTOGH CANTT.",
+        "population": "2062"
+      },
+      "address": "Office of Cantonment Board jutogh, Jutogh Cantt. Shimla H.P-1710008",
+      "contactNumber": "Ph. No. 0177-2837598"
     }
   ]
 }

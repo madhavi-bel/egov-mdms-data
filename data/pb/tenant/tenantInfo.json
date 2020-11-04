@@ -492,6 +492,19 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.jutogh",
+      "districtCode": "23",
+      "population": "2062",
+      "malePopulation": "1434",
+      "femalePopultion": "628",
+      "workingPopulation": "1600",
+      "literacyRate": "1600",
+      "languagesSpoken": [
+        "HN",
+        "PA"
+      ]
     }
   ]
 }

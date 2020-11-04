@@ -206,6 +206,11 @@
       "tenant": "pb.khasyol",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/khasyol/TradeTypeSubtypeDetails_Khasyol.pdf"
+    },
+    {
+      "tenant": "pb.jutogh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jutogh/TradeTypeSubtypeDetails_Jutogh.pdf"
     }
   ]
 }
