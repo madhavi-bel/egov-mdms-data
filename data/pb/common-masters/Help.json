@@ -266,6 +266,11 @@
       "tenant": "pb.cannanore",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/cannanore/TradeTypeSubtypeDetails_Cannanore.pdf"
+    },
+    {
+      "tenant": "pb.bakloh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/bakloh/TradeTypeSubtypeDetails_Bakloh.pdf"
     }
   ]
 }

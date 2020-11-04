@@ -1789,6 +1789,40 @@
       },
       "address": "Office of the Cantonment Board, HQ Hospital PO, Kannur -670017",
       "contactNumber": "Ph No. 0497-2731086"
+    },
+    {
+      "code": "pb.bakloh",
+      "name": "Bakloh Cantonment  Board",
+      "description": "Bakloh",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/baklohlogo.png",
+      "logoIdPdf": "bakloh.png",
+      "imageId": null,
+      "domainUrl": "www.cbbakloh.org.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ceobakl-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Bakloh",
+        "localName": "Bakloh Cantt",
+        "districtCode": "16",
+        "districtName": "Chamba",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 75.923458,
+        "latitude": 32.4696395,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "176301",
+        "regionCode": "--",
+        "municipalityName": "Bakloh Cantonment  Board",
+        "population": "1805"
+      },
+      "address": "Cantonment Board Bakloh tehsil Bhattiyat Dist Chamba Himachal Pradesh Pin code 176301",
+      "contactNumber": "01899-257110"
     }
   ]
 }
