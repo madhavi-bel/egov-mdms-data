@@ -505,6 +505,30 @@
         "HN",
         "PA"
       ]
+    },
+    {
+      "code": "pb.shahjahanpur",
+      "districtCode": "180",
+      "population": "18116",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.varanasi",
+      "districtCode": "187",
+      "population": "14119",
+      "malePopulation": "7742",
+      "femalePopultion": "6377",
+      "workingPopulation": null,
+      "literacyRate": "0.7938",
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }

@@ -1415,6 +1415,74 @@
       },
       "address": "Office of Cantonment Board jutogh, Jutogh Cantt. Shimla H.P-1710008",
       "contactNumber": "Ph. No. 0177-2837598"
+    },
+    {
+      "code": "pb.shahjahanpur",
+      "name": "Shahjahanpur Cantonment Board",
+      "description": "Shahjahanpur",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/shahjahanpurlogo.png",
+      "logoIdPdf": "shahjahanpur.png",
+      "imageId": null,
+      "domainUrl": "cbshahjahanpur.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbshahjahanpur",
+      "facebookUrl": "https://www.facebook.com/spncanttboard",
+      "emailId": "ceoshah-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Shahjahanpur",
+        "localName": "Shahjahanpur Cantt",
+        "districtCode": "180",
+        "districtName": "Shahjahanpur",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.8297,
+        "latitude": 27.8296,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277277",
+        "regionCode": "--",
+        "municipalityName": "Shahjahanpur Cantonment Board",
+        "population": "18116"
+      },
+      "address": "Office of the Cantonment Board, 17 Cariappa Marg, Shahjahanpur Cantt-242001",
+      "contactNumber": "05842-280852"
+    },
+    {
+      "code": "pb.varanasi",
+      "name": "Cantonment Board Varanasi",
+      "description": "Varanasi",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/varanasilogo.png",
+      "logoIdPdf": "varanasi.png",
+      "imageId": null,
+      "domainUrl": "cbvaranasi.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CanttVaranasi",
+      "facebookUrl": null,
+      "emailId": "ceovara-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Varanasi",
+        "localName": "Varanasi Cantt",
+        "districtCode": "187",
+        "districtName": "Varanasi",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 82.9685371,
+        "latitude": 25.3399078,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "221002",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Varanasi",
+        "population": "14119"
+      },
+      "address": "Office of Cantonment Board Varanasi, Bungalow No. 22, Varanasi Cantt - 221002",
+      "contactNumber": "Ph No: 0542-2503215"
     }
   ]
 }

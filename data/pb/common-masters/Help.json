@@ -211,6 +211,16 @@
       "tenant": "pb.jutogh",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jutogh/TradeTypeSubtypeDetails_Jutogh.pdf"
-    }
+    },
+    {
+      "tenant": "pb.shahjahanpur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/shahjahanpur/TradeTypeSubtypeDetails_Shahjahanpur.pdf"
+    },
+    {
+      "tenant": "pb.varanasi",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/varanasi/TradeTypeSubtypeDetails_Varanasi.pdf"
+    },
   ]
 }
