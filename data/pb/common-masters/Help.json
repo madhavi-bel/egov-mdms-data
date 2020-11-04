@@ -231,6 +231,41 @@
       "tenant": "pb.dalhousie",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dalhousie/TradeTypeSubtypeDetails_Dalhousie.pdf"
+    },
+    {
+      "tenant": "pb.shillong",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/shillong/TradeTypeSubtypeDetails_Shillong.pdf"
+    },
+    {
+      "tenant": "pb.badamibagh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/badamibagh/TradeTypeSubtypeDetails_Badamibagh.pdf"
+    },
+    {
+      "tenant": "pb.ajmer",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ajmer/TradeTypeSubtypeDetails_Ajmer.pdf"
+    },
+    {
+      "tenant": "pb.aurangabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/aurangabad/TradeTypeSubtypeDetails_Aurangabad.pdf"
+    },
+    {
+      "tenant": "pb.babina",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/babina/TradeTypeSubtypeDetails_Babina.pdf"
+    },
+    {
+      "tenant": "pb.belgaum",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/belgaum/TradeTypeSubtypeDetails_Belgaum.pdf"
+    },
+    {
+      "tenant": "pb.cannanore",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/cannanore/TradeTypeSubtypeDetails_Cannanore.pdf"
     }
   ]
 }

@@ -140,6 +140,27 @@
         },
         {
           "code": "pb.dalhousie"
+        },
+	{
+          "code": "pb.shillong"
+        },
+        {
+          "code": "pb.badamibagh"
+        },
+        {
+          "code": "pb.ajmer"
+        },
+        {
+          "code": "pb.aurangabad"
+        },
+        {
+          "code": "pb.babina"
+        },
+        {
+          "code": "pb.belgaum"
+        },
+        {
+          "code": "pb.cannanore"
         }
       ]
     },
@@ -281,6 +302,27 @@
         },
         {
           "code": "pb.dalhousie"
+        },
+	{
+          "code": "pb.shillong"
+        },
+        {
+          "code": "pb.badamibagh"
+        },
+        {
+          "code": "pb.ajmer"
+        },
+        {
+          "code": "pb.aurangabad"
+        },
+        {
+          "code": "pb.babina"
+        },
+        {
+          "code": "pb.belgaum"
+        },
+        {
+          "code": "pb.cannanore"
         }
       ]
     },
@@ -422,6 +464,27 @@
         },
         {
           "code": "pb.dalhousie"
+        },
+	{
+          "code": "pb.shillong"
+        },
+        {
+          "code": "pb.badamibagh"
+        },
+        {
+          "code": "pb.ajmer"
+        },
+        {
+          "code": "pb.aurangabad"
+        },
+        {
+          "code": "pb.babina"
+        },
+        {
+          "code": "pb.belgaum"
+        },
+        {
+          "code": "pb.cannanore"
         }
       ]
     }
