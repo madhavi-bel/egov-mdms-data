@@ -973,6 +973,40 @@
       },
       "address": "The Chief Executive Officer,\nCantonment Board,\nMinistry of Defence,\nWellington,The Nilgiris - 643 231",
       "contactNumber": "0423-2230213"
+    },
+    {
+      "code": "pb.subathu",
+      "name": "Cantonment Board Subathu",
+      "description": "Subathu",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/subathulogo.png",
+      "logoIdPdf": "subathu.png",
+      "imageId": null,
+      "domainUrl": "https://cbsubathu.org/",
+      "type": "CITY",
+      "twitterUrl": "-",
+      "facebookUrl": "-",
+      "emailId": "ceosuba-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Subathu",
+        "localName": "Subathu",
+        "districtCode": "25",
+        "districtName": "Solan",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 76.98793,
+        "latitude": 30.976014,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "-",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Subathu",
+        "population": "3685"
+      },
+      "address": "Office Of The Cantonment Board, Bungalow No. 45 A Hazeldine, subathu, Distt Solan, H.P.",
+      "contactNumber": "01792-275025"
     }
   ]
 }

@@ -344,6 +344,20 @@
       "workingPopulation": null,
       "literacyRate": null,
       "languagesSpoken": []
+    },
+    {
+      "code": "pb.subathu",
+      "districtCode": "25",
+      "population": "3685",
+      "malePopulation": "-",
+      "femalePopultion": "-",
+      "workingPopulation": "-",
+      "literacyRate": "-",
+      "languagesSpoken": [
+        "EN",
+        "HN",
+        "NE"
+      ]
     }
   ]
 }

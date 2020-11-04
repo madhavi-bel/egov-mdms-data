@@ -146,6 +146,11 @@
       "tenant": "pb.wellington",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/wellington/TradeTypeSubtypeDetails_Wellington.pdf"
+    },
+    {
+      "tenant": "pb.subathu",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/subathu/TradeTypeSubtypeDetails_Subathu.pdf"
     }
   ]
 }
