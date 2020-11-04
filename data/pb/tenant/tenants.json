@@ -973,6 +973,142 @@
       },
       "address": "The Chief Executive Officer,\nCantonment Board,\nMinistry of Defence,\nWellington,The Nilgiris - 643 231",
       "contactNumber": "0423-2230213"
+    },
+    {
+      "code": "pb.almora",
+      "name": "Almora Cantt",
+      "description": "Almora",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/almoralogo.png",
+      "logoIdPdf": "almora.png",
+      "imageId": null,
+      "domainUrl": "https://cbalmora.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/almoracantt",
+      "facebookUrl": "https://www.facebook.com/cbalmora",
+      "emailId": "ceoalmo-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Almora",
+        "localName": "Almora Cantt",
+        "districtCode": "45",
+        "districtName": "Almora",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.645381,
+        "latitude": 29.587522,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "263601",
+        "regionCode": "--",
+        "municipalityName": "Almora Cantt",
+        "population": "1391"
+      },
+      "address": "Office of Cantonment Board,Tagore Bhawan, Almora Cantt-263601",
+      "contactNumber": "Ph No: 05962- 230049"
+    },
+    {
+      "code": "pb.chakrata",
+      "name": "Cantonment Board Chakrata",
+      "description": "Chakrata",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/chakratalogo.png",
+      "logoIdPdf": "chakrata.png",
+      "imageId": null,
+      "domainUrl": "http://cbchakrata.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbchakrata?lang=en",
+      "facebookUrl": null,
+      "emailId": "ceochak-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Chakrata",
+        "localName": "Chakrata Cantt",
+        "districtCode": "49",
+        "districtName": "Dehradun",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 30.7016,
+        "latitude": 77.8696,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248123",
+        "regionCode": "-",
+        "municipalityName": "Cantonment Board Chakrata",
+        "population": "5117"
+      },
+      "address": "Officer of Cantonment Board Chakrata, Distt.- Dehradun, Pin-248123",
+      "contactNumber": "Ph No: (01360) 272220"
+    },
+    {
+      "code": "pb.clementtown",
+      "name": "CB Clement Town",
+      "description": "ClementTown",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/clementtownlogo.png",
+      "logoIdPdf": "clementtown.png",
+      "imageId": null,
+      "domainUrl": "https://clementtowncb.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/clementtowncb",
+      "facebookUrl": "https://www.facebook.com/ClementTownCB/",
+      "emailId": "ceoclem-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "ClementTown",
+        "localName": "Clement Town Cantt",
+        "districtCode": "49",
+        "districtName": "Dehradun",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.0,
+        "latitude": 30.0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277260",
+        "regionCode": null,
+        "municipalityName": "CB Clement Town",
+        "population": "22557"
+      },
+      "address": "Office of Cantonment Board, Clement Town Cantonment, Dehradun",
+      "contactNumber": "None"
+    },
+    {
+      "code": "pb.dehradun",
+      "name": "Cantt Board Dehradun",
+      "description": "Dehradun",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dehradunlogo.png",
+      "logoIdPdf": "dehradun.png",
+      "imageId": null,
+      "domainUrl": "https://cbdehradun.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbdehradun",
+      "facebookUrl": "https://www.facebook.com/Cantonment-Board-Dehradun-106926951044486/?ref=bookmarks",
+      "emailId": "ceodehr-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dehradun",
+        "localName": "Dehradun Cantt",
+        "districtCode": "49",
+        "districtName": "Dehradun",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.0299,
+        "latitude": 30.3518,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277262",
+        "regionCode": "-",
+        "municipalityName": "Cantt Board Dehradun",
+        "population": "52716"
+      },
+      "address": "Office of the Cantonment Board, Garhi, Dehradun Cantt- 248003",
+      "contactNumber": "0135-2756814"
     }
   ]
 }

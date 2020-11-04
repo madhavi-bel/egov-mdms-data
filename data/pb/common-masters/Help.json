@@ -146,6 +146,26 @@
       "tenant": "pb.wellington",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/wellington/TradeTypeSubtypeDetails_Wellington.pdf"
+    },
+    {
+      "tenant": "pb.almora",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/almora/TradeTypeSubtypeDetails_Almora.pdf"
+    },
+    {
+      "tenant": "pb.chakrata",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/chakrata/TradeTypeSubtypeDetails_Chakrata.pdf"
+    },
+    {
+      "tenant": "pb.clementtown",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/clementtown/TradeTypeSubtypeDetails_ClementTown.pdf"
+    },
+    {
+      "tenant": "pb.dehradun",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dehradun/TradeTypeSubtypeDetails_Dehradun.pdf"
     }
   ]
 }
