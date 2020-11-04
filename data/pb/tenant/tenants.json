@@ -1857,6 +1857,40 @@
       },
       "address": "Office of the Cantonment Board, North Parade road, St. Thomas Mount, Chennai - 600016",
       "contactNumber": "044-22311718, 044-22332235"
+    },
+    {
+      "code": "pb.saugor",
+      "name": "CB Saugor",
+      "description": "Saugor",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/saugorlogo.png",
+      "logoIdPdf": "saugor.png",
+      "imageId": null,
+      "domainUrl": "www.cbsaugor.org",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbsaugor",
+      "facebookUrl": "https://www.facebook.com/saugor.cantonment",
+      "emailId": "ceosaug-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Saugor",
+        "localName": "Saugor Cantt",
+        "districtCode": "425",
+        "districtName": "Sagar",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.762714,
+        "latitude": 23.855107,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": null,
+        "regionCode": "--",
+        "municipalityName": "CB Saugor",
+        "population": "43513"
+      },
+      "address": "54, Mall Raod, Saugor Cantt, Saugor, M.P.-470001",
+      "contactNumber": "Ph No.07582-226222, 07582-227222 (Fax)"
     }
   ]
 }

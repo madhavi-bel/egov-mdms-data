@@ -276,6 +276,11 @@
       "tenant": "pb.stthomasmountcumpallavaram",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/stthomasmountcumpallavaram/TradeTypeSubtypeDetails_StThomasMountCumPallavaram.pdf"
+    },
+    {
+      "tenant": "pb.saugor",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/saugor/TradeTypeSubtypeDetails_Saugor.pdf"
     }
   ]
 }

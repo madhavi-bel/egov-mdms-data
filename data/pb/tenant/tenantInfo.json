@@ -673,6 +673,16 @@
         "TE",
         "EN"
       ]
+    },
+    {
+      "code": "pb.saugor",
+      "districtCode": "425",
+      "population": "43513",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
     }
   ]
 }
