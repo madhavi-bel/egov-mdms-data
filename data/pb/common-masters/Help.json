@@ -231,6 +231,11 @@
       "tenant": "pb.dalhousie",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dalhousie/TradeTypeSubtypeDetails_Dalhousie.pdf"
+    },
+    {
+      "tenant": "pb.bakloh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/bakloh/TradeTypeSubtypeDetails_Bakloh.pdf"
     }
   ]
 }
