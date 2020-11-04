@@ -271,6 +271,11 @@
       "tenant": "pb.bakloh",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/bakloh/TradeTypeSubtypeDetails_Bakloh.pdf"
+    },
+    {
+      "tenant": "pb.stthomasmountcumpallavaram",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/stthomasmountcumpallavaram/TradeTypeSubtypeDetails_StThomasMountCumPallavaram.pdf"
     }
   ]
 }

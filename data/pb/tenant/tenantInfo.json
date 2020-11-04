@@ -659,6 +659,20 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.stthomasmountcumpallavaram",
+      "districtCode": "730",
+      "population": "43795",
+      "malePopulation": "22108",
+      "femalePopultion": "21687",
+      "workingPopulation": "22000(APPROX)",
+      "literacyRate": "0.7",
+      "languagesSpoken": [
+        "TA",
+        "TE",
+        "EN"
+      ]
     }
   ]
 }

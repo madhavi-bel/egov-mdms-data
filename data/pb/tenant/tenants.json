@@ -1823,6 +1823,40 @@
       },
       "address": "Cantonment Board Bakloh tehsil Bhattiyat Dist Chamba Himachal Pradesh Pin code 176301",
       "contactNumber": "01899-257110"
+    },
+    {
+      "code": "pb.stthomasmountcumpallavaram",
+      "name": "CB St. Thomas Mount Cum Pallavaram",
+      "description": "StThomasMountCumPallavaram",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/stthomasmountcumpallavaramlogo.png",
+      "logoIdPdf": "stthomasmountcumpallavaram.png",
+      "imageId": null,
+      "domainUrl": "WWW.CBSTM.ORG.IN",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/ChennaiGreen",
+      "facebookUrl": "https://www.facebook.com/people/Chennai-Cantonment-Board/100014338847056",
+      "emailId": "CEOSTM-STATS@NIC.IN",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "StThomasMountCumPallavaram",
+        "localName": "St. Thomas Mount cum Pallavaram Cantt",
+        "districtCode": "730",
+        "districtName": "Chengalpattu",
+        "regionName": null,
+        "ulbGrade": "Cantonment Board",
+        "longitude": 80.0,
+        "latitude": 12.0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "252294",
+        "regionCode": null,
+        "municipalityName": "CB St. Thomas Mount Cum Pallavaram",
+        "population": "43795"
+      },
+      "address": "Office of the Cantonment Board, North Parade road, St. Thomas Mount, Chennai - 600016",
+      "contactNumber": "044-22311718, 044-22332235"
     }
   ]
 }
