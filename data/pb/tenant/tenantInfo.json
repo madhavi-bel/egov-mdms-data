@@ -405,6 +405,81 @@
       "workingPopulation": null,
       "literacyRate": null,
       "languagesSpoken": []
+    },
+    {
+      "code": "pb.faizabad",
+      "districtCode": "140",
+      "population": "12391",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.fatehgarh",
+      "districtCode": "141",
+      "population": "14793",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.jabalpur",
+      "districtCode": "411",
+      "population": "72257",
+      "malePopulation": "42719",
+      "femalePopultion": "29538",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.kanpur",
+      "districtCode": "157",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.landour",
+      "districtCode": "49",
+      "population": "3543",
+      "malePopulation": "1924",
+      "femalePopultion": "1619",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.lansdowne",
+      "districtCode": "6",
+      "population": "5667",
+      "malePopulation": "3533",
+      "femalePopultion": "2134",
+      "workingPopulation": "-",
+      "literacyRate": "0.926",
+      "languagesSpoken": [
+        "HN",
+        "HN"
+      ]
     }
   ]
 }

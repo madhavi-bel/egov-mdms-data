@@ -171,6 +171,36 @@
       "tenant": "pb.subathu",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/subathu/TradeTypeSubtypeDetails_Subathu.pdf"
+    },
+    {
+      "tenant": "pb.faizabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/faizabad/TradeTypeSubtypeDetails_Faizabad.pdf"
+    },
+    {
+      "tenant": "pb.fatehgarh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/fatehgarh/TradeTypeSubtypeDetails_Fatehgarh.pdf"
+    },
+    {
+      "tenant": "pb.jabalpur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jabalpur/TradeTypeSubtypeDetails_Jabalpur.pdf"
+    },
+    {
+      "tenant": "pb.kanpur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kanpur/TradeTypeSubtypeDetails_Kanpur.pdf"
+    },
+    {
+      "tenant": "pb.landour",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/landour/TradeTypeSubtypeDetails_Landour.pdf"
+    },
+    {
+      "tenant": "pb.lansdowne",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/lansdowne/TradeTypeSubtypeDetails_Lansdowne.pdf"
     }
   ]
 }
