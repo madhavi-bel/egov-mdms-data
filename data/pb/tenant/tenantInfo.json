@@ -358,6 +358,53 @@
         "HN",
         "NE"
       ]
+    },
+    {
+      "code": "pb.almora",
+      "districtCode": "45",
+      "population": "1391",
+      "malePopulation": "948",
+      "femalePopultion": "443",
+      "workingPopulation": "--",
+      "literacyRate": "0.84",
+      "languagesSpoken": [
+        "HN",
+        "KU"
+      ]
+    },
+    {
+      "code": "pb.chakrata",
+      "districtCode": "49",
+      "population": "5117",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.clementtown",
+      "districtCode": "49",
+      "population": "22557",
+      "malePopulation": "12797",
+      "femalePopultion": "9760",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.dehradun",
+      "districtCode": "49",
+      "population": "52716",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
     }
   ]
 }
