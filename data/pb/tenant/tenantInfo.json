@@ -529,6 +529,20 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.ferozepur",
+      "districtCode": "31",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "PU",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }

@@ -1483,6 +1483,40 @@
       },
       "address": "Office of Cantonment Board Varanasi, Bungalow No. 22, Varanasi Cantt - 221002",
       "contactNumber": "Ph No: 0542-2503215"
+    },
+    {
+      "code": "pb.ferozepur",
+      "name": "Cantonment Board Ferozepur",
+      "description": "Ferozepur",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ferozepurlogo.png",
+      "logoIdPdf": "ferozepur.png",
+      "imageId": null,
+      "domainUrl": "https://cbfzr.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ceofero-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Ferozepur",
+        "localName": "Ferozepur Cantt",
+        "districtCode": "31",
+        "districtName": "Ferozepur",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 74.616029,
+        "latitude": 30.941052,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277308",
+        "regionCode": null,
+        "municipalityName": "Cantonment Board Ferozepur",
+        "population": null
+      },
+      "address": "Office of the Cantonment Board, 83 Jhoke Road, Ferozepur Cantonment. Punjab- 152001",
+      "contactNumber": "1632244333"
     }
   ]
 }
