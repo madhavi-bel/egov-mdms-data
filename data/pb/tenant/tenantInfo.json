@@ -480,6 +480,18 @@
         "HN",
         "HN"
       ]
+    },
+    {
+      "code": "pb.khasyol",
+      "districtCode": "18",
+      "population": "12028",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }

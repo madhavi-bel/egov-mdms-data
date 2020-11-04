@@ -1347,6 +1347,40 @@
       },
       "address": "Office of the Cantonment Board Lansdowne, Flag Staff Road, Lansdowne, Pauri Garhwal, Uttarakhand-246155",
       "contactNumber": "Ph. No: 01386-263083, 262214"
+    },
+    {
+      "code": "pb.khasyol",
+      "name": "CB Khasyol",
+      "description": "Khasyol",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/khasyollogo.png",
+      "logoIdPdf": "khasyol.png",
+      "imageId": null,
+      "domainUrl": "https://cbkhasyol.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/ceokhasyol",
+      "facebookUrl": "https://www.facebook.com/Cantonment-Board-KhasYol-1687457514872187/",
+      "emailId": "ceokhas-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Khasyol",
+        "localName": "Khasyol Cantt",
+        "districtCode": "18",
+        "districtName": "Kangra",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 76.2,
+        "latitude": 32.17,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "800094",
+        "regionCode": null,
+        "municipalityName": "CB Khasyol",
+        "population": "12028"
+      },
+      "address": "Cantonment Board Office\n Yol Cantonment Board,\n Khas Yol,Distt. Kangra (Himachal Pradesh).",
+      "contactNumber": "01892-236014"
     }
   ]
 }

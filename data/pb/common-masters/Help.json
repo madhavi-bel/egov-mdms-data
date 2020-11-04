@@ -201,6 +201,11 @@
       "tenant": "pb.lansdowne",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/lansdowne/TradeTypeSubtypeDetails_Lansdowne.pdf"
+    },
+    {
+      "tenant": "pb.khasyol",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/khasyol/TradeTypeSubtypeDetails_Khasyol.pdf"
     }
   ]
 }
