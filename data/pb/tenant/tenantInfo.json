@@ -555,6 +555,98 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.shillong",
+      "districtCode": "274",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.badamibagh",
+      "districtCode": "13",
+      "population": "22214",
+      "malePopulation": "14315",
+      "femalePopultion": "7899",
+      "workingPopulation": null,
+      "literacyRate": "80.75",
+      "languagesSpoken": [
+        "UR",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.ajmer",
+      "districtCode": "86",
+      "population": "3530",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "MR"
+      ]
+    },
+    {
+      "code": "pb.aurangabad",
+      "districtCode": "19",
+      "population": "18051",
+      "malePopulation": "9639",
+      "femalePopultion": "8412",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "UR"
+      ]
+    },
+    {
+      "code": "pb.babina",
+      "districtCode": "153",
+      "population": "27852",
+      "malePopulation": "16275",
+      "femalePopultion": "11577",
+      "workingPopulation": "-",
+      "literacyRate": "-",
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.belgaum",
+      "districtCode": "527",
+      "population": "19811",
+      "malePopulation": "10921",
+      "femalePopultion": "8490",
+      "workingPopulation": "59.75",
+      "literacyRate": "92.31",
+      "languagesSpoken": [
+        "KA",
+        "MA",
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.cannanore",
+      "districtCode": "13",
+      "population": "4798",
+      "malePopulation": "3410",
+      "femalePopultion": "1388",
+      "workingPopulation": null,
+      "literacyRate": "1",
+      "languagesSpoken": [
+        "ML",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
