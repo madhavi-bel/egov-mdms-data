@@ -226,6 +226,11 @@
       "tenant": "pb.ferozepur",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ferozepur/TradeTypeSubtypeDetails_Ferozepur.pdf"
+    },
+    {
+      "tenant": "pb.dalhousie",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dalhousie/TradeTypeSubtypeDetails_Dalhousie.pdf"
     }
   ]
 }

@@ -1517,6 +1517,40 @@
       },
       "address": "Office of the Cantonment Board, 83 Jhoke Road, Ferozepur Cantonment. Punjab- 152001",
       "contactNumber": "1632244333"
+    },
+    {
+      "code": "pb.dalhousie",
+      "name": "Cantonment Board Dalhousie",
+      "description": "Dalhousie",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dalhousielogo.png",
+      "logoIdPdf": "dalhousie.png",
+      "imageId": null,
+      "domainUrl": "https://cbdalhousie.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CBDalhousie",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100010707999289",
+      "emailId": "ceodalh-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Dalhousie",
+        "localName": "Dalhousie Cantt",
+        "districtCode": "18",
+        "districtName": "Chamba",
+        "regionName": "Western Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 75.963428,
+        "latitude": 32.544167,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1899",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Dalhousie",
+        "population": "3549"
+      },
+      "address": "Office of Cantonment Board, Dalhousie Cantt Distt Chamba HP",
+      "contactNumber": "Ph No: 01899-240603"
     }
   ]
 }
