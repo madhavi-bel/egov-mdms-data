@@ -166,6 +166,11 @@
       "tenant": "pb.dehradun",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dehradun/TradeTypeSubtypeDetails_Dehradun.pdf"
+    },
+    {
+      "tenant": "pb.subathu",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/subathu/TradeTypeSubtypeDetails_Subathu.pdf"
     }
   ]
 }
