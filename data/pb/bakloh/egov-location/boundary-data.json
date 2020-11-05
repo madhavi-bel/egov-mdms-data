@@ -1,0 +1,252 @@
+{
+  "tenantId": "pb.bakloh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bakloh",
+        "localname": "Bakloh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bakloh",
+        "children": [
+          {
+            "id": "099d27e9-506b-42f2-a998-624ffa734363",
+            "boundaryNum": 1,
+            "name": "Bakloh Zone",
+            "localname": "Bakloh Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "16dc515e-07a0-4e47-a41d-570b25f8f617",
+                "boundaryNum": 1,
+                "name": "1/4 Bazar Bakloh Cantt",
+                "localname": "1/4 Bazar Bakloh Cantt",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "26770227-e4b8-473e-bf4e-70f88da5d41d",
+                    "boundaryNum": 1,
+                    "name": "1/4 Bazar area - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Bazar area - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f070cda0-e64b-4dff-a82d-e28a7431f3f3",
+                    "boundaryNum": 1,
+                    "name": "1/4 Sita Mohalla - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Sita Mohalla - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "80d22e30-9917-4808-8265-f6bc4a65596b",
+                    "boundaryNum": 1,
+                    "name": "1/4 Thado Gali - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Thado Gali - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4c2a995a-9796-42a1-930f-e449b006c2b9",
+                    "boundaryNum": 1,
+                    "name": "1/4 Slaughter Mohalla - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Slaughter Mohalla - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3020491a-4f67-4d87-83c6-0fc0c7c8094d",
+                    "boundaryNum": 1,
+                    "name": "1/4 Harijan Colony - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Harijan Colony - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3e647300-d319-4672-987b-10610f089f13",
+                    "boundaryNum": 1,
+                    "name": "1/4 Lokeshwar Temple - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Lokeshwar Temple - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_06",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "68ac9e57-fe0f-4b71-b70d-31a67661c5a6",
+                    "boundaryNum": 1,
+                    "name": "1/4 Bus Stand Area - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Bus Stand Area - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_07",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0edbfb03-82f8-4da5-a437-f0fb8fae2e23",
+                    "boundaryNum": 1,
+                    "name": "1/4 Kharati Line - 1/4 Bazar Bakloh Cantt",
+                    "localname": "1/4 Kharati Line - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_08",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "50793ed0-1523-41c3-b5c0-84b4980f72ea",
+                    "boundaryNum": 1,
+                    "name": "KV School Area - 1/4 Bazar Bakloh Cantt",
+                    "localname": "KV School Area - 1/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_09",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b013a99a-ebea-4826-8a91-dd56c1971023",
+                "boundaryNum": 1,
+                "name": "2/4 Bazar Bakloh Cantt",
+                "localname": "2/4 Bazar Bakloh Cantt",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "abf89430-05e1-471f-bb04-b13c608cf141",
+                    "boundaryNum": 1,
+                    "name": "2/4 Bazar Area - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 Bazar Area - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "79284618-b037-4fd7-9916-a839a71e4178",
+                    "boundaryNum": 1,
+                    "name": "2/4 Uppar Mohalla - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 Uppar Mohalla - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b48603c7-08cb-4512-9527-4ac34b69439b",
+                    "boundaryNum": 1,
+                    "name": "2/4 LOwer Mohalla - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 LOwer Mohalla - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d429557a-8f07-44fd-bdaa-ef5513185561",
+                    "boundaryNum": 1,
+                    "name": "2/4 Dhobi Line - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 Dhobi Line - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "534534fb-6f03-4373-bd80-dfc5f1c28328",
+                    "boundaryNum": 1,
+                    "name": "2/4 Kali Mata to Balmiki Mandir - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 Kali Mata to Balmiki Mandir - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "64ab3466-57d1-4714-8745-32679b9d0738",
+                    "boundaryNum": 1,
+                    "name": "2/4 Kharati LIne - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 Kharati LIne - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_06",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ef5c0609-2e95-4a9d-92aa-db487db7e3d0",
+                    "boundaryNum": 1,
+                    "name": "2/4 Bedi khana - 2/4 Bazar Bakloh Cantt",
+                    "localname": "2/4 Bedi khana - 2/4 Bazar Bakloh Cantt",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_07",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
