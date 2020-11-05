@@ -1,0 +1,180 @@
+{
+  "tenantId": "pb.ajmer",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ajmer",
+        "localname": "Ajmer",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ajmer",
+        "children": [
+          {
+            "id": "0f9d984b-03e4-4525-a59b-3e237b78b789",
+            "boundaryNum": 1,
+            "name": "Ajmer Zone",
+            "localname": "Ajmer Zone",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "354a1081-a190-45a3-88dc-0f0207ec96f9",
+                "boundaryNum": 1,
+                "name": "B.No. 2, 3 and Med. Regiment",
+                "localname": "B.No. 2, 3 and Med. Regiment",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "97203c88-954e-4b19-b9f4-dcdabd99dee2",
+                    "boundaryNum": 1,
+                    "name": "B.No. 2, 3 and Med. Regiment - B.No. 2, 3 and Med. Regiment",
+                    "localname": "B.No. 2, 3 and Med. Regiment - B.No. 2, 3 and Med. Regiment",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe13101d-19aa-4569-9a85-dfdfc3e4f017",
+                "boundaryNum": 1,
+                "name": "B.No.1, Military School, Sy.no.53",
+                "localname": "B.No.1, Military School, Sy.no.53",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "16936638-dd59-4b76-924b-680cd76930ac",
+                    "boundaryNum": 1,
+                    "name": "B.No.1, Military School, Sy.no.53 - B.No.1, Military School, Sy.no.53",
+                    "localname": "B.No.1, Military School, Sy.no.53 - B.No.1, Military School, Sy.no.53",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6219a74-6560-4524-bd16-4bb1c7f8b653",
+                "boundaryNum": 1,
+                "name": "Paltan Bazar",
+                "localname": "Paltan Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "eb4c6aed-5c49-4fbd-9b9e-a0cb60713604",
+                    "boundaryNum": 1,
+                    "name": "Regar Mohalla - Paltan Bazar",
+                    "localname": "Regar Mohalla - Paltan Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ded307be-9543-48b1-acb5-be3b7a1f7640",
+                "boundaryNum": 1,
+                "name": "Paltan Bazar",
+                "localname": "Paltan Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "c115a24a-c783-49d9-ab40-62a2fc17f515",
+                    "boundaryNum": 1,
+                    "name": "Vijay Vargiya Mohalla and Dhobi Mohalla - Paltan Bazar",
+                    "localname": "Vijay Vargiya Mohalla and Dhobi Mohalla - Paltan Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6d363ff-c250-46c0-b4b3-0ae67febcec1",
+                "boundaryNum": 1,
+                "name": "Paltan Bazar",
+                "localname": "Paltan Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "86642459-0d02-4fee-b0ec-38d6c9f41b10",
+                    "boundaryNum": 1,
+                    "name": "Ghoshi Mohalla - Paltan Bazar",
+                    "localname": "Ghoshi Mohalla - Paltan Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6637c526-d18f-4559-8136-b082ff949925",
+                "boundaryNum": 1,
+                "name": "Paltan Bazar & Sophia College",
+                "localname": "Paltan Bazar & Sophia College",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "ce8a18b8-521a-4d51-81dc-4f819b936362",
+                    "boundaryNum": 1,
+                    "name": "Harijan Basti & Sophia College - Paltan Bazar & Sophia College",
+                    "localname": "Harijan Basti & Sophia College - Paltan Bazar & Sophia College",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

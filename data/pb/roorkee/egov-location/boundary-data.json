@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.roorkee",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Roorkee",
+        "localname": "Roorkee",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.roorkee",
+        "children": [
+          {
+            "id": "8f705dff-a167-43f5-a068-36a88d13cc2c",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "e98b35fd-5cd6-4bd1-872e-0afd439882ad",
+                "boundaryNum": 1,
+                "name": "G.M.E.S. Line",
+                "localname": "G.M.E.S. Line",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "bd66a28d-c416-4132-b7d0-9919fbc78c59",
+                    "boundaryNum": 1,
+                    "name": "G.M.E.S. Line - G.M.E.S. Line",
+                    "localname": "G.M.E.S. Line - G.M.E.S. Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "efa7f82f-cd7e-4df8-854e-f23eba2b24d9",
+                "boundaryNum": 1,
+                "name": "Cantonment Board Hospital, S.T.B.",
+                "localname": "Cantonment Board Hospital, S.T.B.",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "eaf20701-1109-4d7d-b727-d21c04287628",
+                    "boundaryNum": 1,
+                    "name": "Cantonment Board Hospital, S.T.B - Cantonment Board Hospital, S.T.B.",
+                    "localname": "Cantonment Board Hospital, S.T.B - Cantonment Board Hospital, S.T.B.",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65424edf-6282-44d1-b255-359072c9af2e",
+                "boundaryNum": 1,
+                "name": "Lalkurti",
+                "localname": "Lalkurti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "b0fdaa4a-57a3-4574-a5b7-394a47aef612",
+                    "boundaryNum": 1,
+                    "name": "Lalkurti - Lalkurti",
+                    "localname": "Lalkurti - Lalkurti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bfb9dd20-5e8b-45d6-bb1f-c33adff173bd",
+                "boundaryNum": 1,
+                "name": "Lalkurti",
+                "localname": "Lalkurti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "f475c3a1-1704-4d43-bb2d-c6bf886d5d83",
+                    "boundaryNum": 1,
+                    "name": "Lalkurti - Lalkurti",
+                    "localname": "Lalkurti - Lalkurti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "384ab60a-c876-4bb7-b7cf-e84dda0cfbcc",
+                "boundaryNum": 1,
+                "name": "Bania Bazaar",
+                "localname": "Bania Bazaar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "abf8b62f-0d33-4c1e-8bbf-7e79e704cc9d",
+                    "boundaryNum": 1,
+                    "name": "Bania Bazaar - Bania Bazaar",
+                    "localname": "Bania Bazaar - Bania Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "13342fe6-9119-4788-9a3f-3f59bbc76609",
+                "boundaryNum": 1,
+                "name": "Range Line",
+                "localname": "Range Line",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "d2af5800-cd4a-4b5f-a0bb-95bd021b620f",
+                    "boundaryNum": 1,
+                    "name": "Range Line - Range Line",
+                    "localname": "Range Line - Range Line",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41d17991-ea08-48c7-862e-8ce464b9d7ad",
+                "boundaryNum": 1,
+                "name": "1TB, 2TB and BEG Centre",
+                "localname": "1TB, 2TB and BEG Centre",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "d11c9086-17dc-4764-94fd-fe436810b74b",
+                    "boundaryNum": 1,
+                    "name": "1TB, 2TB and BEG Centre - 1TB, 2TB and BEG Centre",
+                    "localname": "1TB, 2TB and BEG Centre - 1TB, 2TB and BEG Centre",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

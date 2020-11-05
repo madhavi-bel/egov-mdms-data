@@ -1,0 +1,216 @@
+{
+  "tenantId": "pb.dagshai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dagshai",
+        "localname": "Dagshai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dagshai",
+        "children": [
+          {
+            "id": "7fb67aeb-9ff8-494d-aba0-526e28dc5f57",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "3190aaf4-7f31-42d2-993f-07c7b6c9c326",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8001271",
+                "children": [
+                  {
+                    "id": "17097be1-2231-48e4-8bdb-96336dc8beaa",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 1",
+                    "localname": "Sadar Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001271_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3b91607-dfb6-437e-816f-e41f38b8f774",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8001272",
+                "children": [
+                  {
+                    "id": "3d86333d-989e-4eb2-9ddd-85dcf539ff24",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 2",
+                    "localname": "Sadar Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001272_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57338ec3-849a-4574-9998-4ff21bfa1642",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8001273",
+                "children": [
+                  {
+                    "id": "6a017941-a18d-459e-acfa-9c7ddbf3561c",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 3",
+                    "localname": "Sadar Bazar - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001273_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c98e9fb-93e6-4eb3-9126-76c607527bf3",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8001274",
+                "children": [
+                  {
+                    "id": "e3f8a813-fcf7-4326-8267-6f77b10f18b0",
+                    "boundaryNum": 1,
+                    "name": "Khacchar Khana - Ward No. 4",
+                    "localname": "Khacchar Khana - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001274_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4f4d2f37-0346-4164-bd78-c254995dc957",
+                    "boundaryNum": 1,
+                    "name": "Tehlu Mohalla - Ward No. 4",
+                    "localname": "Tehlu Mohalla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001274_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a281bdc2-b391-47fa-ad0a-ec69782987dd",
+                    "boundaryNum": 1,
+                    "name": "Sutantar Mohalla - Ward No. 4",
+                    "localname": "Sutantar Mohalla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001274_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2996b8ab-615d-46f4-a7d6-b6ea63e794a6",
+                    "boundaryNum": 1,
+                    "name": "Kumarhatti - Ward No. 4",
+                    "localname": "Kumarhatti - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001274_04",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d0d59e49-7ef0-429a-8a8c-e6ea98b95079",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8001275",
+                "children": [
+                  {
+                    "id": "3faa8c65-be9a-49f7-a126-ee12bbb0d3e2",
+                    "boundaryNum": 1,
+                    "name": "Old Babu Mohalla - Ward No. 5",
+                    "localname": "Old Babu Mohalla - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001275_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d272217-b5f4-498c-bf5c-a26bd69550bc",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "8001276",
+                "children": [
+                  {
+                    "id": "ba01d24e-56d1-46e3-ba22-5e5a69ab6913",
+                    "boundaryNum": 1,
+                    "name": "New Babu Mohalla - Ward No. 6",
+                    "localname": "New Babu Mohalla - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8001276_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "tenantId": "pb.jammu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jammu",
+        "localname": "Jammu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jammu",
+        "children": [
+          {
+            "id": "2c61539f-320a-444e-987e-a31b9e2f9732",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "ae2a7777-da03-44b6-8ad2-bb85d5327474",
+                "boundaryNum": 1,
+                "name": "Narwal Pain",
+                "localname": "Narwal Pain",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "1795224e-3675-487f-997b-8211281e22b4",
+                    "boundaryNum": 1,
+                    "name": "Narwal Pain - ward 1 - Narwal Pain",
+                    "localname": "Narwal Pain - ward 1 - Narwal Pain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27c8d945-8b11-44db-bc7f-75483e94391b",
+                "boundaryNum": 1,
+                "name": "Narwal Pain",
+                "localname": "Narwal Pain",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "83d1d473-9a79-43d7-8f10-e276811255a5",
+                    "boundaryNum": 1,
+                    "name": "Narwal Pain - ward 2 - Narwal Pain",
+                    "localname": "Narwal Pain - ward 2 - Narwal Pain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd227d21-bc61-4f6f-bb92-970ec1b834d1",
+                "boundaryNum": 1,
+                "name": "Ranibagh/ Govindpura",
+                "localname": "Ranibagh/ Govindpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "a4e60569-3a72-4dc9-92a6-e81e7d44d951",
+                    "boundaryNum": 1,
+                    "name": "Ranibagh/ Govindpura - Ranibagh/ Govindpura",
+                    "localname": "Ranibagh/ Govindpura - Ranibagh/ Govindpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "85b01f49-1b13-44dd-a80f-c15257c4a1df",
+                "boundaryNum": 1,
+                "name": "Govindpura",
+                "localname": "Govindpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "4e58a110-3a0a-46d2-b2d1-6b079304d3f6",
+                    "boundaryNum": 1,
+                    "name": "Govindpura - Govindpura",
+                    "localname": "Govindpura - Govindpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fdcdc37c-7079-4fc8-9e66-cee9d03a77f6",
+                "boundaryNum": 1,
+                "name": "Raipur Satwari",
+                "localname": "Raipur Satwari",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "5e221465-9d67-4290-b9a0-2d1566438cd5",
+                    "boundaryNum": 1,
+                    "name": "Raipur Satwari - Raipur Satwari",
+                    "localname": "Raipur Satwari - Raipur Satwari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00aefdc8-496a-494c-a3ce-80626578aaa0",
+                "boundaryNum": 1,
+                "name": "Belicharana",
+                "localname": "Belicharana",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "a5b6b6d7-2905-4185-8256-b12f5efd4798",
+                    "boundaryNum": 1,
+                    "name": "Belicharana - Belicharana",
+                    "localname": "Belicharana - Belicharana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ad81f19-0ad3-406d-802b-6fe9e4fb5498",
+                "boundaryNum": 1,
+                "name": "Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                "localname": "Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "c58d5c9f-4f16-4c91-b696-cf191ee04bfa",
+                    "boundaryNum": 1,
+                    "name": "Jawahar Nagar - Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                    "localname": "Jawahar Nagar - Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e3efd33e-7305-499d-b1b3-83b20aa97918",
+                    "boundaryNum": 1,
+                    "name": "Ashok Nagar - Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                    "localname": "Ashok Nagar - Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "df7ace06-6aa0-4ba2-987b-3c61cc6f0bc3",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                    "localname": "Sadar Bazar - Jawahar Nagar, Ashok Nagar, Sadar Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

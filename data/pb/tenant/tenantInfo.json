@@ -72,22 +72,666 @@
       ]
     },
     {
+      "code": "pb.ambala",
+      "districtCode": "58",
+      "population": "55370",
+      "malePopulation": "33226",
+      "femalePopultion": "22144",
+      "workingPopulation": "-",
+      "literacyRate": "81.7",
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.bareilly",
+      "districtCode": "130",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.mathura",
+      "districtCode": 167,
+      "population": "25603",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.allahabad",
+      "districtCode": "120",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.meerut",
+      "districtCode": "169",
+      "population": "93684",
+      "malePopulation": "53511",
+      "femalePopultion": "40173",
+      "workingPopulation": "-",
+      "literacyRate": "0.7284",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.mhow",
+      "districtCode": "410",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.kasauli",
+      "districtCode": "25",
+      "population": "3885",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.lebong",
+      "districtCode": "309",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "NE",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.jammu",
+      "districtCode": "5",
+      "population": "28396",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.jalandhar",
+      "districtCode": "34",
+      "population": "47845",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "PU",
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.danapur",
+      "districtCode": "212",
+      "population": "28723",
+      "malePopulation": "16091",
+      "femalePopultion": "12632",
+      "workingPopulation": "--",
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.dagshai",
+      "districtCode": "25",
+      "population": "2904",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.roorkee",
+      "districtCode": "50",
+      "population": "14689 Roorkee Cantt (Census- 2011)",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.pachmarhi",
+      "districtCode": "409",
+      "population": "12062",
+      "malePopulation": "-",
+      "femalePopultion": "-",
+      "workingPopulation": "-",
+      "literacyRate": "-",
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.nasirabad",
+      "districtCode": "86",
+      "population": "50804",
+      "malePopulation": "28581",
+      "femalePopultion": "22223",
+      "workingPopulation": "19888",
+      "literacyRate": "0.8839",
+      "languagesSpoken": [
+        "HN",
+        "RA"
+      ]
+    },
+    {
+      "code": "pb.dehuroad",
+      "districtCode": "490",
+      "population": "48961",
+      "malePopulation": "25971",
+      "femalePopultion": "22990",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.deolali",
+      "districtCode": "20",
+      "population": "54027",
+      "malePopulation": "28269",
+      "femalePopultion": "25758",
+      "workingPopulation": "79.9",
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.ahmednagar",
+      "districtCode": "466",
+      "population": "28986",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA"
+      ]
+    },
+    {
+      "code": "pb.amritsar",
+      "districtCode": "27",
+      "population": "10410",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "PU",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.ramgarh",
+      "districtCode": "607",
+      "population": "88781",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
+    },
+    {
+      "code": "pb.jalapahar",
+      "districtCode": "309",
+      "population": "1711",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "NE",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.wellington",
+      "districtCode": "587",
+      "population": "19462",
+      "malePopulation": "10867",
+      "femalePopultion": "8595",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
+    },
+    {
+      "code": "pb.subathu",
+      "districtCode": "25",
+      "population": "3685",
+      "malePopulation": "-",
+      "femalePopultion": "-",
+      "workingPopulation": "-",
+      "literacyRate": "-",
+      "languagesSpoken": [
+        "EN",
+        "HN",
+        "NE"
+      ]
+    },
+    {
       "code": "pb.almora",
-      "districtCode": "Almora",
+      "districtCode": "45",
       "population": "1391",
       "malePopulation": "948",
       "femalePopultion": "443",
+      "workingPopulation": "--",
+      "literacyRate": "0.84",
       "languagesSpoken": [
         "HN",
         "KU"
       ]
     },
     {
-      "code": "pb.ahmednagar",
-      "districtCode": "Ahmednagar",
-      "population": "28986",
+      "code": "pb.chakrata",
+      "districtCode": "49",
+      "population": "5117",
       "malePopulation": null,
       "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.clementtown",
+      "districtCode": "49",
+      "population": "22557",
+      "malePopulation": "12797",
+      "femalePopultion": "9760",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.dehradun",
+      "districtCode": "49",
+      "population": "52716",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
+    },
+    {
+      "code": "pb.faizabad",
+      "districtCode": "140",
+      "population": "12391",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.fatehgarh",
+      "districtCode": "141",
+      "population": "14793",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.jabalpur",
+      "districtCode": "411",
+      "population": "72257",
+      "malePopulation": "42719",
+      "femalePopultion": "29538",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.kanpur",
+      "districtCode": "157",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.landour",
+      "districtCode": "49",
+      "population": "3543",
+      "malePopulation": "1924",
+      "femalePopultion": "1619",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.lansdowne",
+      "districtCode": "6",
+      "population": "5667",
+      "malePopulation": "3533",
+      "femalePopultion": "2134",
+      "workingPopulation": "-",
+      "literacyRate": "0.926",
+      "languagesSpoken": [
+        "HN",
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.khasyol",
+      "districtCode": "18",
+      "population": "12028",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.jutogh",
+      "districtCode": "23",
+      "population": "2062",
+      "malePopulation": "1434",
+      "femalePopultion": "628",
+      "workingPopulation": "1600",
+      "literacyRate": "1600",
+      "languagesSpoken": [
+        "HN",
+        "PA"
+      ]
+    },
+    {
+      "code": "pb.shahjahanpur",
+      "districtCode": "180",
+      "population": "18116",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.varanasi",
+      "districtCode": "187",
+      "population": "14119",
+      "malePopulation": "7742",
+      "femalePopultion": "6377",
+      "workingPopulation": null,
+      "literacyRate": "0.7938",
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.ferozepur",
+      "districtCode": "31",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "PU",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.dalhousie",
+      "districtCode": "18",
+      "population": "3549",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.shillong",
+      "districtCode": "274",
+      "population": null,
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.badamibagh",
+      "districtCode": "13",
+      "population": "22214",
+      "malePopulation": "14315",
+      "femalePopultion": "7899",
+      "workingPopulation": null,
+      "literacyRate": "80.75",
+      "languagesSpoken": [
+        "UR",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.ajmer",
+      "districtCode": "86",
+      "population": "3530",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN",
+        "MR"
+      ]
+    },
+    {
+      "code": "pb.aurangabad",
+      "districtCode": "19",
+      "population": "18051",
+      "malePopulation": "9639",
+      "femalePopultion": "8412",
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "UR"
+      ]
+    },
+    {
+      "code": "pb.babina",
+      "districtCode": "153",
+      "population": "27852",
+      "malePopulation": "16275",
+      "femalePopultion": "11577",
+      "workingPopulation": "-",
+      "literacyRate": "-",
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.belgaum",
+      "districtCode": "527",
+      "population": "19811",
+      "malePopulation": "10921",
+      "femalePopultion": "8490",
+      "workingPopulation": "59.75",
+      "literacyRate": "92.31",
+      "languagesSpoken": [
+        "KA",
+        "MA",
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.cannanore",
+      "districtCode": "13",
+      "population": "4798",
+      "malePopulation": "3410",
+      "femalePopultion": "1388",
+      "workingPopulation": null,
+      "literacyRate": "1",
+      "languagesSpoken": [
+        "ML",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.bakloh",
+      "districtCode": "16",
+      "population": "1805",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.stthomasmountcumpallavaram",
+      "districtCode": "730",
+      "population": "43795",
+      "malePopulation": "22108",
+      "femalePopultion": "21687",
+      "workingPopulation": "22000(APPROX)",
+      "literacyRate": "0.7",
+      "languagesSpoken": [
+        "TA",
+        "TE",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.saugor",
+      "districtCode": "425",
+      "population": "43513",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
+    },
+    {
+      "code": "pb.jhansi",
+      "districtCode": "153",
+      "population": "505693",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.kamptee",
+      "districtCode": "484",
+      "population": "12457",
+      "malePopulation": "8039",
+      "femalePopultion": "4418",
+      "workingPopulation": "--",
+      "literacyRate": "0.9366",
+      "languagesSpoken": [
+        "HN",
+        "MA",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.kirkee",
+      "districtCode": "490",
+      "population": "70399",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.morar",
+      "districtCode": "407",
+      "population": "48464",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
       "languagesSpoken": []
     }
   ]

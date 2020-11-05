@@ -1,0 +1,824 @@
+{
+  "tenantId": "pb.wellington",
+  "moduleName": "BillingService",
+  "GLCode": [
+    [
+      {
+        "code": "ASSREV.COMP_CONCESSION",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "ASSREV.COMP_TAX",
+        "glcode": "290-1199",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "ASSREV.COMP_TAXOTHER",
+        "glcode": "290-1199",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "CREDDEP.MNY_DEP",
+        "glcode": "110-3610",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "CREDDEP.CAND_SEC_DEP",
+        "glcode": "130-1190",
+        "dept": "130",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "CREDDEP.SEC_DEP",
+        "glcode": "290-3699",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "ENTFEE.MUSEUM",
+        "glcode": "950-1999",
+        "dept": "950",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "ENTFEE.PARK",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "ENTFEE.PLYGRND",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "ENTFEE.VEH",
+        "glcode": "220-1131",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.MDM",
+        "glcode": "990-1519",
+        "dept": "990",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.SBM",
+        "glcode": "110-3219",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.INF",
+        "glcode": "320-1329",
+        "dept": "320",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.INT_SB",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.INT_LOAN",
+        "glcode": "110-4719",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.REV_GRNT",
+        "glcode": "290-1499",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.INT_FD",
+        "glcode": "110-1711",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "GRNTINT.INT_TD",
+        "glcode": "110-1711",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.APP_FEE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.BETT_CHRG",
+        "glcode": "320-1549",
+        "dept": "320",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.BIRTH_REG",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.BLD_FEE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.CATT_CHALLAN",
+        "glcode": "860-1139",
+        "dept": "860",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.COMP_UNAUTH",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.COMPD_DLYAPP",
+        "glcode": "290-1551",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.COMPD_FEE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.CONSRV",
+        "glcode": "540-1521",
+        "dept": "540",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.CONST_WASTE",
+        "glcode": "320-1559",
+        "dept": "320",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.CRT_STMP",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DRY_ANML_CHALLAN",
+        "glcode": "290-1551",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DMG_CHRG",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DEAD_ANML_CONT",
+        "glcode": "220-1559",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DEATH_REG",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DENG_CHALLAN",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "OTHFEE.DEV_CHRG",
+        "glcode": "390-1541",
+        "dept": "390",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DISTRAINT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DISTRAINT_TAX",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DRINK_WT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DUMP_GRBG",
+        "glcode": "540-1551",
+        "dept": "540",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.EDU",
+        "glcode": "210-1115",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.ELEC_RLY",
+        "glcode": "110-1299",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.EMP_REG",
+        "glcode": "290-1519",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.ENCRMNT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.MTN_TR",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.CERT",
+        "glcode": "290-1599",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.DC",
+        "glcode": "290-1599",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.GRNT_PERM",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "OTHFEE.OD",
+        "glcode": "290-1551",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.HC",
+        "glcode": "290-1229",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.ISS_BIRTHCERT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.ISS_DEATHCERT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.ISS_SANTICERT",
+        "glcode": "590-1539",
+        "dept": "590",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.VOTERLIST",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.RICKSHW",
+        "glcode": "630-1134",
+        "dept": "630",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.LIC",
+        "glcode": "630-1532",
+        "dept": "630",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.MED",
+        "glcode": "810-1512",
+        "dept": "810",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.MISC",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.MTN",
+        "glcode": "210-1129",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.NDC",
+        "glcode": "220-1999",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.NOTICE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.PENALT",
+        "glcode": "290-1551",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.OTH_SHOW",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "OTHFEE.PARK_ELEC",
+        "glcode": "290-1569",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.PLASTIC_CHALLAN",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.REG",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.REGL",
+        "glcode": "220-1535",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.REHRI",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "OTHFEE.RD_SHOW",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.RTI",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.SLGHT_HS",
+        "glcode": "220-1326",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.TEHBAZZZRI",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.TNDR_FRM",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.TREE_AUC",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.TR_ASS_TAX",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.WF",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.WATER_CHRG",
+        "glcode": "420-1611",
+        "dept": "420",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHFEE.PARKING",
+        "glcode": "220-1562",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHERS.CESS",
+        "glcode": "210-1571",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHERS.DEPOSIT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHERS.CLAIM",
+        "glcode": "110-3579",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "OTHERS.DISPOSAL",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "OTHERS.RECOVERY",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "RENT.COM_CEN_BK",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.EREC_POL",
+        "glcode": "110-1999",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.EXB_CIRC",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.CANTT_FUND",
+        "glcode": "220-1326",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.CA",
+        "glcode": "220-1999",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.GH",
+        "glcode": "740-1323",
+        "dept": "740",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.OFF_BLDG",
+        "glcode": "220-1326",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.REMIS_REFND",
+        "glcode": "110-3629",
+        "dept": "110",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.ST_VEN",
+        "glcode": "630-1532",
+        "dept": "630",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.TEL_TW",
+        "glcode": "390-1399",
+        "dept": "390",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.TEMP_STALL",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "RENT.ULB_LEASE",
+        "glcode": "220-1312",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.ULB_PATTA",
+        "glcode": "210-1119",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.ULB_NAZOOL",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "RENT.ULB_SHP",
+        "glcode": "220-1326",
+        "dept": "220",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "RENT.ULB_LIC",
+        "glcode": "630-1532",
+        "dept": "630",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SALE.AUC_TREE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SALE.FRM_PUB",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SALE.PROD",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SALE.STR_SCRP",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_ADM",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_CONSER",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_ELEC",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_PWD",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_ENGTP",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_HOSP",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_RD",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_STR",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_TAX",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.APP_WATER",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "SRVC.SRVC_CHRG",
+        "glcode": "210-1231",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "TX.ADVT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "TX.CONS",
+        "glcode": "210-1113",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "TX.PROF",
+        "glcode": "210-1141",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "TX.SANT",
+        "glcode": "210-1114",
+        "dept": "210",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "TX.TOLL",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "UC.BUR_GRND",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.NEW_WATER_CONC",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.CHNG_WATER_CONC",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.COST_FEED_AN",
+        "glcode": "-",
+        "dept": "-",
+        "fund": null
+      },
+      {
+        "code": "UC.CREMAT_CHRG",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.EDU_CESS",
+        "glcode": "990-3811",
+        "dept": "990",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.FNRL_VAN",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.GRBG_COLL",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.LIB_MEM",
+        "glcode": "940-4535",
+        "dept": "940",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.MTRL_STACK",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.PU_TLT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.PERM_BORE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.PROCES_FEE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.PUB_FEE",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.MOB_TLT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.RD_CUTT",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.SEP_TNK_CLR",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      },
+      {
+        "code": "UC.WATER_TNK",
+        "glcode": "290-1999",
+        "dept": "290",
+        "fund": "Cantonment Fund"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "tenantId": "pb.jalapahar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jalapahar",
+        "localname": "Jalapahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jalapahar",
+        "children": [
+          {
+            "id": "45436ea6-c982-47f2-8937-80b6db3fea0f",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "63b009b4-3e70-4c2a-ac8b-31141d69ea11",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "63741744-cd28-40f8-a656-729786371a4f",
+                    "boundaryNum": 1,
+                    "name": "KOTWALI BAZAR - Ward No. 1",
+                    "localname": "KOTWALI BAZAR - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0037ec42-cb41-4428-908b-e977896ee32b",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "ac78d11c-bd8a-44ed-b2a7-3345e4b260e0",
+                    "boundaryNum": 1,
+                    "name": "DEPOT BAZAR - Ward No. 2",
+                    "localname": "DEPOT BAZAR - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "8de95d14-da61-4f47-8907-3a9604a5cfb0",
+                    "boundaryNum": 1,
+                    "name": "CHUNDHURA BUSTY - Ward No. 2",
+                    "localname": "CHUNDHURA BUSTY - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "178d4189-324e-4a79-bdf2-0fc8c949b74c",
+                    "boundaryNum": 1,
+                    "name": "KopcheyLine - Ward No. 2",
+                    "localname": "KopcheyLine - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "03_03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

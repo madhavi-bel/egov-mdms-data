@@ -1,0 +1,408 @@
+{
+  "tenantId": "pb.danapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Danapur",
+        "localname": "Danapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.danapur",
+        "children": [
+          {
+            "id": "12f8a587-5153-4c85-a835-88c605ad66e2",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "f01ca45f-0720-44e1-a069-555aaf94f6bc",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "3abf78b6-98ac-4da8-8639-38c3f9aba77d",
+                    "boundaryNum": 1,
+                    "name": "Pethiya Bazar - Ward No. 1",
+                    "localname": "Pethiya Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "8a15c965-7eaf-46c4-a705-8a97e7bb52c5",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 1",
+                    "localname": "Sadar Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ee152bd7-1965-4862-a5a5-b0ca3ccfe16f",
+                    "boundaryNum": 1,
+                    "name": "Sabji Market - Ward No. 1",
+                    "localname": "Sabji Market - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "97587e76-2070-4c79-a362-002560bf0387",
+                    "boundaryNum": 1,
+                    "name": "Bisti Mohla - Ward No. 1",
+                    "localname": "Bisti Mohla - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "595f5759-1742-44f3-8dee-e3aa1e1ce727",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "2c38bf69-770f-441c-af6e-f8f6a375cbfc",
+                    "boundaryNum": 1,
+                    "name": "Imali Tal - Ward No. 2",
+                    "localname": "Imali Tal - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ab4cdff0-18e8-4674-813a-b530231955f0",
+                    "boundaryNum": 1,
+                    "name": "Dhobi Tola - Ward No. 2",
+                    "localname": "Dhobi Tola - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9457b8ce-1b7f-4fe1-86a6-96312e13728d",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 2",
+                    "localname": "Sadar Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "08289a6d-45e3-4526-95be-92a95f37fdd9",
+                    "boundaryNum": 1,
+                    "name": "Kagji Mohla - Ward No. 2",
+                    "localname": "Kagji Mohla - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e307dccc-d6f0-44ec-9ff3-e40ec2356be3",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "487b5bf0-9e08-4de6-a0d8-3537a693da04",
+                    "boundaryNum": 1,
+                    "name": "Machhua Toli - Ward No. 3",
+                    "localname": "Machhua Toli - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "32865353-5448-4432-8169-b02cc5e0ebb7",
+                    "boundaryNum": 1,
+                    "name": "Imali Tal - Ward No. 3",
+                    "localname": "Imali Tal - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "659cd576-046a-4766-a9fb-1b016bddd176",
+                    "boundaryNum": 1,
+                    "name": "Thana Road - Ward No. 3",
+                    "localname": "Thana Road - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2537b903-9157-4dda-9d50-a7989efb413e",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "be35c26c-718d-44c5-8129-a42dd2bc80d5",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 4",
+                    "localname": "Sadar Bazar - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f12eabd4-1e2d-4be6-9919-9cf4317333bc",
+                    "boundaryNum": 1,
+                    "name": "Bakipur Road - Ward No. 4",
+                    "localname": "Bakipur Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c6b17d01-f2ce-44f7-951a-3b238a11bd3e",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand - Ward No. 4",
+                    "localname": "Bus Stand - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1d64ba6d-ea37-440d-9999-af2517f6519b",
+                    "boundaryNum": 1,
+                    "name": "Marshal Bazar - Ward No. 4",
+                    "localname": "Marshal Bazar - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "23b9530e-968b-4a14-89af-0e081ed10548",
+                    "boundaryNum": 1,
+                    "name": "Lal Kothi - Ward No. 4",
+                    "localname": "Lal Kothi - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dcb54972-5325-422d-ae24-4ad1b21af7b1",
+                    "boundaryNum": 1,
+                    "name": "Drivers Lane - Ward No. 4",
+                    "localname": "Drivers Lane - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "890b54ea-1836-4753-a86c-e1248ebdcab6",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "0e944b3e-835c-4fd5-977a-2e21dab82254",
+                    "boundaryNum": 1,
+                    "name": "Anand Bazar - Ward No. 5",
+                    "localname": "Anand Bazar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d2c7930d-2309-44b7-902a-017567a7da63",
+                    "boundaryNum": 1,
+                    "name": "Gora Bazar - Ward No. 5",
+                    "localname": "Gora Bazar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4e7122b2-ad79-4bfe-9ff6-e3a3c22ab7d8",
+                    "boundaryNum": 1,
+                    "name": "Hathikhana - Ward No. 5",
+                    "localname": "Hathikhana - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53a134ec-a40f-419b-a468-5d12f3adc474",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "ea2ada96-c6fc-4ff5-a800-eb6ddc0aec8b",
+                    "boundaryNum": 1,
+                    "name": "Turha Toli - Ward No. 6",
+                    "localname": "Turha Toli - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "cbdf3528-26ac-43f5-b29f-bb972da7942b",
+                    "boundaryNum": 1,
+                    "name": "Anand Bazar - Ward No. 6",
+                    "localname": "Anand Bazar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eae79903-ab9e-4904-95be-100220edf7a5",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "93e2fae1-5e4d-47d1-b9dc-ce6e6815f8e8",
+                    "boundaryNum": 1,
+                    "name": "Company Bagh - Ward No. 7",
+                    "localname": "Company Bagh - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9cf50191-18fb-4f44-b7d0-b6d03dd11f70",
+                    "boundaryNum": 1,
+                    "name": "Bottle Khana - Ward No. 7",
+                    "localname": "Bottle Khana - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

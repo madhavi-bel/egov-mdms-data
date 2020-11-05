@@ -82,6 +82,14 @@
           "ulb-pgr": {
             "routePath": "/dashboard/ulb-pgr",
             "isOrigin": true
+          },
+          "ws": {
+            "routePath": "/dashboard/ws",
+            "isOrigin": true
+          },
+          "ulb-ws": {
+            "routePath": "/dashboard/ulb-ws",
+            "isOrigin": true
           }
         }
       }, 

@@ -1,0 +1,420 @@
+{
+  "tenantId": "pb.nasirabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nasirabad",
+        "localname": "Nasirabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nasirabad",
+        "children": [
+          {
+            "id": "90c79d4a-0230-406c-a29e-0dcb42c22ba4",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "f4bfad2b-f361-4a37-a038-c2a9ef232276",
+                "boundaryNum": 1,
+                "name": "Ward No. I",
+                "localname": "Ward No. I",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "bf238aeb-e01e-4150-bad5-a6eed2de1a82",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. I",
+                    "localname": "Sadar Bazar - Ward No. I",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a3aba56c-04cc-4196-b05e-0b34b5814745",
+                    "boundaryNum": 1,
+                    "name": "Kishangadiya Mohalla - Ward No. I",
+                    "localname": "Kishangadiya Mohalla - Ward No. I",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "30ad5dfe-385b-42d4-b627-9e7a91c045e7",
+                    "boundaryNum": 1,
+                    "name": "Jat Mohalla - Ward No. I",
+                    "localname": "Jat Mohalla - Ward No. I",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "32477a2b-0112-47e2-bcd9-747792268968",
+                    "boundaryNum": 1,
+                    "name": "Dhobi Mohalla - Ward No. I",
+                    "localname": "Dhobi Mohalla - Ward No. I",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "061bc55f-5472-47a4-8d38-84ef8e80a9eb",
+                    "boundaryNum": 1,
+                    "name": "Khataoli Mohalla - Ward No. I",
+                    "localname": "Khataoli Mohalla - Ward No. I",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "43ba2205-0ba9-4f38-96a2-8f2a862ffa4c",
+                    "boundaryNum": 1,
+                    "name": "Railway Colony - Ward No. I",
+                    "localname": "Railway Colony - Ward No. I",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d32f04cc-96a1-4769-b222-e987d406e269",
+                "boundaryNum": 1,
+                "name": "Ward No. II",
+                "localname": "Ward No. II",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "f8e5e652-5c2f-449a-9076-45be8c1756fa",
+                    "boundaryNum": 1,
+                    "name": "Sindhi Mohalla - Ward No. II",
+                    "localname": "Sindhi Mohalla - Ward No. II",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "754b4b7a-c930-41bf-bd36-a5935b28a133",
+                    "boundaryNum": 1,
+                    "name": "Chhoti Bazari - Ward No. II",
+                    "localname": "Chhoti Bazari - Ward No. II",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a138d7c-e781-4591-9229-49eac9c109c0",
+                "boundaryNum": 1,
+                "name": "Ward No. III",
+                "localname": "Ward No. III",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "64331b16-92a9-426c-83e7-0020d928d159",
+                    "boundaryNum": 1,
+                    "name": "Mission Compound - Ward No. III",
+                    "localname": "Mission Compound - Ward No. III",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "922f74ad-7124-4f0f-b6dd-102b1212f2ac",
+                    "boundaryNum": 1,
+                    "name": "Anaj Mandi - Ward No. III",
+                    "localname": "Anaj Mandi - Ward No. III",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f169184-1bb6-45b1-b02a-35320a41a3aa",
+                "boundaryNum": 1,
+                "name": "Ward No. IV",
+                "localname": "Ward No. IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "ced5cf78-2417-41ac-8143-eff168c543b6",
+                    "boundaryNum": 1,
+                    "name": "Koli Mohalla - Ward No. IV",
+                    "localname": "Koli Mohalla - Ward No. IV",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e65e79a2-95eb-42b6-8977-533bf96154c8",
+                "boundaryNum": 1,
+                "name": "Ward No. V",
+                "localname": "Ward No. V",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "d156f5c9-c88c-4947-85fe-7c1c60f05410",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. V",
+                    "localname": "Sadar Bazar - Ward No. V",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6a47d8a5-5b7d-4457-88ee-6942f2cb4b9f",
+                    "boundaryNum": 1,
+                    "name": "Jaipuriya Mohalla - Ward No. V",
+                    "localname": "Jaipuriya Mohalla - Ward No. V",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0d2b6a72-2494-4161-aa29-3398452ca320",
+                    "boundaryNum": 1,
+                    "name": "Framji Chowk - Ward No. V",
+                    "localname": "Framji Chowk - Ward No. V",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4b96b592-5a24-4e64-a363-542cc4c97a25",
+                    "boundaryNum": 1,
+                    "name": "Ghosi Mohalla - Ward No. V",
+                    "localname": "Ghosi Mohalla - Ward No. V",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4f1e4f8f-ca87-45d6-a59e-3db205aa12c9",
+                    "boundaryNum": 1,
+                    "name": "Agrawal Mohalla - Ward No. V",
+                    "localname": "Agrawal Mohalla - Ward No. V",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "72c698be-6b4d-468e-899c-4a813f5915f8",
+                    "boundaryNum": 1,
+                    "name": "Dudhiya Mohalla - Ward No. V",
+                    "localname": "Dudhiya Mohalla - Ward No. V",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95904db0-0835-49ca-9bc4-c758947091a3",
+                "boundaryNum": 1,
+                "name": "Ward No. VI",
+                "localname": "Ward No. VI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "540ba2e3-272a-44a7-9e15-b20d3f7b9ac3",
+                    "boundaryNum": 1,
+                    "name": "Kahar Mohalla - Ward No. VI",
+                    "localname": "Kahar Mohalla - Ward No. VI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d67c1ed2-5c4f-4664-86cf-e4b1e9423a37",
+                    "boundaryNum": 1,
+                    "name": "Mahadev Mohalla - Ward No. VI",
+                    "localname": "Mahadev Mohalla - Ward No. VI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "be417c97-766e-4994-bfae-e4f2e073458e",
+                "boundaryNum": 1,
+                "name": "Ward No. VII",
+                "localname": "Ward No. VII",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "87d6ad21-b390-4728-b879-3f8fd81f4d14",
+                    "boundaryNum": 1,
+                    "name": "Nagori Mohalla - Ward No. VII",
+                    "localname": "Nagori Mohalla - Ward No. VII",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "072c3101-387a-4c17-b13e-1ce98a481e25",
+                    "boundaryNum": 1,
+                    "name": "Chokri Mohalla - Ward No. VII",
+                    "localname": "Chokri Mohalla - Ward No. VII",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "63a4a51a-0825-4551-b4e9-a441d9328442",
+                    "boundaryNum": 1,
+                    "name": "Suttar Khana Mohalla - Ward No. VII",
+                    "localname": "Suttar Khana Mohalla - Ward No. VII",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce4dc374-57ca-4abc-bbb6-001991175d86",
+                "boundaryNum": 1,
+                "name": "Ward No. VIII",
+                "localname": "Ward No. VIII",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "52934580-ab99-4dda-9dd8-1fe7f626735c",
+                    "boundaryNum": 1,
+                    "name": "Seva Mandi - Ward No. VIII",
+                    "localname": "Seva Mandi - Ward No. VIII",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "04ca605c-589b-44c1-9f07-54b6d100dcb8",
+                    "boundaryNum": 1,
+                    "name": "Godam Mandi - Ward No. VIII",
+                    "localname": "Godam Mandi - Ward No. VIII",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

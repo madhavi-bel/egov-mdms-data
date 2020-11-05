@@ -1,0 +1,372 @@
+{
+  "tenantId": "pb.kasauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kasauli",
+        "localname": "Kasauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kasauli",
+        "children": [
+          {
+            "id": "4c213d26-ec9a-4e47-bc79-8c7bbba7188c",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "8468bd49-5e5b-45d8-8364-75df1b610f2f",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "00ea17bf-d2fe-4822-96a6-246417a57ceb",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 1",
+                    "localname": "Sadar Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d5c8a3d9-dc26-46bb-88f5-09e467988609",
+                    "boundaryNum": 1,
+                    "name": "Market Bazar - Ward No. 1",
+                    "localname": "Market Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "fab8cc3e-4eb8-42c0-bdf7-13b7d6563e42",
+                    "boundaryNum": 1,
+                    "name": "Arhat Bazar - Ward No. 1",
+                    "localname": "Arhat Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "85f50b48-1848-4aa5-a58e-b2de1c0f1915",
+                    "boundaryNum": 1,
+                    "name": "Asha Villa - Ward No. 1",
+                    "localname": "Asha Villa - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_04",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e624fdcd-c0d2-4b7e-8d28-d136360b406e",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "24b089e6-6c0f-4188-98c3-ac9462f0530b",
+                    "boundaryNum": 1,
+                    "name": "Arhat Bazar - Ward No. 2",
+                    "localname": "Arhat Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "927d339c-dc1e-44d1-b69c-54a316168bde",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 2",
+                    "localname": "Sadar Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "71ebc5b6-f5be-424f-8569-fb2b02c12970",
+                    "boundaryNum": 1,
+                    "name": "Kashmiri Mohalla - Ward No. 2",
+                    "localname": "Kashmiri Mohalla - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a090e97-9ec3-4cec-a327-f5f753b9606f",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "bf66d52b-e7cd-4db5-bc35-efa4c5bfc8ff",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 3",
+                    "localname": "Bungalow Area - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e2780620-7768-4665-8f1b-7b948671d76e",
+                    "boundaryNum": 1,
+                    "name": "Uppar Mall - Ward No. 3",
+                    "localname": "Uppar Mall - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e4b8fabc-dace-4646-bece-ccf96e2abd00",
+                    "boundaryNum": 1,
+                    "name": "Lower Mall - Ward No. 3",
+                    "localname": "Lower Mall - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dee75823-52c7-440d-a78f-22b23996c201",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "fcfb8e89-560b-4824-885a-ebffff09b705",
+                    "boundaryNum": 1,
+                    "name": "Kashmiri Mohalla - Ward No. 4",
+                    "localname": "Kashmiri Mohalla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "426e9526-8ca2-49f7-9512-94e944526b53",
+                    "boundaryNum": 1,
+                    "name": "Nabha House - Ward No. 4",
+                    "localname": "Nabha House - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "99249f78-2e8e-4b37-9b74-bb1ba2170e4a",
+                    "boundaryNum": 1,
+                    "name": "Mashobra - Ward No. 4",
+                    "localname": "Mashobra - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "8c6aa329-7cb6-4cd1-9559-521e6951f551",
+                    "boundaryNum": 1,
+                    "name": "Slaughter House - Ward No. 4",
+                    "localname": "Slaughter House - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_04",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "934920f2-ed8c-427e-832a-7f9a59d310fd",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "37146178-7d42-41b8-9e4f-45f9d0897182",
+                    "boundaryNum": 1,
+                    "name": "Drumbar - Ward No. 5",
+                    "localname": "Drumbar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a143ca9c-1503-4100-bb0e-33f38e38fd47",
+                    "boundaryNum": 1,
+                    "name": "R&T Wing - Ward No. 5",
+                    "localname": "R&T Wing - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dbd0b73f-ae41-4786-bc63-c864e4e3bc1c",
+                    "boundaryNum": 1,
+                    "name": "Asha Villa - Ward No. 5",
+                    "localname": "Asha Villa - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3c541506-8342-4328-8bf3-bd8b20e01ddb",
+                    "boundaryNum": 1,
+                    "name": "Nahri - Ward No. 5",
+                    "localname": "Nahri - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_04",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5cfb0c6e-2061-4e86-a823-9da100b067c1",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "4be66b06-eefd-4522-870a-3ce5ca662524",
+                    "boundaryNum": 1,
+                    "name": "Lower Mall - Ward No. 6",
+                    "localname": "Lower Mall - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ee4065d4-08e2-49ce-b765-067195ead757",
+                    "boundaryNum": 1,
+                    "name": "M.E.S Qtrs. - Ward No. 6",
+                    "localname": "M.E.S Qtrs. - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d2c6857f-211e-486d-9050-8165dabe7aa3",
+                    "boundaryNum": 1,
+                    "name": "Inspection Bungalow - Ward No. 6",
+                    "localname": "Inspection Bungalow - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6b8dd08a-f742-4142-a24f-3d999aa25453",
+                    "boundaryNum": 1,
+                    "name": "Dak Bungalow - Ward No. 6",
+                    "localname": "Dak Bungalow - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_04",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

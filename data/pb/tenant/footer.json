@@ -253,7 +253,583 @@
       ]
     },
     {
-      "code": "pb.almora",
+      "code": "pb.ambala",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.bareilly",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.mathura",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.allahabad",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.meerut",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.mhow",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.kasauli",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.lebong",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.jammu",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.jalandhar",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.danapur",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.dagshai",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.roorkee",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.pachmarhi",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.nasirabad",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.dehuroad",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.deolali",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -290,6 +866,1266 @@
     },
     {
       "code": "pb.ahmednagar",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.amritsar",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.ramgarh",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.jalapahar",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.wellington",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.almora",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.chakrata",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.clementtown",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.dehradun",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.subathu",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.faizabad",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.fatehgarh",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.jabalpur",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.kanpur",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.landour",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.lansdowne",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.khasyol",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.jutogh",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.shahjahanpur",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.varanasi",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.ferozepur",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.dalhousie",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.shillong",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.badamibagh",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.ajmer",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.aurangabad",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.babina",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.belgaum",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.cannanore",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.bakloh",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.stthomasmountcumpallavaram",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.saugor",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.jhansi",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.kamptee",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.kirkee",
+      "service": "TL",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_3",
+          "order": "3."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "nocNeighbour1",
+          "order": "1."
+        },
+        {
+          "disclaimer": "nocNeighbour2",
+          "order": "2."
+        },
+        {
+          "disclaimer": "planCert",
+          "order": "3."
+        },
+        {
+          "disclaimer": "buildingPhoto",
+          "order": "4."
+        }
+      ]
+    },
+    {
+      "code": "pb.morar",
       "service": "TL",
       "receiptFooterContent": [
         {
