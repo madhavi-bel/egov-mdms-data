@@ -1891,6 +1891,142 @@
       },
       "address": "54, Mall Raod, Saugor Cantt, Saugor, M.P.-470001",
       "contactNumber": "Ph No.07582-226222, 07582-227222 (Fax)"
+    },
+    {
+      "code": "pb.jhansi",
+      "name": "Jhansi Cantonment Board",
+      "description": "Jhansi",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jhansilogo.png",
+      "logoIdPdf": "jhansi.png",
+      "imageId": null,
+      "domainUrl": "www.cbjhansi.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/JhansiCantt",
+      "facebookUrl": "https://www.facebook.com/cbjhansi",
+      "emailId": "ceojhan-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Jhansi",
+        "localName": "Jhansi Cantt.",
+        "districtCode": "153",
+        "districtName": "Jhansi",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.5322449,
+        "latitude": 25.4499368,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277293",
+        "regionCode": "-",
+        "municipalityName": "Jhansi Cantonment Board",
+        "population": "505693"
+      },
+      "address": "Office of the Cantonment Board, Subhash Marg, Jhansi Cantt. - 284001",
+      "contactNumber": "0510-2370048"
+    },
+    {
+      "code": "pb.kamptee",
+      "name": "Kamptee Cantonment",
+      "description": "Kamptee",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kampteelogo.png",
+      "logoIdPdf": "kamptee.png",
+      "imageId": null,
+      "domainUrl": "www.cbkamptee.org",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbkamptee",
+      "facebookUrl": "https://www.facebook.com/cantonmentboard.kamptee.7",
+      "emailId": "ceokamp-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kamptee",
+        "localName": "Cantonment Board",
+        "districtCode": "484",
+        "districtName": "Nagpur",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.196107,
+        "latitude": 21.224486,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "--",
+        "regionCode": "--",
+        "municipalityName": "Kamptee Cantonment",
+        "population": "12457"
+      },
+      "address": "Office of the Cantonment Board, Chhoni Parishad Karyalaya,Kamptee Cantt.",
+      "contactNumber": "07109-288228"
+    },
+    {
+      "code": "pb.kirkee",
+      "name": "KIRKEE CANTONMENT BOARD",
+      "description": "Kirkee",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kirkeelogo.png",
+      "logoIdPdf": "kirkee.png",
+      "imageId": null,
+      "domainUrl": "https:\\\\cbkhadki.org.in",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/Ckhadki",
+      "facebookUrl": "https://www.facebook.com/kcb.swachhasurvekshan.1/",
+      "emailId": "ceokirkee@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Kirkee",
+        "localName": "KHADKI",
+        "districtCode": "490",
+        "districtName": "PUNE",
+        "regionName": null,
+        "ulbGrade": "Cantonment Board",
+        "longitude": 73.8524,
+        "latitude": 18.5626,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "411003",
+        "regionCode": null,
+        "municipalityName": "KIRKEE CANTONMENT BOARD",
+        "population": "70399"
+      },
+      "address": "17 Field Marshal Cariappa Road, Kirkee, Pune - 411003",
+      "contactNumber": "020-25810661"
+    },
+    {
+      "code": "pb.morar",
+      "name": "Cantonment Board Morar",
+      "description": "Morar",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/morarlogo.png",
+      "logoIdPdf": "morar.png",
+      "imageId": null,
+      "domainUrl": "http://cbmorar.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CBMorar",
+      "facebookUrl": "https://www.facebook.com/Cantonment-Board-Morar-101836321313004/",
+      "emailId": "ceomora-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Morar",
+        "localName": "Morar Cantt",
+        "districtCode": "407",
+        "districtName": "Gwalior",
+        "regionName": "Southern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 78.227326,
+        "latitude": 26.227138,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277296",
+        "regionCode": "--",
+        "municipalityName": "Cantonment Board Morar",
+        "population": "48464"
+      },
+      "address": "Office of the Cantonment Board Morar, \nSubhash Marg, Morar Cantt, Gwalior - 474006",
+      "contactNumber": "Ph No: 0751-2368703, 2462823(FAX)"
     }
   ]
 }

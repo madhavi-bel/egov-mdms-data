@@ -683,6 +683,56 @@
       "workingPopulation": null,
       "literacyRate": null,
       "languagesSpoken": []
+    },
+    {
+      "code": "pb.jhansi",
+      "districtCode": "153",
+      "population": "505693",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "HN"
+      ]
+    },
+    {
+      "code": "pb.kamptee",
+      "districtCode": "484",
+      "population": "12457",
+      "malePopulation": "8039",
+      "femalePopultion": "4418",
+      "workingPopulation": "--",
+      "literacyRate": "0.9366",
+      "languagesSpoken": [
+        "HN",
+        "MA",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.kirkee",
+      "districtCode": "490",
+      "population": "70399",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "MA",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.morar",
+      "districtCode": "407",
+      "population": "48464",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": []
     }
   ]
 }

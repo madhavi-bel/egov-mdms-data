@@ -281,6 +281,26 @@
       "tenant": "pb.saugor",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/saugor/TradeTypeSubtypeDetails_Saugor.pdf"
+    },
+    {
+      "tenant": "pb.jhansi",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jhansi/TradeTypeSubtypeDetails_Jhansi.pdf"
+    },
+    {
+      "tenant": "pb.kamptee",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kamptee/TradeTypeSubtypeDetails_Kamptee.pdf"
+    },
+    {
+      "tenant": "pb.kirkee",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kirkee/TradeTypeSubtypeDetails_Kirkee.pdf"
+    },
+    {
+      "tenant": "pb.morar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/morar/TradeTypeSubtypeDetails_Morar.pdf"
     }
   ]
 }
