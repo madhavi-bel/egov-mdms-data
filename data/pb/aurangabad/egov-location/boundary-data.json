@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.aurangabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Aurangabad",
+        "localname": "Aurangabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.aurangabad",
+        "children": [
+          {
+            "id": "608c50d8-9f47-4763-a0ea-55e7e57b4b27",
+            "boundaryNum": 1,
+            "name": "Zone-01",
+            "localname": "Zone-01",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z01",
+            "children": [
+              {
+                "id": "e1ed9f64-2247-4878-9e13-5770b63ecade",
+                "boundaryNum": 1,
+                "name": "Bada Gawlipura",
+                "localname": "Bada Gawlipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "1e8e835a-f656-4124-91b0-5dde52ea1292",
+                    "boundaryNum": 1,
+                    "name": "Bada Gawlipura - Bada Gawlipura",
+                    "localname": "Bada Gawlipura - Bada Gawlipura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf3d78c7-7794-4a02-9e2b-3086ec928993",
+                "boundaryNum": 1,
+                "name": "Chota Gawlipura",
+                "localname": "Chota Gawlipura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "90f6f98e-40e6-4ad4-97fc-965aba1a6a4c",
+                    "boundaryNum": 1,
+                    "name": "Chota Gawlipura - Chota Gawlipura",
+                    "localname": "Chota Gawlipura - Chota Gawlipura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20ba41cb-bcf8-4139-87de-88f1152495c7",
+                "boundaryNum": 1,
+                "name": "Tophkhana",
+                "localname": "Tophkhana",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "005f8fec-d907-41de-9e65-87a90f0ffa78",
+                    "boundaryNum": 1,
+                    "name": "Tophkhana - Tophkhana",
+                    "localname": "Tophkhana - Tophkhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c672cb85-e7d5-4e8e-923e-552bf562d501",
+                "boundaryNum": 1,
+                "name": "Dana Bazaar",
+                "localname": "Dana Bazaar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "3fdb736f-bd41-4b5a-b4d4-519c708a3476",
+                    "boundaryNum": 1,
+                    "name": "Dana Bazaar - Dana Bazaar",
+                    "localname": "Dana Bazaar - Dana Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8015599d-afe2-4697-a1b1-deae77cfce4f",
+                "boundaryNum": 1,
+                "name": "Pensionpura",
+                "localname": "Pensionpura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "98ec1aa9-d58f-4c21-8710-9bdd5d1bb1d4",
+                    "boundaryNum": 1,
+                    "name": "Pensionpura - Pensionpura",
+                    "localname": "Pensionpura - Pensionpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32d70061-7e26-460f-9d42-3fb36a3ad7f4",
+                "boundaryNum": 1,
+                "name": "Gaddigudam",
+                "localname": "Gaddigudam",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "f86b8a45-59a3-4355-bcfb-49f59828d748",
+                    "boundaryNum": 1,
+                    "name": "Gaddigudam - Gaddigudam",
+                    "localname": "Gaddigudam - Gaddigudam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "024f7f04-9166-4878-9700-00ffb54a2839",
+                "boundaryNum": 1,
+                "name": "Karnapura",
+                "localname": "Karnapura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "24e4278f-1b49-4af5-ad23-04de6dc84d48",
+                    "boundaryNum": 1,
+                    "name": "Karnapura - Karnapura",
+                    "localname": "Karnapura - Karnapura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
