@@ -17384,6 +17384,20 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5062,
+      "name": "Receipts",
+      "url": "url",
+      "displayName": "Receipts",
+      "orderNumber": 14,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/search",
+      "path": "UC",
+      "leftIcon": "image:collections-bookmark"
     }
 
   ]
