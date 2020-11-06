@@ -17558,7 +17558,7 @@
       "name": "WS Application Status",
       "url": "url",
       "displayName": "WS Application Status Register",
-      "orderNumber": 0,
+      "orderNumber": 3,
       "parentModule": "rainmaker-ws",
       "enabled": true,
       "serviceCode": "WS",
