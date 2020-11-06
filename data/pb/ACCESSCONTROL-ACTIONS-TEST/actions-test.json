@@ -17552,6 +17552,43 @@
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 5074,
+      "name": "WS Application Status",
+      "url": "url",
+      "displayName": "WS Application Status Register",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-ws",
+      "enabled": true,
+      "serviceCode": "WS",
+      "code": "null",
+      "path": "Reports.WaterConnectionApplicationStatusReport",
+      "navigationURL": "report/rainmaker-ws/WaterConnectionApplicationStatusReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 5075,
+      "name": "WaterConnectionApplicationStatusReport-Metadata",
+      "url": "/report/rainmaker-ws/WaterConnectionApplicationStatusReport/metadata/_get",
+      "displayName": "Rainmaker WS report",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "WaterConnectionApplicationStatusReport"
+    },
+    {
+      "id": 5076,
+      "name": "WaterConnectionApplicationStatusReport",
+      "url": "/report/rainmaker-ws/WaterConnectionApplicationStatusReport/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "WaterConnectionApplicationStatusReport"
     }
   ]
 }
