@@ -733,6 +733,20 @@
       "workingPopulation": null,
       "literacyRate": null,
       "languagesSpoken": []
+    },
+    {
+      "code": "pb.ahmedabad",
+      "districtCode": "438",
+      "population": "14345 - As per Census 2011",
+      "malePopulation": "8607",
+      "femalePopultion": "5738",
+      "workingPopulation": "0.47",
+      "literacyRate": "0.81",
+      "languagesSpoken": [
+        "GU",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
