@@ -17574,6 +17574,7 @@
       "url": "/report/rainmaker-ws/WaterConnectionApplicationStatusReport/metadata/_get",
       "displayName": "Rainmaker WS report",
       "orderNumber": 1,
+      "parentModule": "147",
       "enabled": false,
       "serviceCode": "WSREPORTS",
       "code": "null",
