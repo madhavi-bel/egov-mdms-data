@@ -17484,7 +17484,7 @@
     },
     {
       "id": 5069,
-      "name": "Search Lease",
+      "name": "Apply for Lease renewal",
       "url": "/lams-services/v1/_create",
       "parentModule": "",
       "displayName": "Apply for lease renewal",
@@ -17496,7 +17496,7 @@
     },
     {
       "id": 5070,
-      "name": "Search Lease",
+      "name": "Update Lease Renewal Application",
       "url": "/lams-services/v1/_update",
       "parentModule": "",
       "displayName": "Apply for lease renewal",
@@ -17505,6 +17505,53 @@
       "serviceCode": "lams-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5071,
+      "name": "rainmaker-citizen-lams",
+      "url": "url",
+      "displayName": "Lease Renewal",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "lams",
+      "code": "null",
+      "navigationURL": "lams-common/newApplication",
+      "path": "Lams",
+      "leftIcon": "custom:water-tap",
+      "rightIcon": ""
+    },
+    {
+      "id": 5072,
+      "name": "rainmaker-citizen-lams",
+      "url": "card",
+      "displayName": "Lease Renewal",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "lams-citizen/home",
+      "leftIcon": "custom:trade-license",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 5073,
+      "name": "rainmaker-citizen-lams",
+      "url": "card",
+      "displayName": "Apply for Lease Renewal",
+      "orderNumber": 8,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "lams-common/newApplication",
+      "leftIcon": "custom:trade-license",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
