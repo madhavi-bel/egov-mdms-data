@@ -17461,7 +17461,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "lamsHome",
+      "navigationURL": "/lams-employee/lamsHome",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -17590,6 +17590,21 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": "WaterConnectionApplicationStatusReport"
+    },
+    {
+      "id": 5077,
+      "name": "Lams",
+      "url": "url",
+      "displayName": "Lams",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-lams",
+      "enabled": true,
+      "serviceCode": "LAMS",
+      "code": "null",
+      "path": "Lams",
+      "navigationURL": "lams-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": ""
     }
   ]
 }

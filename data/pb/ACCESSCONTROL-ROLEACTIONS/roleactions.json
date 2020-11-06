@@ -12301,6 +12301,24 @@
       "actionid": 5076,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER",
+      "actionid": 5077,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_CEMP",
+      "actionid": 5077,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CITIZEN",
+      "actionid": 5077,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
