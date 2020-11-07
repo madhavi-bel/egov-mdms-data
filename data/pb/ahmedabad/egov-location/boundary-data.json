@@ -18,7 +18,7 @@
         "code": "pb.ahmedabad",
         "children": [
           {
-            "id": "281ce675-4979-446e-8ef0-2b6c6b82c692",
+            "id": "a565e06f-06da-4262-97f4-ccdf04d58a2e",
             "boundaryNum": 1,
             "name": "Zone-01",
             "localname": "Zone-01",
@@ -28,7 +28,7 @@
             "code": "Z01",
             "children": [
               {
-                "id": "4a154e3f-adf2-4a79-8eb3-1c74465cb926",
+                "id": "167340d9-4c4e-4aa0-a531-47d246b41491",
                 "boundaryNum": 1,
                 "name": "Ward-1",
                 "localname": "Ward-1",
@@ -38,10 +38,10 @@
                 "code": "WD_01",
                 "children": [
                   {
-                    "id": "1d6ef55e-f4e5-4db9-be8e-750ed113815d",
+                    "id": "785071a0-7f63-4b79-9f09-571b1c2689c7",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 1 - Ward-1",
-                    "localname": "Camp Sadar Bazaar - ward 1 - Ward-1",
+                    "name": "Camp Sadar Bazaar - Ward-1",
+                    "localname": "Camp Sadar Bazaar - Ward-1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "id": "73b331f6-86a8-4585-a667-afaa8b279577",
+                "id": "4ce90603-c601-466f-ab50-74330665b21d",
                 "boundaryNum": 1,
                 "name": "Ward-2",
                 "localname": "Ward-2",
@@ -62,10 +62,10 @@
                 "code": "WD_02",
                 "children": [
                   {
-                    "id": "7088a39b-bb0c-4013-a4e0-2403d4dd66d1",
+                    "id": "90b451dd-bb14-4d2f-98a3-d81a990ab73b",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 2 - Ward-2",
-                    "localname": "Camp Sadar Bazaar - ward 2 - Ward-2",
+                    "name": "Camp Sadar Bazaar - Ward-2",
+                    "localname": "Camp Sadar Bazaar - Ward-2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -76,7 +76,7 @@
                 ]
               },
               {
-                "id": "845f80cb-f2ae-40f4-b8e2-5ca32770921b",
+                "id": "a5ae5b1d-d1a9-49cd-9f8e-2457f2de5ff9",
                 "boundaryNum": 1,
                 "name": "Ward-3",
                 "localname": "Ward-3",
@@ -86,10 +86,10 @@
                 "code": "WD_03",
                 "children": [
                   {
-                    "id": "593a6251-8fad-4e13-8358-e99582d9b344",
+                    "id": "66d6a98e-15a2-426b-85a6-191ebc92ccb9",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 3 - Ward-3",
-                    "localname": "Camp Sadar Bazaar - ward 3 - Ward-3",
+                    "name": "Camp Sadar Bazaar - Ward-3",
+                    "localname": "Camp Sadar Bazaar - Ward-3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -100,7 +100,7 @@
                 ]
               },
               {
-                "id": "86937d01-98f2-4c23-814b-9af8cd21c261",
+                "id": "a1b82767-3ae4-4067-bd22-60aaaa1b509d",
                 "boundaryNum": 1,
                 "name": "Ward-4",
                 "localname": "Ward-4",
@@ -110,10 +110,10 @@
                 "code": "WD_04",
                 "children": [
                   {
-                    "id": "07758048-30cd-4e85-ad5d-8b0439b3c469",
+                    "id": "8fa7f2cb-59f3-4962-af2a-c4481dae4b3a",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 4 - Ward-4",
-                    "localname": "Camp Sadar Bazaar - ward 4 - Ward-4",
+                    "name": "Camp Sadar Bazaar - Ward-4",
+                    "localname": "Camp Sadar Bazaar - Ward-4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -124,7 +124,7 @@
                 ]
               },
               {
-                "id": "295888bd-9a6e-459c-b1cf-dbae7c9d555b",
+                "id": "bb7c34d2-78c6-41a4-b555-30a271cac3db",
                 "boundaryNum": 1,
                 "name": "Ward-5",
                 "localname": "Ward-5",
@@ -134,10 +134,10 @@
                 "code": "WD_05",
                 "children": [
                   {
-                    "id": "acb6b57c-778c-4f77-9212-b4138a8259ed",
+                    "id": "c44c5650-dc6f-4553-9402-f0a2fbd596a4",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 5 - Ward-5",
-                    "localname": "Camp Sadar Bazaar - ward 5 - Ward-5",
+                    "name": "Camp Sadar Bazaar - Ward-5",
+                    "localname": "Camp Sadar Bazaar - Ward-5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -148,7 +148,7 @@
                 ]
               },
               {
-                "id": "362ca5a9-c0f4-4eb6-b9be-0e4c32c6a06b",
+                "id": "65a1da48-22d2-4d25-a948-e29f4c05a545",
                 "boundaryNum": 1,
                 "name": "Ward-6",
                 "localname": "Ward-6",
@@ -158,10 +158,10 @@
                 "code": "WD_06",
                 "children": [
                   {
-                    "id": "b3c23a4f-d8e7-4666-8173-273d0e94d237",
+                    "id": "9caa989f-68d4-4062-8ec7-1a119db22f8f",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 6 - Ward-6",
-                    "localname": "Camp Sadar Bazaar - ward 6 - Ward-6",
+                    "name": "Camp Sadar Bazaar - Ward-6",
+                    "localname": "Camp Sadar Bazaar - Ward-6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -172,7 +172,7 @@
                 ]
               },
               {
-                "id": "0294ef43-3218-4a9c-8dd1-0aefdd75662f",
+                "id": "e08058c4-ce07-4c5c-8ba4-6546d3707b54",
                 "boundaryNum": 1,
                 "name": "Ward-7",
                 "localname": "Ward-7",
@@ -182,10 +182,10 @@
                 "code": "WD_07",
                 "children": [
                   {
-                    "id": "acf7e070-ff41-42a5-ba87-88e5d1f7b753",
+                    "id": "ee186206-866e-4cb0-9be9-40e0d34b93a5",
                     "boundaryNum": 1,
-                    "name": "Camp Sadar Bazaar - ward 7 - Ward-7",
-                    "localname": "Camp Sadar Bazaar - ward 7 - Ward-7",
+                    "name": "Camp Sadar Bazaar - Ward-7",
+                    "localname": "Camp Sadar Bazaar - Ward-7",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
