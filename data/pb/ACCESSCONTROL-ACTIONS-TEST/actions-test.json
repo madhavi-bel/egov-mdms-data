@@ -17602,7 +17602,7 @@
       "serviceCode": "LAMS",
       "code": "null",
       "path": "Lams.Applications",
-      "navigationURL": "/lams-employee/lamsHome",
+      "navigationURL": "lams-employee/lamsHome",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     }
