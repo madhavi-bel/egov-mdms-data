@@ -12319,6 +12319,30 @@
       "actionid": 5077,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_CEMP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_CEMP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
