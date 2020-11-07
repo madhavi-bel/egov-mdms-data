@@ -12315,7 +12315,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_CITIZEN",
+      "rolecode": "CITIZEN",
       "actionid": 5077,
       "actioncode": "",
       "tenantId": "pb"
