@@ -17616,33 +17616,33 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.StateLevelWaterRegistryReport",
-      "navigationURL": "report/rainmaker-ws/StateLevelWaterRegistryReport",
+      "path": "WS REPORTS.WaterRegistryReport",
+      "navigationURL": "report/rainmaker-ws/WaterRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
     {
       "id": 5079,
-      "name": "StateLevelWaterRegistryReport-Metadata",
-      "url": "/report/rainmaker-ws/StateLevelWaterRegistryReport/metadata/_get",
+      "name": "WaterRegistryReport-Metadata",
+      "url": "/report/rainmaker-ws/WaterRegistryReport/metadata/_get",
       "displayName": "Rainmaker WS report",
       "orderNumber": 1,
       "parentModule": "147",
       "enabled": false,
       "serviceCode": "WSREPORTS",
       "code": "null",
-      "path": "StateLevelWaterRegistryReport"
+      "path": "WaterRegistryReport"
     },
     {
       "id": 5080,
-      "name": "StateLevelWaterRegistryReport",
-      "url": "/report/rainmaker-ws/StateLevelWaterRegistryReport/_get",
+      "name": "WaterRegistryReport",
+      "url": "/report/rainmaker-ws/WaterRegistryReport/_get",
       "displayName": "WS Report",
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "WSREPORTS",
       "code": "null",
-      "path": "StateLevelWaterRegistryReport"
+      "path": "WaterRegistryReport"
     }
   ]
 }
