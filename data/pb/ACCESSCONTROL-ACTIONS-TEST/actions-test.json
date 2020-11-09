@@ -17643,6 +17643,44 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": "WaterRegistryReport"
+    },
+    {
+      "id": 5081,
+      "name": "CollectionforWaterConnectionType",
+      "url": "url",
+      "displayName": "CollectionforWaterConnectionType",
+      "orderNumber": 3,
+      "parentModule": "rainmaker-ws",
+      "enabled": true,
+      "serviceCode": "WS",
+      "code": "null",
+      "path": "WS REPORTS.CollectionforWaterConnectionType",
+      "navigationURL": "report/rainmaker-ws/CollectionforWaterConnectionType",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 5082,
+      "name": "CollectionforWaterConnectionType-Metadata",
+      "url": "/report/rainmaker-ws/CollectionforWaterConnectionType/metadata/_get",
+      "displayName": "Rainmaker WS report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "CollectionforWaterConnectionType"
+    },
+    {
+      "id": 5083,
+      "name": "CollectionforWaterConnectionType",
+      "url": "/report/rainmaker-ws/CollectionforWaterConnectionType/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "CollectionforWaterConnectionType"
     }
   ]
 }
