@@ -17605,6 +17605,44 @@
       "navigationURL": "lams-employee/lamsHome",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
+    },
+    {
+      "id": 5078,
+      "name": "WS Registry Report",
+      "url": "url",
+      "displayName": "WS Registry Report",
+      "orderNumber": 3,
+      "parentModule": "rainmaker-ws",
+      "enabled": true,
+      "serviceCode": "WS",
+      "code": "null",
+      "path": "WS REPORTS.StateLevelWaterRegistryReport",
+      "navigationURL": "report/rainmaker-ws/StateLevelWaterRegistryReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 5079,
+      "name": "StateLevelWaterRegistryReport-Metadata",
+      "url": "/report/rainmaker-ws/StateLevelWaterRegistryReport/metadata/_get",
+      "displayName": "Rainmaker WS report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "StateLevelWaterRegistryReport"
+    },
+    {
+      "id": 5080,
+      "name": "StateLevelWaterRegistryReport",
+      "url": "/report/rainmaker-ws/StateLevelWaterRegistryReport/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "StateLevelWaterRegistryReport"
     }
   ]
 }
