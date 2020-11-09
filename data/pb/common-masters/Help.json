@@ -306,6 +306,16 @@
       "tenant": "pb.ahmedabad",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ahmedabad/TradeTypeSubtypeDetails_Ahmedabad.pdf"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/barrackpore/TradeTypeSubtypeDetails_Barrackpore.pdf"
+    },
+    {
+      "tenant": "pb.ranikhet",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ranikhet/TradeTypeSubtypeDetails_Ranikhet.pdf"
     }
   ]
 }

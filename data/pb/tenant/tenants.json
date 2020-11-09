@@ -2061,6 +2061,74 @@
       },
       "address": "Office of the Cantonment Board, Nr Camp Hanuman Temple, Shahibaug, Ahmedabad",
       "contactNumber": "Ph No: 079- 22867251"
+    },
+    {
+      "code": "pb.barrackpore",
+      "name": "Barrackpore",
+      "description": "Barrackpore",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/barrackporelogo.png",
+      "logoIdPdf": "barrackpore.png",
+      "imageId": null,
+      "domainUrl": "https://cbbarrackpore.org/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/canttbkp",
+      "facebookUrl": "https://www.facebook.com/canttbkp/",
+      "emailId": "ceobarr-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Barrackpore",
+        "localName": "Barrackpore Cant",
+        "districtCode": "303",
+        "districtName": "North 24 Pargana",
+        "regionName": "Eastern Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 88.2020098,
+        "latitude": 22.4528298,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277279",
+        "regionCode": null,
+        "municipalityName": "Barrackpore",
+        "population": "23266"
+      },
+      "address": "Office of Cantonment Board Barrackpore, \n77 Middle Road \nBarrackpore-700120",
+      "contactNumber": "033-25946448,25948022(Ext.)"
+    },
+    {
+      "code": "pb.ranikhet",
+      "name": "Ranikhet",
+      "description": "Ranikhet",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ranikhetlogo.png",
+      "logoIdPdf": "ranikhet.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cbranikhet@dgest.org",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Ranikhet",
+        "localName": "Cantt. Board, Ranikhet",
+        "districtCode": "45",
+        "districtName": "Almora",
+        "regionName": "Kumoun",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.436514,
+        "latitude": 29.642751,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": null,
+        "regionCode": null,
+        "municipalityName": "Ranikhet",
+        "population": "18886"
+      },
+      "address": "Cantonment Board, Ranikhet, Distt. Almora, Uttrakhand. Pin 263645",
+      "contactNumber": "None"
     }
   ]
 }

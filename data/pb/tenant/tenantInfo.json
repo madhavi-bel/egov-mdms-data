@@ -747,6 +747,32 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pb.barrackpore",
+      "districtCode": "303",
+      "population": "23266",
+      "malePopulation": null,
+      "femalePopultion": null,
+      "workingPopulation": null,
+      "literacyRate": null,
+      "languagesSpoken": [
+        "BE",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pb.ranikhet",
+      "districtCode": "45",
+      "population": "18886",
+      "malePopulation": "11412",
+      "femalePopultion": "7474",
+      "workingPopulation": "N.A.",
+      "literacyRate": "0.952",
+      "languagesSpoken": [
+        "HN"
+      ]
     }
   ]
 }

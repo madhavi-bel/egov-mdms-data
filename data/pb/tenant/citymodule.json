@@ -185,6 +185,12 @@
         },
         {
           "code": "pb.ahmedabad"
+        },
+        {
+          "code": "pb.barrackpore"
+        },
+        {
+          "code": "pb.ranikhet"
         }
       ]
     },
@@ -371,6 +377,12 @@
         },
         {
           "code": "pb.ahmedabad"
+        },
+        {
+          "code": "pb.barrackpore"
+        },
+        {
+          "code": "pb.ranikhet"
         }
       ]
     },
@@ -557,6 +569,12 @@
         },
         {
           "code": "pb.ahmedabad"
+        },
+        {
+          "code": "pb.barrackpore"
+        },
+        {
+          "code": "pb.ranikhet"
         }
       ]
     }
