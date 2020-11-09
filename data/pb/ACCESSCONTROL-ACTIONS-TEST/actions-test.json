@@ -17681,6 +17681,44 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": "CollectionforWaterConnectionType"
+    },
+    {
+      "id": 5084,
+      "name": "UsageTypeWaterCollection",
+      "url": "url",
+      "displayName": "UsageTypeWaterCollection",
+      "orderNumber": 3,
+      "parentModule": "rainmaker-ws",
+      "enabled": true,
+      "serviceCode": "WS",
+      "code": "null",
+      "path": "WS REPORTS.UsageTypeWaterCollection",
+      "navigationURL": "report/rainmaker-ws/UsageTypeWaterCollection",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 5085,
+      "name": "UsageTypeWaterCollection-Metadata",
+      "url": "/report/rainmaker-ws/UsageTypeWaterCollection/metadata/_get",
+      "displayName": "Rainmaker WS report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "UsageTypeWaterCollection"
+    },
+    {
+      "id": 5086,
+      "name": "UsageTypeWaterCollection",
+      "url": "/report/rainmaker-ws/UsageTypeWaterCollection/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "UsageTypeWaterCollection"
     }
   ]
 }
