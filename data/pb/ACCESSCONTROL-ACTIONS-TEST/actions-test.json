@@ -17719,6 +17719,19 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": "UsageTypeWaterCollection"
+    },
+    {
+      "id": 5087,
+      "name": "Lease Search",
+      "url": "/lams-employee/search",
+      "displayName": "Lease Search",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "Lams",
+      "code": "null",
+      "navigationURL": "/lams-employee/search",
+      "path": "Lams.search",
+      "leftIcon": "places:business-center"
     }
   ]
 }
