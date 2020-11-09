@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.fatehgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Fatehgarh",
+        "localname": "Fatehgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.fatehgarh",
+        "children": [
+          {
+            "id": "36c051f8-29bf-4c56-ad63-4065bba78782",
+            "boundaryNum": 1,
+            "name": "Fatehgarh Cantt",
+            "localname": "Fatehgarh Cantt",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "800969",
+            "children": [
+              {
+                "id": "5410cf19-01a0-4326-a6e9-77bf5fffcd3d",
+                "boundaryNum": 1,
+                "name": "Ward No.1",
+                "localname": "Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "92d36a69-e82c-40b9-b73e-48b5f52b754a",
+                    "boundaryNum": 1,
+                    "name": "Naugawan Ward 1 - Ward No.1",
+                    "localname": "Naugawan Ward 1 - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a811ce24-92bf-4992-8042-2b067fe1d035",
+                "boundaryNum": 1,
+                "name": "Ward No.2",
+                "localname": "Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "92ddb781-9c79-4bc6-bdc3-63a6c0f0a3a2",
+                    "boundaryNum": 1,
+                    "name": "Kasimbagh Ward 2 - Ward No.2",
+                    "localname": "Kasimbagh Ward 2 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d4017131-7868-457e-bce9-319b3926341f",
+                "boundaryNum": 1,
+                "name": "Ward No.3",
+                "localname": "Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "47508641-324a-4c59-853c-5c505a4f8355",
+                    "boundaryNum": 1,
+                    "name": "Kasimbagh Ward 3 - Ward No.3",
+                    "localname": "Kasimbagh Ward 3 - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95bc3d91-dea9-4f28-9963-7ef386af75ac",
+                "boundaryNum": 1,
+                "name": "Ward No.4",
+                "localname": "Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "0c0c5ee4-e91e-4ae5-9638-fb3e4e62fa7d",
+                    "boundaryNum": 1,
+                    "name": "Sheeshambagh Ward 4 - Ward No.4",
+                    "localname": "Sheeshambagh Ward 4 - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89f29b8d-2dce-4f86-85f2-9eb2580d11eb",
+                "boundaryNum": 1,
+                "name": "Ward No.5",
+                "localname": "Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "a0390a5b-ef86-4f91-a78e-5dfdee40956e",
+                    "boundaryNum": 1,
+                    "name": "Sheeshambagh Ward 5 - Ward No.5",
+                    "localname": "Sheeshambagh Ward 5 - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "caceeb4a-7a85-4944-b50a-967723a0674f",
+                "boundaryNum": 1,
+                "name": "Ward No.6",
+                "localname": "Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "a39321f0-af18-47d7-ba63-639915e79a55",
+                    "boundaryNum": 1,
+                    "name": "Colonelganj Ward 6 - Ward No.6",
+                    "localname": "Colonelganj Ward 6 - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95023461-c324-487d-ace1-c09d4af35161",
+                "boundaryNum": 1,
+                "name": "Ward No.7",
+                "localname": "Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "7525b5d5-013b-4bcd-a131-2e8ee5927664",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area Ward 7 - Ward No.7",
+                    "localname": "Bungalow Area Ward 7 - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "800969",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
