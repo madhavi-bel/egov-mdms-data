@@ -1424,14 +1424,14 @@
         ]
       },
       {
-        "key" : "StateLevelWaterRegistryReport",
+        "key" : "WaterRegistryReport",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "EMPLOYEE",
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/name"
+                  "jsonPath" : "*/username"
                 },
                 "accessType" : "PLAIN"
               },
