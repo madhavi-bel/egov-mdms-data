@@ -1431,7 +1431,7 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/username"
+                  "jsonPath" : "*/name"
                 },
                 "accessType" : "PLAIN"
               },
