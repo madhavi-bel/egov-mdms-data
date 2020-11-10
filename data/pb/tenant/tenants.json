@@ -2129,6 +2129,40 @@
       },
       "address": "Cantonment Board, Ranikhet, Distt. Almora, Uttrakhand. Pin 263645",
       "contactNumber": "None"
+    },
+    {
+      "code": "pb.nainital",
+      "name": "Cantonment Board Nainital",
+      "description": "Nainital",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/nainitallogo.png",
+      "logoIdPdf": "nainital.png",
+      "imageId": null,
+      "domainUrl": "https://www.cbnainital.org.in/",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/cbnainital",
+      "facebookUrl": "--",
+      "emailId": "ceonain-stats@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Nainital",
+        "localName": "Cantonment Board Nainital",
+        "districtCode": "51",
+        "districtName": "Nainital",
+        "regionName": "Central Command",
+        "ulbGrade": "Cantonment Board",
+        "longitude": 79.466772,
+        "latitude": 29.377258,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "277273",
+        "regionCode": "-",
+        "municipalityName": "Cantonment Board Nainital",
+        "population": "1398"
+      },
+      "address": "Cantonment Board Office, Nainital - Bhowali Rd, Tallital, Nainital, Uttarakhand 263002",
+      "contactNumber": "Phone- 05942 – 235380"
     }
   ]
 }

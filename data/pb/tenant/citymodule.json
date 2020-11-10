@@ -191,6 +191,9 @@
         },
         {
           "code": "pb.ranikhet"
+        },
+        {
+          "code": "pb.nainital"
         }
       ]
     },
@@ -383,6 +386,9 @@
         },
         {
           "code": "pb.ranikhet"
+        },
+        {
+          "code": "pb.nainital"
         }
       ]
     },
@@ -575,6 +581,9 @@
         },
         {
           "code": "pb.ranikhet"
+        },
+        {
+          "code": "pb.nainital"
         }
       ]
     }

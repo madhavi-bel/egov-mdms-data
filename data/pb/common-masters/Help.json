@@ -316,6 +316,11 @@
       "tenant": "pb.ranikhet",
       "code": "TL",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ranikhet/TradeTypeSubtypeDetails_Ranikhet.pdf"
+    },
+    {
+      "tenant": "pb.nainital",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/nainital/TradeTypeSubtypeDetails_Nainital.pdf"
     }
   ]
 }
