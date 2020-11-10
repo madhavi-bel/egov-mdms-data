@@ -773,6 +773,19 @@
       "languagesSpoken": [
         "HN"
       ]
+    },
+    {
+      "code": "pb.nainital",
+      "districtCode": "51",
+      "population": "1398",
+      "malePopulation": "--",
+      "femalePopultion": "--",
+      "workingPopulation": "--",
+      "literacyRate": "--",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
