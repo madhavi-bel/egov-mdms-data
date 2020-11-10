@@ -12225,12 +12225,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 5071,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 5074,
       "actioncode": "",

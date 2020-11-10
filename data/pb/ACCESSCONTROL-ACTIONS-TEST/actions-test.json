@@ -17526,7 +17526,7 @@
       "name": "Lams",
       "url": "url",
       "displayName": "Lams Home",
-      "orderNumber": 1,
+      "orderNumber": 8,
       "parentModule": "rainmaker-lams",
       "enabled": true,
       "serviceCode": "LAMS",
