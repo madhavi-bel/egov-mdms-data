@@ -90,6 +90,14 @@
           "ulb-ws": {
             "routePath": "/dashboard/ulb-ws",
             "isOrigin": true
+          },
+          "sw": {
+            "routePath": "/dashboard/sw",
+            "isOrigin": true
+          },
+          "ulb-sw": {
+            "routePath": "/dashboard/ulb-sw",
+            "isOrigin": true
           }
         }
       }, 

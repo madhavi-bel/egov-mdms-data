@@ -12569,6 +12569,32 @@
       "actionid": 5072,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5088,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5089,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5090,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5091,
+      "actioncode": "",
+      "tenantId": "pb"
     }
+    
+
   ]
 }
