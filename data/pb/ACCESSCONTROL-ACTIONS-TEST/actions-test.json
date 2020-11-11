@@ -17414,16 +17414,18 @@
     },
     {
       "id": 5064,
-      "name": "Lease Search",
-      "url": "/lams-employee/search",
-      "displayName": "Lease Search",
-      "orderNumber": 5,
-      "enabled": false,
-      "serviceCode": "Lams",
+      "name": "Lams",
+      "url": "url",
+      "displayName": "Search",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-lams",
+      "enabled": true,
+      "serviceCode": "LAMS",
       "code": "null",
-      "navigationURL": "/lams-employee/search",
-      "path": "Lams.search",
-      "leftIcon": "places:business-center"
+      "path": "Lams.Search",
+      "navigationURL": "lams-employee/search",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": ""
     },
     {
       "id": 5065,
