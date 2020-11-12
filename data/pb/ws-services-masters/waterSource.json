@@ -56,17 +56,6 @@
       "name": "Bulksupply-Treated",
       "code": "BULKSUPPLY.TREATED",
       "active": true
-    },
-    {
-      "name": "Test",
-      "code": "TEST",
-      "active": true 
-      
     }
   ]
 }
-
-
-
-
-
