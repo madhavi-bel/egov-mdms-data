@@ -319,7 +319,10 @@
       "femalePopultion": null,
       "workingPopulation": null,
       "literacyRate": null,
-      "languagesSpoken": []
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
     },
     {
       "code": "pb.jalapahar",
@@ -343,7 +346,11 @@
       "femalePopultion": "8595",
       "workingPopulation": null,
       "literacyRate": null,
-      "languagesSpoken": []
+      "languagesSpoken": [
+        "TA",
+        "TE",
+        "EN"
+      ]
     },
     {
       "code": "pb.subathu",
@@ -404,7 +411,9 @@
       "femalePopultion": null,
       "workingPopulation": null,
       "literacyRate": null,
-      "languagesSpoken": []
+      "languagesSpoken": [
+        "HN"
+      ]
     },
     {
       "code": "pb.faizabad",
