@@ -881,83 +881,83 @@
   "ws-services-calculation": {
     "WaterCess": {
       "masterName": "WaterCess",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
       "masterName": "WS_CHARGE",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_TIME_PENALTY": {
       "masterName": "WS_TIME_PENALTY",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_WATER_CESS": {
       "masterName": "WS_WATER_CESS",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "MeterStatus": {
       "masterName": "MeterStatus",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "WS_Round_Off": {
       "masterName": "WS_Round_Off",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
-  },
-  "CalculationAttribute": {
+    },
+    "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     }
   },
@@ -1004,75 +1004,75 @@
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.billingCycle"
       ]
     },
     "SW_CHARGE": {
       "masterName": "SW_CHARGE",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "SW_TIME_PENALTY": {
       "masterName": "SW_TIME_PENALTY",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
      "SW_Round_Off": {
       "masterName": "SW_Round_Off",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     }
   }
