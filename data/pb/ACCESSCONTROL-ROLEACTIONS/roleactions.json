@@ -12593,8 +12593,25 @@
       "actionid": 5091,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER",
+      "actionid": 5092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_CEMP",
+      "actionid": 5092,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-    
 
   ]
 }
