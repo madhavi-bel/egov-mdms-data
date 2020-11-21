@@ -11027,7 +11027,7 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.CempInbox.AllComplaints",
+      "path": "Complaints.AllComplaints",
       "navigationURL": "all-complaints",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
@@ -11057,8 +11057,8 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.GROInbox.MyComplaints",
-      "navigationURL": "all-complaints-gro",
+      "path": "Complaints.MyComplaints",
+      "navigationURL": "all-complaints",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -11072,8 +11072,8 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.GROInbox.Closed Complaints",
-      "navigationURL": "closed-complaints-gro",
+      "path": "Complaints.Closed Complaints",
+      "navigationURL": "closed-complaints",
       "leftIcon": "custom:closed-complaints",
       "rightIcon": ""
     },
@@ -17799,36 +17799,6 @@
       "serviceCode": "lams-services",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 5093,
-      "name": "OpenComplaints",
-      "url": "url",
-      "displayName": "Open Complaints",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "Complaints.ROInbox.MyComplaints",
-      "navigationURL": "all-complaints-ro",
-      "leftIcon": "action:announcement",
-      "rightIcon": ""
-    },
-    {
-      "id": 5094,
-      "name": "ClosedComplaints",
-      "url": "url",
-      "displayName": "Closed Complaints",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "Complaints.ROInbox.Closed Complaints",
-      "navigationURL": "closed-complaints-ro",
-      "leftIcon": "custom:closed-complaints",
-      "rightIcon": ""
     }
   ]
 }
