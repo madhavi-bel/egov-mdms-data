@@ -1825,11 +1825,11 @@
       "contactNumber": "01899-257110"
     },
     {
-      "code": "pb.stthomasmountcumpallavaram",
+      "code": "pb.stm",
       "name": "CB St. Thomas Mount Cum Pallavaram",
-      "description": "StThomasMountCumPallavaram",
-      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/stthomasmountcumpallavaramlogo.png",
-      "logoIdPdf": "stthomasmountcumpallavaram.png",
+      "description": "stm",
+      "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/stmlogo.png",
+      "logoIdPdf": "stm.png",
       "imageId": null,
       "domainUrl": "WWW.CBSTM.ORG.IN",
       "type": "CITY",
@@ -1840,7 +1840,7 @@
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
       "city": {
-        "name": "StThomasMountCumPallavaram",
+        "name": "stm",
         "localName": "St. Thomas Mount cum Pallavaram Cantt",
         "districtCode": "730",
         "districtName": "Chengalpattu",
