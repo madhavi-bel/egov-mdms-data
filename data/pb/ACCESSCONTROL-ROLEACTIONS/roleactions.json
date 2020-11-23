@@ -9690,7 +9690,7 @@
     },
 	  {
       "rolecode": "RO",
-      "actionid": 1557,
+      "actionid": 5093,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -9702,7 +9702,7 @@
     },
   	{
       "rolecode": "RO",
-      "actionid": 1558,
+      "actionid": 5094,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -10313,12 +10313,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1775,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "GO",
       "actionid": 1752,
       "actioncode": "",
@@ -10338,18 +10332,6 @@
     },
     {
       "rolecode": "CSR",
-      "actionid": 1775,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 1775,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "GRO",
       "actionid": 1775,
       "actioncode": "",
       "tenantId": "pb"
