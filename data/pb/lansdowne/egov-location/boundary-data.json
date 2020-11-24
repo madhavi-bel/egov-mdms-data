@@ -1,0 +1,456 @@
+{
+  "tenantId": "pb.lansdowne",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lansdowne",
+        "localname": "Lansdowne",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lansdowne",
+        "children": [
+          {
+            "id": "9a01e0d8-e664-462a-92c4-6e55055b45dc",
+            "boundaryNum": 1,
+            "name": "Lansdowne",
+            "localname": "Lansdowne",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "800317",
+            "children": [
+              {
+                "id": "fee9d19b-7aa1-4522-8d39-23d631775a34",
+                "boundaryNum": 1,
+                "name": "Ward No. 01",
+                "localname": "Ward No. 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4bf70b7f-de17-4fc3-ac65-4c45b7ff8c7d",
+                    "boundaryNum": 1,
+                    "name": "2/3rd Kalagarhi Bazaar - Ward No. 01",
+                    "localname": "2/3rd Kalagarhi Bazaar - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1_W1",
+                    "area": "800317",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ffb0b34-6913-4a00-9802-15a0d7170539",
+                "boundaryNum": 1,
+                "name": "Ward No. 02",
+                "localname": "Ward No. 02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "cc5c2ad2-b12b-4e00-b96b-4deac51231ec",
+                    "boundaryNum": 1,
+                    "name": "Wakil Mohalla - Ward No. 02",
+                    "localname": "Wakil Mohalla - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1_W2",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "780c2f5f-a24e-4435-9dac-8127c0cec66e",
+                    "boundaryNum": 1,
+                    "name": "Bisht Bhawan - Ward No. 02",
+                    "localname": "Bisht Bhawan - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2_W2",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "83a50350-77c6-4df3-afae-4ef4f3aa95fc",
+                    "boundaryNum": 1,
+                    "name": "Shaheed Awas - Ward No. 02",
+                    "localname": "Shaheed Awas - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3_W2",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "e74b1633-df54-45d6-8fed-47a20c933ba0",
+                    "boundaryNum": 1,
+                    "name": "Cantt Awas - Ward No. 02",
+                    "localname": "Cantt Awas - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4_W2",
+                    "area": "800317",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c12af338-8a36-489c-a953-54632b0ed35a",
+                "boundaryNum": 1,
+                "name": "Ward No. 03",
+                "localname": "Ward No. 03",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "367359f4-e5ac-4385-8f5f-387600298ffc",
+                    "boundaryNum": 1,
+                    "name": "Buchri Mohalla - Ward No. 03",
+                    "localname": "Buchri Mohalla - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "6a62ef64-301d-4a1f-9caa-aae015c8e6f5",
+                    "boundaryNum": 1,
+                    "name": "Anand Bhawan - Ward No. 03",
+                    "localname": "Anand Bhawan - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "ed8042ae-db23-4d63-a88e-d8f199b06a00",
+                    "boundaryNum": 1,
+                    "name": "Post Office Gali - Ward No. 03",
+                    "localname": "Post Office Gali - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "b3107bfd-3b21-4d21-9186-8902a91ae70e",
+                    "boundaryNum": 1,
+                    "name": "Near Dharamshala Mohalla - Ward No. 03",
+                    "localname": "Near Dharamshala Mohalla - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "fcee0b43-26db-4108-9d36-cfbafa247a7e",
+                    "boundaryNum": 1,
+                    "name": "Kumaoni Mohalla - Ward No. 03",
+                    "localname": "Kumaoni Mohalla - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "149ff2f9-f3e7-4aee-8786-0a1547c0425d",
+                    "boundaryNum": 1,
+                    "name": "Masjid Mohalla - Ward No. 03",
+                    "localname": "Masjid Mohalla - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "e63f683d-90cc-4a6e-9b48-45acb66e6222",
+                    "boundaryNum": 1,
+                    "name": "Court Road - Ward No. 03",
+                    "localname": "Court Road - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "20ccabf3-c5a9-4277-9f97-15b716d008cd",
+                    "boundaryNum": 1,
+                    "name": "Subedaar Mohalla - Ward No. 03",
+                    "localname": "Subedaar Mohalla - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8_W3",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "713b8804-6660-447d-982a-59251f8c35fd",
+                    "boundaryNum": 1,
+                    "name": "Kaleshwar Road - Ward No. 03",
+                    "localname": "Kaleshwar Road - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9_W3",
+                    "area": "800317",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d446470-f720-40d0-9d5f-28ddbc5abc98",
+                "boundaryNum": 1,
+                "name": "Ward No. 04",
+                "localname": "Ward No. 04",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "6fcd5e2f-eff4-4f9f-9ce7-37360b681181",
+                    "boundaryNum": 1,
+                    "name": "Amarnath Mohalla - Ward No. 04",
+                    "localname": "Amarnath Mohalla - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "a570304d-0361-4375-896d-e44de7bf0c47",
+                    "boundaryNum": 1,
+                    "name": "Near Gandhi Chowk - Ward No. 04",
+                    "localname": "Near Gandhi Chowk - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "5bc9019f-5d11-4631-9a0d-a9f750310ac1",
+                    "boundaryNum": 1,
+                    "name": "Forest Colony - Ward No. 04",
+                    "localname": "Forest Colony - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "855584aa-e606-4c22-81ca-b3443703be7a",
+                    "boundaryNum": 1,
+                    "name": "Bhagwandas Gali - Ward No. 04",
+                    "localname": "Bhagwandas Gali - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "9b82fbef-4e87-4cdd-861d-3690040d4d94",
+                    "boundaryNum": 1,
+                    "name": "Marwari Mohalla - Ward No. 04",
+                    "localname": "Marwari Mohalla - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "838a5ffd-8f1c-49a9-9ff3-c03f1eebff75",
+                    "boundaryNum": 1,
+                    "name": "Diggi Mohalla - Ward No. 04",
+                    "localname": "Diggi Mohalla - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "008b9aa9-c861-4d87-b45a-5e033babdbdc",
+                    "boundaryNum": 1,
+                    "name": "Peepal Mohalla - Ward No. 04",
+                    "localname": "Peepal Mohalla - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7_W4",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "e7f8200e-9337-4b5b-a494-a5ae0864c5ba",
+                    "boundaryNum": 1,
+                    "name": "Chakki Gali - Ward No. 04",
+                    "localname": "Chakki Gali - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8_W4",
+                    "area": "800317",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5fa948d7-06e9-4f0d-91c3-5f48176bdea9",
+                "boundaryNum": 1,
+                "name": "Ward No. 05",
+                "localname": "Ward No. 05",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "406f0496-942d-46e8-ae8d-8da207160681",
+                    "boundaryNum": 1,
+                    "name": "Hari Niwas - Ward No. 05",
+                    "localname": "Hari Niwas - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1_W5",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "2fb0ec53-2cc4-4ebc-b928-d31d6a033006",
+                    "boundaryNum": 1,
+                    "name": "202 Cantt Shops - Ward No. 05",
+                    "localname": "202 Cantt Shops - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2_W5",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "9e58b66f-d134-4fdf-ad7a-3e39a7eea3c5",
+                    "boundaryNum": 1,
+                    "name": "Cinema Hall Building - Ward No. 05",
+                    "localname": "Cinema Hall Building - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3_W5",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "2add39e8-465f-4b0f-b61f-03c880c2869e",
+                    "boundaryNum": 1,
+                    "name": "Near Soldier Board - Ward No. 05",
+                    "localname": "Near Soldier Board - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4_W5",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "47cf8ee6-954c-4896-841a-b9a16eb387c7",
+                    "boundaryNum": 1,
+                    "name": "Premsadan - Ward No. 05",
+                    "localname": "Premsadan - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5_W5",
+                    "area": "800317",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a7cd9564-0eea-427d-92bd-1ee3b18e2759",
+                "boundaryNum": 1,
+                "name": "Ward No. 06",
+                "localname": "Ward No. 06",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "a386f09e-bdf5-4c87-afd9-e18406b7253f",
+                    "boundaryNum": 1,
+                    "name": "Diggi Line - Ward No. 06",
+                    "localname": "Diggi Line - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1_W6",
+                    "area": "800317",
+                    "children": []
+                  },
+                  {
+                    "id": "3b0c6464-2973-4d32-ae6d-1407c537001b",
+                    "boundaryNum": 1,
+                    "name": "Near Durga Mata Mandir - Ward No. 06",
+                    "localname": "Near Durga Mata Mandir - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2_W6",
+                    "area": "800317",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

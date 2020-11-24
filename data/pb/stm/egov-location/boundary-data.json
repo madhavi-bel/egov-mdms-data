@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.stthomasmountcumpallavaram",
+  "tenantId": "pb.stm",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "StThomasMountCumPallavaram",
-        "localname": "StThomasMountCumPallavaram",
+        "name": "stm",
+        "localname": "stm",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.stthomasmountcumpallavaram",
+        "code": "pb.stm",
         "children": [
           {
             "id": "748f5258-d545-4aec-b9d6-d608f716b2ac",

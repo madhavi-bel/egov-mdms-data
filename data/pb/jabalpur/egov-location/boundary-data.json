@@ -1,0 +1,420 @@
+{
+  "tenantId": "pb.jabalpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jabalpur",
+        "localname": "Jabalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jabalpur",
+        "children": [
+          {
+            "id": "949f4982-f88f-4009-83ae-f716ef8a88d1",
+            "boundaryNum": 1,
+            "name": "Jabalpur",
+            "localname": "Jabalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CBJ_01",
+            "children": [
+              {
+                "id": "89a31aee-ebb6-4d5c-bf35-0c0352172de6",
+                "boundaryNum": 1,
+                "name": "Ward No.1",
+                "localname": "Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "28bc3c15-4a46-4c1a-87b6-587bc224c1e9",
+                    "boundaryNum": 1,
+                    "name": "Modi Bada - Ward No.1",
+                    "localname": "Modi Bada - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "eb7a550d-825c-43ea-8c4e-93bc0d5d2ba7",
+                    "boundaryNum": 1,
+                    "name": "Rajiv Gandhi Nagar - Ward No.1",
+                    "localname": "Rajiv Gandhi Nagar - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_02",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "d0324a9d-0a5e-4f1a-8f55-8a2346bf3eb2",
+                    "boundaryNum": 1,
+                    "name": "Nehru Nagar - Ward No.1",
+                    "localname": "Nehru Nagar - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_03",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "348e359e-ba92-4e4e-9094-045f6bd47326",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar - Ward No.1",
+                    "localname": "Ambedkar Nagar - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_04",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd5f2a80-8a40-4aad-b6e7-d437ab23baff",
+                "boundaryNum": 1,
+                "name": "Ward No.2",
+                "localname": "Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "d0587ea0-be06-43db-9668-5fb51220b799",
+                    "boundaryNum": 1,
+                    "name": "Gora Bazar - Ward No.2",
+                    "localname": "Gora Bazar - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_03",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "7c59c691-4dfd-49e7-a4ae-39b152efe764",
+                    "boundaryNum": 1,
+                    "name": "Plot Area - Ward No.2",
+                    "localname": "Plot Area - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_02",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "58a05a19-6155-48cd-bcf3-9fd17205ecb7",
+                    "boundaryNum": 1,
+                    "name": "Jhiria - Ward No.2",
+                    "localname": "Jhiria - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd8208b7-a234-4077-9948-af46bdba3454",
+                "boundaryNum": 1,
+                "name": "Ward No.3",
+                "localname": "Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "655a072b-c026-4e66-bb64-f1467b874bfc",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No.3",
+                    "localname": "Bungalow Area - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da4cede8-da0a-48e1-9ea3-dda2f14dce6f",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "774a54e9-1e15-4df9-9839-903f62daad4c",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazaar - Ward No. 4",
+                    "localname": "Sadar Bazaar - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ec479af5-6329-4e7b-b6ad-e45ea337a6ee",
+                "boundaryNum": 1,
+                "name": "Ward No.5",
+                "localname": "Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "073985f4-b902-4729-b7e8-8d9c01e3a29d",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazaar - Ward No.5",
+                    "localname": "Sadar Bazaar - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "015a8f1f-5fae-4569-9927-5e82b23f8425",
+                "boundaryNum": 1,
+                "name": "Ward No.6",
+                "localname": "Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "d662a08d-5766-44a4-a510-706cec4b98ac",
+                    "boundaryNum": 1,
+                    "name": "Gora Bazar - Ward No.6",
+                    "localname": "Gora Bazar - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_02",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "fd471e54-1446-446b-8d6b-bcc4def3d10d",
+                    "boundaryNum": 1,
+                    "name": "Plot Area - Ward No.6",
+                    "localname": "Plot Area - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76ddda08-ad37-47f7-acb9-c035f1224ac0",
+                "boundaryNum": 1,
+                "name": "Ward No.7",
+                "localname": "Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "a11c0938-74a7-4057-b88e-78343c4fc507",
+                    "boundaryNum": 1,
+                    "name": "Karondi - Ward No.7",
+                    "localname": "Karondi - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "919bc4cd-53a5-49d1-9cec-6668fc6e89de",
+                    "boundaryNum": 1,
+                    "name": "Old Vijay Nagr - Ward No.7",
+                    "localname": "Old Vijay Nagr - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_02",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "b56d68df-744f-4b20-a300-59d3d8b114e9",
+                    "boundaryNum": 1,
+                    "name": "New Vijay Nagar Extension - Ward No.7",
+                    "localname": "New Vijay Nagar Extension - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_03",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "0de7dff4-b914-4816-baa1-f9adf48ecf77",
+                    "boundaryNum": 1,
+                    "name": "Navneet Enclave - Ward No.7",
+                    "localname": "Navneet Enclave - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_04",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "3b5918d6-9858-4f60-8f4c-515ed7791c9e",
+                    "boundaryNum": 1,
+                    "name": "Vijay Tower - Ward No.7",
+                    "localname": "Vijay Tower - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_05",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "a39c4452-522f-4144-82fc-1d61d286e36e",
+                    "boundaryNum": 1,
+                    "name": "Radda Tower - Ward No.7",
+                    "localname": "Radda Tower - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_06",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "1ecf5b37-d1cd-4eab-a328-96fd5a56a37b",
+                    "boundaryNum": 1,
+                    "name": "Shyamlal market - Ward No.7",
+                    "localname": "Shyamlal market - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_07",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "fcba441e-7ffd-47a2-8a94-ec99ff0cfe1a",
+                    "boundaryNum": 1,
+                    "name": "Gokalpur - Ward No.7",
+                    "localname": "Gokalpur - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_08",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "786e17ac-b24a-4782-a7e8-14fddd1e8099",
+                "boundaryNum": 1,
+                "name": "Ward No.8",
+                "localname": "Ward No.8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "4ee1c2d2-f6e9-466a-8586-94a1f61ea287",
+                    "boundaryNum": 1,
+                    "name": "Sanjay Gandhi Nagar - Ward No.8",
+                    "localname": "Sanjay Gandhi Nagar - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_01",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "bd41654a-1395-4d77-a215-fe51f6beedd5",
+                    "boundaryNum": 1,
+                    "name": "APR colony - Ward No.8",
+                    "localname": "APR colony - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_02",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "6c114500-2ed0-47d4-8df9-f8af40173c2f",
+                    "boundaryNum": 1,
+                    "name": "JDA colony - Ward No.8",
+                    "localname": "JDA colony - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_03",
+                    "area": "CBJ_01",
+                    "children": []
+                  },
+                  {
+                    "id": "27f6c235-cb24-4159-aa4f-33ed85442ec7",
+                    "boundaryNum": 1,
+                    "name": "MPHB - Ward No.8",
+                    "localname": "MPHB - Ward No.8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_04",
+                    "area": "CBJ_01",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

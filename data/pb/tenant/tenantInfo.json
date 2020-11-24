@@ -97,7 +97,7 @@
     },
     {
       "code": "pb.mathura",
-      "districtCode": 167,
+      "districtCode": "167",
       "population": "25603",
       "malePopulation": null,
       "femalePopultion": null,
@@ -670,7 +670,7 @@
       ]
     },
     {
-      "code": "pb.stthomasmountcumpallavaram",
+      "code": "pb.stm",
       "districtCode": "730",
       "population": "43795",
       "malePopulation": "22108",

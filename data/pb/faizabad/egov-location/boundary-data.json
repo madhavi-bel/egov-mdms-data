@@ -1,0 +1,384 @@
+{
+  "tenantId": "pb.faizabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Faizabad",
+        "localname": "Faizabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.faizabad",
+        "children": [
+          {
+            "id": "088ce764-89e3-4884-ae88-0af78479d76b",
+            "boundaryNum": 1,
+            "name": "Faizabad",
+            "localname": "Faizabad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "801107",
+            "children": [
+              {
+                "id": "bff2fbdf-19e7-459e-a1c0-37a7d245537d",
+                "boundaryNum": 1,
+                "name": "Ward No 01",
+                "localname": "Ward No 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "79d60fc1-c046-48a1-8c83-499e3b56ef17",
+                    "boundaryNum": 1,
+                    "name": "Nirmali Kund - Ward No 01",
+                    "localname": "Nirmali Kund - Ward No 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_01",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "3f3d9db5-a664-4248-b2fe-2bb0186bb494",
+                    "boundaryNum": 1,
+                    "name": "Part Bungalow Area - Ward No 01",
+                    "localname": "Part Bungalow Area - Ward No 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_02",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "b8528505-b984-4bd6-aaae-801831383a24",
+                    "boundaryNum": 1,
+                    "name": "Hunuman Garhi - Ward No 01",
+                    "localname": "Hunuman Garhi - Ward No 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_03",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20c445f8-fd21-4458-9398-3db54919fc2e",
+                "boundaryNum": 1,
+                "name": "Ward No 02",
+                "localname": "Ward No 02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "05fc6ddd-2c08-424e-a69d-48912cebdd14",
+                    "boundaryNum": 1,
+                    "name": "Canossa School - Ward No 02",
+                    "localname": "Canossa School - Ward No 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_04",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "776bbbb1-b45f-4377-b3ff-ea745196d680",
+                    "boundaryNum": 1,
+                    "name": "Thana Cantt - Ward No 02",
+                    "localname": "Thana Cantt - Ward No 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_05",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "353c02e7-55b1-4e25-938f-5f815d24c89d",
+                    "boundaryNum": 1,
+                    "name": "Mission School - Ward No 02",
+                    "localname": "Mission School - Ward No 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_06",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "3670764e-9f09-495f-bd50-94862df745d3",
+                    "boundaryNum": 1,
+                    "name": "Postal Colony - Ward No 02",
+                    "localname": "Postal Colony - Ward No 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_07",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "c804301f-6b83-4660-bcc6-ed700b6e6e8b",
+                    "boundaryNum": 1,
+                    "name": "Lal kurti Bazar - Ward No 02",
+                    "localname": "Lal kurti Bazar - Ward No 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_08",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "472b1439-8673-4e58-a092-09a4cb8d5b93",
+                "boundaryNum": 1,
+                "name": "Ward No 03",
+                "localname": "Ward No 03",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "0d6e227e-bc1f-4c28-bad3-8b90fb3caaab",
+                    "boundaryNum": 1,
+                    "name": "Military Hospital Area - Ward No 03",
+                    "localname": "Military Hospital Area - Ward No 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_09",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "62006b7f-04e1-478c-8147-c552179b98f8",
+                    "boundaryNum": 1,
+                    "name": "Dogra Regimental Center Area - Ward No 03",
+                    "localname": "Dogra Regimental Center Area - Ward No 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_10",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82637745-119b-483a-99e6-2e17969c7599",
+                "boundaryNum": 1,
+                "name": "Ward No 04",
+                "localname": "Ward No 04",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "a0ad1fe2-efc1-48b2-b1cc-df3f66fcfdfa",
+                    "boundaryNum": 1,
+                    "name": "Part Sadar Bazar - Ward No 04",
+                    "localname": "Part Sadar Bazar - Ward No 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_11",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "029fc5fd-8f0c-4c2b-8bcc-8aa84e551878",
+                "boundaryNum": 1,
+                "name": "Ward No 05",
+                "localname": "Ward No 05",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "7c9b392c-afaf-476f-9933-fc99f0669c51",
+                    "boundaryNum": 1,
+                    "name": "Part Sadar Bazar - Ward No 05",
+                    "localname": "Part Sadar Bazar - Ward No 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_12",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "50c73df2-88c6-473a-97d3-adb8e026f663",
+                    "boundaryNum": 1,
+                    "name": "MES Qtr - Ward No 05",
+                    "localname": "MES Qtr - Ward No 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_13",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "b4f69000-9836-4773-812b-b637b62efdc9",
+                    "boundaryNum": 1,
+                    "name": "Miran Ghat - Ward No 05",
+                    "localname": "Miran Ghat - Ward No 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_14",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "26bfb222-fe37-4bbb-b23f-826a9ac622eb",
+                    "boundaryNum": 1,
+                    "name": "Police Chowki - Ward No 05",
+                    "localname": "Police Chowki - Ward No 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_15",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e25e66b5-5921-49bd-afcb-5d5e4e36d5e0",
+                "boundaryNum": 1,
+                "name": "Ward No 06",
+                "localname": "Ward No 06",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "e03c6db8-0115-434a-9d3e-ec13739155b0",
+                    "boundaryNum": 1,
+                    "name": "Saket Puram Colony - Ward No 06",
+                    "localname": "Saket Puram Colony - Ward No 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_16",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "cb3ef68a-4fc7-4326-947a-5e0f290eff31",
+                    "boundaryNum": 1,
+                    "name": "Kandhar Line - Ward No 06",
+                    "localname": "Kandhar Line - Ward No 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_17",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "7233684b-d223-43c5-851c-5418c6eb959f",
+                    "boundaryNum": 1,
+                    "name": "Jamthra Ghat - Ward No 06",
+                    "localname": "Jamthra Ghat - Ward No 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_18",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "62995cf1-8abe-4282-890d-a9bcf1e3b309",
+                    "boundaryNum": 1,
+                    "name": "Miran Ghat - Ward No 06",
+                    "localname": "Miran Ghat - Ward No 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_19",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b111703-48da-4482-be73-16994f6fafb5",
+                "boundaryNum": 1,
+                "name": "Ward No 07",
+                "localname": "Ward No 07",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "fcdf5329-eb36-4d18-92a4-0dbeaf987b17",
+                    "boundaryNum": 1,
+                    "name": "Part Bungalow Area - Ward No 07",
+                    "localname": "Part Bungalow Area - Ward No 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_20",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "ea51faad-bcfa-4922-b27d-1e7ba4fb8b29",
+                    "boundaryNum": 1,
+                    "name": "Guptar Ghat - Ward No 07",
+                    "localname": "Guptar Ghat - Ward No 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_21",
+                    "area": "801107",
+                    "children": []
+                  },
+                  {
+                    "id": "e8f951e4-3bda-478a-acaf-f589cf20840e",
+                    "boundaryNum": 1,
+                    "name": "Panchmukhi temple - Ward No 07",
+                    "localname": "Panchmukhi temple - Ward No 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FD_LC_22",
+                    "area": "801107",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
