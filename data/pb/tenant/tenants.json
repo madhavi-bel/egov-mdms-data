@@ -262,7 +262,7 @@
     },
     {
       "code": "pb.bareilly",
-      "name": "BAREILLY CANTONMENT BOARD",
+      "name": "Cantonment Board Bareilly",
       "description": "Bareilly",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/bareillylogo.png",
       "logoIdPdf": "bareilly.png",
@@ -288,7 +288,7 @@
         "captcha": null,
         "code": "277258",
         "regionCode": null,
-        "municipalityName": "BAREILLY CANTONMENT BOARD",
+        "municipalityName": "Cantonment Board Bareilly",
         "population": null
       },
       "address": "Office of the Bareilly Cantonment Board, Bungalow No. 54 Serpentine Road, Bareilly Cantt -243001",
@@ -466,7 +466,7 @@
     },
     {
       "code": "pb.lebong",
-      "name": "CANTONMENT BOARD LEBONG",
+      "name": "Cantonment Board Lebong",
       "description": "Lebong",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/lebonglogo.png",
       "logoIdPdf": "lebong.png",
@@ -492,7 +492,7 @@
         "captcha": null,
         "code": "277281",
         "regionCode": "--",
-        "municipalityName": "CANTONMENT BOARD LEBONG",
+        "municipalityName": "Cantonment Board Lebong",
         "population": null
       },
       "address": "Office of Cantonment Board, Lebong Cantt. - 734105",
@@ -534,7 +534,7 @@
     },
     {
       "code": "pb.jalandhar",
-      "name": "Jalandhar Cantonment Board",
+      "name": "Cantonment Board Jalandhar",
       "description": "Jalandhar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jalandharlogo.png",
       "logoIdPdf": "jalandhar.png",
@@ -560,7 +560,7 @@
         "captcha": null,
         "code": "144005",
         "regionCode": "--",
-        "municipalityName": "Jalandhar Cantonment Board",
+        "municipalityName": "Cantonment Board Jalandhar",
         "population": "47845"
       },
       "address": "Office of the Cantonment Board, Jindan Road, Jalandhar Cantt, Jalandhar, Punjab-144005",
@@ -908,7 +908,7 @@
     },
     {
       "code": "pb.jalapahar",
-      "name": "CANTONMENT BOARD JALAPAHAR",
+      "name": "Cantonment Board Jalapahar",
       "description": "Jalapahar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jalapaharlogo.png",
       "logoIdPdf": "jalapahar.png",
@@ -934,7 +934,7 @@
         "captcha": null,
         "code": "277280",
         "regionCode": "--",
-        "municipalityName": "CANTONMENT BOARD JALAPAHAR",
+        "municipalityName": "Cantonment Board Jalapahar",
         "population": "1711"
       },
       "address": "Office of The Cantonment Board,Jalapahar Cantt-734103",
@@ -1010,7 +1010,7 @@
     },
     {
       "code": "pb.almora",
-      "name": "Almora Cantt",
+      "name": "Cantonment Board Almora",
       "description": "Almora",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/almoralogo.png",
       "logoIdPdf": "almora.png",
@@ -1036,7 +1036,7 @@
         "captcha": null,
         "code": "263601",
         "regionCode": "--",
-        "municipalityName": "Almora Cantt",
+        "municipalityName": "Cantonment Board Almora",
         "population": "1391"
       },
       "address": "Office of Cantonment Board,Tagore Bhawan, Almora Cantt-263601",
@@ -1078,7 +1078,7 @@
     },
     {
       "code": "pb.clementtown",
-      "name": "CB Clement Town",
+      "name": "Cantonment Board Clement Town",
       "description": "ClementTown",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/clementtownlogo.png",
       "logoIdPdf": "clementtown.png",
@@ -1104,7 +1104,7 @@
         "captcha": null,
         "code": "277260",
         "regionCode": null,
-        "municipalityName": "CB Clement Town",
+        "municipalityName": "Cantonment Board Clement Town",
         "population": "22557"
       },
       "address": "Office of Cantonment Board, Clement Town Cantonment, Dehradun",
@@ -1112,7 +1112,7 @@
     },
     {
       "code": "pb.dehradun",
-      "name": "Cantt Board Dehradun",
+      "name": "Cantonment Board Dehradun",
       "description": "Dehradun",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dehradunlogo.png",
       "logoIdPdf": "dehradun.png",
@@ -1138,7 +1138,7 @@
         "captcha": null,
         "code": "277262",
         "regionCode": "-",
-        "municipalityName": "Cantt Board Dehradun",
+        "municipalityName": "Cantonment Board Dehradun",
         "population": "52716"
       },
       "address": "Office of the Cantonment Board, Garhi, Dehradun Cantt- 248003",
@@ -1146,7 +1146,7 @@
     },
     {
       "code": "pb.faizabad",
-      "name": "CB Faizabad",
+      "name": "Cantonment Board Faizabad",
       "description": "Faizabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/faizabadlogo.png",
       "logoIdPdf": "faizabad.png",
@@ -1172,7 +1172,7 @@
         "captcha": null,
         "code": "801107",
         "regionCode": null,
-        "municipalityName": "CB Faizabad",
+        "municipalityName": "Cantonment Board Faizabad",
         "population": "12391"
       },
       "address": "Office of Cantonment Board, Near Sadar Bazar, Faizabad Cantt- 224001",
@@ -1180,7 +1180,7 @@
     },
     {
       "code": "pb.fatehgarh",
-      "name": "Fatehgarh Cantonment Board",
+      "name": "Cantonment Board Fatehgarh",
       "description": "Fatehgarh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/fatehgarhlogo.png",
       "logoIdPdf": "fatehgarh.png",
@@ -1206,7 +1206,7 @@
         "captcha": null,
         "code": "277266",
         "regionCode": "--",
-        "municipalityName": "Fatehgarh Cantonment Board",
+        "municipalityName": "Cantonment Board Fatehgarh",
         "population": "14793"
       },
       "address": "Cantonment Board Fatehgarh, Rajput Road, Fatehgarh Cantt. 209601",
@@ -1214,7 +1214,7 @@
     },
     {
       "code": "pb.jabalpur",
-      "name": "Jabalpur",
+      "name": "Cantonment Board Jabalpur",
       "description": "Jabalpur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jabalpurlogo.png",
       "logoIdPdf": "jabalpur.png",
@@ -1240,7 +1240,7 @@
         "captcha": null,
         "code": "277265",
         "regionCode": "-",
-        "municipalityName": "Jabalpur",
+        "municipalityName": "Cantonment Board Jabalpur",
         "population": "72257"
       },
       "address": "Cantonment Board Jabalpur\n6, Norris Road, Near Shivaji Ground,\nSadar Cantt, Jabalpur\nMadhya Pradesh-482001",
@@ -1282,7 +1282,7 @@
     },
     {
       "code": "pb.landour",
-      "name": "Cantonment Board, Landour",
+      "name": "Cantonment Board Landour",
       "description": "Landour",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/landourlogo.png",
       "logoIdPdf": "landour.png",
@@ -1308,7 +1308,7 @@
         "captcha": null,
         "code": "277267",
         "regionCode": "-",
-        "municipalityName": "Cantonment Board, Landour",
+        "municipalityName": "Cantonment Board Landour",
         "population": "3543"
       },
       "address": "Office of The Cantonment Board Landour Mussoorie, Uttarakhand - 248179",
@@ -1350,7 +1350,7 @@
     },
     {
       "code": "pb.khasyol",
-      "name": "CB Khasyol",
+      "name": "Cantonment Board Khasyol",
       "description": "Khasyol",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/khasyollogo.png",
       "logoIdPdf": "khasyol.png",
@@ -1376,7 +1376,7 @@
         "captcha": null,
         "code": "800094",
         "regionCode": null,
-        "municipalityName": "CB Khasyol",
+        "municipalityName": "Cantonment Board Khasyol",
         "population": "12028"
       },
       "address": "Cantonment Board Office\n Yol Cantonment Board,\n Khas Yol,Distt. Kangra (Himachal Pradesh).",
@@ -1384,7 +1384,7 @@
     },
     {
       "code": "pb.jutogh",
-      "name": "JUTOGH CANTT.",
+      "name": "Cantonment Board Jutogh",
       "description": "Jutogh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jutoghlogo.png",
       "logoIdPdf": "jutogh.png",
@@ -1410,7 +1410,7 @@
         "captcha": null,
         "code": "171008",
         "regionCode": null,
-        "municipalityName": "JUTOGH CANTT.",
+        "municipalityName": "Cantonment Board Jutogh",
         "population": "2062"
       },
       "address": "Office of Cantonment Board jutogh, Jutogh Cantt. Shimla H.P-1710008",
@@ -1418,7 +1418,7 @@
     },
     {
       "code": "pb.shahjahanpur",
-      "name": "Shahjahanpur Cantonment Board",
+      "name": "Cantonment Board Shahjahanpur",
       "description": "Shahjahanpur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/shahjahanpurlogo.png",
       "logoIdPdf": "shahjahanpur.png",
@@ -1444,7 +1444,7 @@
         "captcha": null,
         "code": "277277",
         "regionCode": "--",
-        "municipalityName": "Shahjahanpur Cantonment Board",
+        "municipalityName": "Cantonment Board Shahjahanpur",
         "population": "18116"
       },
       "address": "Office of the Cantonment Board, 17 Cariappa Marg, Shahjahanpur Cantt-242001",
@@ -1554,7 +1554,7 @@
     },
     {
       "code": "pb.shillong",
-      "name": "Shillong Cantonment Board",
+      "name": "Cantonment Board Shillong",
       "description": "Shillong",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/shillonglogo.png",
       "logoIdPdf": "shillong.png",
@@ -1580,7 +1580,7 @@
         "captcha": null,
         "code": "249814",
         "regionCode": null,
-        "municipalityName": "Shillong Cantonment Board",
+        "municipalityName": "Cantonment Board Shillong",
         "population": null
       },
       "address": "O/O Shillong Cantonment Boar, Pine Walk Area, Near Rhino Auditorium, Shillong - 793001",
@@ -1588,7 +1588,7 @@
     },
     {
       "code": "pb.badamibagh",
-      "name": "CB Badamibagh",
+      "name": "Cantonment Board Badamibagh",
       "description": "Badamibagh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/badamibaghlogo.png",
       "logoIdPdf": "badamibagh.png",
@@ -1614,7 +1614,7 @@
         "captcha": null,
         "code": "277283",
         "regionCode": "--",
-        "municipalityName": "CB Badamibagh",
+        "municipalityName": "Cantonment Board Badamibagh",
         "population": "22214"
       },
       "address": "Office of Cantonment Board, Badamibagh Srinagar",
@@ -1622,7 +1622,7 @@
     },
     {
       "code": "pb.ajmer",
-      "name": "CANTONMENT BOARD, AJMER",
+      "name": "Cantonment Board Ajmer",
       "description": "Ajmer",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ajmerlogo.png",
       "logoIdPdf": "ajmer.png",
@@ -1648,7 +1648,7 @@
         "captcha": null,
         "code": "Not Available",
         "regionCode": "-",
-        "municipalityName": "CANTONMENT BOARD, AJMER",
+        "municipalityName": "Cantonment Board Ajmer",
         "population": "3530"
       },
       "address": "Office of Cantonment Board, Ajmer, Paltan Bazar, Ajmer-305001",
@@ -1656,7 +1656,7 @@
     },
     {
       "code": "pb.aurangabad",
-      "name": "Aurangabad Cantonment Board",
+      "name": "Cantonment Board Aurangabad",
       "description": "Aurangabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/aurangabadlogo.png",
       "logoIdPdf": "aurangabad.png",
@@ -1682,7 +1682,7 @@
         "captcha": null,
         "code": "431001",
         "regionCode": null,
-        "municipalityName": "Aurangabad Cantonment Board",
+        "municipalityName": "Cantonment Board Aurangabad",
         "population": "18051"
       },
       "address": "Aurangabad Cantonment Board,\nOpp. of Holy Cross English High School,\nCantonment, Aurangabad – 431002.",
@@ -1724,7 +1724,7 @@
     },
     {
       "code": "pb.belgaum",
-      "name": "CANTONMENT BOARD BELGAUM",
+      "name": "Cantonment Board Belgaum",
       "description": "Belgaum",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/belgaumlogo.png",
       "logoIdPdf": "belgaum.png",
@@ -1750,7 +1750,7 @@
         "captcha": null,
         "code": "251824",
         "regionCode": "--",
-        "municipalityName": "CANTONMENT BOARD BELGAUM",
+        "municipalityName": "Cantonment Board Belgaum",
         "population": "19811"
       },
       "address": "Office of Cantonment Board, BC 41, Khanapur Road, Camp, Belagavi - 590001",
@@ -1758,7 +1758,7 @@
     },
     {
       "code": "pb.cannanore",
-      "name": "CB Cannanore",
+      "name": "Cantonment Board Cannanore",
       "description": "Cannanore",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/cannanorelogo.png",
       "logoIdPdf": "cannanore.png",
@@ -1784,7 +1784,7 @@
         "captcha": null,
         "code": "557",
         "regionCode": "--",
-        "municipalityName": "CB Cannanore",
+        "municipalityName": "Cantonment Board Cannanore",
         "population": "4798"
       },
       "address": "Office of the Cantonment Board, HQ Hospital PO, Kannur -670017",
@@ -1792,7 +1792,7 @@
     },
     {
       "code": "pb.bakloh",
-      "name": "Bakloh Cantonment  Board",
+      "name": "Cantonment Board Bakloh",
       "description": "Bakloh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/baklohlogo.png",
       "logoIdPdf": "bakloh.png",
@@ -1818,7 +1818,7 @@
         "captcha": null,
         "code": "176301",
         "regionCode": "--",
-        "municipalityName": "Bakloh Cantonment  Board",
+        "municipalityName": "Cantonment Board Bakloh",
         "population": "1805"
       },
       "address": "Cantonment Board Bakloh tehsil Bhattiyat Dist Chamba Himachal Pradesh Pin code 176301",
@@ -1826,7 +1826,7 @@
     },
     {
       "code": "pb.stm",
-      "name": "CB St. Thomas Mount Cum Pallavaram",
+      "name": "Cantonment Board St. Thomas Mount",
       "description": "stm",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/stmlogo.png",
       "logoIdPdf": "stm.png",
@@ -1852,7 +1852,7 @@
         "captcha": null,
         "code": "252294",
         "regionCode": null,
-        "municipalityName": "CB St. Thomas Mount Cum Pallavaram",
+        "municipalityName": "Cantonment Board St. Thomas Mount",
         "population": "43795"
       },
       "address": "Office of the Cantonment Board, North Parade road, St. Thomas Mount, Chennai - 600016",
@@ -1860,7 +1860,7 @@
     },
     {
       "code": "pb.saugor",
-      "name": "CB Saugor",
+      "name": "Cantonment Board Saugor",
       "description": "Saugor",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/saugorlogo.png",
       "logoIdPdf": "saugor.png",
@@ -1886,7 +1886,7 @@
         "captcha": null,
         "code": null,
         "regionCode": "--",
-        "municipalityName": "CB Saugor",
+        "municipalityName": "Cantonment Board Saugor",
         "population": "43513"
       },
       "address": "54, Mall Raod, Saugor Cantt, Saugor, M.P.-470001",
@@ -1894,7 +1894,7 @@
     },
     {
       "code": "pb.jhansi",
-      "name": "Jhansi Cantonment Board",
+      "name": "Cantonment Board Jhansi",
       "description": "Jhansi",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jhansilogo.png",
       "logoIdPdf": "jhansi.png",
@@ -1920,7 +1920,7 @@
         "captcha": null,
         "code": "277293",
         "regionCode": "-",
-        "municipalityName": "Jhansi Cantonment Board",
+        "municipalityName": "Cantonment Board Jhansi",
         "population": "505693"
       },
       "address": "Office of the Cantonment Board, Subhash Marg, Jhansi Cantt. - 284001",
@@ -1928,7 +1928,7 @@
     },
     {
       "code": "pb.kamptee",
-      "name": "Kamptee Cantonment",
+      "name": "Cantonment Board Kamptee",
       "description": "Kamptee",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kampteelogo.png",
       "logoIdPdf": "kamptee.png",
@@ -1954,7 +1954,7 @@
         "captcha": null,
         "code": "--",
         "regionCode": "--",
-        "municipalityName": "Kamptee Cantonment",
+        "municipalityName": "Cantonment Board Kamptee",
         "population": "12457"
       },
       "address": "Office of the Cantonment Board, Chhoni Parishad Karyalaya,Kamptee Cantt.",
@@ -1962,7 +1962,7 @@
     },
     {
       "code": "pb.kirkee",
-      "name": "KIRKEE CANTONMENT BOARD",
+      "name": "Cantonment Board Kirkee",
       "description": "Kirkee",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kirkeelogo.png",
       "logoIdPdf": "kirkee.png",
@@ -1988,7 +1988,7 @@
         "captcha": null,
         "code": "411003",
         "regionCode": null,
-        "municipalityName": "KIRKEE CANTONMENT BOARD",
+        "municipalityName": "Cantonment Board Kirkee",
         "population": "70399"
       },
       "address": "17 Field Marshal Cariappa Road, Kirkee, Pune - 411003",
@@ -2030,7 +2030,7 @@
     },
     {
       "code": "pb.ahmedabad",
-      "name": "Ahmedabad",
+      "name": "Cantonment Board Ahmedabad",
       "description": "Ahmedabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ahmedabadlogo.png",
       "logoIdPdf": "ahmedabad.png",
@@ -2056,7 +2056,7 @@
         "captcha": null,
         "code": "277284",
         "regionCode": "--",
-        "municipalityName": "Ahmedabad",
+        "municipalityName": "Cantonment Board Ahmedabad",
         "population": "14345 - As per Census 2011"
       },
       "address": "Office of the Cantonment Board, Nr Camp Hanuman Temple, Shahibaug, Ahmedabad",
@@ -2064,7 +2064,7 @@
     },
     {
       "code": "pb.barrackpore",
-      "name": "Barrackpore",
+      "name": "Cantonment Board Barrackpore",
       "description": "Barrackpore",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/barrackporelogo.png",
       "logoIdPdf": "barrackpore.png",
@@ -2090,7 +2090,7 @@
         "captcha": null,
         "code": "277279",
         "regionCode": null,
-        "municipalityName": "Barrackpore",
+        "municipalityName": "Cantonment Board Barrackpore",
         "population": "23266"
       },
       "address": "Office of Cantonment Board Barrackpore, \n77 Middle Road \nBarrackpore-700120",
@@ -2098,7 +2098,7 @@
     },
     {
       "code": "pb.ranikhet",
-      "name": "Ranikhet",
+      "name": "Cantonment Board Ranikhet",
       "description": "Ranikhet",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ranikhetlogo.png",
       "logoIdPdf": "ranikhet.png",
@@ -2124,7 +2124,7 @@
         "captcha": null,
         "code": null,
         "regionCode": null,
-        "municipalityName": "Ranikhet",
+        "municipalityName": "Cantonment Board Ranikhet",
         "population": "18886"
       },
       "address": "Cantonment Board, Ranikhet, Distt. Almora, Uttrakhand. Pin 263645",
