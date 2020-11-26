@@ -45,7 +45,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-01",
+                    "code": "LOC_01",
                     "area": "Z01",
                     "children": []
                   }
@@ -69,7 +69,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-02",
+                    "code": "LOC_02",
                     "area": "Z01",
                     "children": []
                   }
@@ -93,7 +93,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-03",
+                    "code": "LOC_03",
                     "area": "Z01",
                     "children": []
                   }
@@ -117,7 +117,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-04",
+                    "code": "LOC_04",
                     "area": "Z01",
                     "children": []
                   }
@@ -141,7 +141,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-05",
+                    "code": "LOC_05",
                     "area": "Z01",
                     "children": []
                   }
@@ -165,7 +165,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-06",
+                    "code": "LOC_06",
                     "area": "Z01",
                     "children": []
                   }
@@ -189,7 +189,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "LOC-07",
+                    "code": "LOC_07",
                     "area": "Z01",
                     "children": []
                   }
