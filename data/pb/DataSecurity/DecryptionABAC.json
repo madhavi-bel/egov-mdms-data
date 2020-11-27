@@ -1447,7 +1447,7 @@
         ]
       },
       {
-        "key" : "TradeLicenseRenewalReport",
+        "key" : "TradeLicensePendingForRenewalReport",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "EMPLOYEE",
