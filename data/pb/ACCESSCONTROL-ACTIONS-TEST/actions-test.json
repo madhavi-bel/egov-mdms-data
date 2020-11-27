@@ -17901,6 +17901,45 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseRenewalReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 5100,
+      "name": "TradeLicenseAppplicationStatusRegistry",
+      "url": "/report/rainmaker-tl/TradeLicenseAppplicationStatusRegistry/_get",
+      "displayName": "rainmaker-tl-TradeLicenseAppplicationStatusRegistry",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5101,
+      "name": "TradeLicenseAppplicationStatusRegistry",
+      "url": "/report/rainmaker-tl/TradeLicenseAppplicationStatusRegistry/metadata/_get",
+      "displayName": "rainmaker-tl-TradeLicenseAppplicationStatusRegistry",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5102,
+      "name": "TradeLicenseAppplicationStatusRegistry",
+      "url": "url",
+      "displayName": "TL Application Status Registry Report",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "TradeLicense.Trade License Reports.TradeLicenseAppplicationStatusRegistry",
+      "navigationURL": "report/rainmaker-tl/TradeLicenseAppplicationStatusRegistry",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
