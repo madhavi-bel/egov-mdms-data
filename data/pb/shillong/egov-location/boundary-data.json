@@ -69,7 +69,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "CB _ 2",
+                    "code": "CB_2",
                     "area": "Z001",
                     "children": []
                   }
@@ -93,7 +93,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "CB _ 3",
+                    "code": "CB_3",
                     "area": "Z001",
                     "children": []
                   },
