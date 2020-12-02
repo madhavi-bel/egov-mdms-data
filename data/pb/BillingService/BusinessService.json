@@ -181,7 +181,7 @@
         "DD",
         "POSTAL_ORDER"
       ],
-      "partPaymentAllowed": true,
+      "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
