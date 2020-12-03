@@ -4,7 +4,7 @@
   "TradeType": [
     {
       "code": "TRADE.EATING.A1",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -35,12 +35,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A2",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -71,12 +71,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A5",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -107,12 +107,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A6",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -143,12 +143,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A9",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -179,12 +179,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A10",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -215,12 +215,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A14",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -249,12 +249,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A19",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -283,12 +283,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.MEDICAL.B1",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -319,12 +319,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.OTHERS.E10",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -353,12 +353,12 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.OTHERS.E11",
-      "uom": "null",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -387,7 +387,7 @@
       ],
       "active": "true",
       "type": "TL",
-      "validityPeriod": "null",
+      "validityPeriod": null,
       "verificationDocument": []
     }
   ]
