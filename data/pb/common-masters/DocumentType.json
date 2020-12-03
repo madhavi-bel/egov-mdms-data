@@ -122,7 +122,9 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ]
+      ],
+      "active": true,
+      "maxFileSize":6000
     },
     {
       "code": "OWNERSHIPPROOF",
