@@ -4,13 +4,19 @@
   "TradeType": [
     {
       "code": "TRADE.EATING.A1",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
-            "OWNERSHIPPROOF"
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
           ]
         },
         {
@@ -18,35 +24,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO"
-           
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A2",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -54,43 +60,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A3",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -98,43 +96,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A4",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -142,43 +132,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A5",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -186,43 +168,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A6",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -230,43 +204,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A7",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -274,103 +240,107 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A8",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A9",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.EATING.A10",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -378,43 +348,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B1",
-      "uom": "SFT",
+      "code": "TRADE.EATING.A11",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -422,43 +384,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B2",
-      "uom": "SFT",
+      "code": "TRADE.EATING.A12",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -466,43 +420,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B3",
-      "uom": "SFT",
+      "code": "TRADE.EATING.A13",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -510,43 +456,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B6",
-      "uom": "SFT",
+      "code": "TRADE.EATING.A14",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -554,43 +492,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B7",
-      "uom": "SFT",
+      "code": "TRADE.EATING.A15",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -598,43 +528,251 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A16",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A17",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A18",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A19",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A20",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A21",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.VETERINARY.C1",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -642,43 +780,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.VETERINARY.C2",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -686,43 +816,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.VETERINARY.C3",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -730,43 +852,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.VETERINARY.C4",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -774,43 +888,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C5",
-      "uom": "SFT",
+      "code": "TRADE.MEDICAL.B1",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -818,43 +924,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C6",
-      "uom": "SFT",
+      "code": "TRADE.MEDICAL.B2",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -862,43 +960,71 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B3",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.DANGEROUS.D1",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -906,43 +1032,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.DANGEROUS.D2",
-      "uom": "SFT",
+      "uom": "NoBed",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -950,43 +1068,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
       "code": "TRADE.DANGEROUS.D3",
-      "uom": "SFT",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -994,43 +1104,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E1",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F1",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1038,43 +1140,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E2",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F2",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1082,43 +1176,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E3",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F3",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1126,43 +1212,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E4",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F4",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1170,43 +1248,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E5",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F5",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1214,43 +1284,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E6",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F6",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1258,43 +1320,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E7",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F7",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1302,43 +1356,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E8",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F8",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1346,43 +1392,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E9",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F9",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1390,43 +1428,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E10",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F10",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1434,43 +1464,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E11",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F11",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1478,43 +1500,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E12",
-      "uom": "SFT",
+      "code": "TRADE.MEDIUM.F12",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1522,43 +1536,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E13",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E1",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1566,43 +1572,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E14",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E2",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1610,43 +1608,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E15",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E3",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1654,43 +1644,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E16",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E4",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1698,43 +1680,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E17",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E5",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1742,43 +1716,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E18",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E6",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1786,43 +1752,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E19",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E7",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1830,43 +1788,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E20",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E8",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1874,43 +1824,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E21",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E9",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1918,43 +1860,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E22",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E10",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -1962,43 +1896,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E23",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E11",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2006,43 +1932,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E24",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E12",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2050,43 +1968,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E25",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E13",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2094,43 +2004,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E26",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E14",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2138,43 +2040,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E27",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E15",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2182,43 +2076,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E31",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E16",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2226,43 +2112,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E32",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E17",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2270,43 +2148,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E33",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E18",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2314,43 +2184,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E34",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E19",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2358,43 +2220,35 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.PRIVATEMARKETS.F2",
-      "uom": "SFT",
+      "code": "TRADE.OTHERS.E20",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         },
         {
@@ -2402,24 +2256,1171 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "BLUPRNT",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
             "NBNOC1",
-            "NBNOC2",
-            "PLANCERT",
-            "BULDPHOTO"
+            "NBNOC2"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E21",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E22",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E23",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E24",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E25",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E26",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E27",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E28",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E29",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E30",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E31",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E32",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E33",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E34",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E35",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E36",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E37",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E38",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E39",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E40",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E41",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E42",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E43",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E44",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E45",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E46",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E47",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E48",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E49",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E50",
+      "uom": "NoBed",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E51",
+      "uom": "NoBed",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E52",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "BULDPHOTO",
+            "NBNOC1",
+            "NBNOC2"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     }
   ]
-   
 }
