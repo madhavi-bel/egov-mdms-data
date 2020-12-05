@@ -17405,7 +17405,7 @@
       "url": "/lams-common/newApplication",
       "displayName": "Lease Renewal",
       "orderNumber": 4,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Lams",
       "code": "null",
       "navigationURL": "/lams-common/newApplication",
