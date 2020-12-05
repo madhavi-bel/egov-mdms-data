@@ -375,6 +375,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "CERTNOCAUTH",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
     
   ]
