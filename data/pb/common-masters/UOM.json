@@ -37,6 +37,10 @@
     {
       "code": "Star",
       "active": true
+    },
+    {
+      "code": "NoWorker",
+      "active": true
     }
     
   ]
