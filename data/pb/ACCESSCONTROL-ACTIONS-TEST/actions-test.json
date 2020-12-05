@@ -17402,13 +17402,13 @@
     {
       "id": 5063,
       "name": "Lease Renewal",
-      "url": "/lams-common/newApplication",
+      "url": "url",
       "displayName": "Lease Renewal",
       "orderNumber": 4,
       "enabled": true,
-      "serviceCode": "Lams",
+      "serviceCode": "LAMS",
       "code": "null",
-      "navigationURL": "/lams-common/newApplication",
+      "navigationURL": "lams-common/newApplication",
       "path": "Lams.apply",
       "leftIcon": "places:business-center"
     },
