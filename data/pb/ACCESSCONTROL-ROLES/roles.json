@@ -153,14 +153,19 @@
       "description": "PT Approver can approve the property application"
     },
     {
-      "code": "LR_APPROVER",
-      "name": "LR Approver",
-      "description": "LR Approver can approve the Lease Renewal Application"
-    },
-    {
       "code": "LR_CEMP",
       "name": "LR Counter Employee",
       "description": "LR Counter Employee can approve the Lease Renewal Application"
+    },
+    {
+      "code": "LR_APPROVER_CEO",
+      "name": "LR CEO",
+      "description": "LR Counter Employee can approve the Inside Civil Lease Renewal Application"
+    },
+    {
+      "code": "LR_APPROVER_DEO",
+      "name": "LR DEO",
+      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
     }
     
   ]
