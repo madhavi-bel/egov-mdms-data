@@ -464,7 +464,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "FOOD_TAB_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
-    
   ]
 }
