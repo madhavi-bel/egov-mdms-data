@@ -420,6 +420,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "LIC_PETROL",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
     
   ]
