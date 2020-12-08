@@ -442,6 +442,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "MED_VAC_REPORT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
     
   ]
