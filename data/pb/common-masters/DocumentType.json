@@ -257,6 +257,17 @@
       "maxFileSize":5000
     },
     {
+      "code": "FOODCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
       "code": "MEDCERT",
       "allowedFormat": [
         "image/*",
