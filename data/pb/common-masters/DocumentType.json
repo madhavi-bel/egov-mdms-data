@@ -519,6 +519,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "NOC_HOR",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
