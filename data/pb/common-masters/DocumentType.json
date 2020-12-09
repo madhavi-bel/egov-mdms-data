@@ -475,6 +475,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "NOC_OWNER",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
