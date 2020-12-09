@@ -530,6 +530,28 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "FOOD_FSSAI",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_AUTH",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
