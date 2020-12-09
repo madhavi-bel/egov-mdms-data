@@ -12117,12 +12117,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 5063,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "LR_CEMP",
       "actionid": 5064,
       "actioncode": "",
