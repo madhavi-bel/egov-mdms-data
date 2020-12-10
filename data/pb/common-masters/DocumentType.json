@@ -279,17 +279,6 @@
       "maxFileSize":5000
     },
     {
-      "code": "SHOPACTLICENCE",
-      "allowedFormat": [
-        "image/*",
-        ".pdf",
-        ".png",
-        ".jpeg"
-      ],
-      "active": true,
-      "maxFileSize":5000
-    },
-    {
       "code": "FIRENOC",
       "allowedFormat": [
         "image/*",
