@@ -219,7 +219,7 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C1",
+      "code": "TRADE.OTHERS.E11",
       "uom": null,
       "applicationDocument": [
         {
@@ -249,7 +249,7 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C1",
+      "code": "TRADE.OTHERS.E25",
       "uom": null,
       "applicationDocument": [
         {
