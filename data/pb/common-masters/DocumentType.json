@@ -585,6 +585,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "NOC_REVENUE",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
