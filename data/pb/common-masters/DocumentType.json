@@ -574,6 +574,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "LIC_SHOP_ACT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
