@@ -695,6 +695,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "LABOUR_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
