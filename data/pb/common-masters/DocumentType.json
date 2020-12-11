@@ -585,6 +585,138 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "LOCAL_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "REG_EDU_DEPT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "TRANSPORT_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "RBI_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_AGRI_DEPT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "SUPPLY_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "DISASTER_MGMT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "REG_HEALTH",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_ANIMAL_HUSBANDARY",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "POLLUTION_BOARD_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LABOUR_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "GST_REGT_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
