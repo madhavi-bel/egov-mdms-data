@@ -41,6 +41,10 @@
     {
       "code": "NoWorker",
       "active": true
+    },
+    {
+      "code": "NoCategory",
+      "active": true
     }
     
   ]
