@@ -1149,7 +1149,108 @@
     {
       "format": "PT/CB/[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
       "idname": "pt.propertyid"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "CREDDEP.EMD_CONT_SUPP",
+        "idname": "creddep.emd_cont_supp.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "CREDDEP.EMD_LC",
+        "idname": "creddep.emd_lc.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "CREDDEP.EMD_PS_CSLT",
+        "idname": "creddep.emd_ps_cslt.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "CREDDEP.SD_CONT_SUPP",
+        "idname": "creddep.sd_cont_supp.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "CREDDEP.SD_LC",
+        "idname": "creddep.sd_lc.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "CREDDEP.SDPS_CSLT",
+        "idname": "creddep.sdps_cslt.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "RENT.WWH",
+        "idname": "rent.wwh.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "RENT.MH",
+        "idname": "rent.mh.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "SRVC.MRF",
+        "idname": "srvc.mrf.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "SRVC.MRLF",
+        "idname": "srvc.mrlf.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "SRVC.MCF",
+        "idname": "srvc.mcf.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "OTHFEE.PF",
+        "idname": "othfee.pf.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "OTHFEE.CAB_OP_FEE",
+        "idname": "othfee.cab_op_fee.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "OTHFEE.MOB_TOW",
+        "idname": "othfee.mob_tow.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "TX.PROF_TAX",
+        "idname": "tx.prof_tax.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "TX.ANI_VEH",
+        "idname": "tx.ani_veh.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "RENT.MARKET",
+        "idname": "rent.market.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "SALE.VERMI",
+        "idname": "sale.vermi.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "OTHFEE.RTI_STAMP",
+        "idname": "othfee.rti_stamp.receipt.id"
+    },
+    {
+        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "service": "RENT.FSH_STRT",
+        "idname": "rent.fsh_strt.receipt.id"
     }
+
 
   ]
 }
