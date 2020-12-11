@@ -10325,13 +10325,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "LR_CEO_APPROVER",
+      "rolecode": "LR_APPROVER_CEO",
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "LR_DEO_APPROVER",
+      "rolecode": "LR_APPROVER_DEO",
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "pb"
