@@ -10325,6 +10325,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "LR_CEO_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_DEO_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CSR",
       "actionid": 695,
       "actioncode": "",
