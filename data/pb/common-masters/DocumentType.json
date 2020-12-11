@@ -706,6 +706,17 @@
       ],
       "active": true,
       "maxFileSize":5000
+    },
+    {
+      "code": "GST_REGT_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
     }
   ]
 }
