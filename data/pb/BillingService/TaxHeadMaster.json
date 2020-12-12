@@ -13013,7 +13013,7 @@
       "isRequired": false
     },
     {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_SEC_DEP",
       "code": "CREDDEP.EMD_CONT_SUPP_SEC_DEP",
@@ -13023,7 +13023,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_SEC_DEP",
       "code": "CREDDEP.EMD_LC_SEC_DEP",
@@ -13033,7 +13033,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_SEC_DEP",
       "code": "CREDDEP.EMD_PS_CSLT_SEC_DEP",
@@ -13043,7 +13043,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_SEC_DEP",
       "code": "CREDDEP.SD_CONT_SUPP_SEC_DEP",
@@ -13053,7 +13053,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_SEC_DEP",
       "code": "CREDDEP.SD_LC_SEC_DEP",
@@ -13063,7 +13063,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_SEC_DEP",
       "code": "CREDDEP.SDPS_CSLT_SEC_DEP",
@@ -13073,7 +13073,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "RENT.WWH",
       "name": "RENT.WWH_SEC_DEP",
       "code": "RENT.WWH_SEC_DEP",
@@ -13083,7 +13083,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "RENT.MH",
       "name": "RENT.MH_SEC_DEP",
       "code": "RENT.MH_SEC_DEP",
@@ -13093,7 +13093,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_SEC_DEP",
       "code": "SRVC.MRF_SEC_DEP",
@@ -13103,7 +13103,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_SEC_DEP",
       "code": "SRVC.MRLF_SEC_DEP",
@@ -13113,7 +13113,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_SEC_DEP",
       "code": "SRVC.MCF_SEC_DEP",
@@ -13123,7 +13123,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_SEC_DEP",
       "code": "OTHFEE.PF_SEC_DEP",
@@ -13133,7 +13133,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_SEC_DEP",
       "code": "OTHFEE.CAB_OP_FEE_SEC_DEP",
@@ -13143,7 +13143,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_SEC_DEP",
       "code": "OTHFEE.MOB_TOW_SEC_DEP",
@@ -13153,7 +13153,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "TX.PROF_TAX",
       "name": "TX.PROF_TAX_SEC_DEP",
       "code": "TX.PROF_TAX_SEC_DEP",
@@ -13163,7 +13163,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SEC_DEP",
       "code": "TX.ANI_VEH_SEC_DEP",
@@ -13173,7 +13173,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "RENT.MARKET",
       "name": "RENT.MARKET_SEC_DEP",
       "code": "RENT.MARKET_SEC_DEP",
@@ -13183,7 +13183,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_SEC_DEP",
       "code": "SALE.VERMI_SEC_DEP",
@@ -13193,7 +13193,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SEC_DEP",
       "code": "OTHFEE.RTI_STAMP_SEC_DEP",
@@ -13203,7 +13203,7 @@
       "isRequired": false
   },
   {
-      "category": "SECURITY DEPOSIT",
+      "category": "ADVANCE_COLLECTION",
       "service": "RENT.FSH_STRT",
       "name": "RENT.FSH_STRT_SEC_DEP",
       "code": "RENT.FSH_STRT_SEC_DEP",
