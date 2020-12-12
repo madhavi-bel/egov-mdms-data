@@ -12,14 +12,7 @@
             ],
             "required": true
           },
-          {
-            "documentType": "OWNERSHIPPROOF",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
+         
          
           {
             "documentType": "AADHAARCARD",
