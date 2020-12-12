@@ -43,22 +43,7 @@
             ],
             "required": true
           },
-          {
-            "documentType": "PTAX",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
-          {
-            "documentType": "APPLETTER",
-            "applicationType": [
-              "NEW",
-              "RENEWAL"
-            ],
-            "required": true
-          },
+         
           {
             "documentType": "FIRENOC",
             "applicationType": [
