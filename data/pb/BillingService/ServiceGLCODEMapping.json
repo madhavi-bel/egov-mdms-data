@@ -53,46 +53,6 @@
 			"cb": "pb.secunderabad"
 		},
 		{
-			"code": "GRNTINT.MDM",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.SBM",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.INF",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.INT_SB",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.INT_LOAN",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.REV_GRNT",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.INT_FD",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "GRNTINT.INT_TD",
-			"glcode": null,
-			"cb": "pb.secunderabad"
-		},
-		{
 			"code": "OTHFEE.APP_FEE",
 			"glcode": "320-1535",
 			"cb": "pb.secunderabad"
@@ -568,16 +528,6 @@
 			"cb": "pb.secunderabad"
 		},
 		{
-			"code": "UC.NEW_WATER_CONC",
-			"glcode": "440-1533",
-			"cb": "pb.secunderabad"
-		},
-		{
-			"code": "UC.CHNG_WATER_CONC",
-			"glcode": "490-1533",
-			"cb": "pb.secunderabad"
-		},
-		{
 			"code": "UC.COST_FEED_AN",
 			"glcode": null,
 			"cb": "pb.secunderabad"
@@ -700,46 +650,6 @@
 		{
 			"code": "ENTFEE.VEH",
 			"glcode": null,
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.MDM",
-			"glcode": "110-1439",
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.SBM",
-			"glcode": "210-1525",
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.INF",
-			"glcode": null,
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.INT_SB",
-			"glcode": "110-1719",
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.INT_LOAN",
-			"glcode": "110-4719",
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.REV_GRNT",
-			"glcode": null,
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.INT_FD",
-			"glcode": "110-1711",
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "GRNTINT.INT_TD",
-			"glcode": "110-1711",
 			"cb": "pb.delhi"
 		},
 		{
@@ -1218,16 +1128,6 @@
 			"cb": "pb.delhi"
 		},
 		{
-			"code": "UC.NEW_WATER_CONC",
-			"glcode": "210-1533",
-			"cb": "pb.delhi"
-		},
-		{
-			"code": "UC.CHNG_WATER_CONC",
-			"glcode": "210-1533",
-			"cb": "pb.delhi"
-		},
-		{
 			"code": "UC.COST_FEED_AN",
 			"glcode": null,
 			"cb": "pb.delhi"
@@ -1350,46 +1250,6 @@
 		{
 			"code": "ENTFEE.VEH",
 			"glcode": "2101131",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.MDM",
-			"glcode": "2201919",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.SBM",
-			"glcode": null,
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.INF",
-			"glcode": "2101131",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.INT_SB",
-			"glcode": "1101719",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.INT_LOAN",
-			"glcode": "1101411",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.REV_GRNT",
-			"glcode": "1101412",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.INT_FD",
-			"glcode": "1101711",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "GRNTINT.INT_TD",
-			"glcode": "1101711",
 			"cb": "pb.pune"
 		},
 		{
@@ -1903,16 +1763,6 @@
 			"cb": "pb.pune"
 		},
 		{
-			"code": "UC.NEW_WATER_CONC",
-			"glcode": "2101533",
-			"cb": "pb.pune"
-		},
-		{
-			"code": "UC.CHNG_WATER_CONC",
-			"glcode": "4201533",
-			"cb": "pb.pune"
-		},
-		{
 			"code": "UC.COST_FEED_AN",
 			"glcode": "7201999",
 			"cb": "pb.pune"
@@ -2035,46 +1885,6 @@
 		{
 			"code": "ENTFEE.VEH",
 			"glcode": "2201532",
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.MDM",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.SBM",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.INF",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.INT_SB",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.INT_LOAN",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.REV_GRNT",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.INT_FD",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "GRNTINT.INT_TD",
-			"glcode": "2901711",
 			"cb": "pb.lucknow"
 		},
 		{
@@ -2389,6 +2199,11 @@
 		},
 		{
 			"code": "OTHFEE.CLAIM",
+			"glcode": "1103571",
+			"cb": "pb.agra"
+		},
+		{
+			"code": "OTHFEE.CLAIM",
 			"glcode": null,
 			"cb": "pb.lucknow"
 		},
@@ -2588,16 +2403,6 @@
 			"cb": "pb.lucknow"
 		},
 		{
-			"code": "UC.NEW_WATER_CONC",
-			"glcode": "1104661",
-			"cb": "pb.lucknow"
-		},
-		{
-			"code": "UC.CHNG_WATER_CONC",
-			"glcode": null,
-			"cb": "pb.lucknow"
-		},
-		{
 			"code": "UC.COST_FEED_AN",
 			"glcode": null,
 			"cb": "pb.lucknow"
@@ -2720,46 +2525,6 @@
 		{
 			"code": "ENTFEE.VEH",
 			"glcode": "2201162",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.MDM",
-			"glcode": null,
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.SBM",
-			"glcode": "1103219",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.INF",
-			"glcode": null,
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.INT_SB",
-			"glcode": "1101719",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.INT_LOAN",
-			"glcode": "1104679",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.REV_GRNT",
-			"glcode": "2201412",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.INT_FD",
-			"glcode": "1101711",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "GRNTINT.INT_TD",
-			"glcode": "1101711",
 			"cb": "pb.agra"
 		},
 		{
@@ -3073,11 +2838,6 @@
 			"cb": "pb.agra"
 		},
 		{
-			"code": "OTHFEE.CLAIM",
-			"glcode": "1103571",
-			"cb": "pb.agra"
-		},
-		{
 			"code": "OTHFEE.DISPOSAL",
 			"glcode": null,
 			"cb": "pb.agra"
@@ -3273,16 +3033,6 @@
 			"cb": "pb.agra"
 		},
 		{
-			"code": "UC.NEW_WATER_CONC",
-			"glcode": "4201533",
-			"cb": "pb.agra"
-		},
-		{
-			"code": "UC.CHNG_WATER_CONC",
-			"glcode": "4201533",
-			"cb": "pb.agra"
-		},
-		{
 			"code": "UC.COST_FEED_AN",
 			"glcode": "7202913",
 			"cb": "pb.agra"
@@ -3458,81 +3208,6 @@
       "cb": "pb.pune"
     },
     {
-      "code": "OTHERS.CLAIM",
-      "glcode": null,
-      "cb": "pb.secunderabad"
-    },
-    {
-      "code": "OTHERS.CLAIM",
-      "glcode": "1103571",
-      "cb": "pb.agra"
-    },
-    {
-      "code": "OTHERS.CLAIM",
-      "glcode": null,
-      "cb": "pb.delhi"
-    },
-    {
-      "code": "OTHERS.CLAIM",
-      "glcode": null,
-      "cb": "pb.lucknow"
-    },
-    {
-      "code": "OTHERS.CLAIM",
-      "glcode": "1103571",
-      "cb": "pb.pune"
-    },
-    {
-      "code": "OTHERS.DISPOSAL",
-      "glcode": null,
-      "cb": "pb.secunderabad"
-    },
-    {
-      "code": "OTHERS.DISPOSAL",
-      "glcode": null,
-      "cb": "pb.agra"
-    },
-    {
-      "code": "OTHERS.DISPOSAL",
-      "glcode": null,
-      "cb": "pb.delhi"
-    },
-    {
-      "code": "OTHERS.DISPOSAL",
-      "glcode": null,
-      "cb": "pb.lucknow"
-    },
-    {
-      "code": "OTHERS.DISPOSAL",
-      "glcode": "1101999",
-      "cb": "pb.pune"
-    },
-    {
-      "code": "OTHERS.RECOVERY",
-      "glcode": null,
-      "cb": "pb.secunderabad"
-    },
-    {
-      "code": "OTHERS.RECOVERY",
-      "glcode": "1104653",
-      "cb": "pb.agra"
-    },
-    {
-      "code": "OTHERS.RECOVERY",
-      "glcode": "110-3599",
-      "cb": "pb.delhi"
-    },
-    {
-      "code": "OTHERS.RECOVERY",
-      "glcode": null,
-      "cb": "pb.lucknow"
-    },
-    {
-      "code": "OTHERS.RECOVERY",
-      "glcode": "1101999",
-      "cb": "pb.pune"
-    },
-    {
       "code": "TX.TOLL",
       "glcode": "210-1162",
       "cb": "pb.secunderabad"
@@ -3604,46 +3279,6 @@
 	},
 	{
 		"code": "ENTFEE.VEH",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.MDM",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.SBM",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.INF",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.INT_SB",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.INT_LOAN",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.REV_GRNT",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.INT_FD",
-		"glcode": null,
-		"cb": "pb.testing"
-	},
-	{
-		"code": "GRNTINT.INT_TD",
 		"glcode": null,
 		"cb": "pb.testing"
 	},
@@ -4120,16 +3755,6 @@
 	{
 		"code": "UC.BUR_GRND",
 		"glcode": "690-1319",
-		"cb": "pb.testing"
-	},
-	{
-		"code": "UC.NEW_WATER_CONC",
-		"glcode": "440-1533",
-		"cb": "pb.testing"
-	},
-	{
-		"code": "UC.CHNG_WATER_CONC",
-		"glcode": "490-1533",
 		"cb": "pb.testing"
 	},
 	{

@@ -599,38 +599,6 @@
     },
     {
       "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.mdm.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.sbm.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.inf.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.int_sb.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.int_loan.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.rev_grnt.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.int_fd.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "grntint.int_td.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "othfee.app_fee.receipt.id"
     },
     {
@@ -1043,14 +1011,6 @@
     },
     {
       "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "uc.new_water_conc.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "uc.chng_water_conc.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "uc.cost_feed_an.receipt.id"
     },
     {
@@ -1120,23 +1080,6 @@
     {
       "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "othfee.trade_lic.receipt.id"
-    },
-   
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.deposit.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.claim.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.disposal.receipt.id"
-    },
-    {
-      "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "others.recovery.receipt.id"
     },
     {
       "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
