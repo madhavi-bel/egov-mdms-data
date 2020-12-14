@@ -1919,7 +1919,7 @@
       "billGineiURL": "egov-searcher/bill-genie/seweragebills/_get"
     },
     {
-        "businessService": "Creditors Deposits.Earnest Money Deposit - Contractor/Supplier",
+        "businessService": "Creditors Deposits.Earnest Money Deposit-Contractor/Supplier",
         "code": "CREDDEP.EMD_CONT_SUPP",
         "collectionModesNotAllowed": [
           "DD",
@@ -1949,7 +1949,7 @@
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-        "businessService": "Creditors Deposits.Earnest Money Deposit -  Providers of Professionals Services/Consultancy",
+        "businessService": "Creditors Deposits.Earnest Money Deposit-Providers of Professionals Services/Consultancy",
         "code": "CREDDEP.EMD_PS_CSLT",
         "collectionModesNotAllowed": [
           "DD",
@@ -1964,7 +1964,7 @@
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-        "businessService": "Creditors Deposits.Security Deposit-  Suppliers/Contractors ",
+        "businessService": "Creditors Deposits.Security Deposit-Suppliers/Contractors ",
         "code": "CREDDEP.SD_CONT_SUPP",
         "collectionModesNotAllowed": [
           "DD",
@@ -1979,7 +1979,7 @@
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-        "businessService": "Creditors Deposits.Security Deposit-   Labor Contractor",
+        "businessService": "Creditors Deposits.Security Deposit-Labor Contractor",
         "code": "CREDDEP.SD_LC",
         "collectionModesNotAllowed": [
           "DD",
@@ -1994,7 +1994,7 @@
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-        "businessService": "Creditors Deposits.Security Deposit- Professional Services/Consultancy",
+        "businessService": "Creditors Deposits.Security Deposit-Professional Services/Consultancy",
         "code": "CREDDEP.SDPS_CSLT",
         "collectionModesNotAllowed": [
           "DD",
