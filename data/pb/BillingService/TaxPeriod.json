@@ -526,70 +526,6 @@
       "fromDate": 1554076800000,
       "toDate": 1901145600000,
       "periodCycle": "ANNUAL",
-      "service": "GRNTINT.MDM",
-      "code": "GRNTINTMDMFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.SBM",
-      "code": "GRNTINTSBMFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INF",
-      "code": "GRNTINTINFFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_SB",
-      "code": "GRNTINTINTSBFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_LOAN",
-      "code": "GRNTINTINTLOANFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.REV_GRNT",
-      "code": "GRNTINTREVGRNTFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_FD",
-      "code": "GRNTINTINTFDFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "GRNTINT.INT_TD",
-      "code": "GRNTINTINTTDFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
       "service": "OTHFEE.APP_FEE",
       "code": "OTHFEEAPPFEEFIELDFEE",
       "financialYear": "2019-30"
@@ -1406,22 +1342,6 @@
       "fromDate": 1554076800000,
       "toDate": 1901145600000,
       "periodCycle": "ANNUAL",
-      "service": "UC.NEW_WATER_CONC",
-      "code": "UCNEWWATERCONCFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "UC.CHNG_WATER_CONC",
-      "code": "UCCHNGWATERCONCFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
       "service": "UC.COST_FEED_AN",
       "code": "UCCOSTFEEDANFIELDFEE",
       "financialYear": "2019-30"
@@ -1560,39 +1480,6 @@
       "periodCycle": "ANNUAL",
       "service": "OTHERS.CESS",
       "code": "OTHERSCESSFIELDFEE",
-      "financialYear": "2019-30"
-    },
-  
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHERS.CLAIM",
-      "code": "OTHERSCLAIMFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHERS.DISPOSAL",
-      "code": "OTHERSDISPOSALFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHERS.RECOVERY",
-      "code": "OTHERSRECOVERYFIELDFEE",
-      "financialYear": "2019-30"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1901145600000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHERS.DEPOSIT",
-      "code": "OTHERSDEPOSITFIELDFEE",
       "financialYear": "2019-30"
     },
     {
