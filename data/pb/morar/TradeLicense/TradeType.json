@@ -8,11 +8,25 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         }
       ],
       "active": "true",
@@ -26,11 +40,25 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         }
       ],
       "active": "true",
@@ -44,11 +72,25 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         }
       ],
       "active": "true",
@@ -62,11 +104,27 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT",
+            "FIRENOC"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT",
+            "FIRENOC"
+          ]
         }
       ],
       "active": "true",
@@ -80,11 +138,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -98,11 +168,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -116,11 +198,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -134,11 +228,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -152,11 +258,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -170,11 +288,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -188,11 +318,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -206,11 +348,25 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FOODCERT"
+          ]
         }
       ],
       "active": "true",
@@ -224,11 +380,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -242,11 +410,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -260,11 +440,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -278,11 +470,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -296,11 +500,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -314,11 +530,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -332,11 +560,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -350,11 +590,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -368,11 +620,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -386,11 +650,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -404,11 +680,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -422,11 +710,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -440,11 +740,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -458,11 +770,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -476,11 +800,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -494,11 +830,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -512,11 +860,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -530,11 +890,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -548,11 +920,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -566,11 +950,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -584,11 +980,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -602,11 +1010,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -620,11 +1040,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -638,11 +1070,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -656,11 +1100,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -674,11 +1130,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -692,11 +1160,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -710,11 +1190,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -728,11 +1220,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -746,11 +1250,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -764,11 +1280,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -782,11 +1310,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -800,11 +1340,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -818,11 +1370,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -836,11 +1400,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -854,11 +1430,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
@@ -872,11 +1460,23 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": []
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
         }
       ],
       "active": "true",
