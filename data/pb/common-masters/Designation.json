@@ -313,6 +313,12 @@
       "description": "Assistant",
       "code": "DESIG_70",
       "active": true
+    },
+    {
+      "name": "Revenue Inspector",
+      "description": "Revenue Inspector",
+      "code": "DESIG_71",
+      "active": true
     }
   ]
 }
