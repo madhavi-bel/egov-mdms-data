@@ -267,9 +267,15 @@
       "active": true
     },
     {
+      "name": "Personal Assistant",
+      "description": "Personal Assistant",
+      "code": "DESIG_66",
+      "active": true
+    },
+    {
       "name": "Tax Inspector",
       "description": "Tax Inspector",
-      "code": "DESIG_66",
+      "code": "DESIG_67",
       "active": true
     }
   ]
