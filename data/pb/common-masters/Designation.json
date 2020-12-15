@@ -247,6 +247,24 @@
       "description": "Plumber",
       "code": "DESIG_62",
       "active": true
+    },
+    {
+      "name": "Revenue and Tax Suprintendent",
+      "description": "Revenue and Tax Suprintendent",
+      "code": "DESIG_63",
+      "active": true
+    },
+    {
+      "name": "Sanitary Suprintendent",
+      "description": "Sanitary Suprintendent",
+      "code": "DESIG_64",
+      "active": true
+    },
+    {
+      "name": "Octroi Moharir",
+      "description": "Octroi Moharir",
+      "code": "DESIG_65",
+      "active": true
     }
   ]
 }
