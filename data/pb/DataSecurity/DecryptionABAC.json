@@ -683,6 +683,35 @@
             ]
           },
           {
+            "roleCode" : "SYSTEM",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobileNumber"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/merchantId"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/secretKey"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          },
+          {
             "roleCode" : "GRO",
             "attributeAccessList" : [
               {

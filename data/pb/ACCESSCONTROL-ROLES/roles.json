@@ -29,13 +29,13 @@
     },
     {
       "code": "TL_FIELD_INSPECTOR",
-      "name": "TL Field Inspector",
-      "description": "Trade license field inspector"
+      "name": "Sanitary Section Inspector",
+      "description": "Sanitary Section Inspector"
     },
     {
       "code": "TL_DOC_VERIFIER",
-      "name": "TL doc verifier",
-      "description": "Trade license document verifier"
+      "name": "Engg. Section Inspector",
+      "description": "Engg. Section Inspector"
     },    
     {
       "code": "UC_EMP",
