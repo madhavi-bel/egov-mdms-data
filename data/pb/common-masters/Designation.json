@@ -265,6 +265,12 @@
       "description": "Octroi Moharir",
       "code": "DESIG_65",
       "active": true
+    },
+    {
+      "name": "Personal Assistant",
+      "description": "Personal Assistant",
+      "code": "DESIG_66",
+      "active": true
     }
   ]
 }
