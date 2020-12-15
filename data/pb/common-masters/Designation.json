@@ -229,6 +229,12 @@
       "description": "Electric Lineman",
       "code": "DESIG_59",
       "active": true
+    },
+    {
+      "name": "Steno",
+      "description": "steno",
+      "code": "DESIG_60",
+      "active": true
     }
   ]
 }
