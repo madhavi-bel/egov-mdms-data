@@ -81,6 +81,11 @@
       "name": "Revenue & Tax",
       "code": "DEPT_46",
       "active": true
+    },
+    {
+      "name": "Information Technology",
+      "code": "DEPT_47",
+      "active": true
     }
   ]
 }

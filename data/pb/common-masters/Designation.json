@@ -271,6 +271,12 @@
       "description": "Personal Assistant",
       "code": "DESIG_66",
       "active": true
+    },
+    {
+      "name": "Computer Programmer",
+      "description": "Computer Programmer",
+      "code": "DESIG_67",
+      "active": true
     }
   ]
 }
