@@ -265,6 +265,12 @@
       "description": "Octroi Moharir",
       "code": "DESIG_65",
       "active": true
+    },
+    {
+      "name": "Tax Inspector",
+      "description": "Tax Inspector",
+      "code": "DESIG_66",
+      "active": true
     }
   ]
 }
