@@ -247,6 +247,12 @@
       "description": "Plumber",
       "code": "DESIG_62",
       "active": true
+    },
+    {
+      "name": "Wardboy",
+      "description": "Wardboy",
+      "code": "DESIG_63",
+      "active": true
     }
   ]
 }
