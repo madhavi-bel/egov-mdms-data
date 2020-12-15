@@ -307,6 +307,12 @@
       "description": "Ward Boy",
       "code": "DESIG_69",
       "active": true
+    },
+    {
+      "name": "Assistant",
+      "description": "Assistant",
+      "code": "DESIG_70",
+      "active": true
     }
   ]
 }
