@@ -277,6 +277,12 @@
       "description": "Computer Programmer",
       "code": "DESIG_67",
       "active": true
+    },
+    {
+      "name": "Tax Inspector",
+      "description": "Tax Inspector",
+      "code": "DESIG_68",
+      "active": true
     }
   ]
 }
