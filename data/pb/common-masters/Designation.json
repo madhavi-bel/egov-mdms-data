@@ -217,6 +217,18 @@
       "description": "Lower Division Clerk",
       "code": "DESIG_57",
       "active": true
+    },
+    {
+      "name": "Revenue Collector",
+      "description": "Revenue Collector",
+      "code": "DESIG_58",
+      "active": true
+    },
+    {
+      "name": "Electric Lineman",
+      "description": "Electric Lineman",
+      "code": "DESIG_59",
+      "active": true
     }
   ]
 }
