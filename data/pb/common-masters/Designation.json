@@ -319,6 +319,18 @@
       "description": "Revenue Inspector",
       "code": "DESIG_71",
       "active": true
+    },
+    {
+      "name": "Second Division Clerk",
+      "description": "Second Division Clerk",
+      "code": "DESIG_72",
+      "active": true
+    },
+    {
+      "name": "Pound Keeper",
+      "description": "Pound Keeper",
+      "code": "DESIG_73",
+      "active": true
     }
   ]
 }
