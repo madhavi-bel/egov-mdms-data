@@ -187,6 +187,60 @@
       "description": "Cantonment Engineer",
       "code": "DESIG_52",
       "active": true
+    },
+    {
+      "name": "Upper Division Clerk",
+      "description": "Upper Division Clerk",
+      "code": "DESIG_53",
+      "active": true
+    },
+    {
+      "name": "Sub Asst. Engineer",
+      "description": "Sub Asst. Engineer",
+      "code": "DESIG_54",
+      "active": true
+    },
+    {
+      "name": "Office Superintendent",
+      "description": "Office Superintendent",
+      "code": "DESIG_55",
+      "active": true
+    },
+    {
+      "name": "Tax Superintendent",
+      "description": "Tax Superintendent",
+      "code": "DESIG_56",
+      "active": true
+    },
+    {
+      "name": "Lower Division Clerk",
+      "description": "Lower Division Clerk",
+      "code": "DESIG_57",
+      "active": true
+    },
+    {
+      "name": "Revenue Collector",
+      "description": "Revenue Collector",
+      "code": "DESIG_58",
+      "active": true
+    },
+    {
+      "name": "Electric Lineman",
+      "description": "Electric Lineman",
+      "code": "DESIG_59",
+      "active": true
+    },
+    {
+      "name": "Steno",
+      "description": "steno",
+      "code": "DESIG_60",
+      "active": true
+    },
+    {
+      "name": "Draftsman",
+      "description": "Draftsman",
+      "code": "DESIG_61",
+      "active": true
     }
   ]
 }
