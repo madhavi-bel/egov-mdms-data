@@ -235,6 +235,12 @@
       "description": "steno",
       "code": "DESIG_60",
       "active": true
+    },
+    {
+      "name": "Draftsman",
+      "description": "Draftsman",
+      "code": "DESIG_61",
+      "active": true
     }
   ]
 }
