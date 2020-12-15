@@ -76,6 +76,11 @@
       "name": "Hospital",
       "code": "DEPT_45",
       "active": true
+    },
+    {
+      "name": "Revenue & Tax",
+      "code": "DEPT_46",
+      "active": true
     }
   ]
 }
