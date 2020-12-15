@@ -241,6 +241,12 @@
       "description": "Draftsman",
       "code": "DESIG_61",
       "active": true
+    },
+    {
+      "name": "Plumber",
+      "description": "Plumber",
+      "code": "DESIG_62",
+      "active": true
     }
   ]
 }
