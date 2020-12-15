@@ -283,6 +283,30 @@
       "description": "Tax Inspector",
       "code": "DESIG_68",
       "active": true
-    }
+    },
+    {
+      "name": "Senior Sanitary Inspector",
+      "description": "Senior Sanitary Inspector",
+      "code": "DESIG_69",
+      "active": true
+    },
+    {
+      "name": "Residential Medical Officer",
+      "description": "Residential Medical Officer",
+      "code": "DESIG_70",
+      "active": true
+    },
+    {
+      "name": "Head Master",
+      "description": "Head Master",
+      "code": "DESIG_69",
+      "active": true
+    },
+    {
+      "name": "Ward Boy",
+      "description": "Ward Boy",
+      "code": "DESIG_69",
+      "active": true
+    },
   ]
 }
