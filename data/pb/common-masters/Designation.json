@@ -39,8 +39,8 @@
       "active": true
     },
     {
-      "name": "Sanitary Inspector",
-      "description": " Sanitary Inspector",
+      "name": "Inspector",
+      "description": "Inspector",
       "code": "DESIG_28",
       "active": true
     },
@@ -189,30 +189,6 @@
       "active": true
     },
     {
-      "name": "Upper Division Clerk",
-      "description": "Upper Division Clerk",
-      "code": "DESIG_53",
-      "active": true
-    },
-    {
-      "name": "Sub Asst. Engineer",
-      "description": "Sub Asst. Engineer",
-      "code": "DESIG_54",
-      "active": true
-    },
-    {
-      "name": "Office Superintendent",
-      "description": "Office Superintendent",
-      "code": "DESIG_55",
-      "active": true
-    },
-    {
-      "name": "Tax Superintendent",
-      "description": "Tax Superintendent",
-      "code": "DESIG_56",
-      "active": true
-    },
-    {
       "name": "Lower Division Clerk",
       "description": "Lower Division Clerk",
       "code": "DESIG_57",
@@ -249,18 +225,6 @@
       "active": true
     },
     {
-      "name": "Revenue and Tax Suprintendent",
-      "description": "Revenue and Tax Suprintendent",
-      "code": "DESIG_63",
-      "active": true
-    },
-    {
-      "name": "Sanitary Suprintendent",
-      "description": "Sanitary Suprintendent",
-      "code": "DESIG_64",
-      "active": true
-    },
-    {
       "name": "Octroi Moharir",
       "description": "Octroi Moharir",
       "code": "DESIG_65",
@@ -279,14 +243,14 @@
       "active": true
     },
     {
-      "name": "Tax Inspector",
-      "description": "Tax Inspector",
+      "name": "Head Master",
+      "description": "Head Master",
       "code": "DESIG_68",
       "active": true
     },
     {
-      "name": "Senior Sanitary Inspector",
-      "description": "Senior Sanitary Inspector",
+      "name": "Senior Inspector",
+      "description": "Senior Inspector",
       "code": "DESIG_69",
       "active": true
     },
@@ -297,26 +261,8 @@
       "active": true
     },
     {
-      "name": "Head Master",
-      "description": "Head Master",
-      "code": "DESIG_69",
-      "active": true
-    },
-    {
-      "name": "Ward Boy",
-      "description": "Ward Boy",
-      "code": "DESIG_69",
-      "active": true
-    },
-    {
       "name": "Assistant",
       "description": "Assistant",
-      "code": "DESIG_70",
-      "active": true
-    },
-    {
-      "name": "Revenue Inspector",
-      "description": "Revenue Inspector",
       "code": "DESIG_71",
       "active": true
     },
@@ -360,6 +306,12 @@
       "name": "Record Keeper",
       "description": "Record Keeper",
       "code": "DESIG_78",
+      "active": true
+    },
+    {
+      "name": "Ward Boy",
+      "description": "Ward Boy",
+      "code": "DESIG_79",
       "active": true
     }
   ]
