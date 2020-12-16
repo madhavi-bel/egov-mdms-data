@@ -96,6 +96,47 @@
       "name": "School",
       "code": "DEPT_49",
       "active": true
+    },
+    {
+      "name": "Receipt and Dispatch Branch",
+      "code": "DEPT_50",
+      "active": true
+    },
+    {
+      "name": "Yojna",
+      "code": "DEPT_51",
+      "active": true
+    },
+    {
+      "name": "Civil",
+      "code": "DEPT_52",
+      "active": true
+    },
+    {
+      "name": "Health Branch",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "Birth & Death",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Store",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Legal Branch",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "E&M",
+      "code": "DEPT_57",
+      "active": true
     }
+
   ]
 }
