@@ -1,0 +1,504 @@
+{
+  "tenantId": "pb.mhow",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mhow",
+        "localname": "Mhow",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mhow",
+        "children": [
+          {
+            "id": "64fc9bf8-a77c-448d-afeb-3e2e0143a4b8",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "220bba39-f213-4423-80b7-0db33a29c803",
+                "boundaryNum": 1,
+                "name": "Main Street",
+                "localname": "Main Street",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "862efd3a-6e4b-45a7-8835-72fd52838026",
+                    "boundaryNum": 1,
+                    "name": "Main Street, - Main Street",
+                    "localname": "Main Street, - Main Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7aa15b28-9c5a-491f-84e5-0a1d3e4d91b9",
+                    "boundaryNum": 1,
+                    "name": "MG Road One Patti - Main Street",
+                    "localname": "MG Road One Patti - Main Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1797bfa3-28a9-4dd5-ad16-228f0ba9fa6e",
+                    "boundaryNum": 1,
+                    "name": "Tin Gali, - Main Street",
+                    "localname": "Tin Gali, - Main Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6a9df62a-67c8-4789-87da-fcb044e12c8e",
+                    "boundaryNum": 1,
+                    "name": "Kapda Gali, Panna Gali - Main Street",
+                    "localname": "Kapda Gali, Panna Gali - Main Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64f3d64d-efc3-4481-9873-e85ee29debcf",
+                "boundaryNum": 1,
+                "name": "Sanghi Street",
+                "localname": "Sanghi Street",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "31794c81-65bf-4461-8f94-67e9219def75",
+                    "boundaryNum": 1,
+                    "name": "Sanghi Street - Sanghi Street",
+                    "localname": "Sanghi Street - Sanghi Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "de256918-b832-4d93-921f-2a28cb0fbfaf",
+                    "boundaryNum": 1,
+                    "name": "Chhota Bazar One Patti - Sanghi Street",
+                    "localname": "Chhota Bazar One Patti - Sanghi Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "af07d7d2-88ce-4eb3-a94a-f2b28e4bbe6a",
+                    "boundaryNum": 1,
+                    "name": "Raja Gali - Sanghi Street",
+                    "localname": "Raja Gali - Sanghi Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "76303a84-c905-4d01-936b-21a6abeab8f0",
+                    "boundaryNum": 1,
+                    "name": "Hammal Mohall - Sanghi Street",
+                    "localname": "Hammal Mohall - Sanghi Street",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3f814fd5-2f33-49a7-be04-d1b2a0b81c6e",
+                "boundaryNum": 1,
+                "name": "Chhota Bazar",
+                "localname": "Chhota Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "81635f55-62b4-40a2-9c9f-13fe84550ba0",
+                    "boundaryNum": 1,
+                    "name": "Patti Bazar, - Chhota Bazar",
+                    "localname": "Patti Bazar, - Chhota Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "00bc1480-4eb4-4c61-82bd-2f01bbc68e34",
+                    "boundaryNum": 1,
+                    "name": "Kirwani Mohalla - Chhota Bazar",
+                    "localname": "Kirwani Mohalla - Chhota Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "52ff3d3f-75fc-4db2-8c2b-35b674456dcf",
+                    "boundaryNum": 1,
+                    "name": "Satta Rasta - Chhota Bazar",
+                    "localname": "Satta Rasta - Chhota Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a4269865-4408-4f25-9277-544da8e35133",
+                    "boundaryNum": 1,
+                    "name": "Kayasth Mohall - Chhota Bazar",
+                    "localname": "Kayasth Mohall - Chhota Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "844e6893-7307-4ea4-8801-941b54e779c6",
+                "boundaryNum": 1,
+                "name": "Gokul Ganji",
+                "localname": "Gokul Ganji",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "75791dd4-68a1-4291-a6f5-422aa7461061",
+                    "boundaryNum": 1,
+                    "name": "Gokul Ganj Second Patti - Gokul Ganji",
+                    "localname": "Gokul Ganj Second Patti - Gokul Ganji",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3e599770-fa36-4b68-ad77-15c440ed03c2",
+                    "boundaryNum": 1,
+                    "name": "Tall Mohalla - Gokul Ganji",
+                    "localname": "Tall Mohalla - Gokul Ganji",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a293705a-4396-425e-842f-8f9d8f33c531",
+                    "boundaryNum": 1,
+                    "name": "Sewa MArg - Gokul Ganji",
+                    "localname": "Sewa MArg - Gokul Ganji",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e53d75b3-082a-49fa-b308-8020017cc3ac",
+                    "boundaryNum": 1,
+                    "name": "Luniya Pura One Patti - Gokul Ganji",
+                    "localname": "Luniya Pura One Patti - Gokul Ganji",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ccdd4b8-d237-4b3c-b781-6b6705439854",
+                "boundaryNum": 1,
+                "name": "Hadarabadi Basti",
+                "localname": "Hadarabadi Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "125d7ac2-aef1-4ca2-89d5-276a69534bb6",
+                    "boundaryNum": 1,
+                    "name": "Pension pura - Hadarabadi Basti",
+                    "localname": "Pension pura - Hadarabadi Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "de725569-3d03-457b-8e6e-5b7b480b7c73",
+                    "boundaryNum": 1,
+                    "name": "Hydrabadi Basti - Hadarabadi Basti",
+                    "localname": "Hydrabadi Basti - Hadarabadi Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "183f6799-2263-40aa-aaa7-0c0a6a1e702e",
+                    "boundaryNum": 1,
+                    "name": "Air Field Area - Hadarabadi Basti",
+                    "localname": "Air Field Area - Hadarabadi Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "02ece4ca-fc83-4456-bcc6-6eef28a1dcb6",
+                    "boundaryNum": 1,
+                    "name": "Mall Road - Hadarabadi Basti",
+                    "localname": "Mall Road - Hadarabadi Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1bea3339-a6f4-4629-b5db-dd41e4992df9",
+                "boundaryNum": 1,
+                "name": "Banda Basti",
+                "localname": "Banda Basti",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "9d7de3b5-e525-433e-91f8-0b4fbd2f29d2",
+                    "boundaryNum": 1,
+                    "name": "Banda Basti - Banda Basti",
+                    "localname": "Banda Basti - Banda Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4c05a72b-0c97-4c0d-9be7-6698fb21ad74",
+                    "boundaryNum": 1,
+                    "name": "BI Bazar - Banda Basti",
+                    "localname": "BI Bazar - Banda Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9fe8fe9c-d63d-447d-acee-19225dab91f0",
+                    "boundaryNum": 1,
+                    "name": "Garden 93 - Banda Basti",
+                    "localname": "Garden 93 - Banda Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0f3bcd17-8e5f-4249-8f59-16dd065acbed",
+                    "boundaryNum": 1,
+                    "name": "B No.114,117,118, 121,124, 125 Simrol Road - Banda Basti",
+                    "localname": "B No.114,117,118, 121,124, 125 Simrol Road - Banda Basti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a934f6b-30b6-42f2-8a45-f80d5439b860",
+                "boundaryNum": 1,
+                "name": "Yadav Mohalla",
+                "localname": "Yadav Mohalla",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "bbca582c-34b9-4858-9806-6433be0d2d69",
+                    "boundaryNum": 1,
+                    "name": "Lal Ji ki Basti - Yadav Mohalla",
+                    "localname": "Lal Ji ki Basti - Yadav Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a267e2a7-dcc3-4a13-9fc0-9ac8ffed2e83",
+                    "boundaryNum": 1,
+                    "name": "Sarwan Mohalla - Yadav Mohalla",
+                    "localname": "Sarwan Mohalla - Yadav Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e8376f9f-c9dc-4f37-b483-9430c978d041",
+                    "boundaryNum": 1,
+                    "name": "Yadav Mohall - Yadav Mohalla",
+                    "localname": "Yadav Mohall - Yadav Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "66c24180-0a3c-4b7e-b79f-182233902b80",
+                    "boundaryNum": 1,
+                    "name": "Peath Road One Patti - Yadav Mohalla",
+                    "localname": "Peath Road One Patti - Yadav Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "770f63ff-6e8b-4a35-bb8e-5ebbc678be08",
+                "boundaryNum": 1,
+                "name": "Luniya Pura",
+                "localname": "Luniya Pura",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "32d93ccd-35ae-4893-bcc7-e3ede3ac6621",
+                    "boundaryNum": 1,
+                    "name": "Luniya Pura Second Patti - Luniya Pura",
+                    "localname": "Luniya Pura Second Patti - Luniya Pura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f3ad0c5b-019c-4f0b-9f22-fa9fcf089984",
+                    "boundaryNum": 1,
+                    "name": "Pasipura - Luniya Pura",
+                    "localname": "Pasipura - Luniya Pura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "fe7ce5cd-184a-4a6c-921c-b0cf65e8cc0e",
+                    "boundaryNum": 1,
+                    "name": "Garden No. 50 to 82 - Luniya Pura",
+                    "localname": "Garden No. 50 to 82 - Luniya Pura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

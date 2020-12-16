@@ -187,6 +187,150 @@
       "description": "Cantonment Engineer",
       "code": "DESIG_52",
       "active": true
+    },
+    {
+      "name": "Upper Division Clerk",
+      "description": "Upper Division Clerk",
+      "code": "DESIG_53",
+      "active": true
+    },
+    {
+      "name": "Sub Asst. Engineer",
+      "description": "Sub Asst. Engineer",
+      "code": "DESIG_54",
+      "active": true
+    },
+    {
+      "name": "Office Superintendent",
+      "description": "Office Superintendent",
+      "code": "DESIG_55",
+      "active": true
+    },
+    {
+      "name": "Tax Superintendent",
+      "description": "Tax Superintendent",
+      "code": "DESIG_56",
+      "active": true
+    },
+    {
+      "name": "Lower Division Clerk",
+      "description": "Lower Division Clerk",
+      "code": "DESIG_57",
+      "active": true
+    },
+    {
+      "name": "Revenue Collector",
+      "description": "Revenue Collector",
+      "code": "DESIG_58",
+      "active": true
+    },
+    {
+      "name": "Electric Lineman",
+      "description": "Electric Lineman",
+      "code": "DESIG_59",
+      "active": true
+    },
+    {
+      "name": "Steno",
+      "description": "steno",
+      "code": "DESIG_60",
+      "active": true
+    },
+    {
+      "name": "Draftsman",
+      "description": "Draftsman",
+      "code": "DESIG_61",
+      "active": true
+    },
+    {
+      "name": "Plumber",
+      "description": "Plumber",
+      "code": "DESIG_62",
+      "active": true
+    },
+    {
+      "name": "Revenue and Tax Suprintendent",
+      "description": "Revenue and Tax Suprintendent",
+      "code": "DESIG_63",
+      "active": true
+    },
+    {
+      "name": "Sanitary Suprintendent",
+      "description": "Sanitary Suprintendent",
+      "code": "DESIG_64",
+      "active": true
+    },
+    {
+      "name": "Octroi Moharir",
+      "description": "Octroi Moharir",
+      "code": "DESIG_65",
+      "active": true
+    },
+    {
+      "name": "Personal Assistant",
+      "description": "Personal Assistant",
+      "code": "DESIG_66",
+      "active": true
+    },
+    {
+      "name": "Computer Programmer",
+      "description": "Computer Programmer",
+      "code": "DESIG_67",
+      "active": true
+    },
+    {
+      "name": "Tax Inspector",
+      "description": "Tax Inspector",
+      "code": "DESIG_68",
+      "active": true
+    },
+    {
+      "name": "Senior Sanitary Inspector",
+      "description": "Senior Sanitary Inspector",
+      "code": "DESIG_69",
+      "active": true
+    },
+    {
+      "name": "Residential Medical Officer",
+      "description": "Residential Medical Officer",
+      "code": "DESIG_70",
+      "active": true
+    },
+    {
+      "name": "Head Master",
+      "description": "Head Master",
+      "code": "DESIG_69",
+      "active": true
+    },
+    {
+      "name": "Ward Boy",
+      "description": "Ward Boy",
+      "code": "DESIG_69",
+      "active": true
+    },
+    {
+      "name": "Assistant",
+      "description": "Assistant",
+      "code": "DESIG_70",
+      "active": true
+    },
+    {
+      "name": "Revenue Inspector",
+      "description": "Revenue Inspector",
+      "code": "DESIG_71",
+      "active": true
+    },
+    {
+      "name": "Second Division Clerk",
+      "description": "Second Division Clerk",
+      "code": "DESIG_72",
+      "active": true
+    },
+    {
+      "name": "Pound Keeper",
+      "description": "Pound Keeper",
+      "code": "DESIG_73",
+      "active": true
     }
   ]
 }

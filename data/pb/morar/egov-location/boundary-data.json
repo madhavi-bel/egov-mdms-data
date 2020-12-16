@@ -1,0 +1,288 @@
+{
+  "tenantId": "pb.morar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Morar",
+        "localname": "Morar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.morar",
+        "children": [
+          {
+            "id": "dd88678f-bb4e-46e8-8d1d-888f00f9abe7",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z00 1",
+            "children": [
+              {
+                "id": "956e46e3-967f-4e98-9a4f-491f0202c156",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "7b324f8b-0e24-4b84-a24e-fd4c0a698406",
+                    "boundaryNum": 1,
+                    "name": "Laltipara - Ward No. 1",
+                    "localname": "Laltipara - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "95cf8730-bbb1-4c28-9a6e-496363c45620",
+                    "boundaryNum": 1,
+                    "name": "Maheshpura - Ward No. 1",
+                    "localname": "Maheshpura - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "53fca6ab-c6ef-4e9b-9473-4eeed6293a23",
+                    "boundaryNum": 1,
+                    "name": "Kashipura - Ward No. 1",
+                    "localname": "Kashipura - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d149209-dc60-43ec-847a-0b4a4d1caeef",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "7d1b648a-458b-45be-9959-2b762cf06c49",
+                    "boundaryNum": 1,
+                    "name": "Banshipura - Ward No. 2",
+                    "localname": "Banshipura - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "298042b3-ed0a-4ff3-86a1-857209f090dc",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "f46af8b2-f290-4a73-9bad-009c341142a4",
+                    "boundaryNum": 1,
+                    "name": "Suraiyapura - Ward No. 3",
+                    "localname": "Suraiyapura - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7c47c3e4-e322-4f39-8463-c1a04184538d",
+                    "boundaryNum": 1,
+                    "name": "Parsadipura - Ward No. 3",
+                    "localname": "Parsadipura - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a32fabb4-dcd1-4d53-b2b9-dea2f5f2496c",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "827f6227-97fd-498d-81b0-598127c63d3e",
+                    "boundaryNum": 1,
+                    "name": "Tikonia - Ward No. 4",
+                    "localname": "Tikonia - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "072f1d34-dae3-4c7a-950b-23ff817bbb81",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "f5f6064b-a026-44db-b320-dcd04521d12f",
+                    "boundaryNum": 1,
+                    "name": "Hardev Singh ki Taal - Ward No. 5",
+                    "localname": "Hardev Singh ki Taal - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "05355b17-84e5-471c-9619-8e000873558a",
+                    "boundaryNum": 1,
+                    "name": "Sutarpura - Ward No. 5",
+                    "localname": "Sutarpura - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3c701368-6f41-4a6c-8234-0b8ec0556807",
+                    "boundaryNum": 1,
+                    "name": "Sahupura - Ward No. 5",
+                    "localname": "Sahupura - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ed01125-ae5c-4f59-8f12-bc9d24c00c20",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "2705187e-bb49-495a-83aa-fa06f1e86218",
+                    "boundaryNum": 1,
+                    "name": "Nibuapura - Ward No. 6",
+                    "localname": "Nibuapura - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1aa347ec-e26b-47d7-b3f7-76c15dd01b4e",
+                    "boundaryNum": 1,
+                    "name": "Kachhipura - Ward No. 6",
+                    "localname": "Kachhipura - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "608e67f9-c620-43a1-8166-f1fc8b455aa8",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "b2d28d05-5bd6-459a-9f7d-e5f065ee39c5",
+                    "boundaryNum": 1,
+                    "name": "Madhopura - Ward No. 7",
+                    "localname": "Madhopura - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "49be251c-c335-4e9d-9889-52cc13c57850",
+                    "boundaryNum": 1,
+                    "name": "Ghosipura - Ward No. 7",
+                    "localname": "Ghosipura - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

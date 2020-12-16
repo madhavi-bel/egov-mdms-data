@@ -1,0 +1,276 @@
+{
+  "tenantId": "pb.allahabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Allahabad",
+        "localname": "Allahabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.allahabad",
+        "children": [
+          {
+            "id": "729809bc-b53f-45d8-8ca9-198bbc3affa7",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "4499ed23-34df-4a6b-9268-978f8c0f738d",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "72c8e60a-1493-4397-9288-e421cde61570",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 1",
+                    "localname": "Sadar Bazar - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c01b7dd0-4947-4902-9892-50198598801c",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "c71770e5-57a6-47d6-be62-77b84ac1ac8e",
+                    "boundaryNum": 1,
+                    "name": "B.I. Bazar - Ward No. 2",
+                    "localname": "B.I. Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3421e3e5-5d9f-4356-acf7-0312e94e457f",
+                    "boundaryNum": 1,
+                    "name": "I. I. Bazar - Ward No. 2",
+                    "localname": "I. I. Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6e27486-acd4-4889-901d-36f0e55e531d",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "d64e44e4-e46e-4867-9fe8-30b8f3fa4095",
+                    "boundaryNum": 1,
+                    "name": "Shambhu Barrack - Ward No. 3",
+                    "localname": "Shambhu Barrack - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "03_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c689615f-1f7f-4c8f-a374-8e3b59291844",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "757a4e03-aa0d-4414-a47a-0763d89d095f",
+                    "boundaryNum": 1,
+                    "name": "R.A Bazar - Ward No. 4",
+                    "localname": "R.A Bazar - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "068489bb-6311-4fdc-998e-e8eb7701e035",
+                    "boundaryNum": 1,
+                    "name": "Meagherganj - Ward No. 4",
+                    "localname": "Meagherganj - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58ce59e7-d559-4930-adf1-396273cf815e",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "3fc110fa-8ac0-497c-8e55-2d1c9defa299",
+                    "boundaryNum": 1,
+                    "name": "Officer Line - Ward No. 5",
+                    "localname": "Officer Line - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "8e9ea06e-b023-4eb7-94ba-7d1286aa6dbc",
+                    "boundaryNum": 1,
+                    "name": "Kachodi Gali - Ward No. 5",
+                    "localname": "Kachodi Gali - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "994b1454-81b5-469a-b6ef-6e6264ec9b14",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "2fa76ae3-e7a9-488f-b63b-705e7b4bd5e4",
+                    "boundaryNum": 1,
+                    "name": "Chetham Line - Ward No. 6",
+                    "localname": "Chetham Line - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "06_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3c053f4a-c066-43e4-af58-548dca96a50d",
+                    "boundaryNum": 1,
+                    "name": "Baghara - Ward No. 6",
+                    "localname": "Baghara - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "06_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "112279f5-2d45-48c3-aa13-bf58ae0b2b10",
+                    "boundaryNum": 1,
+                    "name": "Galla Bazar - Ward No. 6",
+                    "localname": "Galla Bazar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "06_03",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b4714bb7-b16d-47c9-88ab-32b494978baa",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "11b883de-baec-4d28-b96d-697c41c224e6",
+                    "boundaryNum": 1,
+                    "name": "Kydganj - Ward No. 7",
+                    "localname": "Kydganj - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "07_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d524a9f8-326d-480f-b02d-8caf3ebb530c",
+                    "boundaryNum": 1,
+                    "name": "Beni Bandh - Ward No. 7",
+                    "localname": "Beni Bandh - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "07_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "tenantId": "pb.clementtown",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "ClementTown",
+        "localname": "ClementTown",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.clementtown",
+        "children": [
+          {
+            "id": "55314bcc-882b-47b4-b8c0-fa1162334b18",
+            "boundaryNum": 1,
+            "name": "Clement Town",
+            "localname": "Clement Town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "800311",
+            "children": [
+              {
+                "id": "8b56a72d-73da-488e-9121-125c07416727",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e28b406f-27a1-4866-b081-9f98987f0ce8",
+                    "boundaryNum": 1,
+                    "name": "Morowala - Ward 1",
+                    "localname": "Morowala - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_MRW",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "16446908-1dea-49e3-8d2a-839b624d29c4",
+                    "boundaryNum": 1,
+                    "name": "Camp Area - Ward 1",
+                    "localname": "Camp Area - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_CMP",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "aa8f455b-cbe1-4b0d-b897-5968302a4990",
+                    "boundaryNum": 1,
+                    "name": "Turner Road, Clement Town - Ward 1",
+                    "localname": "Turner Road, Clement Town - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_TRNRD",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f19942c2-1a92-4f7a-99c5-bd838c9b5fae",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "81d731f7-40cb-4dcb-8844-906551a9a439",
+                    "boundaryNum": 1,
+                    "name": "Society Area - Ward 2",
+                    "localname": "Society Area - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_STA",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "20d35fc1-d75a-40dd-a36a-31e01e09da47",
+                    "boundaryNum": 1,
+                    "name": "Camp Area,Clement Town - Ward 2",
+                    "localname": "Camp Area,Clement Town - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_CMP",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2f69c0c-7b07-48c0-9b34-b1bf2458931a",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "0812e595-33ba-4df9-951f-ce2f3e322a52",
+                    "boundaryNum": 1,
+                    "name": "Post Office Road - Ward 3",
+                    "localname": "Post Office Road - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3_POR",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "11df94cf-531a-45a5-95c9-f907ec1890dd",
+                    "boundaryNum": 1,
+                    "name": "Society Area - Ward 3",
+                    "localname": "Society Area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3_STA",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "edd72402-d8ec-43d1-836d-2dead4b2e551",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "4c66c24e-d661-4bce-a578-800d2256ac7b",
+                    "boundaryNum": 1,
+                    "name": "Army Unit area, Cantonment Board Office, Hospital, School etc - Ward 4",
+                    "localname": "Army Unit area, Cantonment Board Office, Hospital, School etc - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4_AUA",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39f42da9-20f4-4f55-9851-044d6d05c4fd",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "184b6dc8-5334-4604-90d4-04a03083f6e7",
+                    "boundaryNum": 1,
+                    "name": "Dakota area - Ward 5",
+                    "localname": "Dakota area - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_DKT",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "9ec8bdef-d05b-479f-afb0-00555ac06ae0",
+                    "boundaryNum": 1,
+                    "name": "Indrapuri Farm - Ward 5",
+                    "localname": "Indrapuri Farm - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_IDP",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3f1eb47-e1a1-4d2b-9661-90fb2243435a",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "48402a79-2d1d-4d94-b501-8e898e6a42f3",
+                    "boundaryNum": 1,
+                    "name": "Mothrowala - Ward 6",
+                    "localname": "Mothrowala - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_MTH",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "df4948c7-6b72-4fcc-a515-7d32980ed2d2",
+                    "boundaryNum": 1,
+                    "name": "Daudwala - Ward 6",
+                    "localname": "Daudwala - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_DDW",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "9d1655fa-db34-4031-b142-9a949b9278f0",
+                    "boundaryNum": 1,
+                    "name": "Chanchak - Ward 6",
+                    "localname": "Chanchak - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_CHK",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1b80efcd-a0a9-492e-89e1-a2b30d8a5e72",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "89d1c84d-48a4-4ab8-9518-c08e0b7cce2a",
+                    "boundaryNum": 1,
+                    "name": "Bada Bharuwala - Ward 7",
+                    "localname": "Bada Bharuwala - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_BBH",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "88fe3f78-916e-4c27-af05-92814d661b06",
+                    "boundaryNum": 1,
+                    "name": "Chota Bharuwala - Ward 7",
+                    "localname": "Chota Bharuwala - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_CBH",
+                    "area": "800311",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "tenantId": "pb.jammu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jammu",
+        "localname": "Jammu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jammu",
+        "children": [
+          {
+            "id": "ec6251a0-9700-4d96-b65d-83d757de01b0",
+            "boundaryNum": 1,
+            "name": "Jammu",
+            "localname": "Jammu",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "c4e97b7d-46ff-4acf-8efa-70e5ebd31663",
+                "boundaryNum": 1,
+                "name": "Narwal Pain - Ward 1",
+                "localname": "Narwal Pain - Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "d958b66c-bf82-40e3-95b4-0e9774e3d669",
+                    "boundaryNum": 1,
+                    "name": "Narwal Pain- Ward 1 - Narwal Pain - Ward 1",
+                    "localname": "Narwal Pain- Ward 1 - Narwal Pain - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c58704c4-40c8-4bb3-9109-3b87c1449460",
+                "boundaryNum": 1,
+                "name": "Narwal Pain - Ward 2",
+                "localname": "Narwal Pain - Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "1e189bd6-d813-4dbb-bf4c-b27349537006",
+                    "boundaryNum": 1,
+                    "name": "Narwal Pain- Ward 2 - Narwal Pain - Ward 2",
+                    "localname": "Narwal Pain- Ward 2 - Narwal Pain - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bdc4a790-14ed-41e1-8814-d031db2c9a02",
+                "boundaryNum": 1,
+                "name": "Ranibagh/ Govindpura - Ward 3",
+                "localname": "Ranibagh/ Govindpura - Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "13f49c32-7338-447e-9fba-c7f5dc24a3b4",
+                    "boundaryNum": 1,
+                    "name": "Ranibagh/ Govindpura- Ward 3 - Ranibagh/ Govindpura - Ward 3",
+                    "localname": "Ranibagh/ Govindpura- Ward 3 - Ranibagh/ Govindpura - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8cd7b833-64e5-47b5-bfd2-e5b128e1ebb8",
+                "boundaryNum": 1,
+                "name": "Govindpura - Ward 4",
+                "localname": "Govindpura - Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "bd2ff332-7c89-4e97-b599-acb2838d5751",
+                    "boundaryNum": 1,
+                    "name": "Govindpura- Ward 4 - Govindpura - Ward 4",
+                    "localname": "Govindpura- Ward 4 - Govindpura - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a5ece565-9ed2-404c-8867-8b785684cc9a",
+                "boundaryNum": 1,
+                "name": "Raipur Satwari - Ward 5",
+                "localname": "Raipur Satwari - Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "f617b7c5-6008-4fad-b566-96008938e2e8",
+                    "boundaryNum": 1,
+                    "name": "Raipur Satwari- Ward 5 - Raipur Satwari - Ward 5",
+                    "localname": "Raipur Satwari- Ward 5 - Raipur Satwari - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38cddfef-aabe-4148-a2e4-9d9c334a1325",
+                "boundaryNum": 1,
+                "name": "Belicharana - Ward 6",
+                "localname": "Belicharana - Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "335d1e6c-5a18-496f-9ba4-42e28d24a330",
+                    "boundaryNum": 1,
+                    "name": "Belicharana- Ward 6 - Belicharana - Ward 6",
+                    "localname": "Belicharana- Ward 6 - Belicharana - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8960a83b-c6df-4db6-ac51-06d8bf321bfd",
+                "boundaryNum": 1,
+                "name": "Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                "localname": "Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "40aba1b3-3e90-4c7a-b3aa-c70fa2a07174",
+                    "boundaryNum": 1,
+                    "name": "Jawahar Nagar- Ward 7 - Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                    "localname": "Jawahar Nagar- Ward 7 - Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4f8c32e6-5819-410e-a8a7-168ebe022c7b",
+                    "boundaryNum": 1,
+                    "name": "Ashok Nagar- Ward 7 - Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                    "localname": "Ashok Nagar- Ward 7 - Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d68db1bc-2c3a-45bb-be8d-4fd907d8c39f",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar- Ward 8 - Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                    "localname": "Sadar Bazar- Ward 8 - Jawahar Nagar, Ashok Nagar, Sadar Bazar - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

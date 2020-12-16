@@ -1,0 +1,336 @@
+{
+  "tenantId": "pb.subathu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Subathu",
+        "localname": "Subathu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.subathu",
+        "children": [
+          {
+            "id": "cb20c02f-d676-4dd6-9f88-193ac938f9df",
+            "boundaryNum": 1,
+            "name": "Subathu",
+            "localname": "Subathu",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SUB",
+            "children": [
+              {
+                "id": "280b1a76-54f6-4ab1-b654-d04b3c70a868",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "6cca15a9-0fb0-425c-a7b7-4d9fbfd3dc86",
+                    "boundaryNum": 1,
+                    "name": "Ravidaspura out Area - Ward No. 1",
+                    "localname": "Ravidaspura out Area - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_1",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "2acd5182-cc02-4cf6-9438-836052f123e4",
+                    "boundaryNum": 1,
+                    "name": "Kashmiri Mohalla - Ward No. 1",
+                    "localname": "Kashmiri Mohalla - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_2",
+                    "area": "SUB",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a75c189-e319-4f02-80c1-3238a34d1964",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "b78f5ecb-7f1f-4e14-90d9-53bd39617c01",
+                    "boundaryNum": 1,
+                    "name": "Kashmiri Mohalla - Ward No. 2",
+                    "localname": "Kashmiri Mohalla - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_1",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "4522db3d-36e8-4613-92fc-a508e12907d3",
+                    "boundaryNum": 1,
+                    "name": "Arhat Bazar - Ward No. 2",
+                    "localname": "Arhat Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_2",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "c66496d7-da0c-4302-9f30-f44a472cce72",
+                    "boundaryNum": 1,
+                    "name": "Out Area - Ward No. 2",
+                    "localname": "Out Area - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_3",
+                    "area": "SUB",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6f10d77-47c6-40c0-9df0-eb3722ad390a",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "e0dd7cd3-efcb-464c-b936-c953b9488ff4",
+                    "boundaryNum": 1,
+                    "name": "Chowk Bazar - Ward No. 3",
+                    "localname": "Chowk Bazar - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_1",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "6b6a86d3-040b-40fe-b4be-7bc7812c1fe2",
+                    "boundaryNum": 1,
+                    "name": "Kashmiri Mohalla - Ward No. 3",
+                    "localname": "Kashmiri Mohalla - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_2",
+                    "area": "SUB",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fbbbc05e-b669-4218-b668-bff989a6bfd7",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "4973f860-25e0-4336-a522-e94fa655d863",
+                    "boundaryNum": 1,
+                    "name": "Lower bazar - Ward No. 4",
+                    "localname": "Lower bazar - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_1",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "e606012e-8ae8-4f00-826b-3bcb34e69f18",
+                    "boundaryNum": 1,
+                    "name": "Army area - Ward No. 4",
+                    "localname": "Army area - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_2",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "8e0ebdee-7145-45bb-b157-fcd27c3ab96b",
+                    "boundaryNum": 1,
+                    "name": "Bunglow Area - Ward No. 4",
+                    "localname": "Bunglow Area - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_3",
+                    "area": "SUB",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b85a6ad7-4ba2-4733-a5ae-773f7143d56a",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "4e644166-1dae-473e-b487-89ed999809b9",
+                    "boundaryNum": 1,
+                    "name": "Kotwali Mohalla - Ward No. 5",
+                    "localname": "Kotwali Mohalla - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_1",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "d58f4d33-c80e-4a88-b419-29250a54487c",
+                    "boundaryNum": 1,
+                    "name": "Chowk Bazar - Ward No. 5",
+                    "localname": "Chowk Bazar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_2",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "e0c39343-1307-4942-95d9-aa8ef7ca4932",
+                    "boundaryNum": 1,
+                    "name": "Bunglow Area - Ward No. 5",
+                    "localname": "Bunglow Area - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_3",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "0df98f6c-5648-4c2b-9fe8-55903df1e7a4",
+                    "boundaryNum": 1,
+                    "name": "Out Area - Ward No. 5",
+                    "localname": "Out Area - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_4",
+                    "area": "SUB",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d2bc850-51fa-4f59-bc42-0f1e290cbbef",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "b07f0852-cafa-4ce5-86a6-5014393dd57d",
+                    "boundaryNum": 1,
+                    "name": "Arhat Bazar - Ward No. 6",
+                    "localname": "Arhat Bazar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_1",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "3942b1c9-09d2-4f38-b12e-06b73cf50e30",
+                    "boundaryNum": 1,
+                    "name": "upper bazar - Ward No. 6",
+                    "localname": "upper bazar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_2",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "71b5e108-09e8-4e1e-ac93-66d683bd05dc",
+                    "boundaryNum": 1,
+                    "name": "Bunglow Area - Ward No. 6",
+                    "localname": "Bunglow Area - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_3",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "dfac287a-d311-495a-91d1-3701327f1993",
+                    "boundaryNum": 1,
+                    "name": "Out Area - Ward No. 6",
+                    "localname": "Out Area - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_4",
+                    "area": "SUB",
+                    "children": []
+                  },
+                  {
+                    "id": "e685eb6d-2bb9-4f92-a91d-3447b1427df7",
+                    "boundaryNum": 1,
+                    "name": "Army area - Ward No. 6",
+                    "localname": "Army area - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_5",
+                    "area": "SUB",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

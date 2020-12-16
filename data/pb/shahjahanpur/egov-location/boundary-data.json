@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.shahjahanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Shahjahanpur",
+        "localname": "Shahjahanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.shahjahanpur",
+        "children": [
+          {
+            "id": "135de135-610e-4855-bdd8-798ac19d172d",
+            "boundaryNum": 1,
+            "name": "Shahjahanpur",
+            "localname": "Shahjahanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "2dc85481-5e2b-4a40-802c-7fb8d561f47f",
+                "boundaryNum": 1,
+                "name": "Ward No 1",
+                "localname": "Ward No 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W01",
+                "children": [
+                  {
+                    "id": "f0358297-182e-4db5-a60e-b3214704257c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dialazak Cantt - Ward No 1",
+                    "localname": "Mohalla Dialazak Cantt - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "549994ad-4079-4970-88d5-18b48ecd4071",
+                "boundaryNum": 1,
+                "name": "Ward No 2",
+                "localname": "Ward No 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W02",
+                "children": [
+                  {
+                    "id": "9bb2d8cd-642c-4309-81db-6172714dd235",
+                    "boundaryNum": 1,
+                    "name": "Mohalla I.I. bazar - Ward No 2",
+                    "localname": "Mohalla I.I. bazar - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a7080d4-f08e-4072-ace0-605f754f7fc6",
+                "boundaryNum": 1,
+                "name": "Ward No 3",
+                "localname": "Ward No 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W03",
+                "children": [
+                  {
+                    "id": "61f409cc-ad41-4bf0-8b51-55216fde2339",
+                    "boundaryNum": 1,
+                    "name": "Factory Estate - Ward No 3",
+                    "localname": "Factory Estate - Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06e7825c-fa6f-4b66-b8a3-2f3a2b6ba931",
+                "boundaryNum": 1,
+                "name": "Ward No 4",
+                "localname": "Ward No 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W04",
+                "children": [
+                  {
+                    "id": "07bbda42-0df7-4cd1-97fb-486b784bc6a4",
+                    "boundaryNum": 1,
+                    "name": "Factory Estate - Ward No 4",
+                    "localname": "Factory Estate - Ward No 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f84a6663-68c2-4004-9c19-ec1875fd80e6",
+                "boundaryNum": 1,
+                "name": "Ward No 5",
+                "localname": "Ward No 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W05",
+                "children": [
+                  {
+                    "id": "5a6907ff-3204-4389-8fea-6eed6cc4359b",
+                    "boundaryNum": 1,
+                    "name": "Army and mau Village - Ward No 5",
+                    "localname": "Army and mau Village - Ward No 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22a74de7-d470-4b6b-95e5-4f20b7b49044",
+                "boundaryNum": 1,
+                "name": "Ward No 6",
+                "localname": "Ward No 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W06",
+                "children": [
+                  {
+                    "id": "6c89469d-07be-4c69-8fab-dfd5b2890c78",
+                    "boundaryNum": 1,
+                    "name": "Factory Estate - Ward No 6",
+                    "localname": "Factory Estate - Ward No 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "21661e6a-92be-4156-995a-0f459c2b1f06",
+                "boundaryNum": 1,
+                "name": "Ward No 7",
+                "localname": "Ward No 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W07",
+                "children": [
+                  {
+                    "id": "c7e73aa1-4192-4b7e-805a-7a6aa9ebd730",
+                    "boundaryNum": 1,
+                    "name": "Factory Estate - Ward No 7",
+                    "localname": "Factory Estate - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

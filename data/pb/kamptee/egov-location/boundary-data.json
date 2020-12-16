@@ -1,0 +1,312 @@
+{
+  "tenantId": "pb.kamptee",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kamptee",
+        "localname": "Kamptee",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kamptee",
+        "children": [
+          {
+            "id": "401901ee-8f97-4823-8120-adfcabdf1cbb",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z01",
+            "children": [
+              {
+                "id": "828f2eec-e61f-407f-b8ba-a9c5d2a1325f",
+                "boundaryNum": 1,
+                "name": "Gora Bazar - Ward 1",
+                "localname": "Gora Bazar - Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "549196e5-0a3f-4288-874a-f0c06d545033",
+                    "boundaryNum": 1,
+                    "name": "Gora Bazar - Gora Bazar - Ward 1",
+                    "localname": "Gora Bazar - Gora Bazar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "edfaa0ee-8a8e-4c24-9f56-9b0be7a8743b",
+                "boundaryNum": 1,
+                "name": "Godam & Tileri - Ward 2",
+                "localname": "Godam & Tileri - Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "d2c579de-4e3a-4d65-9454-630ccb2bf04f",
+                    "boundaryNum": 1,
+                    "name": "Godam - Godam & Tileri - Ward 2",
+                    "localname": "Godam - Godam & Tileri - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "0c52df7c-9318-4bf2-a9e9-5f2104519ef2",
+                    "boundaryNum": 1,
+                    "name": "Tileri - Godam & Tileri - Ward 2",
+                    "localname": "Tileri - Godam & Tileri - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6f97862-0b07-43c8-afd5-14e56cf5f181",
+                "boundaryNum": 1,
+                "name": "Bunglow & Society Area - Ward 3",
+                "localname": "Bunglow & Society Area - Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "a3c95174-9090-41a9-95e6-10897ce529c7",
+                    "boundaryNum": 1,
+                    "name": "Bunglow Area - Bunglow & Society Area - Ward 3",
+                    "localname": "Bunglow Area - Bunglow & Society Area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "878f2b85-503e-4ab8-912e-e9db85856be1",
+                    "boundaryNum": 1,
+                    "name": "Saibaba Society - Bunglow & Society Area - Ward 3",
+                    "localname": "Saibaba Society - Bunglow & Society Area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b908fe49-448a-42c1-9970-9abdd339c824",
+                "boundaryNum": 1,
+                "name": "Society Area - Ward 4",
+                "localname": "Society Area - Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "ba612fe0-4d42-4b44-9981-7fbfa45e81af",
+                    "boundaryNum": 1,
+                    "name": "Kalpataru Society - Society Area - Ward 4",
+                    "localname": "Kalpataru Society - Society Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "cd100457-9567-4b0a-a59a-f9e8a0549126",
+                    "boundaryNum": 1,
+                    "name": "Gurukrupa Society - Society Area - Ward 4",
+                    "localname": "Gurukrupa Society - Society Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "f49a4746-827e-4431-8573-e9ead5e5c223",
+                    "boundaryNum": 1,
+                    "name": "Ashtavinayak Society - Society Area - Ward 4",
+                    "localname": "Ashtavinayak Society - Society Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "bc211c3a-f54e-486a-9b4f-aea48ef70381",
+                    "boundaryNum": 1,
+                    "name": "Ramlaxmi Society - Society Area - Ward 4",
+                    "localname": "Ramlaxmi Society - Society Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "df273aa7-f1ed-4d06-bd67-8c553c51d323",
+                    "boundaryNum": 1,
+                    "name": "Green Town Society - Society Area - Ward 4",
+                    "localname": "Green Town Society - Society Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7884348d-2e0d-4081-be59-e138f9abc189",
+                "boundaryNum": 1,
+                "name": "MES Colony & Gora Bazar - Ward 5",
+                "localname": "MES Colony & Gora Bazar - Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "91c1eddb-7b97-4214-b400-3070d9ec6a63",
+                    "boundaryNum": 1,
+                    "name": "Gora Bazar - MES Colony & Gora Bazar - Ward 5",
+                    "localname": "Gora Bazar - MES Colony & Gora Bazar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "af085052-0c32-4bf3-81c7-f9ded5f41bf6",
+                    "boundaryNum": 1,
+                    "name": "MES Colony - MES Colony & Gora Bazar - Ward 5",
+                    "localname": "MES Colony - MES Colony & Gora Bazar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a89dd16e-016d-4fb3-9f9a-ad54fef98ebc",
+                "boundaryNum": 1,
+                "name": "Bunglow & Ajni - Ward 6",
+                "localname": "Bunglow & Ajni - Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "a5859e57-a667-409e-8c11-ebb30ab8b99f",
+                    "boundaryNum": 1,
+                    "name": "Bunglow Area - Bunglow & Ajni - Ward 6",
+                    "localname": "Bunglow Area - Bunglow & Ajni - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "5805b014-dc2d-4af8-a501-c33293fb2f08",
+                    "boundaryNum": 1,
+                    "name": "Ajni - Bunglow & Ajni - Ward 6",
+                    "localname": "Ajni - Bunglow & Ajni - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92ed8d48-7194-4b4d-af2d-5760af454c0d",
+                "boundaryNum": 1,
+                "name": "Kamsary Bazar - Ward 7",
+                "localname": "Kamsary Bazar - Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "ec9a3c0b-618e-40a5-abd2-26cb2fa67e15",
+                    "boundaryNum": 1,
+                    "name": "Kamsary Bazar - Kamsary Bazar - Ward 7",
+                    "localname": "Kamsary Bazar - Kamsary Bazar - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "c56f1663-342c-4a64-b189-156bbc2943d5",
+                    "boundaryNum": 1,
+                    "name": "Untakhana - Kamsary Bazar - Ward 7",
+                    "localname": "Untakhana - Kamsary Bazar - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.barrackpore",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barrackpore",
+        "localname": "Barrackpore",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.barrackpore",
+        "children": [
+          {
+            "id": "c3da0402-8a37-4842-b4f2-2c7e3ebc98c5",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "fb9bbef8-d559-4ee5-9d3e-8d55cc0157bc",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3b597224-fd3e-4232-aa72-a4cfd7e3b867",
+                    "boundaryNum": 1,
+                    "name": "Murgi Mahal - Ward 1",
+                    "localname": "Murgi Mahal - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e19e426f-54a7-44fd-b4eb-c371b4fa07b0",
+                    "boundaryNum": 1,
+                    "name": "Kunjra Mahal - Ward 1",
+                    "localname": "Kunjra Mahal - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "395dbdb7-b197-4448-8d6d-dbf30f262f0f",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "8a4bc700-cda9-4a57-91a5-031395067c39",
+                    "boundaryNum": 1,
+                    "name": "Baker Mahal - Ward 3",
+                    "localname": "Baker Mahal - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b6e50f0c-cd00-4cab-baa1-b85075b3f72a",
+                    "boundaryNum": 1,
+                    "name": "Muchi Mahal - Ward 3",
+                    "localname": "Muchi Mahal - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e580975b-f45e-4404-80d1-101e5cd6b988",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "972f88aa-d9e2-4ad9-8a9c-7993cf3dca9b",
+                    "boundaryNum": 1,
+                    "name": "Bazaz Mahal - Ward 2",
+                    "localname": "Bazaz Mahal - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4d35dda3-9a9a-4f29-9d46-ae5e3021bb82",
+                    "boundaryNum": 1,
+                    "name": "Marrrium Mahal - Ward 2",
+                    "localname": "Marrrium Mahal - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84ea966d-3ce9-4090-a139-673211871fd4",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "97bcefa7-6a4e-4134-9449-4bb6c2408baa",
+                    "boundaryNum": 1,
+                    "name": "Lakri Mahal - Ward 5",
+                    "localname": "Lakri Mahal - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "85fa298a-b889-46f9-9579-183ff981f775",
+                    "boundaryNum": 1,
+                    "name": "Entire Army Area - Ward 5",
+                    "localname": "Entire Army Area - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e4d33143-2dec-4a27-8372-4bdbe76a3828",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "252b8367-5450-4522-a9b7-e8fef210cab2",
+                    "boundaryNum": 1,
+                    "name": "Chapper Mahal - Ward 4",
+                    "localname": "Chapper Mahal - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "04a68ce3-7ec6-4d8f-8edd-3ebf3a58c61e",
+                    "boundaryNum": 1,
+                    "name": "Aligole Mahal - Ward 4",
+                    "localname": "Aligole Mahal - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa70cd5f-c632-4a3d-a554-b9bc8dbae2a5",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "8c5c6115-d7c5-4529-8905-f4c1ab2ab840",
+                    "boundaryNum": 1,
+                    "name": "Gola Mahal and Cattle Pound Quater - Ward 6",
+                    "localname": "Gola Mahal and Cattle Pound Quater - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f2b3cf78-abf1-47cc-8fab-99deffbc2c2f",
+                    "boundaryNum": 1,
+                    "name": "Army Quaters - Ward 6",
+                    "localname": "Army Quaters - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc12",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c6c432d3-77ae-443b-adac-56594cd66fcd",
+                    "boundaryNum": 1,
+                    "name": "Part of Sabjee Mahal - Ward 6",
+                    "localname": "Part of Sabjee Mahal - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a2c0a69b-93d0-47b0-9101-b238bce1e1c5",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward 6",
+                    "localname": "Bungalow Area - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc14",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e3cd3065-d36f-4395-9e6a-da4164388ead",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "bf2bb9af-2c14-4353-99a7-9be0fb65db08",
+                    "boundaryNum": 1,
+                    "name": "Part of Sabjee Mahal - Ward 7",
+                    "localname": "Part of Sabjee Mahal - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6d0dd6ce-68e0-4004-ad21-3968b6251688",
+                    "boundaryNum": 1,
+                    "name": "OB pump House Quater - Ward 7",
+                    "localname": "OB pump House Quater - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e1cf9486-497d-48ea-8964-abadcf079e14",
+                    "boundaryNum": 1,
+                    "name": "Lootary Mahal - Ward 7",
+                    "localname": "Lootary Mahal - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc17",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "67515ecd-19e7-45f6-9ef3-9efbdd44f0ee",
+                    "boundaryNum": 1,
+                    "name": "Tikia Mahal - Ward 7",
+                    "localname": "Tikia Mahal - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2e51cb47-b7e0-44be-90c4-4c5bc22127a9",
+                    "boundaryNum": 1,
+                    "name": "Follower line WARD VII - Ward 7",
+                    "localname": "Follower line WARD VII - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Loc19",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

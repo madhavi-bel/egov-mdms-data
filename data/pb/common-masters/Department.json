@@ -76,6 +76,26 @@
       "name": "Hospital",
       "code": "DEPT_45",
       "active": true
+    },
+    {
+      "name": "Revenue & Tax",
+      "code": "DEPT_46",
+      "active": true
+    },
+    {
+      "name": "Information Technology",
+      "code": "DEPT_47",
+      "active": true
+    },
+    {
+      "name": "Land",
+      "code": "DEPT_48",
+      "active": true
+    },
+    {
+      "name": "School",
+      "code": "DEPT_49",
+      "active": true
     }
   ]
 }

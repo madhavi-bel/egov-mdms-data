@@ -21,6 +21,30 @@
     {
       "code": "NOS",
       "active": true
+    },
+    {
+      "code": "SqFt",
+      "active": true
+    },
+    {
+      "code": "MoHP",
+      "active": true
+    },
+    {
+      "code": "NoBed",
+      "active": true
+    },
+    {
+      "code": "Star",
+      "active": true
+    },
+    {
+      "code": "NoWorker",
+      "active": true
+    },
+    {
+      "code": "NoCategory",
+      "active": true
     }
     
   ]

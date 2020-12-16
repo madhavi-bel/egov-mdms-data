@@ -1,0 +1,180 @@
+{
+  "tenantId": "pb.dalhousie",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dalhousie",
+        "localname": "Dalhousie",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dalhousie",
+        "children": [
+          {
+            "id": "432d6a0a-3e88-4608-9c2f-c3803a945f8d",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "b32ca322-0319-4fe0-8e8d-83a8a6b5fead",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "3f01cd7e-c1e4-428c-a6c1-e41653b3af40",
+                    "boundaryNum": 1,
+                    "name": "AREA AROUND TAGORE CHOWK AND CANTT BOARD COLONY - Ward No. 1",
+                    "localname": "AREA AROUND TAGORE CHOWK AND CANTT BOARD COLONY - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9429e5fc-0759-4b47-9d99-a8fa7f06eac5",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "d02ebc1c-8f57-4c42-a90e-d930c1b49f40",
+                    "boundaryNum": 1,
+                    "name": "AREA AROUND TIBTI MOHALLA AND TIKKA - Ward No. 2",
+                    "localname": "AREA AROUND TIBTI MOHALLA AND TIKKA - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63ab5fbd-8afa-4e50-a241-2933f94a18fd",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "62b5ea65-4019-4315-be09-7fa5c61c335d",
+                    "boundaryNum": 1,
+                    "name": "AREA AROUND CB SCHOOL AND MASJID - Ward No. 3",
+                    "localname": "AREA AROUND CB SCHOOL AND MASJID - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dc147998-8d0a-461c-b447-8807625224f0",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "4cf6603d-5a76-4313-9982-0247716a6f9a",
+                    "boundaryNum": 1,
+                    "name": "AREA AROUND GURUDWARA SAHEB - Ward No. 4",
+                    "localname": "AREA AROUND GURUDWARA SAHEB - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d727c06-8e16-4b54-a10a-a86f22236b2c",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "a5f44fe4-04bb-4a8c-8976-fc62eb94ce32",
+                    "boundaryNum": 1,
+                    "name": "AREA AROUND TIBTI MOHALLA AND MANDI MOHALLA - Ward No. 5",
+                    "localname": "AREA AROUND TIBTI MOHALLA AND MANDI MOHALLA - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3c1a9f71-23fb-4c34-aaa2-a2c2be46d8d9",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "8237b466-730a-49c8-9a87-c52c7a7a5794",
+                    "boundaryNum": 1,
+                    "name": "AREA AROUND BORH MOHALLA AND MH - Ward No. 6",
+                    "localname": "AREA AROUND BORH MOHALLA AND MH - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

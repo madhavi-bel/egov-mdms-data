@@ -122,7 +122,9 @@
         ".pdf",
         ".png",
         ".jpeg"
-      ]
+      ],
+      "active": true,
+      "maxFileSize":6000
     },
     {
       "code": "OWNERSHIPPROOF",
@@ -253,8 +255,9 @@
       ],
       "active": true,
       "maxFileSize":5000
-    },{
-      "code": "MEDCERT",
+    },
+    {
+      "code": "FOODCERT",
       "allowedFormat": [
         "image/*",
         ".pdf",
@@ -265,7 +268,7 @@
       "maxFileSize":5000
     },
     {
-      "code": "SHOPACTLICENCE",
+      "code": "MEDCERT",
       "allowedFormat": [
         "image/*",
         ".pdf",
@@ -299,6 +302,446 @@
     },
     {
       "code": "APPLETTER",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "ADDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "SELFDECLERATION",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "TAXRECEIPT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "CMOREGCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "DRUGLICCERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },    
+    {
+      "code": "CERTNOCAUTH",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "REG_JALNIGAM",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_EXCISE",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "REG_EDUCATION",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_ENTERTAINMENT_TAX",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_PETROL",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "MED_VAC_REPORT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "APPOINT_LETTER",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "FOOD_TAB_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "NOC_OWNER",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "NOC_CANTT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_LIQUOR",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "PHOTO_OLD_LIC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "NOC_HOR",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "FOOD_FSSAI",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_AUTH",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "PROPERTY_TAX",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_HALLS",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_SHOP_ACT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "NOC_REVENUE",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LOCAL_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "REG_EDU_DEPT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "TRANSPORT_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "RBI_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_AGRI_DEPT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "SUPPLY_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "DISASTER_MGMT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "REG_HEALTH",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LIC_ANIMAL_HUSBANDARY",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "POLLUTION_BOARD_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "LABOUR_DEPT_NOC",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "GST_REGT_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "BUILDING_COMP_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "DOC_PARAMED_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "WATER_TAX",
       "allowedFormat": [
         "image/*",
         ".pdf",

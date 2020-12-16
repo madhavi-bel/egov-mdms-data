@@ -1,0 +1,372 @@
+{
+  "tenantId": "pb.kanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kanpur",
+        "localname": "Kanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kanpur",
+        "children": [
+          {
+            "id": "819b6e91-9343-4194-a8be-c9178ed43cb2",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "579f7e01-c7aa-491e-b697-62082449eb4e",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "ec9a5c21-135a-40f6-88d9-36df424919da",
+                    "boundaryNum": 1,
+                    "name": "Golaghat - Ward No. 1",
+                    "localname": "Golaghat - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "41831584-3e23-4059-8db3-e5e2b12c689c",
+                    "boundaryNum": 1,
+                    "name": "Satticahura - Ward No. 1",
+                    "localname": "Satticahura - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a5fa8af9-087d-4f9d-8fea-901bf7451c33",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "cb5fd174-1c00-421e-9880-1d1930b03065",
+                    "boundaryNum": 1,
+                    "name": "Bhajjapurwa - Ward No. 2",
+                    "localname": "Bhajjapurwa - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "30396896-a486-4d29-bb05-4f5d40776f75",
+                    "boundaryNum": 1,
+                    "name": "Maikupurwa - Ward No. 2",
+                    "localname": "Maikupurwa - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0e9baf4e-1bda-490e-9215-d76355ea6e37",
+                    "boundaryNum": 1,
+                    "name": "Kakori - Ward No. 2",
+                    "localname": "Kakori - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "abfd22a7-faf5-400f-aa1a-5c05791cc3e0",
+                    "boundaryNum": 1,
+                    "name": "Badeypurwa - Ward No. 2",
+                    "localname": "Badeypurwa - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f39b77ba-c546-4f30-b6f6-00817cb2e21d",
+                    "boundaryNum": 1,
+                    "name": "Badlipurwa - Ward No. 2",
+                    "localname": "Badlipurwa - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1559b0b2-626c-4584-a1ea-7a0d4daf0443",
+                    "boundaryNum": 1,
+                    "name": "R.A. Bazar - Ward No. 2",
+                    "localname": "R.A. Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_06",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "58b596e7-9566-4452-ab73-8139fa84d033",
+                    "boundaryNum": 1,
+                    "name": "Baniyabazar - Ward No. 2",
+                    "localname": "Baniyabazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_07",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2872f627-af5c-4b0a-9a17-11fa13bc18aa",
+                    "boundaryNum": 1,
+                    "name": "B.I. Bazar - Ward No. 2",
+                    "localname": "B.I. Bazar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_08",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d7125f7-ee7f-4677-9cb7-b51dce568660",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "1b65fbc1-5b53-4959-aae3-0563ae32f1df",
+                    "boundaryNum": 1,
+                    "name": "Khapra Mohal - Ward No. 3",
+                    "localname": "Khapra Mohal - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "467749fa-632e-45c1-8448-ab3a880f5304",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "355abc07-e57e-4321-9826-64e23b015657",
+                    "boundaryNum": 1,
+                    "name": "Part of Faithfulganj - Ward No. 4",
+                    "localname": "Part of Faithfulganj - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "35681e97-fdbc-431c-9770-7aa8dc3fd3a6",
+                    "boundaryNum": 1,
+                    "name": "Part of Meerpur - Ward No. 4",
+                    "localname": "Part of Meerpur - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3bc9b883-8432-4342-856a-9c923b399b72",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "38426b5a-cd59-4c92-8c45-61a2390feb9b",
+                    "boundaryNum": 1,
+                    "name": "Part of Faithfulganj - Ward No. 5",
+                    "localname": "Part of Faithfulganj - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e9372e06-7c8b-43f3-ba3e-52e10e37ecb9",
+                    "boundaryNum": 1,
+                    "name": "Part of Meerpur - Ward No. 5",
+                    "localname": "Part of Meerpur - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76065a7f-cbbe-408f-95c1-ec204e754e76",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "f5ec83f3-d8d4-45bf-bbc6-48328b4d8899",
+                    "boundaryNum": 1,
+                    "name": "Part of Meerpur - Ward No. 6",
+                    "localname": "Part of Meerpur - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "071cb5ff-acb9-4f31-b88d-118cb4355a3f",
+                    "boundaryNum": 1,
+                    "name": "Part of Harrisganj - Ward No. 6",
+                    "localname": "Part of Harrisganj - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e25d612c-6079-4722-99f9-0f935434c783",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "023cf2cc-e7ff-4bd8-8b75-9d4a7eb66ed9",
+                    "boundaryNum": 1,
+                    "name": "Part of Harrisganj - Ward No. 7",
+                    "localname": "Part of Harrisganj - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b1b91ec5-f11e-436b-9916-8ff6f9317503",
+                    "boundaryNum": 1,
+                    "name": "Part of Meerpur - Ward No. 7",
+                    "localname": "Part of Meerpur - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79d7b04d-c34e-40c8-8914-936b1312f38b",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "340986b9-a106-4d8f-9028-724fa44a7c74",
+                    "boundaryNum": 1,
+                    "name": "Jhadi Baba Parao - Ward No. 8",
+                    "localname": "Jhadi Baba Parao - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

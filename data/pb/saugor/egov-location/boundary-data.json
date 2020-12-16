@@ -1,0 +1,444 @@
+{
+  "tenantId": "pb.saugor",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Saugor",
+        "localname": "Saugor",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.saugor",
+        "children": [
+          {
+            "id": "f2bd5528-1d6f-474a-89f3-502ac9ad61b6",
+            "boundaryNum": 1,
+            "name": "Zone-1",
+            "localname": "Zone-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6558d9b8-76c4-4902-aabe-840dabfef791",
+                "boundaryNum": 1,
+                "name": "Ward No.1",
+                "localname": "Ward No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "dccef6be-7231-4e23-94b1-7859b710aef9",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.1 - Ward No.1",
+                    "localname": "Mohal No.1 - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M1",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "84b3e968-acf2-4f29-b703-bc5c82745c0a",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.2 - Ward No.1",
+                    "localname": "Mohal No.2 - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M2",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6f784fb-8c7d-4abc-a007-8f99b71e07c3",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.3 - Ward No.1",
+                    "localname": "Mohal No.3 - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M3",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "337e6d26-415a-4bde-9342-04a2168dfbd3",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.4 - Ward No.1",
+                    "localname": "Mohal No.4 - Ward No.1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M4",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d678229f-96d0-48b1-a1c6-a3bf2f694625",
+                "boundaryNum": 1,
+                "name": "Ward No.2",
+                "localname": "Ward No.2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "f32f6cad-2843-4e25-9c33-312db2587678",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.5 - Ward No.2",
+                    "localname": "Mohal No.5 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M5",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "c2184b1d-eb18-4fea-8d1f-bde56f435b67",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.6 - Ward No.2",
+                    "localname": "Mohal No.6 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M6",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "eaf03910-0070-4fa9-83b1-0e57dec7cc9c",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.7 - Ward No.2",
+                    "localname": "Mohal No.7 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M7",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "4433f40d-7e63-4f29-a188-8e40f8bb12b5",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.8 - Ward No.2",
+                    "localname": "Mohal No.8 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M8",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "ffa40989-e231-473e-961d-51bffd44d3db",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.9 - Ward No.2",
+                    "localname": "Mohal No.9 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M9",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "4fcf6d69-f1ed-44cf-9438-3d7af2322585",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.10 - Ward No.2",
+                    "localname": "Mohal No.10 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M10",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "68f1e6e6-c160-4445-8691-7451a1e4e97f",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.17 - Ward No.2",
+                    "localname": "Mohal No.17 - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M17",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "bc42e6ba-9d20-47a7-9b84-0ee0de218f99",
+                    "boundaryNum": 1,
+                    "name": "CFS - Ward No.2",
+                    "localname": "CFS - Ward No.2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "CFS",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0aeae5c5-c728-4ca4-afb1-d978194cf3e1",
+                "boundaryNum": 1,
+                "name": "Ward No.3",
+                "localname": "Ward No.3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "09fc986e-8efe-4540-ae98-62f4f02522fd",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.12 - Ward No.3",
+                    "localname": "Mohal No.12 - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M12",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "a908bccd-5d1d-4410-a8a7-8b77b1b278a8",
+                    "boundaryNum": 1,
+                    "name": "Kajliban - Ward No.3",
+                    "localname": "Kajliban - Ward No.3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KJL",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e02c653a-102b-449e-b3f8-5a3b62c5340d",
+                "boundaryNum": 1,
+                "name": "Ward No.4",
+                "localname": "Ward No.4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "2a3e37a4-c766-4fc2-94dd-a945b686071b",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.11 - Ward No.4",
+                    "localname": "Mohal No.11 - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M11",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "3d6ec70b-15b4-450e-b3d5-121dad16b7b3",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.13 - Ward No.4",
+                    "localname": "Mohal No.13 - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M13",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "1ae909e6-cb9c-4693-b681-f1e39bd217dc",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.14 - Ward No.4",
+                    "localname": "Mohal No.14 - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M14",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "99c934a0-6657-4457-a062-b208f1c52ca8",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.15 - Ward No.4",
+                    "localname": "Mohal No.15 - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M15",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "96c51318-e8eb-44df-aae0-ab3722c3f69e",
+                    "boundaryNum": 1,
+                    "name": "NIB - Ward No.4",
+                    "localname": "NIB - Ward No.4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NIB",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3f2a8b51-32d0-4c35-9add-1c3f87069001",
+                "boundaryNum": 1,
+                "name": "Ward No.5",
+                "localname": "Ward No.5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "d9ea0d00-4d6d-47c7-8a0e-c25e12e9d5b3",
+                    "boundaryNum": 1,
+                    "name": "Mohal No.16 - Ward No.5",
+                    "localname": "Mohal No.16 - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "M16",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "4954c89a-fffb-436d-ba5a-4149299f6d4d",
+                    "boundaryNum": 1,
+                    "name": "OCL - Ward No.5",
+                    "localname": "OCL - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "OCL",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "90790f7b-833f-482f-a427-c9710d3b0859",
+                    "boundaryNum": 1,
+                    "name": "BIB - Ward No.5",
+                    "localname": "BIB - Ward No.5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BIB",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1218560-3158-413b-96ee-797c4cc4acd5",
+                "boundaryNum": 1,
+                "name": "Ward No.6",
+                "localname": "Ward No.6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "9c1f8c70-2f42-4a43-9fdd-b5ed1a0a54ee",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area6 - Ward No.6",
+                    "localname": "Bungalow Area6 - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BA6",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "025b0957-0938-4e6c-9e62-aa1bc945f929",
+                    "boundaryNum": 1,
+                    "name": "MES - Ward No.6",
+                    "localname": "MES - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MES",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "ca5028fb-d521-4ea2-9933-bf0cd4475320",
+                    "boundaryNum": 1,
+                    "name": "Shopping Mall WSC - Ward No.6",
+                    "localname": "Shopping Mall WSC - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SMW",
+                    "area": "Z1",
+                    "children": []
+                  },
+                  {
+                    "id": "93ed6959-5127-4a35-894b-79164ef80ee3",
+                    "boundaryNum": 1,
+                    "name": "Old Sadar - Ward No.6",
+                    "localname": "Old Sadar - Ward No.6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "OS",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a79b3611-6933-4385-b273-f0629785e274",
+                "boundaryNum": 1,
+                "name": "Ward No.7",
+                "localname": "Ward No.7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "7ec947fe-ca83-4f1d-93d4-369940996dfe",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area7 - Ward No.7",
+                    "localname": "Bungalow Area7 - Ward No.7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BA7",
+                    "area": "Z1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

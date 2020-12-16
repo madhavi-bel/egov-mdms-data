@@ -36,7 +36,291 @@
       "tenant": "pb",
       "code": "UC",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/MCollectServiceCategory.pdf"
+    },
+    {
+      "tenant": "pb.ambala",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ambala/TradeTypeSubtypeDetails_Ambala.pdf"
+    },
+    {
+      "tenant": "pb.bareilly",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/bareilly/TradeTypeSubtypeDetails_Bareilly.pdf"
+    },
+    {
+      "tenant": "pb.mathura",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/mathura/TradeTypeSubtypeDetails_Mathura.pdf"
+    },
+    {
+      "tenant": "pb.allahabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/allahabad/TradeTypeSubtypeDetails_Allahabad.pdf"
+    },
+    {
+      "tenant": "pb.meerut",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/meerut/TradeTypeSubtypeDetails_Meerut.pdf"
+    },
+    {
+      "tenant": "pb.mhow",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/mhow/TradeTypeSubtypeDetails_Mhow.pdf"
+    },
+    {
+      "tenant": "pb.lebong",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/lebong/TradeTypeSubtypeDetails_Lebong.pdf"
+    },
+    {
+      "tenant": "pb.kasauli",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kasauli/TradeTypeSubtypeDetails_Kasauli.pdf"
+    },
+    {
+      "tenant": "pb.jammu",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jammu/TradeTypeSubtypeDetails_Jammu.pdf"
+    },
+    {
+      "tenant": "pb.jalandhar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jalandhar/TradeTypeSubtypeDetails_Jalandhar.pdf"
+    },
+    {
+      "tenant": "pb.danapur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/danapur/TradeTypeSubtypeDetails_Danapur.pdf"
+    },
+    {
+      "tenant": "pb.dagshai",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dagshai/TradeTypeSubtypeDetails_Dagshai.pdf"
+    },
+    {
+      "tenant": "pb.roorkee",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/roorkee/TradeTypeSubtypeDetails_Roorkee.pdf"
+    },
+    {
+      "tenant": "pb.pachmarhi",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/pachmarhi/TradeTypeSubtypeDetails_Pachmarhi.pdf"
+    },
+    {
+      "tenant": "pb.nasirabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/nasirabad/TradeTypeSubtypeDetails_Nasirabad.pdf"
+    },
+    {
+      "tenant": "pb.dehuroad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dehuroad/TradeTypeSubtypeDetails_Dehuroad.pdf"
+    },
+    {
+      "tenant": "pb.deolali",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/deolali/TradeTypeSubtypeDetails_Deolali.pdf"
+    },
+    {
+      "tenant": "pb.ahmednagar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ahmednagar/TradeTypeSubtypeDetails_Ahmednagar.pdf"
+    },
+    {
+      "tenant": "pb.amritsar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/amritsar/TradeTypeSubtypeDetails_Amritsar.pdf"
+    },
+    {
+      "tenant": "pb.jalapahar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jalapahar/TradeTypeSubtypeDetails_Jalapahar.pdf"
+    },
+    {
+      "tenant": "pb.ramgarh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ramgarh/TradeTypeSubtypeDetails_Ramgarh.pdf"
+    },
+    {
+      "tenant": "pb.wellington",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/wellington/TradeTypeSubtypeDetails_Wellington.pdf"
+    },
+    {
+      "tenant": "pb.almora",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/almora/TradeTypeSubtypeDetails_Almora.pdf"
+    },
+    {
+      "tenant": "pb.chakrata",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/chakrata/TradeTypeSubtypeDetails_Chakrata.pdf"
+    },
+    {
+      "tenant": "pb.clementtown",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/clementtown/TradeTypeSubtypeDetails_ClementTown.pdf"
+    },
+    {
+      "tenant": "pb.dehradun",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dehradun/TradeTypeSubtypeDetails_Dehradun.pdf"
+    },
+    {
+      "tenant": "pb.subathu",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/subathu/TradeTypeSubtypeDetails_Subathu.pdf"
+    },
+    {
+      "tenant": "pb.faizabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/faizabad/TradeTypeSubtypeDetails_Faizabad.pdf"
+    },
+    {
+      "tenant": "pb.fatehgarh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/fatehgarh/TradeTypeSubtypeDetails_Fatehgarh.pdf"
+    },
+    {
+      "tenant": "pb.jabalpur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jabalpur/TradeTypeSubtypeDetails_Jabalpur.pdf"
+    },
+    {
+      "tenant": "pb.kanpur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kanpur/TradeTypeSubtypeDetails_Kanpur.pdf"
+    },
+    {
+      "tenant": "pb.landour",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/landour/TradeTypeSubtypeDetails_Landour.pdf"
+    },
+    {
+      "tenant": "pb.lansdowne",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/lansdowne/TradeTypeSubtypeDetails_Lansdowne.pdf"
+    },
+    {
+      "tenant": "pb.khasyol",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/khasyol/TradeTypeSubtypeDetails_Khasyol.pdf"
+    },
+    {
+      "tenant": "pb.jutogh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jutogh/TradeTypeSubtypeDetails_Jutogh.pdf"
+    },
+    {
+      "tenant": "pb.shahjahanpur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/shahjahanpur/TradeTypeSubtypeDetails_Shahjahanpur.pdf"
+    },
+    {
+      "tenant": "pb.varanasi",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/varanasi/TradeTypeSubtypeDetails_Varanasi.pdf"
+    },
+    {
+      "tenant": "pb.ferozepur",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ferozepur/TradeTypeSubtypeDetails_Ferozepur.pdf"
+    },
+    {
+      "tenant": "pb.dalhousie",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/dalhousie/TradeTypeSubtypeDetails_Dalhousie.pdf"
+    },
+    {
+      "tenant": "pb.shillong",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/shillong/TradeTypeSubtypeDetails_Shillong.pdf"
+    },
+    {
+      "tenant": "pb.badamibagh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/badamibagh/TradeTypeSubtypeDetails_Badamibagh.pdf"
+    },
+    {
+      "tenant": "pb.ajmer",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ajmer/TradeTypeSubtypeDetails_Ajmer.pdf"
+    },
+    {
+      "tenant": "pb.aurangabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/aurangabad/TradeTypeSubtypeDetails_Aurangabad.pdf"
+    },
+    {
+      "tenant": "pb.babina",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/babina/TradeTypeSubtypeDetails_Babina.pdf"
+    },
+    {
+      "tenant": "pb.belgaum",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/belgaum/TradeTypeSubtypeDetails_Belgaum.pdf"
+    },
+    {
+      "tenant": "pb.cannanore",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/cannanore/TradeTypeSubtypeDetails_Cannanore.pdf"
+    },
+    {
+      "tenant": "pb.bakloh",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/bakloh/TradeTypeSubtypeDetails_Bakloh.pdf"
+    },
+    {
+      "tenant": "pb.stm",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/stm/TradeTypeSubtypeDetails_stm.pdf"
+    },
+    {
+      "tenant": "pb.saugor",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/saugor/TradeTypeSubtypeDetails_Saugor.pdf"
+    },
+    {
+      "tenant": "pb.jhansi",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/jhansi/TradeTypeSubtypeDetails_Jhansi.pdf"
+    },
+    {
+      "tenant": "pb.kamptee",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kamptee/TradeTypeSubtypeDetails_Kamptee.pdf"
+    },
+    {
+      "tenant": "pb.kirkee",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/kirkee/TradeTypeSubtypeDetails_Kirkee.pdf"
+    },
+    {
+      "tenant": "pb.morar",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/morar/TradeTypeSubtypeDetails_Morar.pdf"
+    },
+    {
+      "tenant": "pb.ahmedabad",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ahmedabad/TradeTypeSubtypeDetails_Ahmedabad.pdf"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/barrackpore/TradeTypeSubtypeDetails_Barrackpore.pdf"
+    },
+    {
+      "tenant": "pb.ranikhet",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/ranikhet/TradeTypeSubtypeDetails_Ranikhet.pdf"
+    },
+    {
+      "tenant": "pb.nainital",
+      "code": "TL",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/nainital/TradeTypeSubtypeDetails_Nainital.pdf"
     }
-    
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "tenantId": "pb.lebong",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lebong",
+        "localname": "Lebong",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lebong",
+        "children": [
+          {
+            "id": "4bdf9eab-d312-4492-b848-2548cad2e10c",
+            "boundaryNum": 1,
+            "name": "Lebong cantt",
+            "localname": "Lebong cantt",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "876d2eee-a744-4732-86ea-1c78fba39ce0",
+                "boundaryNum": 1,
+                "name": "Sadar Bazar Ward -1",
+                "localname": "Sadar Bazar Ward -1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "cd39d086-ca23-44ba-b393-de1732484b10",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Sadar Bazar Ward -1",
+                    "localname": "Sadar Bazar - Sadar Bazar Ward -1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0aff49d3-2ed5-497c-bea2-973ac0f5a166",
+                "boundaryNum": 1,
+                "name": "Cricket Bazar Ward -2",
+                "localname": "Cricket Bazar Ward -2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "431c8a33-2927-4491-b4f3-3d8e7d17d1b1",
+                    "boundaryNum": 1,
+                    "name": "CRICKET BAZAR - Cricket Bazar Ward -2",
+                    "localname": "CRICKET BAZAR - Cricket Bazar Ward -2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_01",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
