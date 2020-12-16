@@ -147,8 +147,8 @@
       "active": true
     },
     {
-      "name": "Resident Medical Officer",
-      "description": "Resident Medical Officer",
+      "name": "Forest Ranger",
+      "description": "Forest Ranger",
       "code": "DESIG_46",
       "active": true
     },
@@ -231,8 +231,8 @@
       "active": true
     },
     {
-      "name": "Steno",
-      "description": "steno",
+      "name": "Stenographer",
+      "description": "Stenographer",
       "code": "DESIG_60",
       "active": true
     },
@@ -273,8 +273,8 @@
       "active": true
     },
     {
-      "name": "Computer Programmer",
-      "description": "Computer Programmer",
+      "name": "Assistant Programmer",
+      "description": "Assistant Programmer",
       "code": "DESIG_67",
       "active": true
     },
@@ -291,8 +291,8 @@
       "active": true
     },
     {
-      "name": "Residential Medical Officer",
-      "description": "Residential Medical Officer",
+      "name": "Supervisor",
+      "description": "Supervisor",
       "code": "DESIG_70",
       "active": true
     },
@@ -330,6 +330,36 @@
       "name": "Pound Keeper",
       "description": "Pound Keeper",
       "code": "DESIG_73",
+      "active": true
+    },
+    {
+      "name": "Pharmacy officer",
+      "description": "Pharmacy officer",
+      "code": "DESIG_74",
+      "active": true
+    },
+    {
+      "name": "Electric & Water Supply Foreman",
+      "description": "Electric & Water Supply Foreman",
+      "code": "DESIG_75",
+      "active": true
+    },
+    {
+      "name": "Surgeon",
+      "description": "Surgeon",
+      "code": "DESIG_76",
+      "active": true
+    },
+    {
+      "name": "Store Keeper",
+      "description": "Store Keeper",
+      "code": "DESIG_77",
+      "active": true
+    },
+    {
+      "name": "Record Keeper",
+      "description": "Record Keeper",
+      "code": "DESIG_78",
       "active": true
     }
   ]
