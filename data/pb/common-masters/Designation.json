@@ -39,8 +39,8 @@
       "active": true
     },
     {
-      "name": "Sanitary Inspector",
-      "description": " Sanitary Inspector",
+      "name": "Inspector",
+      "description": "Inspector",
       "code": "DESIG_28",
       "active": true
     },
@@ -285,8 +285,8 @@
       "active": true
     },
     {
-      "name": "Senior Sanitary Inspector",
-      "description": "Senior Sanitary Inspector",
+      "name": "Senior Inspector",
+      "description": "Senior Inspector",
       "code": "DESIG_69",
       "active": true
     },
