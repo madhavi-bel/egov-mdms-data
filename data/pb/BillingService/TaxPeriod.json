@@ -1606,24 +1606,8 @@
         "fromDate": "1554076800000",
         "toDate": "1901145600000",
         "periodCycle": "ANNUAL",
-        "service": "TX.PROF_TAX",
-        "code": "TXPROFTAXFIELDFEE",
-        "financialYear": "2019-30"
-    },
-    {
-        "fromDate": "1554076800000",
-        "toDate": "1901145600000",
-        "periodCycle": "ANNUAL",
         "service": "TX.ANI_VEH",
         "code": "TXANIVEHFIELDFEE",
-        "financialYear": "2019-30"
-    },
-    {
-        "fromDate": "1554076800000",
-        "toDate": "1901145600000",
-        "periodCycle": "ANNUAL",
-        "service": "RENT.MARKET",
-        "code": "RENTMARKETFIELDFEE",
         "financialYear": "2019-30"
     },
     {

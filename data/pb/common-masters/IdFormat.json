@@ -1161,18 +1161,8 @@
     },
     {
         "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-        "service": "TX.PROF_TAX",
-        "idname": "tx.prof_tax.receipt.id"
-    },
-    {
-        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
         "service": "TX.ANI_VEH",
         "idname": "tx.ani_veh.receipt.id"
-    },
-    {
-        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-        "service": "RENT.MARKET",
-        "idname": "rent.market.receipt.id"
     },
     {
         "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -1183,13 +1173,6 @@
         "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
         "service": "OTHFEE.RTI_STAMP",
         "idname": "othfee.rti_stamp.receipt.id"
-    },
-    {
-        "format": "UC/CB/[cb.name]/[fy:yyyy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-        "service": "RENT.FSH_STRT",
-        "idname": "rent.fsh_strt.receipt.id"
     }
-
-
   ]
 }
