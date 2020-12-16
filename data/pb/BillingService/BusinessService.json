@@ -2129,38 +2129,8 @@
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-        "businessService": "Taxes.Trade & Profession Tax",
-        "code": "TX.PROF_TAX",
-        "collectionModesNotAllowed": [
-          "DD",
-          "POSTAL_ORDER"
-        ],
-        "partPaymentAllowed": false,
-        "isAdvanceAllowed": false,
-        "isVoucherCreationEnabled": true,
-        "isActive": true,
-        "isCitizen": true,
-        "type": "Adhoc",
-        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
         "businessService": "Taxes.Tax on animals and vehicles",
         "code": "TX.ANI_VEH",
-        "collectionModesNotAllowed": [
-          "DD",
-          "POSTAL_ORDER"
-        ],
-        "partPaymentAllowed": false,
-        "isAdvanceAllowed": false,
-        "isVoucherCreationEnabled": true,
-        "isActive": true,
-        "isCitizen": true,
-        "type": "Adhoc",
-        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-        "businessService": "Rent From Municipal Properties.Fees from Markets",
-        "code": "RENT.MARKET",
         "collectionModesNotAllowed": [
           "DD",
           "POSTAL_ORDER"
@@ -2202,21 +2172,7 @@
         "isCitizen": true,
         "type": "Adhoc",
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-        "businessService": "Rent From Municipal Properties.Fashion Street",
-        "code": "RENT.FSH_STRT",
-        "collectionModesNotAllowed": [
-          "DD",
-          "POSTAL_ORDER"
-        ],
-        "partPaymentAllowed": false,
-        "isAdvanceAllowed": false,
-        "isVoucherCreationEnabled": true,
-        "isActive": true,
-        "isCitizen": true,
-        "type": "Adhoc",
-        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    } 
+    }
+ 
   ]
 }
