@@ -17952,6 +17952,30 @@
       "serviceCode": "MDMS Search",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 5104,
+      "name": "PG Detail Search",
+      "url": "/pg-detail/_get",
+      "displayName": "PG Detail Search",
+      "orderNumber": 0,
+      "parentModule": "306",
+      "enabled": false,
+      "serviceCode": "PG Detail Search",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5105,
+      "name": "PG Detail Create",
+      "url": "/pg-detail/_create",
+      "displayName": "PG Detail Create",
+      "orderNumber": 0,
+      "parentModule": "306",
+      "enabled": false,
+      "serviceCode": "PG Detail Create",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }
