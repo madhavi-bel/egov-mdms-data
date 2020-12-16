@@ -11904,18 +11904,7 @@
       "actioncode": "",
       "tenantId": "pb"
     } ,
-    {
-      "rolecode": "DGDE",
-      "actionid": 5056,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 5057,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+   
     {
       "rolecode": "UC_EMP",
       "actionid": 5053,
@@ -11940,18 +11929,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 5058,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 5059,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+   
     {
       "rolecode": "SW_APPROVER",
       "actionid": 5060,
@@ -12654,30 +12632,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "DGDE",
-      "actionid": 5088,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "DGDE",
-      "actionid": 5089,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 5090,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 5091,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+   
     {
       "rolecode": "CITIZEN",
       "actionid": 5092,
