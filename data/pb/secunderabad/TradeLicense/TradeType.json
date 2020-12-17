@@ -1048,7 +1048,7 @@
     },
     {
       "code": "TRADE.DANGEROUS.D2",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3316,7 +3316,7 @@
     },
     {
       "code": "TRADE.OTHERS.E50",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3352,7 +3352,7 @@
     },
     {
       "code": "TRADE.OTHERS.E51",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",

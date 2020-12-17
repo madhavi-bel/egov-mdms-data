@@ -678,7 +678,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F4",
-      "uom": "NoWorker",
+      "uom": "Worker",
       "applicationDocument": [
         {
           "applicationType": "NEW",

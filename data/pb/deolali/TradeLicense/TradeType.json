@@ -612,7 +612,7 @@
     },
     {
       "code": "TRADE.MEDICAL.B2",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -650,7 +650,7 @@
     },
     {
       "code": "TRADE.MEDICAL.B3",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",
