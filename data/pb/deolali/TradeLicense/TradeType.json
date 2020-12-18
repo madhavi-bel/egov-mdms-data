@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.saugor",
+  "tenantId": "pb.deolali",
   "moduleName": "TradeLicense",
   "TradeType": [
     {
@@ -13,7 +13,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -23,7 +26,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -43,7 +49,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -53,7 +62,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -93,36 +105,6 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.A4",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
       "code": "TRADE.EATING.A5",
       "uom": null,
       "applicationDocument": [
@@ -133,7 +115,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT"
           ]
         },
         {
@@ -143,7 +127,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT"
           ]
         }
       ],
@@ -153,7 +139,7 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.A8",
+      "code": "TRADE.EATING.A7",
       "uom": null,
       "applicationDocument": [
         {
@@ -163,7 +149,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "LIC_EXCISE",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -173,7 +163,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "LIC_EXCISE",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -193,7 +187,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -203,7 +200,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -223,7 +223,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -233,7 +236,82 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A11",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A13",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -253,7 +331,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -263,7 +344,46 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A15",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -283,7 +403,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -293,7 +416,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -313,7 +439,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "LIC_EXCISE",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -323,7 +453,49 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "LIC_EXCISE",
+            "PROPERTY_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A20",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "LIC_EXCISE",
+            "PROPERTY_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "LIC_EXCISE",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -343,7 +515,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -353,7 +528,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -373,7 +551,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -383,7 +564,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -403,7 +587,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT"
           ]
         },
         {
@@ -413,7 +599,85 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B2",
+      "uom": "Bed",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT",
+            "DOC_PARAMED_CERT",
+            "WATER_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT",
+            "DOC_PARAMED_CERT",
+            "WATER_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B3",
+      "uom": "Bed",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT",
+            "DOC_PARAMED_CERT",
+            "WATER_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "BUILDING_COMP_CERT",
+            "DOC_PARAMED_CERT",
+            "WATER_TAX"
           ]
         }
       ],
@@ -453,6 +717,42 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.DANGEROUS.D2",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "LIC_PETROL",
+            "WATER_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "LIC_PETROL",
+            "WATER_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.DANGEROUS.D3",
       "uom": null,
       "applicationDocument": [
@@ -463,7 +763,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "LIC_PETROL",
+            "WATER_TAX"
           ]
         },
         {
@@ -473,7 +776,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "PROPERTY_TAX",
+            "LIC_PETROL",
+            "WATER_TAX"
           ]
         }
       ],
@@ -493,7 +799,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -503,7 +813,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -523,7 +837,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -533,67 +851,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E3",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E4",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -663,6 +925,44 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.OTHERS.E10",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.OTHERS.E11",
       "uom": null,
       "applicationDocument": [
@@ -673,7 +973,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -683,7 +987,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         }
       ],
@@ -693,7 +1001,7 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.OTHERS.E15",
+      "code": "TRADE.OTHERS.E30",
       "uom": null,
       "applicationDocument": [
         {
@@ -703,7 +1011,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         },
         {
@@ -713,157 +1025,11 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E16",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E18",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E22",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E24",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.OTHERS.E37",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "BUILDING_COMP_CERT",
+            "WATER_TAX",
+            "PROPERTY_TAX"
           ]
         }
       ],

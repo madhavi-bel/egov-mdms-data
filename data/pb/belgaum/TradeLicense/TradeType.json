@@ -490,23 +490,11 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
+          "documentList": []
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
+          "documentList": []
         }
       ],
       "active": "true",
@@ -520,23 +508,11 @@
       "applicationDocument": [
         {
           "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
+          "documentList": []
         },
         {
           "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "OWNERIDPROOF",
-            "ADDPROOF",
-            "SELFDECLERATION"
-          ]
+          "documentList": []
         }
       ],
       "active": "true",
@@ -555,7 +531,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -565,7 +544,10 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -585,7 +567,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -595,7 +579,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -615,7 +601,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -625,7 +613,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -645,7 +635,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -655,7 +647,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -675,7 +669,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -685,7 +681,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -705,7 +703,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -715,7 +715,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -735,7 +737,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -745,7 +749,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -765,7 +771,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -775,7 +783,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -795,7 +805,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -805,7 +817,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -825,7 +839,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -835,7 +851,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -855,7 +873,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -865,7 +885,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -885,7 +907,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -895,7 +919,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],
@@ -915,7 +941,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         },
         {
@@ -925,7 +953,9 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION"
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "NOC_OWNER"
           ]
         }
       ],

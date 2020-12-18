@@ -39,8 +39,8 @@
       "active": true
     },
     {
-      "name": "Sanitary Inspector",
-      "description": " Sanitary Inspector",
+      "name": "Inspector",
+      "description": "Inspector",
       "code": "DESIG_28",
       "active": true
     },
@@ -147,8 +147,8 @@
       "active": true
     },
     {
-      "name": "Resident Medical Officer",
-      "description": "Resident Medical Officer",
+      "name": "Forest Ranger",
+      "description": "Forest Ranger",
       "code": "DESIG_46",
       "active": true
     },
@@ -186,6 +186,132 @@
       "name": "Cantonment Engineer",
       "description": "Cantonment Engineer",
       "code": "DESIG_52",
+      "active": true
+    },
+    {
+      "name": "Lower Division Clerk",
+      "description": "Lower Division Clerk",
+      "code": "DESIG_57",
+      "active": true
+    },
+    {
+      "name": "Revenue Collector",
+      "description": "Revenue Collector",
+      "code": "DESIG_58",
+      "active": true
+    },
+    {
+      "name": "Electric Lineman",
+      "description": "Electric Lineman",
+      "code": "DESIG_59",
+      "active": true
+    },
+    {
+      "name": "Stenographer",
+      "description": "Stenographer",
+      "code": "DESIG_60",
+      "active": true
+    },
+    {
+      "name": "Draftsman",
+      "description": "Draftsman",
+      "code": "DESIG_61",
+      "active": true
+    },
+    {
+      "name": "Plumber",
+      "description": "Plumber",
+      "code": "DESIG_62",
+      "active": true
+    },
+    {
+      "name": "Octroi Moharir",
+      "description": "Octroi Moharir",
+      "code": "DESIG_65",
+      "active": true
+    },
+    {
+      "name": "Personal Assistant",
+      "description": "Personal Assistant",
+      "code": "DESIG_66",
+      "active": true
+    },
+    {
+      "name": "Assistant Programmer",
+      "description": "Assistant Programmer",
+      "code": "DESIG_67",
+      "active": true
+    },
+    {
+      "name": "Head Master",
+      "description": "Head Master",
+      "code": "DESIG_68",
+      "active": true
+    },
+    {
+      "name": "Senior Inspector",
+      "description": "Senior Inspector",
+      "code": "DESIG_69",
+      "active": true
+    },
+    {
+      "name": "Supervisor",
+      "description": "Supervisor",
+      "code": "DESIG_70",
+      "active": true
+    },
+    {
+      "name": "Assistant",
+      "description": "Assistant",
+      "code": "DESIG_71",
+      "active": true
+    },
+    {
+      "name": "Second Division Clerk",
+      "description": "Second Division Clerk",
+      "code": "DESIG_72",
+      "active": true
+    },
+    {
+      "name": "Pound Keeper",
+      "description": "Pound Keeper",
+      "code": "DESIG_73",
+      "active": true
+    },
+    {
+      "name": "Pharmacy officer",
+      "description": "Pharmacy officer",
+      "code": "DESIG_74",
+      "active": true
+    },
+    {
+      "name": "Electric & Water Supply Foreman",
+      "description": "Electric & Water Supply Foreman",
+      "code": "DESIG_75",
+      "active": true
+    },
+    {
+      "name": "Surgeon",
+      "description": "Surgeon",
+      "code": "DESIG_76",
+      "active": true
+    },
+    {
+      "name": "Store Keeper",
+      "description": "Store Keeper",
+      "code": "DESIG_77",
+      "active": true
+    },
+    {
+      "name": "Record Keeper",
+      "description": "Record Keeper",
+      "code": "DESIG_78",
+      "active": true
+    },
+    {
+      "name": "Ward Boy",
+      "description": "Ward Boy",
+      "code": "DESIG_79",
       "active": true
     }
   ]

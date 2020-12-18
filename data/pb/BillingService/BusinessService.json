@@ -203,120 +203,23 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Grants and Interest Earned.Grant for Mid Day Meal",
-      "code": "GRNTINT.MDM",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Grant for Swachh Bharat Mission",
-      "code": "GRNTINT.SBM",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Infrastucture Grant",
-      "code": "GRNTINT.INF",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Interest from SB accounts",
-      "code": "GRNTINT.INT_SB",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Interest on loans and advances to Employees",
-      "code": "GRNTINT.INT_LOAN",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Revenue Grant",
-      "code": "GRNTINT.REV_GRNT",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Interest on fixed deposits",
-      "code": "GRNTINT.INT_FD",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Grants and Interest Earned.Interest on term deposits",
-      "code": "GRNTINT.INT_TD",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
       "businessService": "Other Fee and Fines.Application fee (Building construction/Layout Sanction)",
       "code": "OTHFEE.APP_FEE",
+      "collectionModesNotAllowed": [
+        "DD",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "isCitizen": true,
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Other Fee and Fines.Water Charges",
+      "code": "OTHFEE.WATER_CHRG",
       "collectionModesNotAllowed": [
         "DD",
         "POSTAL_ORDER"
@@ -1091,21 +994,6 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Other Fee and Fines.Water Charges",
-      "code": "OTHFEE.WATER_CHRG",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
       "businessService": "Other Fee and Fines.Tree auction",
       "code": "OTHFEE.TREE_AUC",
       "collectionModesNotAllowed": [
@@ -1709,36 +1597,6 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "User Charges.New water connection",
-      "code": "UC.NEW_WATER_CONC",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "User Charges.Change of water connection",
-      "code": "UC.CHNG_WATER_CONC",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
       "businessService": "User Charges.Cost of feeding animal",
       "code": "UC.COST_FEED_AN",
       "collectionModesNotAllowed": [
@@ -2012,66 +1870,6 @@
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Others.Insurance Claim Recovery",
-      "code": "OTHERS.CLAIM",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Others.Profit on Disposal of Fixed assets",
-      "code": "OTHERS.DISPOSAL",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Others.Recovery from Employees/ Contracters",
-      "code": "OTHERS.RECOVERY",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
-      "businessService": "Others.Deposit forfeited",
-      "code": "OTHERS.DEPOSIT",
-      "collectionModesNotAllowed": [
-        "DD",
-        "POSTAL_ORDER"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "isCitizen": true,
-      "type": "Adhoc",
-      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
-    },
-    {
       "businessService": "WS.ONE_TIME_FEE",
       "code": "WS.ONE_TIME_FEE",
       "collectionModesNotAllowed": [
@@ -2119,6 +1917,262 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "billGineiURL": "egov-searcher/bill-genie/seweragebills/_get"
-    } 
+    },
+    {
+        "businessService": "Creditors Deposits.Earnest Money Deposit-Contractor/Supplier",
+        "code": "CREDDEP.EMD_CONT_SUPP",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Creditors Deposits.Earnest Money Deposit-Labor Contractor",
+        "code": "CREDDEP.EMD_LC",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Creditors Deposits.Earnest Money Deposit-Providers of Professionals Services/Consultancy",
+        "code": "CREDDEP.EMD_PS_CSLT",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Creditors Deposits.Security Deposit-Suppliers/Contractors ",
+        "code": "CREDDEP.SD_CONT_SUPP",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Creditors Deposits.Security Deposit-Labor Contractor",
+        "code": "CREDDEP.SD_LC",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Creditors Deposits.Security Deposit-Professional Services/Consultancy",
+        "code": "CREDDEP.SDPS_CSLT",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Rent From Municipal Properties.Rent Received From Working Women Hostel",
+        "code": "RENT.WWH",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Rent From Municipal Properties.Marriage Halls",
+        "code": "RENT.MH",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Service and Adminstrative Charges.Marriage Registration Form",
+        "code": "SRVC.MRF",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Service and Adminstrative Charges.Marriage Registration Late Fee",
+        "code": "SRVC.MRLF",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Service and Adminstrative Charges.Marriage Certificate fee",
+        "code": "SRVC.MCF",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Other Fee and Fines.Postage fee",
+        "code": "OTHFEE.PF",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Other Fee and Fines.Cable Operating Fee",
+        "code": "OTHFEE.CAB_OP_FEE",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Other Fee and Fines.License Fee on Mobile Tower",
+        "code": "OTHFEE.MOB_TOW",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Taxes.Tax on animals and vehicles",
+        "code": "TX.ANI_VEH",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Sale and Hire Charges.Sale proceeds of Vermicompost",
+        "code": "SALE.VERMI",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+        "businessService": "Other Fee and Fines.RTI Stamp Fees",
+        "code": "OTHFEE.RTI_STAMP",
+        "collectionModesNotAllowed": [
+          "DD",
+          "POSTAL_ORDER"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "isCitizen": true,
+        "type": "Adhoc",
+        "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    }
+ 
   ]
 }

@@ -497,18 +497,7 @@
       ],
       "active": true,
       "maxFileSize":5000
-    },
-    {
-      "code": "PHOTO_OLD_LIC",
-      "allowedFormat": [
-        "image/*",
-        ".pdf",
-        ".png",
-        ".jpeg"
-      ],
-      "active": true,
-      "maxFileSize":5000
-    },
+    }, 
     {
       "code": "NOC_HOR",
       "allowedFormat": [
@@ -709,6 +698,39 @@
     },
     {
       "code": "GST_REGT_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "BUILDING_COMP_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "DOC_PARAMED_CERT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "active": true,
+      "maxFileSize":5000
+    },
+    {
+      "code": "WATER_TAX",
       "allowedFormat": [
         "image/*",
         ".pdf",
