@@ -454,7 +454,7 @@
     },
     {
       "code": "TRADE.OTHERS.E10",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -484,7 +484,7 @@
     },
     {
       "code": "TRADE.OTHERS.E11",
-      "uom": "NoBed",
+      "uom": "Bed",
       "applicationDocument": [
         {
           "applicationType": "NEW",

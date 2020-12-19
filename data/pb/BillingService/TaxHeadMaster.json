@@ -8103,6 +8103,16 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "TX.PROF",
+      "name": "TX.PROF_TAX",
+      "code": "TX.PROF_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": true
+    },
+    {
       "category": "CHARGES",
       "service": "TX.SANT",
       "name": "TX.SANT_FIELD_FEE",
