@@ -45,12 +45,6 @@
       "active": true
     },
     {
-      "name": "Superintendent (SWM)",
-      "description": "Superintendent (SWM)",
-      "code": "DESIG_29",
-      "active": true
-    },
-    {
       "name": "Senior clerk",
       "description": "Senior clerk",
       "code": "DESIG_30",
@@ -60,12 +54,6 @@
       "name": "Pump Operator",
       "description": "Pump Operator",
       "code": "DESIG_31",
-      "active": true
-    },
-    {
-      "name": "Revenue Suprintendent",
-      "description": "Revenue Suprintendent",
-      "code": "DESIG_32",
       "active": true
     },
     {
@@ -93,14 +81,8 @@
       "active": true
     },
     {
-      "name": "Health Inspector",
-      "description": "Health Inspector",
-      "code": "DESIG_37",
-      "active": true
-    },
-    {
-      "name": "Chief Revenue Supdt.",
-      "description": "Chief Revenue Supdt.",
+      "name": "Chief Superintendent",
+      "description": "Chief Superintendent",
       "code": "DESIG_38",
       "active": true
     },
@@ -189,12 +171,6 @@
       "active": true
     },
     {
-      "name": "Lower Division Clerk",
-      "description": "Lower Division Clerk",
-      "code": "DESIG_57",
-      "active": true
-    },
-    {
       "name": "Revenue Collector",
       "description": "Revenue Collector",
       "code": "DESIG_58",
@@ -264,12 +240,6 @@
       "name": "Assistant",
       "description": "Assistant",
       "code": "DESIG_71",
-      "active": true
-    },
-    {
-      "name": "Second Division Clerk",
-      "description": "Second Division Clerk",
-      "code": "DESIG_72",
       "active": true
     },
     {
