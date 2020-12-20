@@ -8973,6 +8973,24 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 698,
       "actioncode": "",
