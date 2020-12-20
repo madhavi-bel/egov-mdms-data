@@ -8175,18 +8175,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1830,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1831,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "DGDE",
       "actionid": 1831,
       "actioncode": "",
@@ -8981,18 +8969,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1999,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1830,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1831,
       "actioncode": "",
       "tenantId": "pb"
     },
