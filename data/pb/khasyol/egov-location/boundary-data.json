@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.khasyol",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khasyol",
+        "localname": "Khasyol",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.khasyol",
+        "children": [
+          {
+            "id": "1558d2f8-7eff-4fbd-a174-09bafa4ffe13",
+            "boundaryNum": 1,
+            "name": "Cantonment Board Khasyol",
+            "localname": "Cantonment Board Khasyol",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "b0eb71c9-c0ff-4786-8d90-53922ccd6f3b",
+                "boundaryNum": 1,
+                "name": "Slate Godawn",
+                "localname": "Slate Godawn",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "a6058dc6-6ae1-45fe-801e-72fdac4a6e37",
+                    "boundaryNum": 1,
+                    "name": "Slate Godawn - Slate Godawn",
+                    "localname": "Slate Godawn - Slate Godawn",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d195015-312e-40b1-80f8-8726d89680be",
+                "boundaryNum": 1,
+                "name": "Narwana Bazaar",
+                "localname": "Narwana Bazaar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "d75fd035-92da-4af4-8f78-c594b85be33c",
+                    "boundaryNum": 1,
+                    "name": "Narwana Bazaar - Narwana Bazaar",
+                    "localname": "Narwana Bazaar - Narwana Bazaar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8cd8a9ff-69d6-46e2-aa1b-c205bc5633ae",
+                "boundaryNum": 1,
+                "name": "Tika Bani",
+                "localname": "Tika Bani",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "9684b480-3de9-4376-9524-e5602630ab11",
+                    "boundaryNum": 1,
+                    "name": "Tika Bani - Tika Bani",
+                    "localname": "Tika Bani - Tika Bani",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8c279ad-f4d6-4eed-a724-ab40669a0d8b",
+                "boundaryNum": 1,
+                "name": "Bannorru",
+                "localname": "Bannorru",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "9b6c635e-0d60-471b-bcb5-2826a616082c",
+                    "boundaryNum": 1,
+                    "name": "Bannorru - Bannorru",
+                    "localname": "Bannorru - Bannorru",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "569cb9ba-b5b3-4829-970d-8200989c5631",
+                "boundaryNum": 1,
+                "name": "Tika Lehsar",
+                "localname": "Tika Lehsar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "ba11379c-49eb-413a-a5be-eba174cb6f78",
+                    "boundaryNum": 1,
+                    "name": "Tika Lehsar - Tika Lehsar",
+                    "localname": "Tika Lehsar - Tika Lehsar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25cc1bdc-4b47-4778-b233-7a59fd697951",
+                "boundaryNum": 1,
+                "name": "Tika Chatair",
+                "localname": "Tika Chatair",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "529ae156-c164-4db0-bd37-789e1c3f7a9f",
+                    "boundaryNum": 1,
+                    "name": "Tika Chatair - Tika Chatair",
+                    "localname": "Tika Chatair - Tika Chatair",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "513b8411-cae8-4186-ad29-c8ccf98064e2",
+                "boundaryNum": 1,
+                "name": "Khasyol",
+                "localname": "Khasyol",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "111e7f15-28e9-454d-a322-5564dfe62a4c",
+                    "boundaryNum": 1,
+                    "name": "Khasyol - Khasyol",
+                    "localname": "Khasyol - Khasyol",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

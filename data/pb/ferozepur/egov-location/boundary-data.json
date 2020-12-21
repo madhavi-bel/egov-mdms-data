@@ -1,0 +1,696 @@
+{
+  "tenantId": "pb.ferozepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ferozepur",
+        "localname": "Ferozepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ferozepur",
+        "children": [
+          {
+            "id": "1d52b77a-df26-40f4-a6ad-07bb25887a26",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "a917cd99-950a-46b3-a8e9-008f1cbd38d2",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "f3d856a6-9788-49f9-b9d3-5942cdf98ba0",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 1 - Ward No. 1",
+                    "localname": "Bazar No. 1 - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_001",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ea0e16ee-7066-45a6-a250-2a6d57e73f66",
+                    "boundaryNum": 1,
+                    "name": "Gowal Mandi - Ward No. 1",
+                    "localname": "Gowal Mandi - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_303",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "64758b59-62f4-430a-988f-e02d4fd3f1d9",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony - Ward No. 1",
+                    "localname": "Indra Colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_304",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b0c439e9-b926-4f71-940d-97c330b38d3d",
+                    "boundaryNum": 1,
+                    "name": "Khatik Mandi - Ward No. 1",
+                    "localname": "Khatik Mandi - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_305",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12ada241-cf06-4b44-bc68-3536a7cc36c0",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "52458b3f-c6ec-4bfe-9dea-348336eea70a",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 1 - Ward No. 2",
+                    "localname": "Bazar No. 1 - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_001",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dd055f61-515e-439e-9a74-c0f13c1e6c1c",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 2 - Ward No. 2",
+                    "localname": "Bazar No. 2 - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_002",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d1b1a25e-af04-48a6-aec5-33a9466d5325",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 3 - Ward No. 2",
+                    "localname": "Bazar No. 3 - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_003",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1d57275f-70fc-46d1-9e0f-33575f73aba8",
+                    "boundaryNum": 1,
+                    "name": "OLL - Ward No. 2",
+                    "localname": "OLL - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_307",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "108f41e5-4983-47ad-a312-cb4cd3349eed",
+                    "boundaryNum": 1,
+                    "name": "Street No. 1 - Ward No. 2",
+                    "localname": "Street No. 1 - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_101",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "808c967f-43fa-4fdd-bde7-e66204a0f68b",
+                    "boundaryNum": 1,
+                    "name": "Street No. 2 - Ward No. 2",
+                    "localname": "Street No. 2 - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_102",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46645cf6-1c51-40a7-b24c-21f5beecafd6",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "a0d1b195-0eab-441a-a609-f79d87496e0f",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 3 - Ward No. 3",
+                    "localname": "Bazar No. 3 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_003",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ddf6fc3a-097b-4e3e-8edc-9719fff400bd",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 4 - Ward No. 3",
+                    "localname": "Bazar No. 4 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_004",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6401fe14-6d22-4881-a270-2a6265887db9",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 5 - Ward No. 3",
+                    "localname": "Bazar No. 5 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_005",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ea6b6ce7-0e55-4ebe-aebd-db97b9724072",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 6 - Ward No. 3",
+                    "localname": "Bazar No. 6 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_006",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3475d2d6-29b5-47d6-b430-d98218307f7b",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 7 - Ward No. 3",
+                    "localname": "Bazar No. 7 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_007",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e3459bbe-e96c-43d7-8061-f8f3348b9488",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 3",
+                    "localname": "Bungalow Area - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_401",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "cbaa1750-4489-4867-884c-cde3c333056b",
+                    "boundaryNum": 1,
+                    "name": "Street No. 10 - Ward No. 3",
+                    "localname": "Street No. 10 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_110",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "30021281-a087-4996-9ba5-b19c0b61ded6",
+                    "boundaryNum": 1,
+                    "name": "Street No. 11 - Ward No. 3",
+                    "localname": "Street No. 11 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_111",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b19cbbf1-e472-453c-9d8a-c2bb8cf78423",
+                    "boundaryNum": 1,
+                    "name": "Street No. 3 - Ward No. 3",
+                    "localname": "Street No. 3 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_103",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d4e21393-8c91-471b-81e8-c35c0a848419",
+                    "boundaryNum": 1,
+                    "name": "Street No. 5 - Ward No. 3",
+                    "localname": "Street No. 5 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_105",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "65ea131c-9c20-4806-be71-a1a19a13d033",
+                    "boundaryNum": 1,
+                    "name": "Street No. 6 - Ward No. 3",
+                    "localname": "Street No. 6 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_106",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "56b8fc1e-ade2-47a9-bea3-140a9d5ff49c",
+                    "boundaryNum": 1,
+                    "name": "Street No. 7 - Ward No. 3",
+                    "localname": "Street No. 7 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_107",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2bbca084-b9c9-4f01-895e-e6b2c04bc9b2",
+                    "boundaryNum": 1,
+                    "name": "Street No. 8 - Ward No. 3",
+                    "localname": "Street No. 8 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_108",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ef0c3417-7de4-44a8-a339-524f7c0e8ab6",
+                    "boundaryNum": 1,
+                    "name": "Street No. 9 - Ward No. 3",
+                    "localname": "Street No. 9 - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "3_109",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fddc89d-b00d-41df-b0c6-21504880345f",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "6b219258-563f-4de4-8ed2-540719d41757",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 1 - Ward No. 4",
+                    "localname": "Bazar No. 1 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_001",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a337e0d8-10be-4208-b08c-1052c0104301",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 2 - Ward No. 4",
+                    "localname": "Bazar No. 2 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_002",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "973115e6-45e6-4820-9914-3e3ee7734808",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 3 - Ward No. 4",
+                    "localname": "Bazar No. 3 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_003",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "66a6fd19-23c6-4972-b9c6-5c2fdc9491ea",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 4 - Ward No. 4",
+                    "localname": "Bazar No. 4 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_004",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "824085a7-824f-4522-bb8d-1429ee06de92",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 5 - Ward No. 4",
+                    "localname": "Bazar No. 5 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_005",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "76634855-fcf1-49bf-8566-50a8cc1b5357",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 4",
+                    "localname": "Bungalow Area - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_401",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "edd155d5-0e6a-4253-96d4-b7c6baeb4462",
+                    "boundaryNum": 1,
+                    "name": "Street No. 1 - Ward No. 4",
+                    "localname": "Street No. 1 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_101",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e61a2b42-bc3e-4770-bc71-f662bfbc39ac",
+                    "boundaryNum": 1,
+                    "name": "Street No. 2 - Ward No. 4",
+                    "localname": "Street No. 2 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_102",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "72cab221-51c6-49f9-9611-570704b2e4af",
+                    "boundaryNum": 1,
+                    "name": "Street No. 3 - Ward No. 4",
+                    "localname": "Street No. 3 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_103",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1124a03e-5e46-4f30-8153-df3998ae573b",
+                    "boundaryNum": 1,
+                    "name": "Street No. 4 - Ward No. 4",
+                    "localname": "Street No. 4 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_104",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a4c3f461-5c10-49c2-94ec-e9c7781d0a89",
+                    "boundaryNum": 1,
+                    "name": "Street No. 5 - Ward No. 4",
+                    "localname": "Street No. 5 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "4_105",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78f692ff-492a-4eb9-8764-748b5b8540f1",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "eef6d0d1-cc3e-4af5-b943-17055df4cb10",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 1 - Ward No. 5",
+                    "localname": "Bazar No. 1 - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_001",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ee316b63-a312-4fc3-ab03-099b3b042f9e",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 2 - Ward No. 5",
+                    "localname": "Bazar No. 2 - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_002",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e535d1f8-5117-4542-8186-b20e08a06b8b",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 5",
+                    "localname": "Bungalow Area - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "5_401",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "579710dc-cd27-4520-bf2f-0f94d6c29b65",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "1d56fb6c-8cff-4d73-92fc-1173a1724d1e",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 6",
+                    "localname": "Bungalow Area - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_401",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a7e9e2d6-72f7-4090-8085-a24f2ee56c26",
+                    "boundaryNum": 1,
+                    "name": "Chamrang Mandi - Ward No. 6",
+                    "localname": "Chamrang Mandi - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_302",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c2b40883-1f38-472e-b1be-380d5896de8a",
+                    "boundaryNum": 1,
+                    "name": "Kumhar Mandi - Ward No. 6",
+                    "localname": "Kumhar Mandi - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_306",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "cd6dd04b-02ee-4a8d-8e42-faf289502084",
+                    "boundaryNum": 1,
+                    "name": "Street No. 11 - Ward No. 6",
+                    "localname": "Street No. 11 - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "6_111",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a063c3d-cfd7-48bb-844e-93b5ccfc4493",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "55689c7d-c1e7-4061-9ab2-15f3a93202c8",
+                    "boundaryNum": 1,
+                    "name": "Bazar No. 1 - Ward No. 7",
+                    "localname": "Bazar No. 1 - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_001",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e5ab6287-46de-4dad-b8a7-c6c661de94f8",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 7",
+                    "localname": "Bungalow Area - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_401",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "94fab668-11b7-4a59-9747-b375376133b9",
+                    "boundaryNum": 1,
+                    "name": "Gowal Mandi - Ward No. 7",
+                    "localname": "Gowal Mandi - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "7_303",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20cadc43-0ad8-4645-b4cf-aad8fbb43e6b",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W008",
+                "children": [
+                  {
+                    "id": "d8bfb468-f304-45f7-a3e0-26264320fa3c",
+                    "boundaryNum": 1,
+                    "name": "BIB - Ward No. 8",
+                    "localname": "BIB - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8_301",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1dbd7f06-a5c6-48e7-a5dc-100a47cd2c00",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 8",
+                    "localname": "Bungalow Area - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "8_401",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

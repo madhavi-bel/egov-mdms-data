@@ -1,0 +1,264 @@
+{
+  "tenantId": "pb.jhansi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jhansi",
+        "localname": "Jhansi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jhansi",
+        "children": [
+          {
+            "id": "331d138e-0f73-4ec0-9d88-ec86c3b64254",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z01",
+            "children": [
+              {
+                "id": "daaf7fc4-03eb-4d96-ab6d-ed51000cc197",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W01",
+                "children": [
+                  {
+                    "id": "ab53cd2d-e7b6-45d4-a3c3-3018482e3c57",
+                    "boundaryNum": 1,
+                    "name": "Ganj Mohalla - Ward No. 1",
+                    "localname": "Ganj Mohalla - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GM",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "7a990709-00ce-4406-ae34-52134afb39a2",
+                    "boundaryNum": 1,
+                    "name": "Lalta Prasad Compound - Ward No. 1",
+                    "localname": "Lalta Prasad Compound - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LPC",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b79933ef-f45a-499a-b934-3ac37f1e1606",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W02",
+                "children": [
+                  {
+                    "id": "9535b91d-fc5c-47f1-99f4-9b11907cbaa8",
+                    "boundaryNum": 1,
+                    "name": "Dharamshala Mohalla - Ward No. 2",
+                    "localname": "Dharamshala Mohalla - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DM",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "34ec29bf-a7a0-4b08-931c-26e2aaf058c6",
+                    "boundaryNum": 1,
+                    "name": "Market Mohalla - Ward No. 2",
+                    "localname": "Market Mohalla - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MM",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "e453844c-61b7-438f-8225-3ba76918b5fe",
+                    "boundaryNum": 1,
+                    "name": "Panna Lal Compound - Ward No. 2",
+                    "localname": "Panna Lal Compound - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31ae72cc-9c6e-4235-9fad-ccbe5899ddd0",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W03",
+                "children": [
+                  {
+                    "id": "034df4ea-22a1-4318-bfd8-74ea588f0575",
+                    "boundaryNum": 1,
+                    "name": "Hospital Mohalla - Ward No. 3",
+                    "localname": "Hospital Mohalla - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HM",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02cb8cc5-5c47-41ea-ae24-e730959fbd6b",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W04",
+                "children": [
+                  {
+                    "id": "b46fef99-de66-4311-b205-d1d980cd2f7a",
+                    "boundaryNum": 1,
+                    "name": "Old Hospital Mohalla - Ward No. 4",
+                    "localname": "Old Hospital Mohalla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "OHM",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8bf7d70a-9797-4984-9839-615b95e3fadd",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W05",
+                "children": [
+                  {
+                    "id": "b51f1835-4675-4c22-bf3e-fcdc628bc02a",
+                    "boundaryNum": 1,
+                    "name": "Topkhana Bazar - Ward No. 5",
+                    "localname": "Topkhana Bazar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e7eef308-ba49-4774-a5cc-857c7efa6344",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W06",
+                "children": [
+                  {
+                    "id": "6b5c7029-1cd4-44dc-8a25-e5ff4900f4b1",
+                    "boundaryNum": 1,
+                    "name": "Lalkurti Bazar - Ward No. 6",
+                    "localname": "Lalkurti Bazar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LB",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a9987987-af9b-419a-9f8b-9c210521706e",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W07",
+                "children": [
+                  {
+                    "id": "690d74d2-c355-4d46-9918-a798388630ef",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 7",
+                    "localname": "Bungalow Area - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BNG",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "a4dc313b-969b-4e9e-bf71-8d9df3d5f7c7",
+                    "boundaryNum": 1,
+                    "name": "Jeevan Shah - Ward No. 7",
+                    "localname": "Jeevan Shah - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JS",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "8f7bc8b6-3c0c-4ebb-ba08-7ab586fce71e",
+                    "boundaryNum": 1,
+                    "name": "Near Krishna Talkies - Ward No. 7",
+                    "localname": "Near Krishna Talkies - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NKT",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

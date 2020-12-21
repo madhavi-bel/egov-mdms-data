@@ -1489,6 +1489,150 @@
       "service": "OTHFEE.PARKING",
       "code": "OTHFEEPARKINGFIELDFEE",
       "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "CREDDEP.EMD_CONT_SUPP",
+        "code": "CREDDEPEMDCONTSUPPFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "CREDDEP.EMD_LC",
+        "code": "CREDDEPEMDLCFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "CREDDEP.EMD_PS_CSLT",
+        "code": "CREDDEPEMDPSCSLTFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "CREDDEP.SD_CONT_SUPP",
+        "code": "CREDDEPSDCONTSUPPFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "CREDDEP.SD_LC",
+        "code": "CREDDEPSDLCFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "CREDDEP.SDPS_CSLT",
+        "code": "CREDDEPSDPSCSLTFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "RENT.WWH",
+        "code": "RENTWWHFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "RENT.MH",
+        "code": "RENTMHFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "SRVC.MRF",
+        "code": "SRVCMRFFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "SRVC.MRLF",
+        "code": "SRVCMRLFFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "SRVC.MCF",
+        "code": "SRVCMCFFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "OTHFEE.PF",
+        "code": "OTHFEEPFFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "OTHFEE.CAB_OP_FEE",
+        "code": "OTHFEECABOPFEEFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "OTHFEE.MOB_TOW",
+        "code": "OTHFEEMOBTOWFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "TX.ANI_VEH",
+        "code": "TXANIVEHFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "SALE.VERMI",
+        "code": "SALEVERMIFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "OTHFEE.RTI_STAMP",
+        "code": "OTHFEERTISTAMPFIELDFEE",
+        "financialYear": "2019-30"
+    },
+    {
+        "fromDate": "1554076800000",
+        "toDate": "1901145600000",
+        "periodCycle": "ANNUAL",
+        "service": "RENT.FSH_STRT",
+        "code": "RENTFSHSTRTFIELDFEE",
+        "financialYear": "2019-30"
     }
   ]
 }

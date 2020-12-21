@@ -9,19 +9,25 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -33,24 +39,59 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
-  
+    {
+      "code": "TRADE.EATING.A3",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
     {
       "code": "TRADE.EATING.A4",
       "uom": null,
@@ -58,19 +99,27 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "REG_JALNIGAM"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "REG_JALNIGAM"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -82,19 +131,25 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -106,19 +161,25 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -130,19 +191,27 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "LIC_EXCISE"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "LIC_EXCISE"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -154,19 +223,25 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -178,140 +253,209 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B1",
-      "uom": null,
+      "code": "TRADE.EATING.A10",
+      "uom": "Star",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B2",
+      "code": "TRADE.EATING.A13",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B3",
+      "code": "TRADE.EATING.A14",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B4",
+      "code": "TRADE.EATING.A17",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
-   
     {
-      "code": "TRADE.MEDICAL.B6",
+      "code": "TRADE.EATING.A19",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "LIC_EXCISE"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "LIC_EXCISE"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A20",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "LIC_EXCISE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "LIC_EXCISE"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -323,19 +467,25 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -347,50 +497,125 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
-   
-    
     {
-      "code": "TRADE.VETERINARY.C5",
+      "code": "TRADE.MEDICAL.B1",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "CMOREGCERT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "CMOREGCERT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
-   
+    {
+      "code": "TRADE.MEDICAL.B2",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "CMOREGCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "CMOREGCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B3",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "CMOREGCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "CMOREGCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
     {
       "code": "TRADE.DANGEROUS.D2",
       "uom": null,
@@ -398,263 +623,238 @@
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-   
-    {
-      "code": "TRADE.GENERAL.E1",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    
-   
-    {
-      "code": "TRADE.GENERAL.E4",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    
-    
-    
-    {
-      "code": "TRADE.GENERAL.E8",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-  
-    {
-      "code": "TRADE.GENERAL.E10",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-   
-    {
-      "code": "TRADE.GENERAL.E12",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
-          ]
-        }
-      ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E13",
+      "code": "TRADE.DANGEROUS.D3",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
-   
-   
-   
-   
-  
-    
-    
-  
-   
     {
-      "code": "TRADE.GENERAL.E24",
-      "uom": null,
+      "code": "TRADE.MEDIUM.F4",
+      "uom": "Worker",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
-  
- 
-  
-   
     {
-      "code": "TRADE.GENERAL.E30",
+      "code": "TRADE.OTHERS.E1",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
- 
     {
-      "code": "TRADE.GENERAL.E32",
+      "code": "TRADE.OTHERS.E2",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
-            "AADHAARCARD",
-            "ELECTBILL"
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E5",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E10",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E11",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     }
-    
-  
-   
   ]
 }

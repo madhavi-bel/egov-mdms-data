@@ -11,13 +11,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -25,17 +21,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -49,13 +41,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -63,17 +51,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -87,13 +71,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -101,17 +81,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -125,13 +101,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -139,17 +111,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -163,13 +131,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -177,17 +141,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -201,13 +161,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -215,55 +172,14 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.EATING.A7",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERPHOTO",
-            "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
-          ]
-        }
-      ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -277,13 +193,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -291,17 +203,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -315,13 +223,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -329,17 +233,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -353,13 +253,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -367,23 +264,20 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B1",
+      "code": "TRADE.EATING.A11",
       "uom": null,
       "applicationDocument": [
         {
@@ -391,13 +285,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -405,23 +296,20 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B2",
+      "code": "TRADE.EATING.A13",
       "uom": null,
       "applicationDocument": [
         {
@@ -429,13 +317,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -443,23 +327,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B3",
+      "code": "TRADE.EATING.A14",
       "uom": null,
       "applicationDocument": [
         {
@@ -467,13 +347,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -481,23 +357,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B4",
+      "code": "TRADE.EATING.A15",
       "uom": null,
       "applicationDocument": [
         {
@@ -505,13 +377,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -519,23 +387,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B5",
+      "code": "TRADE.EATING.A16",
       "uom": null,
       "applicationDocument": [
         {
@@ -543,13 +407,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -557,23 +417,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B6",
+      "code": "TRADE.EATING.A17",
       "uom": null,
       "applicationDocument": [
         {
@@ -581,13 +437,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -595,17 +447,133 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A18",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A19",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A20",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A21",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -619,13 +587,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -633,17 +597,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -657,13 +617,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -671,17 +627,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -695,13 +647,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -709,17 +657,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -733,13 +677,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -747,23 +687,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C5",
+      "code": "TRADE.MEDICAL.B1",
       "uom": null,
       "applicationDocument": [
         {
@@ -771,13 +707,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -785,23 +718,20 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C6",
+      "code": "TRADE.MEDICAL.B2",
       "uom": null,
       "applicationDocument": [
         {
@@ -809,13 +739,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -823,17 +750,46 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B3",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -847,13 +803,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -861,17 +813,13 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -885,13 +833,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -899,23 +844,20 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.DANGEROUS.D3",
+      "code": "TRADE.MEDIUM.F1",
       "uom": null,
       "applicationDocument": [
         {
@@ -923,13 +865,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -937,23 +875,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E1",
+      "code": "TRADE.MEDIUM.F2",
       "uom": null,
       "applicationDocument": [
         {
@@ -961,13 +895,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -975,23 +905,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E2",
+      "code": "TRADE.MEDIUM.F3",
       "uom": null,
       "applicationDocument": [
         {
@@ -999,13 +925,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1013,23 +935,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E3",
+      "code": "TRADE.MEDIUM.F4",
       "uom": null,
       "applicationDocument": [
         {
@@ -1037,13 +955,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1051,23 +965,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E4",
+      "code": "TRADE.MEDIUM.F5",
       "uom": null,
       "applicationDocument": [
         {
@@ -1075,13 +985,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1089,23 +995,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E5",
+      "code": "TRADE.MEDIUM.F6",
       "uom": null,
       "applicationDocument": [
         {
@@ -1113,13 +1015,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1127,23 +1025,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E6",
+      "code": "TRADE.MEDIUM.F7",
       "uom": null,
       "applicationDocument": [
         {
@@ -1151,13 +1045,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1165,23 +1055,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E7",
+      "code": "TRADE.MEDIUM.F8",
       "uom": null,
       "applicationDocument": [
         {
@@ -1189,13 +1075,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -1203,23 +1086,20 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E8",
+      "code": "TRADE.MEDIUM.F9",
       "uom": null,
       "applicationDocument": [
         {
@@ -1227,13 +1107,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1241,23 +1117,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E9",
+      "code": "TRADE.MEDIUM.F10",
       "uom": null,
       "applicationDocument": [
         {
@@ -1265,13 +1137,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1279,23 +1147,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E10",
+      "code": "TRADE.MEDIUM.F11",
       "uom": null,
       "applicationDocument": [
         {
@@ -1303,13 +1167,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1317,23 +1177,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E11",
+      "code": "TRADE.MEDIUM.F12",
       "uom": null,
       "applicationDocument": [
         {
@@ -1341,13 +1197,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1355,23 +1207,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E12",
+      "code": "TRADE.OTHERS.E1",
       "uom": null,
       "applicationDocument": [
         {
@@ -1379,13 +1227,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1393,23 +1237,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E13",
+      "code": "TRADE.OTHERS.E2",
       "uom": null,
       "applicationDocument": [
         {
@@ -1417,13 +1257,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1431,23 +1267,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E14",
+      "code": "TRADE.OTHERS.E3",
       "uom": null,
       "applicationDocument": [
         {
@@ -1455,13 +1287,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1469,23 +1297,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E15",
+      "code": "TRADE.OTHERS.E5",
       "uom": null,
       "applicationDocument": [
         {
@@ -1493,13 +1317,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1507,23 +1327,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E16",
+      "code": "TRADE.OTHERS.E7",
       "uom": null,
       "applicationDocument": [
         {
@@ -1531,13 +1347,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1545,23 +1357,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E17",
+      "code": "TRADE.OTHERS.E8",
       "uom": null,
       "applicationDocument": [
         {
@@ -1569,13 +1377,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1583,23 +1387,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E18",
+      "code": "TRADE.OTHERS.E9",
       "uom": null,
       "applicationDocument": [
         {
@@ -1607,13 +1407,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1621,23 +1417,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E19",
+      "code": "TRADE.OTHERS.E10",
       "uom": null,
       "applicationDocument": [
         {
@@ -1645,13 +1437,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1659,23 +1447,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E20",
+      "code": "TRADE.OTHERS.E11",
       "uom": null,
       "applicationDocument": [
         {
@@ -1683,13 +1467,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1697,23 +1477,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E21",
+      "code": "TRADE.OTHERS.E12",
       "uom": null,
       "applicationDocument": [
         {
@@ -1721,13 +1497,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1735,23 +1507,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E22",
+      "code": "TRADE.OTHERS.E13",
       "uom": null,
       "applicationDocument": [
         {
@@ -1759,13 +1527,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1773,23 +1537,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E23",
+      "code": "TRADE.OTHERS.E14",
       "uom": null,
       "applicationDocument": [
         {
@@ -1797,13 +1557,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1811,23 +1567,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E24",
+      "code": "TRADE.OTHERS.E15",
       "uom": null,
       "applicationDocument": [
         {
@@ -1835,13 +1587,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1849,23 +1597,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E25",
+      "code": "TRADE.OTHERS.E16",
       "uom": null,
       "applicationDocument": [
         {
@@ -1873,13 +1617,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1887,23 +1627,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E26",
+      "code": "TRADE.OTHERS.E17",
       "uom": null,
       "applicationDocument": [
         {
@@ -1911,13 +1647,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1925,23 +1657,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E27",
+      "code": "TRADE.OTHERS.E18",
       "uom": null,
       "applicationDocument": [
         {
@@ -1949,13 +1677,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -1963,23 +1687,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E28",
+      "code": "TRADE.OTHERS.E19",
       "uom": null,
       "applicationDocument": [
         {
@@ -1987,13 +1707,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2001,23 +1717,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E29",
+      "code": "TRADE.OTHERS.E20",
       "uom": null,
       "applicationDocument": [
         {
@@ -2025,13 +1737,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2039,23 +1747,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E30",
+      "code": "TRADE.OTHERS.E21",
       "uom": null,
       "applicationDocument": [
         {
@@ -2063,13 +1767,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2077,23 +1777,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E31",
+      "code": "TRADE.OTHERS.E22",
       "uom": null,
       "applicationDocument": [
         {
@@ -2101,13 +1797,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2115,23 +1807,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E32",
+      "code": "TRADE.OTHERS.E23",
       "uom": null,
       "applicationDocument": [
         {
@@ -2139,13 +1827,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2153,23 +1837,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E33",
+      "code": "TRADE.OTHERS.E24",
       "uom": null,
       "applicationDocument": [
         {
@@ -2177,13 +1857,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2191,23 +1867,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.GENERAL.E34",
+      "code": "TRADE.OTHERS.E25",
       "uom": null,
       "applicationDocument": [
         {
@@ -2215,13 +1887,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2229,23 +1897,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.PRIVATEMARKETS.F1",
+      "code": "TRADE.OTHERS.E26",
       "uom": null,
       "applicationDocument": [
         {
@@ -2253,13 +1917,9 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         },
         {
@@ -2267,23 +1927,19 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.PRIVATEMARKETS.F2",
+      "code": "TRADE.OTHERS.E27",
       "uom": null,
       "applicationDocument": [
         {
@@ -2291,13 +1947,10 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         },
         {
@@ -2305,17 +1958,616 @@
           "documentList": [
             "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "AADHAARCARD",
-            "PANCARD",
-            "REGCERT",
-            "PTAX",
-            "FIRENOC",
-            "APPLETTER",
-            "MEDCERT"
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E28",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E29",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E30",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E33",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E34",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E36",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E37",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E38",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E40",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E42",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E43",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E44",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E45",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E46",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E47",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E48",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E49",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E50",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E51",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "FIRENOC"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E52",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []

@@ -1,0 +1,312 @@
+{
+  "tenantId": "pb.almora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Almora",
+        "localname": "Almora",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.almora",
+        "children": [
+          {
+            "id": "4f33abab-aaa2-415f-85db-4a0be2443cce",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "6f351b4d-2d34-443d-b851-aa4fbcd6bc6c",
+                "boundaryNum": 1,
+                "name": "Ward-1",
+                "localname": "Ward-1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b9d3e904-573f-46d0-bc5a-1ba88d440d88",
+                    "boundaryNum": 1,
+                    "name": "Maurya Gate - Ward-1",
+                    "localname": "Maurya Gate - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "40067fc2-e808-4615-a57e-68f06d35efb3",
+                    "boundaryNum": 1,
+                    "name": "Devdar Hotel - Ward-1",
+                    "localname": "Devdar Hotel - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "13bb1222-e4b7-4f50-9f81-5556a152427c",
+                    "boundaryNum": 1,
+                    "name": "Summer House - Ward-1",
+                    "localname": "Summer House - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "78e173d0-f41d-48bc-8403-a997338a7193",
+                    "boundaryNum": 1,
+                    "name": "Beckett House - Ward-1",
+                    "localname": "Beckett House - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4bbdb25a-49ff-4155-90b5-2a996598845e",
+                    "boundaryNum": 1,
+                    "name": "Thapa Niwas - Ward-1",
+                    "localname": "Thapa Niwas - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0d72309a-666a-4106-9c88-855e5f22df24",
+                    "boundaryNum": 1,
+                    "name": "Family Depot - Ward-1",
+                    "localname": "Family Depot - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC6",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "76e6fd2f-ba3e-45ae-a0ec-bc8cdd98b6cc",
+                    "boundaryNum": 1,
+                    "name": "Alexendra Line - Ward-1",
+                    "localname": "Alexendra Line - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "28d832e0-bec0-4c06-b558-c4810c519f47",
+                    "boundaryNum": 1,
+                    "name": "Cattle Pound - Ward-1",
+                    "localname": "Cattle Pound - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "215da9eb-f2f8-4f1e-9d65-5a611d63cb49",
+                    "boundaryNum": 1,
+                    "name": "MES Quarters - Ward-1",
+                    "localname": "MES Quarters - Ward-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_LOC9",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e7f100b3-5ca4-4096-80c5-2305a166a51e",
+                "boundaryNum": 1,
+                "name": "Ward-2",
+                "localname": "Ward-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "b0908f57-81c1-49be-9010-55b3578e32d7",
+                    "boundaryNum": 1,
+                    "name": "Forest Chowki - Ward-2",
+                    "localname": "Forest Chowki - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e63b70fe-63c0-4118-9a2d-bd5ce30d1ec2",
+                    "boundaryNum": 1,
+                    "name": "Vivekanand Parisar - Ward-2",
+                    "localname": "Vivekanand Parisar - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "91ab9891-108e-4ba7-822b-fb66bb3eb0a5",
+                    "boundaryNum": 1,
+                    "name": "Baroj - Ward-2",
+                    "localname": "Baroj - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "abf5e6d8-981f-47bd-851f-55eb66f7bc4b",
+                    "boundaryNum": 1,
+                    "name": "Brighten lodge - Ward-2",
+                    "localname": "Brighten lodge - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "250a866b-e939-401a-a262-153dfd90c68e",
+                    "boundaryNum": 1,
+                    "name": "Thomas House - Ward-2",
+                    "localname": "Thomas House - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d3b3300b-c19c-477d-9445-5446d1c6f9be",
+                    "boundaryNum": 1,
+                    "name": "Almora House - Ward-2",
+                    "localname": "Almora House - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC6",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "911a7995-d391-4a76-9944-235a9e79e848",
+                    "boundaryNum": 1,
+                    "name": "Cantt. Staff Quarter - Ward-2",
+                    "localname": "Cantt. Staff Quarter - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b7fb5b34-3b66-4e28-9557-b9665c09a4b0",
+                    "boundaryNum": 1,
+                    "name": "New Safaiwala Line - Ward-2",
+                    "localname": "New Safaiwala Line - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "de982405-2552-484f-9395-8d9181dc81b7",
+                    "boundaryNum": 1,
+                    "name": "Takiya Compound - Ward-2",
+                    "localname": "Takiya Compound - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a968487d-3b71-4cd8-a812-3db8aeb120b2",
+                    "boundaryNum": 1,
+                    "name": "The-Deodar Bungalow - Ward-2",
+                    "localname": "The-Deodar Bungalow - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f4f51433-fca1-4d1c-9511-cbdefe473c05",
+                    "boundaryNum": 1,
+                    "name": "Circuit House Staff quarters - Ward-2",
+                    "localname": "Circuit House Staff quarters - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d92eedad-20ea-4b67-99e0-90363fa333e9",
+                    "boundaryNum": 1,
+                    "name": "Summer Lease - Ward-2",
+                    "localname": "Summer Lease - Ward-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_LOC12",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

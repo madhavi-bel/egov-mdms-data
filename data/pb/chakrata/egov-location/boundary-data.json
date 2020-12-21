@@ -1,0 +1,180 @@
+{
+  "tenantId": "pb.chakrata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chakrata",
+        "localname": "Chakrata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.chakrata",
+        "children": [
+          {
+            "id": "565b80cf-8fbe-420e-99df-6fda8bbde407",
+            "boundaryNum": 1,
+            "name": "Chakrata",
+            "localname": "Chakrata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "7ab60fd5-0d11-44ba-aef1-d28918c08c4b",
+                "boundaryNum": 1,
+                "name": "Ward no. 01",
+                "localname": "Ward no. 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "188c9013-4fb8-4450-a315-f97c53d01058",
+                    "boundaryNum": 1,
+                    "name": "BI Bazar - Ward no. 01",
+                    "localname": "BI Bazar - Ward no. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7da9dbcc-ea06-4c69-a42c-7fd7c7fc8811",
+                "boundaryNum": 1,
+                "name": "Ward no. 02",
+                "localname": "Ward no. 02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "d98eae23-b1bf-4a3d-8e03-6bad34318cd6",
+                    "boundaryNum": 1,
+                    "name": "Supply MES Line Gate No 1 - Ward no. 02",
+                    "localname": "Supply MES Line Gate No 1 - Ward no. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd5c2873-6f45-4f63-b840-df853045f43f",
+                "boundaryNum": 1,
+                "name": "Ward no. 03",
+                "localname": "Ward no. 03",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "0d556234-fdba-4581-b7e7-c29450c7c91f",
+                    "boundaryNum": 1,
+                    "name": "Dak bungalow Sadar Bazar - Ward no. 03",
+                    "localname": "Dak bungalow Sadar Bazar - Ward no. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "04429b6b-4c17-41e8-b9b2-0aa3ce174880",
+                "boundaryNum": 1,
+                "name": "Ward no. 04",
+                "localname": "Ward no. 04",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "a6e9c07e-0e21-481a-8dc9-15159a647730",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward no. 04",
+                    "localname": "Sadar Bazar - Ward no. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "276f053b-20d1-4136-83f4-013c4f3d776f",
+                "boundaryNum": 1,
+                "name": "Ward no. 05",
+                "localname": "Ward no. 05",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "ae60ddaa-ea9f-4daf-9f1e-8a2f14f02bf9",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward no. 05",
+                    "localname": "Sadar Bazar - Ward no. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7fc08884-5366-4250-a7fb-65cfff35a304",
+                "boundaryNum": 1,
+                "name": "Ward no. 06",
+                "localname": "Ward no. 06",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "134c45e2-86df-4bd5-b8e9-2e908590b644",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward no. 06",
+                    "localname": "Sadar Bazar - Ward no. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

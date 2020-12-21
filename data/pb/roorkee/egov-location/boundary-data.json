@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.roorkee",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Roorkee",
+        "localname": "Roorkee",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.roorkee",
+        "children": [
+          {
+            "id": "d9573291-b2b1-4e7c-a5de-f56fe190c069",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "e1c3c475-066a-4636-9873-8dfec0cbffed",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d3f58431-92c2-492d-98eb-2109ff8e8872",
+                    "boundaryNum": 1,
+                    "name": "G.M.E.S. Line - Ward No. 1",
+                    "localname": "G.M.E.S. Line - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d3d867d-960a-46c3-b6ab-678fadf6832d",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "cf044336-cce6-4226-acd7-64a60dd22ff4",
+                    "boundaryNum": 1,
+                    "name": "Cantonment Board Hospital, S.T.B. - Ward No. 2",
+                    "localname": "Cantonment Board Hospital, S.T.B. - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f8ca4b5-b13a-4997-ba6e-bf88ae554074",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "7de2ff68-f0a1-4dd6-8ab8-b7913b92a87e",
+                    "boundaryNum": 1,
+                    "name": "Lalkurti - Ward No. 3",
+                    "localname": "Lalkurti - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90a5162d-db50-4ebd-b7e0-259b8f2d84f5",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "3fa86014-857d-4553-b4ad-aa8431187cb6",
+                    "boundaryNum": 1,
+                    "name": "Lalkurti - Ward No. 4",
+                    "localname": "Lalkurti - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0be54314-623e-4776-863d-64906a6abeb9",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "2015c4c8-51f5-47f8-80c4-624366759c8b",
+                    "boundaryNum": 1,
+                    "name": "Bania Bazaar - Ward No. 5",
+                    "localname": "Bania Bazaar - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e9727306-9963-4b6a-8d93-593b94577ff6",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "662889d5-e9c8-4581-bebe-20cd7ffcd432",
+                    "boundaryNum": 1,
+                    "name": "Range Line - Ward No. 6",
+                    "localname": "Range Line - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fd634fd1-5ec3-4840-9221-4004c587e206",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "7481b3c4-2f46-45d1-abb3-2e10d0195c25",
+                    "boundaryNum": 1,
+                    "name": "1TB, 2TB and BEG Centre - Ward No. 7",
+                    "localname": "1TB, 2TB and BEG Centre - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

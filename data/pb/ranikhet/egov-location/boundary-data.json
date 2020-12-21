@@ -1,0 +1,492 @@
+{
+  "tenantId": "pb.ranikhet",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ranikhet",
+        "localname": "Ranikhet",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ranikhet",
+        "children": [
+          {
+            "id": "2ac62547-e40c-431c-8882-abb4f814acb5",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "46b51595-a8c1-40f9-bf83-798ffcd54612",
+                "boundaryNum": 1,
+                "name": "Ward No. 01",
+                "localname": "Ward No. 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cf47e46a-4bf4-4ba9-8f41-e18d45651bb7",
+                    "boundaryNum": 1,
+                    "name": "Shri Dhar Ganj - Ward No. 01",
+                    "localname": "Shri Dhar Ganj - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d86196ab-c7a8-44fa-a2a1-eabf5ed904bf",
+                    "boundaryNum": 1,
+                    "name": "Malli Khari Bazar - Ward No. 01",
+                    "localname": "Malli Khari Bazar - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dfa9c87a-2dbc-496e-9554-9fcd5beee10d",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 01",
+                    "localname": "Sadar Bazar - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c0fdc3ac-c196-43cb-925a-efb27f1ad579",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Chowk - Ward No. 01",
+                    "localname": "Gandhi Chowk - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "81688398-22af-41e2-a3ed-f8ed7700985e",
+                    "boundaryNum": 1,
+                    "name": "Talli Khari Bazar - Ward No. 01",
+                    "localname": "Talli Khari Bazar - Ward No. 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f36d7ad6-0f46-45b6-998f-387cbd097f5c",
+                "boundaryNum": 1,
+                "name": "Ward No. 02",
+                "localname": "Ward No. 02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "ae18f879-9418-4894-a62f-c74e50a969aa",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 02",
+                    "localname": "Sadar Bazar - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "35963a9b-011d-48f7-a8b3-f75f73091d0d",
+                    "boundaryNum": 1,
+                    "name": "Malli Khari Bazar - Ward No. 02",
+                    "localname": "Malli Khari Bazar - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "dc2e7a90-e613-4ada-8763-fa0c4fd33060",
+                    "boundaryNum": 1,
+                    "name": "Raistate - Ward No. 02",
+                    "localname": "Raistate - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7b097196-5a74-49e2-9845-2871f470d3ed",
+                    "boundaryNum": 1,
+                    "name": "Zaruri Bazar - Ward No. 02",
+                    "localname": "Zaruri Bazar - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6c613873-1201-49bb-a038-71d22f12f2d2",
+                    "boundaryNum": 1,
+                    "name": "Deulikhet - Ward No. 02",
+                    "localname": "Deulikhet - Ward No. 02",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3993e0b-d3f3-4949-a0a8-5e18f5344294",
+                "boundaryNum": 1,
+                "name": "Ward No. 03",
+                "localname": "Ward No. 03",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "079aa580-866f-4c96-91ad-6ea8b6f1f295",
+                    "boundaryNum": 1,
+                    "name": "Shubhask Chowk - Ward No. 03",
+                    "localname": "Shubhask Chowk - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "546312ac-300f-463d-ae12-c1b86aab2b0c",
+                    "boundaryNum": 1,
+                    "name": "Aabkari - Ward No. 03",
+                    "localname": "Aabkari - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4e8d3cb3-d4b1-4e99-a831-7befb8d023ee",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir - Ward No. 03",
+                    "localname": "Shiv Mandir - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f7a17b57-24bb-480a-b8a3-c9734b238126",
+                    "boundaryNum": 1,
+                    "name": "Sarna Garden - Ward No. 03",
+                    "localname": "Sarna Garden - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2b854e1d-a9e3-4f08-a180-387e4663fe9c",
+                    "boundaryNum": 1,
+                    "name": "Kuraisian Mohalla - Ward No. 03",
+                    "localname": "Kuraisian Mohalla - Ward No. 03",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c657c49c-0cd0-48f2-b33f-0710334867a6",
+                "boundaryNum": 1,
+                "name": "Ward No. 04",
+                "localname": "Ward No. 04",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "37d7bb6e-350d-42ce-93ba-1f6faf01fd65",
+                    "boundaryNum": 1,
+                    "name": "Sudama Puri - Ward No. 04",
+                    "localname": "Sudama Puri - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "769104d8-5c26-4016-8cd5-d1b2600e1e19",
+                    "boundaryNum": 1,
+                    "name": "Talli Khari Bazar - Ward No. 04",
+                    "localname": "Talli Khari Bazar - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5c1341f5-203e-45f6-b5d2-cc1cdf2b6117",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir - Ward No. 04",
+                    "localname": "Shiv Mandir - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4a6a0989-c654-465b-8400-53b44868315d",
+                    "boundaryNum": 1,
+                    "name": "Rajpura - Ward No. 04",
+                    "localname": "Rajpura - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c1e62442-bcba-41ee-a835-b6b06dafc1c5",
+                    "boundaryNum": 1,
+                    "name": "Chaudhari Garden - Ward No. 04",
+                    "localname": "Chaudhari Garden - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7b3ca17a-0e36-4bd6-b89e-e687718194dc",
+                    "boundaryNum": 1,
+                    "name": "Zaruri Bazar - Ward No. 04",
+                    "localname": "Zaruri Bazar - Ward No. 04",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89f3117c-8dca-4b9d-a931-ce48a1f3ed38",
+                "boundaryNum": 1,
+                "name": "Ward No. 05",
+                "localname": "Ward No. 05",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "8a61fc5c-1fbc-4884-b4b5-2686fd0d89eb",
+                    "boundaryNum": 1,
+                    "name": "Mall Roard - Ward No. 05",
+                    "localname": "Mall Roard - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9a853fd6-d4c1-455e-a877-b39c9f4b800e",
+                    "boundaryNum": 1,
+                    "name": "Chaubattia - Ward No. 05",
+                    "localname": "Chaubattia - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0c5d8bda-aa92-40c3-8419-b5f41476ce64",
+                    "boundaryNum": 1,
+                    "name": "PWD - Ward No. 05",
+                    "localname": "PWD - Ward No. 05",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe2eec90-f4d1-4aca-aa3d-37442b84fdf0",
+                "boundaryNum": 1,
+                "name": "Ward No. 06",
+                "localname": "Ward No. 06",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "6b2d3aa4-edee-4923-aab6-6489a29fd1f9",
+                    "boundaryNum": 1,
+                    "name": "Kumpur - Ward No. 06",
+                    "localname": "Kumpur - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b234af0a-0841-405f-9699-8c5454cacd10",
+                    "boundaryNum": 1,
+                    "name": "Mall Roard - Ward No. 06",
+                    "localname": "Mall Roard - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f32f549a-1f95-4137-bf32-79b667dff69c",
+                    "boundaryNum": 1,
+                    "name": "Chaina View - Ward No. 06",
+                    "localname": "Chaina View - Ward No. 06",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2affefd4-51d0-46cf-a61e-50d759c5724a",
+                "boundaryNum": 1,
+                "name": "Ward No. 07",
+                "localname": "Ward No. 07",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "c130eb71-eaf6-49fe-8264-655723d380f5",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Ward No. 07",
+                    "localname": "Sadar Bazar - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "71935930-6a8d-475f-962b-e0c5d6c57732",
+                    "boundaryNum": 1,
+                    "name": "Mall Roard - Ward No. 07",
+                    "localname": "Mall Roard - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "cd6002f5-3582-44d0-ad96-7c57863e0b92",
+                    "boundaryNum": 1,
+                    "name": "DAD Colony - Ward No. 07",
+                    "localname": "DAD Colony - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d6f68839-9e42-48dc-983d-bdcfb36a9b89",
+                    "boundaryNum": 1,
+                    "name": "Spring Field - Ward No. 07",
+                    "localname": "Spring Field - Ward No. 07",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

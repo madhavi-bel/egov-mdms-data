@@ -1,0 +1,108 @@
+{
+  "tenantId": "pb.jutogh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jutogh",
+        "localname": "Jutogh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jutogh",
+        "children": [
+          {
+            "id": "fe457f86-5abc-4dde-8967-bc7c2da40025",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "abe2034f-8d16-4878-8c88-e8257aa71ce0",
+                "boundaryNum": 1,
+                "name": "WARD-1",
+                "localname": "WARD-1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "8096de2c-7d72-4098-9748-af5d5d219339",
+                    "boundaryNum": 1,
+                    "name": "police chowki line - WARD-1",
+                    "localname": "police chowki line - WARD-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "313550f5-e969-476a-94f2-986ef18c79cc",
+                    "boundaryNum": 1,
+                    "name": "laxmi narayan temple - WARD-1",
+                    "localname": "laxmi narayan temple - WARD-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "833a0462-accb-4694-84fd-ebbc03bbb4d6",
+                "boundaryNum": 1,
+                "name": "WARD-2",
+                "localname": "WARD-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "0e1b7be5-6e0c-4d26-bd8f-bb455202e89a",
+                    "boundaryNum": 1,
+                    "name": "gurudwara line - WARD-2",
+                    "localname": "gurudwara line - WARD-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "eb8037bc-d058-4cc0-a18f-6e3f6da1d95e",
+                    "boundaryNum": 1,
+                    "name": "main bazzar - WARD-2",
+                    "localname": "main bazzar - WARD-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_02",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

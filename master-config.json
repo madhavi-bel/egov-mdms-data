@@ -794,7 +794,7 @@
       "masterName": "TaxHeadMaster",
       "isStateLevel": true,
       "uniqueKeys": [
-        "$.code"
+        "$.code"        
       ]
     },
     "BusinessService": {
@@ -804,12 +804,11 @@
         "$.code"
       ]
     },
-    "ServiceGLCODEMapping": {
-      "masterName": "ServiceGLCODEMapping",
-      "isStateLevel": true,
+    "GLCode": {
+      "masterName": "GLCode",
+      "isStateLevel": false,
       "uniqueKeys": [
-        "$.code",
-        "$.cb"
+        "$.code" 
       ]
     }
   },
@@ -955,8 +954,8 @@
       "masterName": "RoadType",
       "isStateLevel": true,
       "uniqueKeys": []
-  },
-  "CalculationAttribute": {
+    },
+    "CalculationAttribute": {
       "masterName": "CalculationAttribute",
       "isStateLevel": true,
       "uniqueKeys": []

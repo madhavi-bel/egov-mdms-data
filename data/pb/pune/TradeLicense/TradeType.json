@@ -9,25 +9,31 @@
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -39,55 +45,31 @@
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.EATING.A4",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        }
-      ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -99,55 +81,67 @@
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.A8",
+      "code": "TRADE.EATING.A6",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -159,25 +153,135 @@
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A10",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "FIRENOC",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "FIRENOC",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A14",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A19",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
@@ -189,175 +293,99 @@
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "FIRENOC",
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B2",
+      "code": "TRADE.OTHERS.E10",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
     },
     {
-      "code": "TRADE.VETERINARY.C1",
+      "code": "TRADE.OTHERS.E11",
       "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "TAXRECEIPT"
           ]
         },
         {
           "applicationType": "RENEWAL",
           "documentList": [
+            "OWNERPHOTO",
             "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
             "MEDCERT",
-            "SHOPACTLICENCE"
+            "TAXRECEIPT"
           ]
         }
       ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.GENERAL.E1",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.GENERAL.E8",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        }
-      ],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.GENERAL.E32",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERSHIPPROOF",
-            "OLDLICENCENO",
-            "PTAX",
-            "MEDCERT",
-            "SHOPACTLICENCE"
-          ]
-        }
-      ],
-      "active": true,
+      "active": "true",
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []

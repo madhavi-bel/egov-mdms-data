@@ -1,0 +1,588 @@
+{
+  "tenantId": "pb.dehradun",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dehradun",
+        "localname": "Dehradun",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dehradun",
+        "children": [
+          {
+            "id": "9a4d00c5-5c63-41cd-afef-d9eff6468e32",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "5eacf1ab-078b-43bb-8d28-bb24df00290e",
+                "boundaryNum": 1,
+                "name": "Ward No 1",
+                "localname": "Ward No 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "89347dc7-b9e1-4ec0-80a8-c730271fc5b7",
+                    "boundaryNum": 1,
+                    "name": "Wing No 1 - Ward No 1",
+                    "localname": "Wing No 1 - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4196a1de-8345-4655-93ee-7b04f9f15318",
+                    "boundaryNum": 1,
+                    "name": "Wing No 2 - Ward No 1",
+                    "localname": "Wing No 2 - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "56c698fb-471f-41c9-ad03-05f62e96ae44",
+                    "boundaryNum": 1,
+                    "name": "Wing No 4 - Ward No 1",
+                    "localname": "Wing No 4 - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "aff93e39-de56-4874-8cbd-464eec624e3d",
+                    "boundaryNum": 1,
+                    "name": "Wing No 5 - Ward No 1",
+                    "localname": "Wing No 5 - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0431874a-28a6-4d2f-9cb2-58847f7802c1",
+                    "boundaryNum": 1,
+                    "name": "Smith Nagar - Ward No 1",
+                    "localname": "Smith Nagar - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "61557686-c5f3-4edf-b16a-42037f8053f9",
+                    "boundaryNum": 1,
+                    "name": "Wing No 7 - Ward No 1",
+                    "localname": "Wing No 7 - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65f37bda-d247-448a-8d31-67ea88bb3b2d",
+                "boundaryNum": 1,
+                "name": "Ward No 2",
+                "localname": "Ward No 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "9232472b-f4c2-40b6-b6b3-1d25d9a1e084",
+                    "boundaryNum": 1,
+                    "name": "Wing No 3 - Ward No 2",
+                    "localname": "Wing No 3 - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "760411c6-470f-4840-ba79-d9902e08197c",
+                    "boundaryNum": 1,
+                    "name": "Wing No 6 - Ward No 2",
+                    "localname": "Wing No 6 - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "642c3b31-8e73-4f83-83e9-997b5f7e2cd5",
+                    "boundaryNum": 1,
+                    "name": "Special Wing - Ward No 2",
+                    "localname": "Special Wing - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f9b73804-b54a-4678-a671-903e1c65bb8b",
+                    "boundaryNum": 1,
+                    "name": "Industrial Wing - Ward No 2",
+                    "localname": "Industrial Wing - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c6eda8d3-f6e4-4079-a774-18becae2dd9e",
+                    "boundaryNum": 1,
+                    "name": "Cericulture - Ward No 2",
+                    "localname": "Cericulture - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "79cfe132-92f4-4232-bd80-58a9d68a8b4d",
+                    "boundaryNum": 1,
+                    "name": "Govt. Hospital Premnagar - Ward No 2",
+                    "localname": "Govt. Hospital Premnagar - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75eed899-7a6c-41bd-b020-87a3cf1a5117",
+                "boundaryNum": 1,
+                "name": "Ward No 3",
+                "localname": "Ward No 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "105c5d40-7f92-4cab-bbf3-8c9dc0480a46",
+                    "boundaryNum": 1,
+                    "name": "Kehri Village - Ward No 3",
+                    "localname": "Kehri Village - Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ea56a7f2-2361-4176-b738-95553dba6420",
+                    "boundaryNum": 1,
+                    "name": "General Wing - Ward No 3",
+                    "localname": "General Wing - Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e3b9526a-45b1-4040-9b09-80bfbdd5014c",
+                    "boundaryNum": 1,
+                    "name": "Shivpuri - Ward No 3",
+                    "localname": "Shivpuri - Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6ecab8f9-feb6-42ff-9849-b694cb741c44",
+                    "boundaryNum": 1,
+                    "name": "CR Camp - Ward No 3",
+                    "localname": "CR Camp - Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "690fddcf-4265-453f-a35b-54d1bb641a80",
+                    "boundaryNum": 1,
+                    "name": "Chakrata Road - Ward No 3",
+                    "localname": "Chakrata Road - Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9662663-b544-4573-b343-9d91c65903e4",
+                "boundaryNum": 1,
+                "name": "Ward No 4",
+                "localname": "Ward No 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "fb547bec-7495-4742-8fd8-73012ae1a3ff",
+                    "boundaryNum": 1,
+                    "name": "Premnagar Bazar - Ward No 4",
+                    "localname": "Premnagar Bazar - Ward No 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5044188a-aa5c-4e14-afb5-6cf41b559838",
+                    "boundaryNum": 1,
+                    "name": "FRI Premnagar - Ward No 4",
+                    "localname": "FRI Premnagar - Ward No 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "5f27d901-7d06-4cb3-b002-15c2c805f748",
+                    "boundaryNum": 1,
+                    "name": "Amitabh Textile Mill - Ward No 4",
+                    "localname": "Amitabh Textile Mill - Ward No 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8b84c48-ddac-4761-982b-93d9ba5522e0",
+                "boundaryNum": 1,
+                "name": "Ward No 5",
+                "localname": "Ward No 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "0a65da03-344c-4887-b218-53f0ca3d6b03",
+                    "boundaryNum": 1,
+                    "name": "Tapkeshwar - Ward No 5",
+                    "localname": "Tapkeshwar - Ward No 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6b072b1f-17a5-467e-a724-50cd2bc45271",
+                    "boundaryNum": 1,
+                    "name": "Birpur - Ward No 5",
+                    "localname": "Birpur - Ward No 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "8f0bfc2c-b57c-4740-9cb1-e372655d0578",
+                    "boundaryNum": 1,
+                    "name": "Lower Garhi - Ward No 5",
+                    "localname": "Lower Garhi - Ward No 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e9dd154-4d8a-4d2c-875c-11dc40c35ee7",
+                "boundaryNum": 1,
+                "name": "Ward No 6",
+                "localname": "Ward No 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "534d4f09-cada-497e-b95a-b0418e8a47ff",
+                    "boundaryNum": 1,
+                    "name": "Garhi (Part) - Ward No 6",
+                    "localname": "Garhi (Part) - Ward No 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a88c4e75-2400-4b4d-9333-35519b850988",
+                    "boundaryNum": 1,
+                    "name": "Nageshwar (Dakra) - Ward No 6",
+                    "localname": "Nageshwar (Dakra) - Ward No 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "942a8e3b-01f6-4b81-bfe9-b2b296f1e4aa",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Gram - Ward No 6",
+                    "localname": "Gandhi Gram - Ward No 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a070ed78-2934-4de0-b680-b48b65daffaf",
+                    "boundaryNum": 1,
+                    "name": "Military Hospital - Ward No 6",
+                    "localname": "Military Hospital - Ward No 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2bbf4a1-5a5a-4196-86d1-f4c69f72e0b5",
+                "boundaryNum": 1,
+                "name": "Ward No 7",
+                "localname": "Ward No 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "ac5fda32-1c0d-4894-a0b5-c699dce64628",
+                    "boundaryNum": 1,
+                    "name": "Dakra Bazar - Ward No 7",
+                    "localname": "Dakra Bazar - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e4dbae2d-3bc3-479f-9980-882ca395011d",
+                    "boundaryNum": 1,
+                    "name": "Baniya Bazar - Ward No 7",
+                    "localname": "Baniya Bazar - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3fd389c0-35da-4b80-8f21-df346d331ce3",
+                    "boundaryNum": 1,
+                    "name": "Upper Side of Rikhi Ram Gali - Ward No 7",
+                    "localname": "Upper Side of Rikhi Ram Gali - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "35f5b773-c350-4edd-a182-b8a76664c2ec",
+                    "boundaryNum": 1,
+                    "name": "Mini Mussorie - Ward No 7",
+                    "localname": "Mini Mussorie - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "06201de1-68b5-480e-a44a-ebc1e756690d",
+                    "boundaryNum": 1,
+                    "name": "GR Bazar - Ward No 7",
+                    "localname": "GR Bazar - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d7607dc6-e451-4663-a7bc-b5842f905ab0",
+                    "boundaryNum": 1,
+                    "name": "Bangla Area - Ward No 7",
+                    "localname": "Bangla Area - Ward No 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac000b2f-3a51-4b46-9bed-601a62a5f69a",
+                "boundaryNum": 1,
+                "name": "Ward No 8",
+                "localname": "Ward No 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "9b8e5835-61a1-4b85-bece-98a901d48be3",
+                    "boundaryNum": 1,
+                    "name": "Aam Bagh - Ward No 8",
+                    "localname": "Aam Bagh - Ward No 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "08743fa5-0fed-4e08-b93d-99ce6d8bbcf9",
+                    "boundaryNum": 1,
+                    "name": "Nimboowala - Ward No 8",
+                    "localname": "Nimboowala - Ward No 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC35",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6eef2e0c-b7ba-4708-a595-1ca132f5e6ed",
+                    "boundaryNum": 1,
+                    "name": "Kalinga Colony - Ward No 8",
+                    "localname": "Kalinga Colony - Ward No 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC36",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "3b7e8272-108f-4823-8ca2-4a2db7816c2d",
+                    "boundaryNum": 1,
+                    "name": "Officers Quarter - Ward No 8",
+                    "localname": "Officers Quarter - Ward No 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC37",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2c9deacc-1e09-4a58-babe-864b8b366570",
+                    "boundaryNum": 1,
+                    "name": "Young Road - Ward No 8",
+                    "localname": "Young Road - Ward No 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC38",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

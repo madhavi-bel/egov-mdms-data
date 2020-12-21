@@ -1,0 +1,216 @@
+{
+  "tenantId": "pb.shillong",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Shillong",
+        "localname": "Shillong",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.shillong",
+        "children": [
+          {
+            "id": "85133cad-5712-4d9a-a3da-eaf7ea9c0960",
+            "boundaryNum": 1,
+            "name": "Shillong",
+            "localname": "Shillong",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "77875be6-b7be-45c8-8306-7a50ea2ac003",
+                "boundaryNum": 1,
+                "name": "Ward  No. 1",
+                "localname": "Ward  No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": [
+                  {
+                    "id": "0755e37f-0e78-4217-86d5-bf4131045002",
+                    "boundaryNum": 1,
+                    "name": "Bunglow Area - Ward  No. 1",
+                    "localname": "Bunglow Area - Ward  No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BA_1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fbb3d63f-44f8-4867-b0f8-53af847c6650",
+                "boundaryNum": 1,
+                "name": "Ward  No. 2",
+                "localname": "Ward  No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": [
+                  {
+                    "id": "7f4d4af7-f496-4af4-8ec8-3a36ed666885",
+                    "boundaryNum": 1,
+                    "name": "Cantonment Bazar - Ward  No. 2",
+                    "localname": "Cantonment Bazar - Ward  No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "CB_2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "835cd621-946b-4c46-97a7-54cd15b1c1bd",
+                "boundaryNum": 1,
+                "name": "Ward  No. 3",
+                "localname": "Ward  No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": [
+                  {
+                    "id": "09998c93-b016-425a-8dd7-268f9ed66f13",
+                    "boundaryNum": 1,
+                    "name": "Cantonment Bazar - Ward  No. 3",
+                    "localname": "Cantonment Bazar - Ward  No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "CB_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "bd6378c1-c4d9-4c32-ad30-6b7f392f8f0b",
+                    "boundaryNum": 1,
+                    "name": "Jhalupara Bazar - Ward  No. 3",
+                    "localname": "Jhalupara Bazar - Ward  No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JB_3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6de2c2e2-41d7-4a26-b44d-3aec62fa83bd",
+                "boundaryNum": 1,
+                "name": "Ward  No. 4",
+                "localname": "Ward  No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "73c5dbd5-d4d4-48e0-bbe8-7bc84e2022ad",
+                    "boundaryNum": 1,
+                    "name": "Jhalupara Bazar - Ward  No. 4",
+                    "localname": "Jhalupara Bazar - Ward  No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JB_4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b152bcac-f830-4258-81c1-e8792b5b446d",
+                "boundaryNum": 1,
+                "name": "Ward  No. 5",
+                "localname": "Ward  No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": [
+                  {
+                    "id": "8f1827b5-c99c-49ed-bac0-88555166b39e",
+                    "boundaryNum": 1,
+                    "name": "Jhalupara Bazar - Ward  No. 5",
+                    "localname": "Jhalupara Bazar - Ward  No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JB_5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fb568472-4f3f-4631-9ce0-8a8beab37775",
+                "boundaryNum": 1,
+                "name": "Ward  No. 6",
+                "localname": "Ward  No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "ec01b029-c1ed-4546-8263-b997147c5563",
+                    "boundaryNum": 1,
+                    "name": "Jhalupara Bazar - Ward  No. 6",
+                    "localname": "Jhalupara Bazar - Ward  No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JB_6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bda97737-a49a-48e6-ba3a-fd400989f27c",
+                "boundaryNum": 1,
+                "name": "Ward  No. 7",
+                "localname": "Ward  No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "eb5977c1-f8b4-4304-941c-09d4ff198935",
+                    "boundaryNum": 1,
+                    "name": "Jhalupara Bazar - Ward  No. 7",
+                    "localname": "Jhalupara Bazar - Ward  No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JB_7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

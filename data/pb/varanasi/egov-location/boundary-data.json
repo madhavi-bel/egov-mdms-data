@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.varanasi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Varanasi",
+        "localname": "Varanasi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.varanasi",
+        "children": [
+          {
+            "id": "44bed68f-1df9-4215-93c1-f5dc5ba86934",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "fe3f6b01-0646-4975-8b34-d7c08d5ebb92",
+                "boundaryNum": 1,
+                "name": "North Railway Colony",
+                "localname": "North Railway Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "96d62ed4-49cc-4c75-b708-9261db932ffa",
+                    "boundaryNum": 1,
+                    "name": "North Railway Colony - North Railway Colony",
+                    "localname": "North Railway Colony - North Railway Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d0ef136-1743-4d1a-8037-c08ad54abb6b",
+                "boundaryNum": 1,
+                "name": "New Loco Colony",
+                "localname": "New Loco Colony",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "81e9b094-778d-4ccd-8b8f-a7f293044117",
+                    "boundaryNum": 1,
+                    "name": "New Loco Colony - New Loco Colony",
+                    "localname": "New Loco Colony - New Loco Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa68c17c-3612-41f0-be16-5926da6df9f4",
+                "boundaryNum": 1,
+                "name": "Bungalow Area - Ward 3",
+                "localname": "Bungalow Area - Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "32bd579f-88a7-4144-afde-8915c79db078",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Bungalow Area - Ward 3",
+                    "localname": "Bungalow Area - Bungalow Area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3LOC3",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6af0e065-7592-4537-a403-a54b8a74d4a8",
+                "boundaryNum": 1,
+                "name": "Bungalow Area - Ward 4",
+                "localname": "Bungalow Area - Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "90ededc1-b0a3-4c75-80d2-3269ec7f5761",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Bungalow Area - Ward 4",
+                    "localname": "Bungalow Area - Bungalow Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4LOC4",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ecaa1afa-f57e-4c49-8e36-962186425390",
+                "boundaryNum": 1,
+                "name": "Sadar Bazar - Ward 5",
+                "localname": "Sadar Bazar - Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "971c63ad-71d6-424b-bf46-4fcd8e670527",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Sadar Bazar - Ward 5",
+                    "localname": "Sadar Bazar - Sadar Bazar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5LOC5",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d911088-5ccf-465c-9a82-a149a1f52869",
+                "boundaryNum": 1,
+                "name": "Sadar Bazar -Ward 6",
+                "localname": "Sadar Bazar -Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "5ac4fd14-de2d-4164-8d7b-2c8b5286f196",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Sadar Bazar -Ward 6",
+                    "localname": "Sadar Bazar - Sadar Bazar -Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6LOC6",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89069c16-6ec9-4560-8f6e-94d25d355f1b",
+                "boundaryNum": 1,
+                "name": "Sadar Bazar - Ward 7",
+                "localname": "Sadar Bazar - Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "934a901d-9bc0-4d70-a399-6c76dbce93bf",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Sadar Bazar - Ward 7",
+                    "localname": "Sadar Bazar - Sadar Bazar - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7LOC7",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

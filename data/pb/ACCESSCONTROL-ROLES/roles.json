@@ -17,36 +17,7 @@
       "name": "Super User",
       "description": "System Administrator. Can change all master data and has access to all the system screens."
     },
-    {
-      "code": "TL_CEMP",
-      "name": "TL Counter Employee",
-      "description": "Counter Employee in Trade License who files TL on behalf of the citizen"
-    },
-    {
-      "code": "TL_APPROVER",
-      "name": "TL Approver",
-      "description": "Approver who verifies and approves the TL application"
-    },
-    {
-      "code": "EGF_ADMINISTRATOR",
-      "name": "Finance Adminsitrator",
-      "description": "All Employees who are Finance application administrator"
-    },
-    {
-      "code": "TL_FIELD_INSPECTOR",
-      "name": "TL Field Inspector",
-      "description": "Trade license field inspector"
-    },
-    {
-      "code": "TL_DOC_VERIFIER",
-      "name": "TL doc verifier",
-      "description": "Trade license document verifier"
-    },    
-    {
-      "code": "UC_EMP",
-      "name": "Universal Collection Employee",
-      "description": "Universal Miscellaneous Collection Employee"
-    },
+     
     {
       "code": "SYSTEM",
       "name": "System user",
@@ -86,7 +57,8 @@
       "code": "STADMIN",
       "name": "State Administrator",
       "description": "Admin role that as access over a state"
-    }
+    } 
+    
   ]
 }
 

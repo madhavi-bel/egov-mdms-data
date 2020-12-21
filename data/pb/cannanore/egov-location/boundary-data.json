@@ -1,0 +1,115 @@
+{
+  "tenantId": "pb.cannanore",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Cannanore",
+        "localname": "Cannanore",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.cannanore",
+        "children": [
+          {
+            "id": "c3dd1f95-31c0-46fb-8d5d-09ae70a7befe",
+            "boundaryNum": 1,
+            "name": "Zone-01",
+            "localname": "Zone-01",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z01",
+            "children": [
+              {
+                "id": "0d333f3c-98bd-4d2d-92fe-c89bbd7f591e",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W001",
+                "children": []
+              },
+              {
+                "id": "1016433d-3409-43cf-a65b-f5627b0d5ff4",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W002",
+                "children": []
+              },
+              {
+                "id": "70131ce4-714d-4a83-a0a2-5832e1478fa9",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W003",
+                "children": []
+              },
+              {
+                "id": "97887e9d-c31f-4c52-8c4e-0311c9d42a0c",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": []
+              },
+              {
+                "id": "6f2691ba-6f48-423e-9f8e-f92f68932fc2",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W005",
+                "children": []
+              },
+              {
+                "id": "a152febf-4f2e-4bd6-b0fa-9eabcee922c5",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "ec252d71-4403-47b6-90e6-85d0025f8ede",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand shopping complex - Ward 6",
+                    "localname": "Bus Stand shopping complex - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BUS-STD",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tenantId": "pb.nainital",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nainital",
+        "localname": "Nainital",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nainital",
+        "children": [
+          {
+            "id": "8fb29aff-e5ba-44ae-9aad-c58be81e5595",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": [
+              {
+                "id": "bad53cef-9cbf-49d8-b9e1-e2e325dd7612",
+                "boundaryNum": 1,
+                "name": "Ward No 1",
+                "localname": "Ward No 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3b377f10-6664-4e98-8e82-7ae48c595d66",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No 1",
+                    "localname": "Bungalow Area - Ward No 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "772db9f6-cbb7-454b-a0fb-3b54272636ff",
+                "boundaryNum": 1,
+                "name": "Ward No 2",
+                "localname": "Ward No 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "145083ed-98c6-4f18-bf9d-18185094492b",
+                    "boundaryNum": 1,
+                    "name": "Civil Area - Ward No 2",
+                    "localname": "Civil Area - Ward No 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "Z001",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

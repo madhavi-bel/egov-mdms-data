@@ -1,0 +1,204 @@
+{
+  "tenantId": "pb.badamibagh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Badamibagh",
+        "localname": "Badamibagh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.badamibagh",
+        "children": [
+          {
+            "id": "a52bdabf-6841-4792-a069-4303cfcf980a",
+            "boundaryNum": 1,
+            "name": "Badamibagh",
+            "localname": "Badamibagh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "800014",
+            "children": [
+              {
+                "id": "d9532f4a-b279-4988-a182-8b0a2bfc5b9a",
+                "boundaryNum": 1,
+                "name": "Batwara",
+                "localname": "Batwara",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_001",
+                "children": [
+                  {
+                    "id": "9f7e3180-043d-4a50-9287-8bd178305259",
+                    "boundaryNum": 1,
+                    "name": "Batwara - Batwara",
+                    "localname": "Batwara - Batwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "01_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8003e412-d2c9-4f0b-8b23-10ffc03764ff",
+                "boundaryNum": 1,
+                "name": "Yatoo Mohalla Shivpora",
+                "localname": "Yatoo Mohalla Shivpora",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_002",
+                "children": [
+                  {
+                    "id": "f4527426-7d8a-47ce-8f33-5fd0df5eb1f9",
+                    "boundaryNum": 1,
+                    "name": "Yatoo Mohalla Shivpora - Yatoo Mohalla Shivpora",
+                    "localname": "Yatoo Mohalla Shivpora - Yatoo Mohalla Shivpora",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d47b94e-4dbd-491f-81bf-77de8e9091f0",
+                "boundaryNum": 1,
+                "name": "Shivpora",
+                "localname": "Shivpora",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_003",
+                "children": [
+                  {
+                    "id": "a789773c-69a7-4dcf-9e02-3889bc97f45d",
+                    "boundaryNum": 1,
+                    "name": "Shivpora - Shivpora",
+                    "localname": "Shivpora - Shivpora",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "03_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "868d5bf9-1c0c-49a0-b8a8-54cd15fb7292",
+                "boundaryNum": 1,
+                "name": "Palpora",
+                "localname": "Palpora",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_004",
+                "children": [
+                  {
+                    "id": "7c66366b-7c6f-475d-9fe4-8427dd34f87f",
+                    "boundaryNum": 1,
+                    "name": "Palpora - Palpora",
+                    "localname": "Palpora - Palpora",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2a6e23b1-4888-47eb-8dd3-a3582e230ab6",
+                "boundaryNum": 1,
+                "name": "Sonwar",
+                "localname": "Sonwar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_005",
+                "children": [
+                  {
+                    "id": "45cb3d30-c1a9-4429-be05-ac7fb66c7df0",
+                    "boundaryNum": 1,
+                    "name": "Sonwar - Sonwar",
+                    "localname": "Sonwar - Sonwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b826d860-9497-4144-8eda-8b8bf46d6f7f",
+                "boundaryNum": 1,
+                "name": "Sadar Bazar",
+                "localname": "Sadar Bazar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_006",
+                "children": [
+                  {
+                    "id": "22c06965-a125-409e-a00c-25489c35ef9b",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - Sadar Bazar",
+                    "localname": "Sadar Bazar - Sadar Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "06_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d59c4743-c049-417f-8774-1ef824057235",
+                "boundaryNum": 1,
+                "name": "Indra Nagar",
+                "localname": "Indra Nagar",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "BBC_007",
+                "children": [
+                  {
+                    "id": "c3261eb7-5e73-43e0-97ac-68142c4bf13e",
+                    "boundaryNum": 1,
+                    "name": "Indra Nagar - Indra Nagar",
+                    "localname": "Indra Nagar - Indra Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "07_01",
+                    "area": "800014",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
