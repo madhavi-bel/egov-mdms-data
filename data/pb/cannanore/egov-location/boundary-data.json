@@ -58,7 +58,20 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W003",
-                "children": []
+                "children": [
+                  {
+                    "id": "051c6714-630f-4be0-bb5c-222ee6665679",
+                    "boundaryNum": 1,
+                    "name": "Civil area - Ward 3",
+                    "localname": "Civil area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "CIVIL-AREA",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
               },
               {
                 "id": "97887e9d-c31f-4c52-8c4e-0311c9d42a0c",
@@ -101,6 +114,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BUS-STD",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "b55750b5-e565-48a9-b915-6cecf74e0f25",
+                    "boundaryNum": 1,
+                    "name": "Prabhath Junction - Ward 6",
+                    "localname": "Prabhath Junction - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PRAB-JN",
                     "area": "Z01",
                     "children": []
                   }
