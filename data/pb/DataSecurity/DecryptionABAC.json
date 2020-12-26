@@ -1437,7 +1437,7 @@
         ]
       },
       {
-        "key" : "MiscReceiptUnpaidChallan",
+        "key" : "ChallanStatusRegistry",
         "roleAttributeAccessList" : [
           {
             "roleCode" : "EMPLOYEE",
