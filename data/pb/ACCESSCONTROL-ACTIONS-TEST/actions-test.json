@@ -17410,7 +17410,7 @@
       "code": "null",
       "navigationURL": "lams-common/newApplication",
       "path": "Lams.apply",
-      "leftIcon": "custom:file-plus"
+      "leftIcon": "custom:library-books"
     },
     {
       "id": 5064,
@@ -17424,7 +17424,7 @@
       "code": "null",
       "path": "Lams.Search",
       "navigationURL": "lams-employee/search",
-      "leftIcon": "action:search",
+      "leftIcon": "custom:library-books",
       "rightIcon": ""
     },
     {
