@@ -17451,7 +17451,7 @@
       "code": "",
       "path": "",
       "navigationURL": "/lams-employee/lamsHome",
-      "leftIcon": "action:librarybooks",
+      "leftIcon": "custom:library-books",
       "rightIcon": "",
       "queryParams": ""
     },
@@ -17522,7 +17522,7 @@
       "code": "null",
       "path": "Lease",
       "navigationURL": "lams-citizen/home",
-      "leftIcon": "custom:account-alert",
+      "leftIcon": "custom:library-books",
       "rightIcon": ""
     },
     {
@@ -17591,7 +17591,7 @@
       "code": "null",
       "path": "Lams.Applications",
       "navigationURL": "lams-employee/lamsHome",
-      "leftIcon": "custom:account-alert",
+      "leftIcon": "custom:library-books",
       "rightIcon": ""
     },
     {
