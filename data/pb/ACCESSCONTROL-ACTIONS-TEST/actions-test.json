@@ -17719,7 +17719,7 @@
       "code": "null",
       "navigationURL": "/lams-employee/search",
       "path": "Lams.search",
-      "leftIcon": "action:launch"
+      "leftIcon": "action:search"
     },
     {
       "id": 5088,
