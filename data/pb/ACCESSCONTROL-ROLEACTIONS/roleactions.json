@@ -12108,18 +12108,6 @@
     },
     {
       "rolecode": "LR_APPROVER_CEO",
-      "actionid": 5065,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER_DEO",
-      "actionid": 5065,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER_CEO",
       "actionid": 5066,
       "actioncode": "",
       "tenantId": "pb"
@@ -12282,12 +12270,6 @@
     },
     {
       "rolecode": "LR_APPROVER_DEO",
-      "actionid": 5077,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_CEMP",
       "actionid": 5077,
       "actioncode": "",
       "tenantId": "pb"

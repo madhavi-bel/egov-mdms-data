@@ -17428,19 +17428,6 @@
       "rightIcon": ""
     },
     {
-      "id": 5065,
-      "name": "Lease Home",
-      "url": "/lams-employee/lamsHome",
-      "displayName": "Lease Home",
-      "orderNumber": 5,
-      "enabled": false,
-      "serviceCode": "Lams",
-      "code": "null",
-      "navigationURL": "/lams-employee/lamsHome",
-      "path": "Lams.lamsHome",
-      "leftIcon": "places:business-center"
-    },
-    {
       "id": 5066,
       "name": "Search Lease",
       "url": "/lams-services/v1/_search",
