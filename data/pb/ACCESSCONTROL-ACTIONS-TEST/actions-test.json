@@ -17424,7 +17424,7 @@
       "code": "null",
       "path": "Lams.Search",
       "navigationURL": "lams-employee/search",
-      "leftIcon": "custom:account-alert",
+      "leftIcon": "action:search",
       "rightIcon": ""
     },
     {
