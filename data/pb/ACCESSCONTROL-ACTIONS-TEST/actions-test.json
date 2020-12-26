@@ -17410,7 +17410,7 @@
       "code": "null",
       "navigationURL": "lams-common/newApplication",
       "path": "Lams.apply",
-      "leftIcon": "places:business-center"
+      "leftIcon": "custom:file-plus"
     },
     {
       "id": 5064,
@@ -17537,7 +17537,7 @@
       "code": "",
       "path": "",
       "navigationURL": "lams-citizen/home",
-      "leftIcon": "custom:trade-license",
+      "leftIcon": "custom:library-books",
       "rightIcon": "",
       "queryParams": ""
     },
