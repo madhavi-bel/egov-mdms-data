@@ -31,7 +31,7 @@
       "active": true
     },
     {
-      "code": "NoBed",
+      "code": "Bed",
       "active": true
     },
     {
@@ -39,11 +39,11 @@
       "active": true
     },
     {
-      "code": "NoWorker",
+      "code": "Worker",
       "active": true
     },
     {
-      "code": "NoCategory",
+      "code": "Category",
       "active": true
     }
     

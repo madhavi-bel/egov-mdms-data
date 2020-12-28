@@ -36,7 +36,20 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W001",
-                "children": []
+                "children": [
+                  {
+                    "id": "188c9013-4fb8-4450-a315-f87c53d01059",
+                    "boundaryNum": 1,
+                    "name": "Ward 1",
+                    "localname": "Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WARD-1",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
               },
               {
                 "id": "1016433d-3409-43cf-a65b-f5627b0d5ff4",
@@ -47,7 +60,20 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W002",
-                "children": []
+                "children": [
+                  {
+                    "id": "199d9013-4fb8-4450-a315-f76c53d01048",
+                    "boundaryNum": 1,
+                    "name": "Ward 2",
+                    "localname": "Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WARD-2",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
               },
               {
                 "id": "70131ce4-714d-4a83-a0a2-5832e1478fa9",
@@ -58,7 +84,20 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W003",
-                "children": []
+                "children": [
+                  {
+                    "id": "051c6714-630f-4be0-bb5c-222ee6665679",
+                    "boundaryNum": 1,
+                    "name": "Civil area - Ward 3",
+                    "localname": "Civil area - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "CIVIL-AREA",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
               },
               {
                 "id": "97887e9d-c31f-4c52-8c4e-0311c9d42a0c",
@@ -69,7 +108,20 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W004",
-                "children": []
+                "children": [
+                  {
+                    "id": "154c9013-4fb8-3450-a315-f97c53d01546",
+                    "boundaryNum": 1,
+                    "name": "Ward 4",
+                    "localname": "Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WARD-4",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
               },
               {
                 "id": "6f2691ba-6f48-423e-9f8e-f92f68932fc2",
@@ -80,7 +132,20 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W005",
-                "children": []
+                "children": [
+                  {
+                    "id": "051c6714-630f-4be0-bb5c-222de3465678",
+                    "boundaryNum": 1,
+                    "name": "Ward 5",
+                    "localname": "Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WARD-5",
+                    "area": "Z01",
+                    "children": []
+                  }
+                ]
               },
               {
                 "id": "a152febf-4f2e-4bd6-b0fa-9eabcee922c5",
@@ -101,6 +166,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BUS-STD",
+                    "area": "Z01",
+                    "children": []
+                  },
+                  {
+                    "id": "b55750b5-e565-48a9-b915-6cecf74e0f25",
+                    "boundaryNum": 1,
+                    "name": "Prabhath Junction - Ward 6",
+                    "localname": "Prabhath Junction - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PRAB-JN",
                     "area": "Z01",
                     "children": []
                   }

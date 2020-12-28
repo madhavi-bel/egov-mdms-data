@@ -105,6 +105,40 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A4",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A5",
       "uom": null,
       "applicationDocument": [
@@ -343,6 +377,40 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A12",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A13",
       "uom": null,
       "applicationDocument": [
@@ -445,7 +513,75 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A16",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A17",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A18",
       "uom": null,
       "applicationDocument": [
         {
@@ -547,7 +683,73 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A21",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT",
+            "MEDCERT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.VETERINARY.C1",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C2",
       "uom": null,
       "applicationDocument": [
         {
@@ -867,7 +1069,199 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.MEDIUM.F2",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDIUM.F3",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.MEDIUM.F4",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDIUM.F5",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDIUM.F6",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDIUM.F7",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDIUM.F8",
       "uom": null,
       "applicationDocument": [
         {
@@ -1219,6 +1613,70 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.OTHERS.E7",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E8",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.OTHERS.E9",
       "uom": null,
       "applicationDocument": [
@@ -1252,6 +1710,38 @@
     },
     {
       "code": "TRADE.OTHERS.E10",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E11",
       "uom": null,
       "applicationDocument": [
         {
@@ -1348,6 +1838,38 @@
     },
     {
       "code": "TRADE.OTHERS.E14",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E15",
       "uom": null,
       "applicationDocument": [
         {
@@ -1731,7 +2253,295 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.OTHERS.E27",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E28",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E29",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.OTHERS.E30",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E31",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E32",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E33",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E34",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E35",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E36",
       "uom": null,
       "applicationDocument": [
         {
@@ -1827,7 +2637,103 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.OTHERS.E39",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.OTHERS.E40",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E41",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E42",
       "uom": null,
       "applicationDocument": [
         {
@@ -1892,6 +2798,38 @@
     },
     {
       "code": "TRADE.OTHERS.E44",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E45",
       "uom": null,
       "applicationDocument": [
         {
@@ -2020,6 +2958,70 @@
     },
     {
       "code": "TRADE.OTHERS.E49",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E50",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "TAXRECEIPT"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E51",
       "uom": null,
       "applicationDocument": [
         {

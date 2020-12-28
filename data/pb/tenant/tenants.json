@@ -4,7 +4,7 @@
   "tenants": [
     {
       "code": "pb.agra",
-      "name": "Cantonment Board Agra",
+      "name": "CB Agra",
       "description": "Agra",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/agralogo.png",
       "logoIdPdf": "agralogo.png",
@@ -37,7 +37,7 @@
     },
     {
       "code": "pb.delhi",
-      "name": "Cantonment Board Delhi",
+      "name": "CB Delhi",
       "description": "Delhi",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/delhilogo.jpg",
       "logoIdPdf": "delhilogo.jpg",
@@ -98,7 +98,7 @@
     },
     {
       "code": "pb.lucknow",
-      "name": "Cantonment Board Lucknow",
+      "name": "CB Lucknow",
       "description": "Lucknow",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/lucknowlogo.jpg",
       "logoIdPdf": "lucknowlogo.jpg",
@@ -131,7 +131,7 @@
     },
     {
       "code": "pb.pune",
-      "name": "Cantonment Board Pune",
+      "name": "CB Pune",
       "description": "Pune",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/punelogo.jpg",
       "logoIdPdf": "punelogo.jpg",
@@ -164,7 +164,7 @@
     },
     {
       "code": "pb.secunderabad",
-      "name": "Cantonment Board Secunderabad",
+      "name": "CB Secunderabad",
       "description": "Secunderabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
       "logoIdPdf": "scb.png",
@@ -196,7 +196,7 @@
     },
     {
       "code": "pb.testing",
-      "name": "Cantonment Board Testing",
+      "name": "CB Testing",
       "description": "Testing",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/scb.png",
       "logoIdPdf": "scb.png",
@@ -228,7 +228,7 @@
     },
     {
       "code": "pb.ambala",
-      "name": "Cantonment Board Ambala",
+      "name": "CB Ambala",
       "description": "Ambala",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ambalalogo.png",
       "logoIdPdf": "ambalalogo.png",
@@ -262,7 +262,7 @@
     },
     {
       "code": "pb.bareilly",
-      "name": "Cantonment Board Bareilly",
+      "name": "CB Bareilly",
       "description": "Bareilly",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/bareillylogo.png",
       "logoIdPdf": "bareillylogo.png",
@@ -296,7 +296,7 @@
     },
     {
       "code": "pb.mathura",
-      "name": "Cantonment Board Mathura",
+      "name": "CB Mathura",
       "description": "Mathura",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/mathuralogo.png",
       "logoIdPdf": "mathuralogo.png",
@@ -330,7 +330,7 @@
     },
     {
       "code": "pb.allahabad",
-      "name": "Cantonment Board Allahabad",
+      "name": "CB Allahabad",
       "description": "Allahabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/allahabadlogo.png",
       "logoIdPdf": "allahabadlogo.png",
@@ -360,11 +360,11 @@
         "population": null
       },
       "address": "Office of Cantonment Board Allahabad 2 Ashoka Road New Cantt Pin - 211001",
-      "contactNumber": "Ph No-0532-2422121,\nFax - 0532-2420193"
+      "contactNumber": "Ph No-0532-2422121,Fax - 0532-2420193"
     },
     {
       "code": "pb.meerut",
-      "name": "Cantonment Board Meerut",
+      "name": "CB Meerut",
       "description": "Meerut",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/meerutlogo.png",
       "logoIdPdf": "meerutlogo.png",
@@ -398,7 +398,7 @@
     },
     {
       "code": "pb.mhow",
-      "name": "Cantonment Board Mhow",
+      "name": "CB Mhow",
       "description": "Mhow",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/mhowlogo.png",
       "logoIdPdf": "mhowlogo.png",
@@ -432,7 +432,7 @@
     },
     {
       "code": "pb.kasauli",
-      "name": "Cantonment Board Kasauli",
+      "name": "CB Kasauli",
       "description": "Kasauli",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kasaulilogo.png",
       "logoIdPdf": "kasaulilogo.png",
@@ -466,7 +466,7 @@
     },
     {
       "code": "pb.lebong",
-      "name": "Cantonment Board Lebong",
+      "name": "CB Lebong",
       "description": "Lebong",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/lebonglogo.png",
       "logoIdPdf": "lebonglogo.png",
@@ -500,7 +500,7 @@
     },
     {
       "code": "pb.jammu",
-      "name": "Cantonment Board Jammu",
+      "name": "CB Jammu",
       "description": "Jammu",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jammulogo.png",
       "logoIdPdf": "jammulogo.png",
@@ -534,7 +534,7 @@
     },
     {
       "code": "pb.jalandhar",
-      "name": "Cantonment Board Jalandhar",
+      "name": "CB Jalandhar",
       "description": "Jalandhar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jalandharlogo.png",
       "logoIdPdf": "jalandharlogo.png",
@@ -568,7 +568,7 @@
     },
     {
       "code": "pb.danapur",
-      "name": "Cantonment Board Danapur",
+      "name": "CB Danapur",
       "description": "Danapur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/danapurlogo.png",
       "logoIdPdf": "danapurlogo.png",
@@ -602,7 +602,7 @@
     },
     {
       "code": "pb.dagshai",
-      "name": "Cantonment Board Dagshai",
+      "name": "CB Dagshai",
       "description": "Dagshai",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dagshailogo.png",
       "logoIdPdf": "dagshailogo.png",
@@ -636,7 +636,7 @@
     },
     {
       "code": "pb.roorkee",
-      "name": "Cantonment Board Roorkee",
+      "name": "CB Roorkee",
       "description": "Roorkee",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/roorkeelogo.png",
       "logoIdPdf": "roorkeelogo.png",
@@ -670,7 +670,7 @@
     },
     {
       "code": "pb.pachmarhi",
-      "name": "Cantonment Board Pachmarhi",
+      "name": "CB Pachmarhi",
       "description": "Pachmarhi",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/pachmarhilogo.png",
       "logoIdPdf": "pachmarhilogo.png",
@@ -679,7 +679,7 @@
       "type": "CITY",
       "twitterUrl": "https://twitter.com/PachmarhiCantt",
       "facebookUrl": "https://www.facebook.com/CBpachmarhi",
-      "emailId": "cbpachmarhi@dgest.org\nceopach-stats@nic.in",
+      "emailId": "cbpachmarhi@dgest.orgceopach-stats@nic.in",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -699,12 +699,12 @@
         "municipalityName": "Cantonment Board Pachmarhi",
         "population": "12062"
       },
-      "address": "Office of the Chief Executive Officer, Near Bus Stand, Pipariya Road, Pachmarhi\nDistrict Hoshangabad 461881 Madhya Pradesh",
+      "address": "Office of the Chief Executive Officer, Near Bus Stand, Pipariya Road, PachmarhiDistrict Hoshangabad 461881 Madhya Pradesh",
       "contactNumber": "07578-252027, 07578252441"
     },
     {
       "code": "pb.nasirabad",
-      "name": "Cantonment Board Nasirabad",
+      "name": "CB Nasirabad",
       "description": "Nasirabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/nasirabadlogo.png",
       "logoIdPdf": "nasirabadlogo.png",
@@ -738,7 +738,7 @@
     },
     {
       "code": "pb.deolali",
-      "name": "Cantonment Board Deolali",
+      "name": "CB Deolali",
       "description": "Deolali",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/deolalilogo.png",
       "logoIdPdf": "deolalilogo.png",
@@ -772,7 +772,7 @@
     },
     {
       "code": "pb.dehuroad",
-      "name": "Cantonment Board Dehuroad",
+      "name": "CB Dehuroad",
       "description": "Dehuroad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dehuroadlogo.png",
       "logoIdPdf": "dehuroadlogo.png",
@@ -781,7 +781,7 @@
       "type": "CITY",
       "twitterUrl": "https://twitter.com/board_ceo",
       "facebookUrl": "https://www.facebook.com/dehuroadcantonmentboard.cbdr.9/",
-      "emailId": "ceodehuroad@gmail.com,\nceodehu-stats@nic.in",
+      "emailId": "ceodehuroad@gmail.com,ceodehu-stats@nic.in",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -806,7 +806,7 @@
     },
     {
       "code": "pb.ahmednagar",
-      "name": "Cantonment Board Ahmednagar",
+      "name": "CB Ahmednagar",
       "description": "Ahmednagar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ahmednagarlogo.png",
       "logoIdPdf": "ahmednagarlogo.png",
@@ -840,7 +840,7 @@
     },
     {
       "code": "pb.amritsar",
-      "name": "Cantonment Board Amritsar",
+      "name": "CB Amritsar",
       "description": "Amritsar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/amritsarlogo.png",
       "logoIdPdf": "amritsarlogo.png",
@@ -874,7 +874,7 @@
     },
     {
       "code": "pb.ramgarh",
-      "name": "Cantonment board Ramgarh",
+      "name": "CB Ramgarh",
       "description": "Ramgarh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ramgarhlogo.png",
       "logoIdPdf": "ramgarhlogo.png",
@@ -908,7 +908,7 @@
     },
     {
       "code": "pb.jalapahar",
-      "name": "Cantonment Board Jalapahar",
+      "name": "CB Jalapahar",
       "description": "Jalapahar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jalapaharlogo.png",
       "logoIdPdf": "jalapaharlogo.png",
@@ -942,7 +942,7 @@
     },
     {
       "code": "pb.wellington",
-      "name": "Cantonment Board Wellington",
+      "name": "CB Wellington",
       "description": "Wellington",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/wellingtonlogo.png",
       "logoIdPdf": "wellingtonlogo.png",
@@ -971,12 +971,12 @@
         "municipalityName": "Cantonment Board Wellington",
         "population": "19462"
       },
-      "address": "The Chief Executive Officer,\nCantonment Board,\nMinistry of Defence,\nWellington,The Nilgiris - 643 231",
+      "address": "The Chief Executive Officer,Cantonment Board,Ministry of Defence,Wellington,The Nilgiris - 643 231",
       "contactNumber": "0423-2230213"
     },
     {
       "code": "pb.subathu",
-      "name": "Cantonment Board Subathu",
+      "name": "CB Subathu",
       "description": "Subathu",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/subathulogo.png",
       "logoIdPdf": "subathulogo.png",
@@ -1010,7 +1010,7 @@
     },
     {
       "code": "pb.almora",
-      "name": "Cantonment Board Almora",
+      "name": "CB Almora",
       "description": "Almora",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/almoralogo.png",
       "logoIdPdf": "almoralogo.png",
@@ -1044,7 +1044,7 @@
     },
     {
       "code": "pb.chakrata",
-      "name": "Cantonment Board Chakrata",
+      "name": "CB Chakrata",
       "description": "Chakrata",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/chakratalogo.png",
       "logoIdPdf": "chakratalogo.png",
@@ -1078,7 +1078,7 @@
     },
     {
       "code": "pb.clementtown",
-      "name": "Cantonment Board Clement Town",
+      "name": "CB Clement Town",
       "description": "ClementTown",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/clementtownlogo.png",
       "logoIdPdf": "clementtownlogo.png",
@@ -1112,7 +1112,7 @@
     },
     {
       "code": "pb.dehradun",
-      "name": "Cantonment Board Dehradun",
+      "name": "CB Dehradun",
       "description": "Dehradun",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dehradunlogo.png",
       "logoIdPdf": "dehradunlogo.png",
@@ -1146,7 +1146,7 @@
     },
     {
       "code": "pb.faizabad",
-      "name": "Cantonment Board Faizabad",
+      "name": "CB Faizabad",
       "description": "Faizabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/faizabadlogo.png",
       "logoIdPdf": "faizabadlogo.png",
@@ -1180,7 +1180,7 @@
     },
     {
       "code": "pb.fatehgarh",
-      "name": "Cantonment Board Fatehgarh",
+      "name": "CB Fatehgarh",
       "description": "Fatehgarh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/fatehgarhlogo.png",
       "logoIdPdf": "fatehgarhlogo.png",
@@ -1214,7 +1214,7 @@
     },
     {
       "code": "pb.jabalpur",
-      "name": "Cantonment Board Jabalpur",
+      "name": "CB Jabalpur",
       "description": "Jabalpur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jabalpurlogo.png",
       "logoIdPdf": "jabalpurlogo.png",
@@ -1243,12 +1243,12 @@
         "municipalityName": "Cantonment Board Jabalpur",
         "population": "72257"
       },
-      "address": "Cantonment Board Jabalpur\n6, Norris Road, Near Shivaji Ground,\nSadar Cantt, Jabalpur\nMadhya Pradesh-482001",
+      "address": "Cantonment Board Jabalpur6, Norris Road, Near Shivaji Ground,Sadar Cantt, JabalpurMadhya Pradesh-482001",
       "contactNumber": "0761-2620167, 2622302"
     },
     {
       "code": "pb.kanpur",
-      "name": "Cantonment Board Kanpur",
+      "name": "CB Kanpur",
       "description": "Kanpur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kanpurlogo.png",
       "logoIdPdf": "kanpurlogo.png",
@@ -1282,7 +1282,7 @@
     },
     {
       "code": "pb.landour",
-      "name": "Cantonment Board Landour",
+      "name": "CB Landour",
       "description": "Landour",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/landourlogo.png",
       "logoIdPdf": "landourlogo.png",
@@ -1316,7 +1316,7 @@
     },
     {
       "code": "pb.lansdowne",
-      "name": "Cantonment Board Lansdowne",
+      "name": "CB Lansdowne",
       "description": "Lansdowne",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/lansdownelogo.png",
       "logoIdPdf": "lansdownelogo.png",
@@ -1350,7 +1350,7 @@
     },
     {
       "code": "pb.khasyol",
-      "name": "Cantonment Board Khasyol",
+      "name": "CB Khasyol",
       "description": "Khasyol",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/khasyollogo.png",
       "logoIdPdf": "khasyollogo.png",
@@ -1379,12 +1379,12 @@
         "municipalityName": "Cantonment Board Khasyol",
         "population": "12028"
       },
-      "address": "Cantonment Board Office\n Yol Cantonment Board,\n Khas Yol,Distt. Kangra (Himachal Pradesh).",
+      "address": "Cantonment Board Office Khasyol Cantonment Board, Khasyol,Distt. Kangra (Himachal Pradesh).",
       "contactNumber": "01892-236014"
     },
     {
       "code": "pb.jutogh",
-      "name": "Cantonment Board Jutogh",
+      "name": "CB Jutogh",
       "description": "Jutogh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jutoghlogo.png",
       "logoIdPdf": "jutoghlogo.png",
@@ -1418,7 +1418,7 @@
     },
     {
       "code": "pb.shahjahanpur",
-      "name": "Cantonment Board Shahjahanpur",
+      "name": "CB Shahjahanpur",
       "description": "Shahjahanpur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/shahjahanpurlogo.png",
       "logoIdPdf": "shahjahanpurlogo.png",
@@ -1452,7 +1452,7 @@
     },
     {
       "code": "pb.varanasi",
-      "name": "Cantonment Board Varanasi",
+      "name": "CB Varanasi",
       "description": "Varanasi",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/varanasilogo.png",
       "logoIdPdf": "varanasilogo.png",
@@ -1486,7 +1486,7 @@
     },
     {
       "code": "pb.ferozepur",
-      "name": "Cantonment Board Ferozepur",
+      "name": "CB Ferozepur",
       "description": "Ferozepur",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ferozepurlogo.png",
       "logoIdPdf": "ferozepurlogo.png",
@@ -1520,7 +1520,7 @@
     },
     {
       "code": "pb.dalhousie",
-      "name": "Cantonment Board Dalhousie",
+      "name": "CB Dalhousie",
       "description": "Dalhousie",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/dalhousielogo.png",
       "logoIdPdf": "dalhousielogo.png",
@@ -1554,7 +1554,7 @@
     },
     {
       "code": "pb.shillong",
-      "name": "Cantonment Board Shillong",
+      "name": "CB Shillong",
       "description": "Shillong",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/shillonglogo.png",
       "logoIdPdf": "shillonglogo.png",
@@ -1588,7 +1588,7 @@
     },
     {
       "code": "pb.badamibagh",
-      "name": "Cantonment Board Badamibagh",
+      "name": "CB Badamibagh",
       "description": "Badamibagh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/badamibaghlogo.png",
       "logoIdPdf": "badamibaghlogo.png",
@@ -1622,7 +1622,7 @@
     },
     {
       "code": "pb.ajmer",
-      "name": "Cantonment Board Ajmer",
+      "name": "CB Ajmer",
       "description": "Ajmer",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ajmerlogo.png",
       "logoIdPdf": "ajmerlogo.png",
@@ -1656,7 +1656,7 @@
     },
     {
       "code": "pb.aurangabad",
-      "name": "Cantonment Board Aurangabad",
+      "name": "CB Aurangabad",
       "description": "Aurangabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/aurangabadlogo.png",
       "logoIdPdf": "aurangabadlogo.png",
@@ -1685,12 +1685,12 @@
         "municipalityName": "Cantonment Board Aurangabad",
         "population": "18051"
       },
-      "address": "Aurangabad Cantonment Board,\nOpp. of Holy Cross English High School,\nCantonment, Aurangabad – 431002.",
+      "address": "Aurangabad Cantonment Board,Opp. of Holy Cross English High School,Cantonment, Aurangabad – 431002.",
       "contactNumber": "P.h.No 0240-2370806"
     },
     {
       "code": "pb.babina",
-      "name": "Cantonment Board  Babina",
+      "name": "CB  Babina",
       "description": "Babina",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/babinalogo.png",
       "logoIdPdf": "babinalogo.png",
@@ -1719,12 +1719,12 @@
         "municipalityName": "Cantonment Board  Babina",
         "population": "27852"
       },
-      "address": "OFFICE OF THE CANTONMENT BOARD BABINA\n STATION ROAD BABINA CANTT\n DIST JHANSI UP \n 284401",
+      "address": "OFFICE OF THE CANTONMENT BOARD BABINA STATION ROAD BABINA CANTT DIST JHANSI UP 284401",
       "contactNumber": "Ph No: 0510-2740194,2740017"
     },
     {
       "code": "pb.belgaum",
-      "name": "Cantonment Board Belgaum",
+      "name": "CB Belgaum",
       "description": "Belgaum",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/belgaumlogo.png",
       "logoIdPdf": "belgaumlogo.png",
@@ -1758,7 +1758,7 @@
     },
     {
       "code": "pb.cannanore",
-      "name": "Cantonment Board Cannanore",
+      "name": "CB Cannanore",
       "description": "Cannanore",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/cannanorelogo.png",
       "logoIdPdf": "cannanorelogo.png",
@@ -1792,7 +1792,7 @@
     },
     {
       "code": "pb.bakloh",
-      "name": "Cantonment Board Bakloh",
+      "name": "CB Bakloh",
       "description": "Bakloh",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/baklohlogo.png",
       "logoIdPdf": "baklohlogo.png",
@@ -1826,7 +1826,7 @@
     },
     {
       "code": "pb.stm",
-      "name": "Cantonment Board St. Thomas Mount",
+      "name": "CB St. Thomas Mount",
       "description": "stm",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/stmlogo.png",
       "logoIdPdf": "stmlogo.png",
@@ -1860,7 +1860,7 @@
     },
     {
       "code": "pb.saugor",
-      "name": "Cantonment Board Saugor",
+      "name": "CB Saugor",
       "description": "Saugor",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/saugorlogo.png",
       "logoIdPdf": "saugorlogo.png",
@@ -1894,7 +1894,7 @@
     },
     {
       "code": "pb.jhansi",
-      "name": "Cantonment Board Jhansi",
+      "name": "CB Jhansi",
       "description": "Jhansi",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/jhansilogo.png",
       "logoIdPdf": "jhansilogo.png",
@@ -1928,7 +1928,7 @@
     },
     {
       "code": "pb.kamptee",
-      "name": "Cantonment Board Kamptee",
+      "name": "CB Kamptee",
       "description": "Kamptee",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kampteelogo.png",
       "logoIdPdf": "kampteelogo.png",
@@ -1962,7 +1962,7 @@
     },
     {
       "code": "pb.kirkee",
-      "name": "Cantonment Board Kirkee",
+      "name": "CB Kirkee",
       "description": "Kirkee",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/kirkeelogo.png",
       "logoIdPdf": "kirkeelogo.png",
@@ -1996,7 +1996,7 @@
     },
     {
       "code": "pb.morar",
-      "name": "Cantonment Board Morar",
+      "name": "CB Morar",
       "description": "Morar",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/morarlogo.png",
       "logoIdPdf": "morarlogo.png",
@@ -2025,12 +2025,12 @@
         "municipalityName": "Cantonment Board Morar",
         "population": "48464"
       },
-      "address": "Office of the Cantonment Board Morar, \nSubhash Marg, Morar Cantt, Gwalior - 474006",
+      "address": "Office of the Cantonment Board Morar, Subhash Marg, Morar Cantt, Gwalior - 474006",
       "contactNumber": "Ph No: 0751-2368703, 2462823(FAX)"
     },
     {
       "code": "pb.ahmedabad",
-      "name": "Cantonment Board Ahmedabad",
+      "name": "CB Ahmedabad",
       "description": "Ahmedabad",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ahmedabadlogo.png",
       "logoIdPdf": "ahmedabadlogo.png",
@@ -2064,7 +2064,7 @@
     },
     {
       "code": "pb.barrackpore",
-      "name": "Cantonment Board Barrackpore",
+      "name": "CB Barrackpore",
       "description": "Barrackpore",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/barrackporelogo.png",
       "logoIdPdf": "barrackporelogo.png",
@@ -2093,12 +2093,12 @@
         "municipalityName": "Cantonment Board Barrackpore",
         "population": "23266"
       },
-      "address": "Office of Cantonment Board Barrackpore, \n77 Middle Road \nBarrackpore-700120",
+      "address": "Office of Cantonment Board Barrackpore, 77 Middle Road Barrackpore-700120",
       "contactNumber": "033-25946448,25948022(Ext.)"
     },
     {
       "code": "pb.ranikhet",
-      "name": "Cantonment Board Ranikhet",
+      "name": "CB Ranikhet",
       "description": "Ranikhet",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/ranikhetlogo.png",
       "logoIdPdf": "ranikhetlogo.png",
@@ -2132,7 +2132,7 @@
     },
     {
       "code": "pb.nainital",
-      "name": "Cantonment Board Nainital",
+      "name": "CB Nainital",
       "description": "Nainital",
       "logoId": "https://raw.githubusercontent.com/belegovgithub/webaccess/master/images/nainitallogo.png",
       "logoIdPdf": "nainitallogo.png",

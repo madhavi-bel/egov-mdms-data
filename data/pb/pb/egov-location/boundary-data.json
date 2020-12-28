@@ -1,0 +1,35 @@
+{
+  "tenantId": "pb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "DGDE",
+        "localname": "DGDE",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z001",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

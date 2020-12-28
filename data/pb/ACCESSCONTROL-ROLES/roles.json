@@ -57,11 +57,6 @@
       "name": "Customer Support Representative",
       "description": "Employee who files and follows up complaints on behalf of the citizen"
     },
-    {
-      "code": "PGR-ADMIN",
-      "name": "PGR Administrator",
-      "description": "Admin role that has super access over the system"
-    },
 	  {
       "code": "GRO",
       "name": "Grievance Routing Officer",
@@ -83,76 +78,6 @@
       "description": "Admin role that as access over a state"
     },
     {
-      "code": "WS_CEMP",
-      "name": "WS Counter Employee",
-      "description": "Counter Employee for  Water connection who files WC on behalf of the citizen"
-    },
-    {
-      "code": "WS_DOC_VERIFIER",
-      "name": "WS doc verifier",
-      "description": "Water connection document verifier"
-    },
-    {
-      "code": "WS_FIELD_INSPECTOR",
-      "name": "WS Field Inspector",
-      "description": "Water connection Field Inspector"
-    },
-    {
-      "code": "WS_APPROVER",
-      "name": "WS Approver",
-      "description": "Approver who verifies and approves the Water Connection application"
-    },
-    {
-      "code": "WS_CLERK",
-      "name": "WS Clerk",
-      "description": ""
-    },
-    {
-      "code": "SW_CEMP",
-      "name": "SW Counter Employee",
-      "description": "SW counter employee can take action as citizen"
-    },
-    {
-      "code": "SW_DOC_VERIFIER",
-      "name": "SW Document Verifier",
-      "description": "SW Document Verifier"
-    },
-    {
-      "code": "SW_FIELD_INSPECTOR",
-      "name": "SW Field Inspector",
-      "description": "SW Inspector can take action like verify and forword, send back to do"
-    },
-    {
-      "code": "SW_APPROVER",
-      "name": "SW Approver",
-      "description": "SW Approver can approve the connection application"
-    },
-    {
-      "code": "SW_CLERK",
-      "name": "SW Clerk",
-      "description": "SW Clerk can activate the connection application"
-    },
-    {
-      "code": "PT_CEMP",
-      "name": "PT Counter Employee",
-      "description": "PT counter employee can take action as citizen"
-    },
-    {
-      "code": "PT_DOC_VERIFIER",
-      "name": "PT Document Verifier",
-      "description": "PT Document Verifier"
-    },
-    {
-      "code": "PT_FIELD_INSPECTOR",
-      "name": "PT Field Inspector",
-      "description": "PT Inspector can take action like verify and forword, send back to do"
-    },
-    {
-      "code": "PT_APPROVER",
-      "name": "PT Approver",
-      "description": "PT Approver can approve the property application"
-    },
-    {
       "code": "LR_CEMP",
       "name": "LR Counter Employee",
       "description": "LR Counter Employee can approve the Lease Renewal Application"
@@ -160,19 +85,13 @@
     {
       "code": "LR_APPROVER_CEO",
       "name": "LR CEO",
-      "description": "LR Counter Employee can approve the Inside Civil Lease Renewal Application"
+      "description": "LR CEO can approve the Inside Civil Lease Renewal Application"
     },
     {
       "code": "LR_APPROVER_DEO",
       "name": "LR DEO",
-      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
-    },
-    {
-      "code": "LR_APPROVER",
-      "name": "LR DEO",
-      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
     }
-    
   ]
 }
 

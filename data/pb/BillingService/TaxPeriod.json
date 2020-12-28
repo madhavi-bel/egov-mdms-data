@@ -379,8 +379,16 @@
       "financialYear": "2016-17"
     },
     {
+      "fromDate": 1617215399000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2021",
+      "financialYear": "2021-22"
+    },
+    {
       "fromDate": 1585679399000,
-      "toDate": 1617172199000,
+      "toDate": 1617215399000,
       "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLRENEWAL2020",
@@ -1606,24 +1614,8 @@
         "fromDate": "1554076800000",
         "toDate": "1901145600000",
         "periodCycle": "ANNUAL",
-        "service": "TX.PROF_TAX",
-        "code": "TXPROFTAXFIELDFEE",
-        "financialYear": "2019-30"
-    },
-    {
-        "fromDate": "1554076800000",
-        "toDate": "1901145600000",
-        "periodCycle": "ANNUAL",
         "service": "TX.ANI_VEH",
         "code": "TXANIVEHFIELDFEE",
-        "financialYear": "2019-30"
-    },
-    {
-        "fromDate": "1554076800000",
-        "toDate": "1901145600000",
-        "periodCycle": "ANNUAL",
-        "service": "RENT.MARKET",
-        "code": "RENTMARKETFIELDFEE",
         "financialYear": "2019-30"
     },
     {

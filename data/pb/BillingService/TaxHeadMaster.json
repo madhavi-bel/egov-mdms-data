@@ -6804,16 +6804,6 @@
     },
     {
       "category": "TAX",
-      "service": "TX.PROF",
-      "name": "TX.PROF_TAX",
-      "code": "TX.PROF_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "TAX",
       "service": "TX.SANT",
       "name": "TX.SANT_TAX",
       "code": "TX.SANT_TAX",
@@ -8111,6 +8101,16 @@
       "isActualDemand": false,
       "order": "2",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.PROF",
+      "name": "TX.PROF_TAX",
+      "code": "TX.PROF_TAX",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": true
     },
     {
       "category": "CHARGES",
@@ -12444,29 +12444,9 @@
   },
   {
       "category": "ADVANCE_COLLECTION",
-      "service": "TX.PROF_TAX",
-      "name": "TX.PROF_TAX_SEC_DEP",
-      "code": "TX.PROF_TAX_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "ADVANCE_COLLECTION",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SEC_DEP",
       "code": "TX.ANI_VEH_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "ADVANCE_COLLECTION",
-      "service": "RENT.MARKET",
-      "name": "RENT.MARKET_SEC_DEP",
-      "code": "RENT.MARKET_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12487,16 +12467,6 @@
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SEC_DEP",
       "code": "OTHFEE.RTI_STAMP_SEC_DEP",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "ADVANCE_COLLECTION",
-      "service": "RENT.FSH_STRT",
-      "name": "RENT.FSH_STRT_SEC_DEP",
-      "code": "RENT.FSH_STRT_SEC_DEP",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12644,29 +12614,9 @@
   },
   {
       "category": "TAX",
-      "service": "TX.PROF_TAX",
-      "name": "TX.PROF_TAX_CGST",
-      "code": "TX.PROF_TAX_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_CGST",
       "code": "TX.ANI_VEH_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "TAX",
-      "service": "RENT.MARKET",
-      "name": "RENT.MARKET_CGST",
-      "code": "RENT.MARKET_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12687,16 +12637,6 @@
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_CGST",
       "code": "OTHFEE.RTI_STAMP_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "TAX",
-      "service": "RENT.FSH_STRT",
-      "name": "RENT.FSH_STRT_CGST",
-      "code": "RENT.FSH_STRT_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12844,29 +12784,9 @@
   },
   {
       "category": "TAX",
-      "service": "TX.PROF_TAX",
-      "name": "TX.PROF_TAX_SGST",
-      "code": "TX.PROF_TAX_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SGST",
       "code": "TX.ANI_VEH_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "TAX",
-      "service": "RENT.MARKET",
-      "name": "RENT.MARKET_SGST",
-      "code": "RENT.MARKET_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -12887,16 +12807,6 @@
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SGST",
       "code": "OTHFEE.RTI_STAMP_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "TAX",
-      "service": "RENT.FSH_STRT",
-      "name": "RENT.FSH_STRT_SGST",
-      "code": "RENT.FSH_STRT_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -13044,29 +12954,9 @@
   },
   {
       "category": "TAX",
-      "service": "TX.PROF_TAX",
-      "name": "TX.PROF_TAX_TAX",
-      "code": "TX.PROF_TAX_TAX",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": true
-  },
-  {
-      "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_TAX",
       "code": "TX.ANI_VEH_TAX",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": true
-  },
-  {
-      "category": "TAX",
-      "service": "RENT.MARKET",
-      "name": "RENT.MARKET_TAX",
-      "code": "RENT.MARKET_TAX",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -13087,16 +12977,6 @@
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_TAX",
       "code": "OTHFEE.RTI_STAMP_TAX",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": true
-  },
-  {
-      "category": "TAX",
-      "service": "RENT.FSH_STRT",
-      "name": "RENT.FSH_STRT_TAX",
-      "code": "RENT.FSH_STRT_TAX",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -13244,29 +13124,9 @@
   },
   {
       "category": "CHARGES",
-      "service": "TX.PROF_TAX",
-      "name": "TX.PROF_TAX_FIELD_FEE",
-      "code": "TX.PROF_TAX_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "CHARGES",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_FIELD_FEE",
       "code": "TX.ANI_VEH_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "CHARGES",
-      "service": "RENT.MARKET",
-      "name": "RENT.MARKET_FIELD_FEE",
-      "code": "RENT.MARKET_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -13287,16 +13147,6 @@
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_FIELD_FEE",
       "code": "OTHFEE.RTI_STAMP_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-  },
-  {
-      "category": "CHARGES",
-      "service": "RENT.FSH_STRT",
-      "name": "RENT.FSH_STRT_FIELD_FEE",
-      "code": "RENT.FSH_STRT_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",

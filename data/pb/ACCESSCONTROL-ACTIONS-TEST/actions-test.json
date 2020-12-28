@@ -17023,41 +17023,41 @@
     },
     {
       "id": 5047,
-      "name": "Unpaid Challan Register",
+      "name": "Challan Register",
       "url": "url",
-      "displayName": "Unpaid Challan Register",
+      "displayName": "Challan Register",
       "orderNumber": 9,
       "parentModule": "rainmaker-uc",
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Reports.MiscReceiptUnpaidChallan",
-      "navigationURL": "report/rainmaker-uc/MiscReceiptUnpaidChallan",
+      "path": "Reports.ChallanStatusRegistry",
+      "navigationURL": "report/rainmaker-uc/ChallanStatusRegistry",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
     {
       "id": 5048,
-      "name": "MiscReceiptUnpaidChallan-Metadata",
-      "url": "/report/rainmaker-uc/MiscReceiptUnpaidChallan/metadata/_get",
+      "name": "ChallanStatusRegistry-Metadata",
+      "url": "/report/rainmaker-uc/ChallanStatusRegistry/metadata/_get",
       "displayName": "Rainmaker PGR report",
       "orderNumber": 1,
       "parentModule": "147",
       "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptUnpaidChallan"
+      "path": "ChallanStatusRegistry"
     },
     {
       "id": 5049,
-      "name": "MiscReceiptUnpaidChallan",
-      "url": "/report/rainmaker-uc/MiscReceiptUnpaidChallan/_get",
+      "name": "ChallanStatusRegistry",
+      "url": "/report/rainmaker-uc/ChallanStatusRegistry/_get",
       "displayName": "PGR Report",
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptUnpaidChallan"
+      "path": "ChallanStatusRegistry"
     },
     {
       "id": 1984,
@@ -17410,7 +17410,7 @@
       "code": "null",
       "navigationURL": "lams-common/newApplication",
       "path": "Lams.apply",
-      "leftIcon": "places:business-center"
+      "leftIcon": "custom:library-books"
     },
     {
       "id": 5064,
@@ -17424,21 +17424,8 @@
       "code": "null",
       "path": "Lams.Search",
       "navigationURL": "lams-employee/search",
-      "leftIcon": "custom:account-alert",
+      "leftIcon": "custom:library-books",
       "rightIcon": ""
-    },
-    {
-      "id": 5065,
-      "name": "Lease Home",
-      "url": "/lams-employee/lamsHome",
-      "displayName": "Lease Home",
-      "orderNumber": 5,
-      "enabled": false,
-      "serviceCode": "Lams",
-      "code": "null",
-      "navigationURL": "/lams-employee/lamsHome",
-      "path": "Lams.lamsHome",
-      "leftIcon": "places:business-center"
     },
     {
       "id": 5066,
@@ -17464,7 +17451,7 @@
       "code": "",
       "path": "",
       "navigationURL": "/lams-employee/lamsHome",
-      "leftIcon": "action:announcement",
+      "leftIcon": "custom:library-books",
       "rightIcon": "",
       "queryParams": ""
     },
@@ -17535,7 +17522,7 @@
       "code": "null",
       "path": "Lease",
       "navigationURL": "lams-citizen/home",
-      "leftIcon": "custom:account-alert",
+      "leftIcon": "custom:library-books",
       "rightIcon": ""
     },
     {
@@ -17550,7 +17537,7 @@
       "code": "",
       "path": "",
       "navigationURL": "lams-citizen/home",
-      "leftIcon": "custom:trade-license",
+      "leftIcon": "custom:library-books",
       "rightIcon": "",
       "queryParams": ""
     },
@@ -17604,7 +17591,7 @@
       "code": "null",
       "path": "Lams.Applications",
       "navigationURL": "lams-employee/lamsHome",
-      "leftIcon": "custom:account-alert",
+      "leftIcon": "custom:library-books",
       "rightIcon": ""
     },
     {
@@ -17732,7 +17719,7 @@
       "code": "null",
       "navigationURL": "/lams-employee/search",
       "path": "Lams.search",
-      "leftIcon": "places:business-center"
+      "leftIcon": "action:search"
     },
     {
       "id": 5088,
@@ -17952,6 +17939,30 @@
       "serviceCode": "MDMS Search",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 5104,
+      "name": "PG Detail Search",
+      "url": "/pg-detail/_get",
+      "displayName": "PG Detail Search",
+      "orderNumber": 0,
+      "parentModule": "306",
+      "enabled": false,
+      "serviceCode": "PG Detail Search",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5105,
+      "name": "PG Detail Create",
+      "url": "/pg-detail/_create",
+      "displayName": "PG Detail Create",
+      "orderNumber": 0,
+      "parentModule": "306",
+      "enabled": false,
+      "serviceCode": "PG Detail Create",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }

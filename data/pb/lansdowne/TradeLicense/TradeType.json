@@ -4,7 +4,7 @@
   "TradeType": [
     {
       "code": "TRADE.EATING.A1",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -40,7 +40,7 @@
     },
     {
       "code": "TRADE.EATING.A2",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -74,7 +74,7 @@
     },
     {
       "code": "TRADE.EATING.A3",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -108,7 +108,7 @@
     },
     {
       "code": "TRADE.EATING.A6",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -180,7 +180,7 @@
     },
     {
       "code": "TRADE.EATING.A8",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -216,7 +216,7 @@
     },
     {
       "code": "TRADE.EATING.A9",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -252,7 +252,7 @@
     },
     {
       "code": "TRADE.EATING.A10",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -288,7 +288,7 @@
     },
     {
       "code": "TRADE.EATING.A13",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -322,7 +322,7 @@
     },
     {
       "code": "TRADE.EATING.A14",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -356,7 +356,7 @@
     },
     {
       "code": "TRADE.EATING.A15",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -390,7 +390,7 @@
     },
     {
       "code": "TRADE.EATING.A16",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -424,7 +424,7 @@
     },
     {
       "code": "TRADE.EATING.A17",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -526,7 +526,7 @@
     },
     {
       "code": "TRADE.EATING.A21",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -560,7 +560,7 @@
     },
     {
       "code": "TRADE.VETERINARY.C1",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -594,7 +594,7 @@
     },
     {
       "code": "TRADE.MEDICAL.B1",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -630,7 +630,7 @@
     },
     {
       "code": "TRADE.DANGEROUS.D1",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -664,7 +664,7 @@
     },
     {
       "code": "TRADE.DANGEROUS.D2",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -800,7 +800,7 @@
     },
     {
       "code": "TRADE.OTHERS.E5",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -834,7 +834,7 @@
     },
     {
       "code": "TRADE.OTHERS.E10",
-      "uom": "NoCategory",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
