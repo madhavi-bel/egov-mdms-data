@@ -8536,6 +8536,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 591,
       "actioncode": "",
       "tenantId": "pb"
@@ -8543,6 +8549,48 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 593,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 703,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 709,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 713,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 716,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 719,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 722,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 809,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8609,6 +8657,30 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 851,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 853,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 854,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 855,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 862,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8686,6 +8758,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 839,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 900,
       "actioncode": "",
       "tenantId": "pb"
@@ -8758,6 +8836,42 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1535,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1552,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1429,
       "actioncode": "",
       "tenantId": "pb"
@@ -8776,6 +8890,84 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1566,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1568,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1569,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1570,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1572,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1685,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1686,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1687,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1684,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1688,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1589,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1729,
       "actioncode": "",
       "tenantId": "pb"
@@ -8789,6 +8981,36 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1783,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1784,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1785,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1786,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1787,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8818,6 +9040,24 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1803,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1807,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1816,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1814,
       "actioncode": "",
       "tenantId": "pb"
@@ -8836,6 +9076,42 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1832,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1860,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1861,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1862,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1834,
       "actioncode": "",
       "tenantId": "pb"
@@ -8848,13 +9124,67 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 1872,
+      "actionid": 1804,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1875,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1876,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1877,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
       "actionid": 1878,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1898,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1899,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8902,6 +9232,36 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1955,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 1899,
       "actioncode": "",
       "tenantId": "pb"
@@ -8909,6 +9269,48 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1938,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1939,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1940,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1967,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1962,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8926,7 +9328,19 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 623,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1864,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8974,7 +9388,19 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 1832,
+      "actionid": 5050,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5051,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5052,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -9243,6 +9669,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1827,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
    
     {
       "rolecode": "GRO",
@@ -9474,6 +9906,12 @@
     },
     {
       "rolecode": "UC_EMP",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 5032,
       "actioncode": "",
       "tenantId": "pb"
@@ -11207,6 +11645,42 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2016,
       "actioncode": "",
@@ -11438,6 +11912,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 5055,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 5055,
       "actioncode": "",
@@ -11509,6 +11989,13 @@
    
     {
       "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5060,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "CITIZEN",
       "actionid": 5060,
       "actioncode": "",
       "tenantId": "pb"
@@ -11662,6 +12149,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 5066,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "LR_CEMP",
       "actionid": 5066,
       "actioncode": "",
@@ -11682,6 +12175,18 @@
     {
       "rolecode": "LR_APPROVER",
       "actionid": 5067,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5068,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5069,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -11716,6 +12221,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 5070,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5073,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 5074,
       "actioncode": "",
@@ -12103,7 +12620,19 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-  
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5072,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5092,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "LR_APPROVER_CEO",
       "actionid": 5092,
@@ -12329,18 +12858,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 5105,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	{
-      "rolecode": "CITIZEN",
-      "actionid": 1830,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1831,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -12595,96 +13112,7 @@
       "actionid": 1560,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1856,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1857,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1858,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1859,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1842,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1843,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1844,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1845,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1852,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1853,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1561,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1563,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1564,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1591,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1560,
-      "actioncode": "",
-      "tenantId": "pb"
     }
+
   ]
 }

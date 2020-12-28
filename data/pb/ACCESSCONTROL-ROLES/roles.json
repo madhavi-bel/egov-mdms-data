@@ -17,7 +17,31 @@
       "name": "Super User",
       "description": "System Administrator. Can change all master data and has access to all the system screens."
     },
-     
+    {
+      "code": "TL_CEMP",
+      "name": "TL Counter Employee",
+      "description": "Counter Employee in Trade License who files TL on behalf of the citizen"
+    },
+    {
+      "code": "TL_APPROVER",
+      "name": "TL Approver",
+      "description": "Approver who verifies and approves the TL application"
+    },
+    {
+      "code": "TL_FIELD_INSPECTOR",
+      "name": "Sanitary Section Inspector",
+      "description": "Sanitary Section Inspector"
+    },
+    {
+      "code": "TL_DOC_VERIFIER",
+      "name": "Engg. Section Inspector",
+      "description": "Engg. Section Inspector"
+    },    
+    {
+      "code": "UC_EMP",
+      "name": "Universal Collection Employee",
+      "description": "Universal Miscellaneous Collection Employee"
+    },
     {
       "code": "SYSTEM",
       "name": "System user",
@@ -52,7 +76,27 @@
       "code": "STADMIN",
       "name": "State Administrator",
       "description": "Admin role that as access over a state"
-    } 
+    },
+    {
+      "code": "LR_CEMP",
+      "name": "LR Counter Employee",
+      "description": "LR Counter Employee can approve the Lease Renewal Application"
+    },
+    {
+      "code": "LR_APPROVER_CEO",
+      "name": "LR CEO",
+      "description": "LR Counter Employee can approve the Inside Civil Lease Renewal Application"
+    },
+    {
+      "code": "LR_APPROVER_DEO",
+      "name": "LR DEO",
+      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "LR_APPROVER",
+      "name": "LR DEO",
+      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
+    }
     
   ]
 }
