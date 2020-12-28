@@ -17510,37 +17510,7 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
-    {
-      "id": 5072,
-      "name": "Lease",
-      "url": "url",
-      "displayName": "Lease",
-      "orderNumber": 8,
-      "parentModule": "rainmaker-lams",
-      "enabled": true,
-      "serviceCode": "LAMS",
-      "code": "null",
-      "path": "Lease",
-      "navigationURL": "lams-citizen/home",
-      "leftIcon": "custom:library-books",
-      "rightIcon": ""
-    },
-    {
-      "id": 5073,
-      "name": "rainmaker-citizen-lams",
-      "url": "card",
-      "displayName": "Lease",
-      "orderNumber": 8,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "lams-citizen/home",
-      "leftIcon": "custom:library-books",
-      "rightIcon": "",
-      "queryParams": ""
-    },
+   
     {
       "id": 5074,
       "name": "WS Application Status",
