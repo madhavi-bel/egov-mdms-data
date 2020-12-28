@@ -13021,6 +13021,18 @@
       "actionid": 1560,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5072,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5073,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]
