@@ -12107,30 +12107,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "LR_APPROVER",
-      "actionid": 5064,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER_CEO",
-      "actionid": 5065,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER_DEO",
-      "actionid": 5065,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER",
-      "actionid": 5065,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "LR_APPROVER_CEO",
       "actionid": 5066,
       "actioncode": "",
@@ -12138,12 +12114,6 @@
     },
     {
       "rolecode": "LR_APPROVER_DEO",
-      "actionid": 5066,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER",
       "actionid": 5066,
       "actioncode": "",
       "tenantId": "pb"
@@ -12168,12 +12138,6 @@
     },
     {
       "rolecode": "LR_APPROVER_DEO",
-      "actionid": 5067,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER",
       "actionid": 5067,
       "actioncode": "",
       "tenantId": "pb"
@@ -12215,24 +12179,12 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "LR_APPROVER",
-      "actionid": 5070,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 5070,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 5073,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 5074,
       "actioncode": "",
@@ -12317,18 +12269,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "LR_APPROVER",
-      "actionid": 5077,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_CEMP",
-      "actionid": 5077,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "LR_APPROVER_CEO",
       "actionid": 1730,
       "actioncode": "",
@@ -12336,12 +12276,6 @@
     },
     {
       "rolecode": "LR_APPROVER_DEO",
-      "actionid": 1730,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER",
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pb"
@@ -12366,12 +12300,6 @@
     },
     {
       "rolecode": "LR_APPROVER_DEO",
-      "actionid": 1743,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER",
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "pb"
@@ -12609,24 +12537,11 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "LR_APPROVER",
-      "actionid": 5086,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "LR_CEMP",
       "actionid": 5086,
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 5072,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-   
     {
       "rolecode": "CITIZEN",
       "actionid": 5092,
@@ -12641,12 +12556,6 @@
     },
     {
       "rolecode": "LR_APPROVER_DEO",
-      "actionid": 5092,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "LR_APPROVER",
       "actionid": 5092,
       "actioncode": "",
       "tenantId": "pb"

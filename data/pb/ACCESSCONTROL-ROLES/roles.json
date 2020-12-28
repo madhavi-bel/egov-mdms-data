@@ -85,19 +85,13 @@
     {
       "code": "LR_APPROVER_CEO",
       "name": "LR CEO",
-      "description": "LR Counter Employee can approve the Inside Civil Lease Renewal Application"
+      "description": "LR CEO can approve the Inside Civil Lease Renewal Application"
     },
     {
       "code": "LR_APPROVER_DEO",
       "name": "LR DEO",
-      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
-    },
-    {
-      "code": "LR_APPROVER",
-      "name": "LR DEO",
-      "description": "LR Counter Employee can approve the Outside Civil Lease Renewal Application"
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
     }
-    
   ]
 }
 
