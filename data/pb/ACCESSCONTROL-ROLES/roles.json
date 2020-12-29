@@ -91,6 +91,136 @@
       "code": "LR_APPROVER_DEO",
       "name": "LR DEO",
       "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_AGRA",
+      "name": "LR DEO Agra",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_ALLAHABAD",
+      "name": "LR DEO Allahabad",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_BAREILLY",
+      "name": "LR DEO Bareilly",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_DANAPUR",
+      "name": "LR DEO Danapur",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_JABALPUR",
+      "name": "LR DEO Jabalpur",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_LUCKNOW",
+      "name": "LR DEO Lucknow",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_MEERUT",
+      "name": "LR DEO Meerut",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_MHOW",
+      "name": "LR DEO Mhow",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_GUWAHATI",
+      "name": "LR DEO Guwahati",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_KOLKATA",
+      "name": "LR DEO Kolkata",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_SILIGURI",
+      "name": "LR DEO Siliguri",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_KASHMIR",
+      "name": "LR DEO Kashmir",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_AHMEDABAD",
+      "name": "LR DEO Ahmedabad",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_BANGALORE",
+      "name": "LR DEO Bangalore",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_BHOPAL",
+      "name": "LR DEO Bhopal",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_CHENNAI",
+      "name": "LR DEO Chennai",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_COCHIN",
+      "name": "LR DEO Cochin",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_JODHPUR",
+      "name": "LR DEO Jodhpur",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_MUMBAI",
+      "name": "LR DEO Mumbai",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_PUNE",
+      "name": "LR DEO Pune",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_SECUNDERABAD",
+      "name": "LR DEO Secunderabad",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_AMBALA",
+      "name": "LR DEO Ambala",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_DELHI",
+      "name": "LR DEO Delhi",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_JALANDHAR",
+      "name": "LR DEO Jalandhar",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_JAMMU",
+      "name": "LR DEO Jammu",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_PATHANKOT",
+      "name": "LR DEO Pathankot",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
     }
   ]
 }
