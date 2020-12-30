@@ -12982,18 +12982,6 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 1852,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1853,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
       "actionid": 1561,
       "actioncode": "",
       "tenantId": "pb"
@@ -13013,12 +13001,6 @@
     {
       "rolecode": "STADMIN",
       "actionid": 1591,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "STADMIN",
-      "actionid": 1560,
       "actioncode": "",
       "tenantId": "pb"
     },
