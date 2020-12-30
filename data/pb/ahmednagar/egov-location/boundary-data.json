@@ -18,7 +18,7 @@
         "code": "pb.ahmednagar",
         "children": [
           {
-            "id": "f9f75a03-13c1-4d1f-b929-387c878dae84",
+            "id": "ba548c22-1729-481f-a57c-65a1f5905c2d",
             "boundaryNum": 1,
             "name": "Sadar Bazar",
             "localname": "Sadar Bazar",
@@ -28,7 +28,7 @@
             "code": "Z001",
             "children": [
               {
-                "id": "78dbe5a1-94dc-4df2-a211-860fe3ac5548",
+                "id": "86809e84-bab2-470a-a854-10085a8b5178",
                 "boundaryNum": 1,
                 "name": "Ward No. 1",
                 "localname": "Ward No. 1",
@@ -38,7 +38,7 @@
                 "code": "W001",
                 "children": [
                   {
-                    "id": "c16906c7-c215-45f6-a45b-a81f3382ac80",
+                    "id": "7bad13aa-c0e4-41fb-906b-0c9cb469bafd",
                     "boundaryNum": 1,
                     "name": "Cantonment Hospital Quarters - Ward No. 1",
                     "localname": "Cantonment Hospital Quarters - Ward No. 1",
@@ -50,7 +50,19 @@
                     "children": []
                   },
                   {
-                    "id": "fdaefc8e-f669-4123-950f-83e4f8243c6c",
+                    "id": "1a267763-8542-4c3d-a49a-9d32fd68a5cd",
+                    "boundaryNum": 1,
+                    "name": "Ward no.1 - Ward No. 1",
+                    "localname": "Ward no.1 - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_1_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c0175fb6-ddee-47af-8b44-eafd8eed63d1",
                     "boundaryNum": 1,
                     "name": "Army area - Ward No. 1",
                     "localname": "Army area - Ward No. 1",
@@ -64,7 +76,7 @@
                 ]
               },
               {
-                "id": "9554cf7f-365e-4840-8bc0-573da57e9fca",
+                "id": "68bcf6a6-48e2-4818-b9e7-4588980135c2",
                 "boundaryNum": 1,
                 "name": "Ward No. 2",
                 "localname": "Ward No. 2",
@@ -74,7 +86,7 @@
                 "code": "W002",
                 "children": [
                   {
-                    "id": "eaa83d6f-22f5-4c32-8eae-bb079c8f90ee",
+                    "id": "0e519008-f6b9-4c11-8bb5-bfa7a3c37d01",
                     "boundaryNum": 1,
                     "name": "Gawali wada - Ward No. 2",
                     "localname": "Gawali wada - Ward No. 2",
@@ -86,7 +98,7 @@
                     "children": []
                   },
                   {
-                    "id": "0a4e7c85-86f3-459f-98b2-f3299957b530",
+                    "id": "7e2e92f8-4d07-4182-9ff0-3959c053da8c",
                     "boundaryNum": 1,
                     "name": "Penssioner line - Ward No. 2",
                     "localname": "Penssioner line - Ward No. 2",
@@ -98,7 +110,7 @@
                     "children": []
                   },
                   {
-                    "id": "c44856ff-7371-401e-b939-5e1ac3b7d6fa",
+                    "id": "84b39df2-a5d2-447d-b667-0296fc222075",
                     "boundaryNum": 1,
                     "name": "Bhor Galli - Ward No. 2",
                     "localname": "Bhor Galli - Ward No. 2",
@@ -110,7 +122,7 @@
                     "children": []
                   },
                   {
-                    "id": "4dbe3c4f-f6a5-4543-8f8e-0c30c47ba336",
+                    "id": "9a4431dc-eb3d-41bf-bbab-d5f66e4ccc01",
                     "boundaryNum": 1,
                     "name": "Friday Bazar - Ward No. 2",
                     "localname": "Friday Bazar - Ward No. 2",
@@ -122,7 +134,7 @@
                     "children": []
                   },
                   {
-                    "id": "d032bb9a-ad9c-4071-9809-3d20977245ca",
+                    "id": "cfb07748-2eff-4d4e-b9e1-05e37cf6b2d0",
                     "boundaryNum": 1,
                     "name": "Ghass Galli - Ward No. 2",
                     "localname": "Ghass Galli - Ward No. 2",
@@ -134,7 +146,7 @@
                     "children": []
                   },
                   {
-                    "id": "f4695ebd-5a42-4f94-bad3-2b996f2629b4",
+                    "id": "111d5f5d-be54-4318-9cbe-563d310dee47",
                     "boundaryNum": 1,
                     "name": "Kanjar Galli - Ward No. 2",
                     "localname": "Kanjar Galli - Ward No. 2",
@@ -144,11 +156,23 @@
                     "code": "1_2_6",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "0174f16e-decd-43ba-a97a-6803c89cb7c5",
+                    "boundaryNum": 1,
+                    "name": "Ward No.2 - Ward No. 2",
+                    "localname": "Ward No.2 - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_2_7",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "ff653f98-d0ec-484a-8b57-bb60b80489d6",
+                "id": "daa76766-dc2c-4bac-ae6f-d12ce265ec13",
                 "boundaryNum": 1,
                 "name": "Ward No. 3",
                 "localname": "Ward No. 3",
@@ -158,7 +182,7 @@
                 "code": "W003",
                 "children": [
                   {
-                    "id": "caab23b9-5329-43ad-bd41-8eb4048f61fe",
+                    "id": "b8b1351e-112d-4e85-8115-8d5b86d2b95c",
                     "boundaryNum": 1,
                     "name": "Bigar Khata - Ward No. 3",
                     "localname": "Bigar Khata - Ward No. 3",
@@ -170,7 +194,7 @@
                     "children": []
                   },
                   {
-                    "id": "ca51aea2-db3c-45a4-a185-aa249e3c2217",
+                    "id": "4219796e-da94-4d2b-b0aa-67a59c812e77",
                     "boundaryNum": 1,
                     "name": "Kasayi Galli - Ward No. 3",
                     "localname": "Kasayi Galli - Ward No. 3",
@@ -182,7 +206,7 @@
                     "children": []
                   },
                   {
-                    "id": "1c5e6a2f-ef4b-484d-847d-a3cf92402700",
+                    "id": "dec902c6-ec9a-4e90-b942-6204fe472483",
                     "boundaryNum": 1,
                     "name": "Irani Road - Ward No. 3",
                     "localname": "Irani Road - Ward No. 3",
@@ -194,7 +218,7 @@
                     "children": []
                   },
                   {
-                    "id": "970ced60-d9bd-4fde-9e6f-0825dd301b4b",
+                    "id": "1c7fa398-3116-4f66-a49b-da41702d0c4c",
                     "boundaryNum": 1,
                     "name": "Telephone colony - Ward No. 3",
                     "localname": "Telephone colony - Ward No. 3",
@@ -206,7 +230,7 @@
                     "children": []
                   },
                   {
-                    "id": "8dd99106-97c5-4662-9ba2-f3bb86c3a35b",
+                    "id": "48579d64-38a7-4175-b247-38b95b611be6",
                     "boundaryNum": 1,
                     "name": "DAD colony - Ward No. 3",
                     "localname": "DAD colony - Ward No. 3",
@@ -218,7 +242,7 @@
                     "children": []
                   },
                   {
-                    "id": "83f81a02-cbe2-4b08-97af-be1b93608dab",
+                    "id": "5551025a-1762-48f9-9fb4-589b487e95d6",
                     "boundaryNum": 1,
                     "name": "Neipper Line - Ward No. 3",
                     "localname": "Neipper Line - Ward No. 3",
@@ -230,7 +254,7 @@
                     "children": []
                   },
                   {
-                    "id": "c151b5ec-6fab-4a75-9754-cacd76c14c05",
+                    "id": "8ffdb016-32d4-4544-a948-4bf8c4fc3229",
                     "boundaryNum": 1,
                     "name": "Pottengier Road - Ward No. 3",
                     "localname": "Pottengier Road - Ward No. 3",
@@ -242,7 +266,7 @@
                     "children": []
                   },
                   {
-                    "id": "99d0b754-a764-4146-8fa9-4766ac0f71a1",
+                    "id": "7ea0caa4-5d7a-437a-be62-d75e4bc910e5",
                     "boundaryNum": 1,
                     "name": "MES Quarter - Ward No. 3",
                     "localname": "MES Quarter - Ward No. 3",
@@ -254,7 +278,7 @@
                     "children": []
                   },
                   {
-                    "id": "a8bf31a8-670a-45c4-b94c-dc7c6478061f",
+                    "id": "4feb1847-7fef-4a75-8b1c-95c1be3426de",
                     "boundaryNum": 1,
                     "name": "King Road - Ward No. 3",
                     "localname": "King Road - Ward No. 3",
@@ -264,395 +288,23 @@
                     "code": "1_3_9",
                     "area": "Z001",
                     "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "id": "46709506-65f3-4656-9d1f-95c7a97b2e3c",
-            "boundaryNum": 1,
-            "name": "Bhingar",
-            "localname": "Bhingar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "Z002",
-            "children": [
-              {
-                "id": "b42c2db9-4663-42cc-b876-dd02ba045294",
-                "boundaryNum": 1,
-                "name": "Ward No. 4",
-                "localname": "Ward No. 4",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "W004",
-                "children": [
-                  {
-                    "id": "01c48808-0564-4af1-b0c5-ac7c3e0515f5",
-                    "boundaryNum": 1,
-                    "name": "Dapkar Galli - Ward No. 4",
-                    "localname": "Dapkar Galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_1",
-                    "area": "Z002",
-                    "children": []
                   },
                   {
-                    "id": "2ee311a1-faf4-4c16-8170-0a42a02bfbbb",
+                    "id": "af697685-d29d-48b1-a7ea-d9b74bada97d",
                     "boundaryNum": 1,
-                    "name": "Sonsare Galli - Ward No. 4",
-                    "localname": "Sonsare Galli - Ward No. 4",
+                    "name": "Ward no.3 - Ward No. 3",
+                    "localname": "Ward no.3 - Ward No. 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2_4_2",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "80815316-2056-4566-8dcf-cfc09d734dab",
-                    "boundaryNum": 1,
-                    "name": "Dane Galli - Ward No. 4",
-                    "localname": "Dane Galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_3",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "88dc31f4-0e34-4f8b-a48d-d3dcf5a1d878",
-                    "boundaryNum": 1,
-                    "name": "Rangar galli - Ward No. 4",
-                    "localname": "Rangar galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_4",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "1732dedb-f991-476e-b642-e5290c116fdd",
-                    "boundaryNum": 1,
-                    "name": "Waghaskar Galli - Ward No. 4",
-                    "localname": "Waghaskar Galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_5",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "671d0992-6386-4fb6-8bd9-56ca146a5482",
-                    "boundaryNum": 1,
-                    "name": "Mullan Galli - Ward No. 4",
-                    "localname": "Mullan Galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_6",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "9d696da0-1d14-43a8-871f-7afb5af06212",
-                    "boundaryNum": 1,
-                    "name": "Momin Galii - Ward No. 4",
-                    "localname": "Momin Galii - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_7",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "3c378a31-6a1e-443e-9b25-d5c7b0592026",
-                    "boundaryNum": 1,
-                    "name": "Gadekar Galli - Ward No. 4",
-                    "localname": "Gadekar Galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_4_8",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "b8c864b8-ccda-467a-8d77-f726b2165cff",
-                    "boundaryNum": 1,
-                    "name": "Patil Galli - Ward No. 4",
-                    "localname": "Patil Galli - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-4-9",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "20b92aaf-0d44-473d-9a3a-c31d0384f4c2",
-                    "boundaryNum": 1,
-                    "name": "Boyire Talim - Ward No. 4",
-                    "localname": "Boyire Talim - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-4-10",
-                    "area": "Z002",
+                    "code": "1_3_10",
+                    "area": "Z001",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "050addaa-4169-4c4e-a3fa-c0110c8a08c1",
-                "boundaryNum": 1,
-                "name": "Ward No. 5",
-                "localname": "Ward No. 5",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "W005",
-                "children": [
-                  {
-                    "id": "939e0873-2220-4e6a-ab58-8b21a18c3b55",
-                    "boundaryNum": 1,
-                    "name": "Bramhan Galli - Ward No. 5",
-                    "localname": "Bramhan Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-1",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "c004de28-baba-4e9a-ac4c-7b991230f287",
-                    "boundaryNum": 1,
-                    "name": "Muley Galli - Ward No. 5",
-                    "localname": "Muley Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-2",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "762c15dc-9f8a-4c91-9111-fa35c9996ef8",
-                    "boundaryNum": 1,
-                    "name": "Sutar Galli - Ward No. 5",
-                    "localname": "Sutar Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-3",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "2cbcbb08-d0ac-4556-8fe6-19a2693853ab",
-                    "boundaryNum": 1,
-                    "name": "Sarpan Galli - Ward No. 5",
-                    "localname": "Sarpan Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-4",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "25234489-022b-4dcd-aa57-25f4b4e1ba39",
-                    "boundaryNum": 1,
-                    "name": "Dhangar Galli - Ward No. 5",
-                    "localname": "Dhangar Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-5",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "5a50aabf-222d-473c-8aba-a2e0bac3f681",
-                    "boundaryNum": 1,
-                    "name": "Joshi Galli - Ward No. 5",
-                    "localname": "Joshi Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-6",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "562f10e5-d658-4969-bb38-619669e9d227",
-                    "boundaryNum": 1,
-                    "name": "Lakar galli - Ward No. 5",
-                    "localname": "Lakar galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-7",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "f2f3e2e7-d374-4290-96c9-86a67f8ddcde",
-                    "boundaryNum": 1,
-                    "name": "Lohar Galli - Ward No. 5",
-                    "localname": "Lohar Galli - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-8",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "d7500695-7036-400b-8951-889b959f29dd",
-                    "boundaryNum": 1,
-                    "name": "Nehru Chowk - Ward No. 5",
-                    "localname": "Nehru Chowk - Ward No. 5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-9",
-                    "area": "Z002",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "b2084752-6ffc-4da8-b409-f563104a7dbf",
-                "boundaryNum": 1,
-                "name": "Ward No. 6",
-                "localname": "Ward No. 6",
-                "longitude": null,
-                "latitude": null,
-                "label": "Ward",
-                "code": "W006",
-                "children": [
-                  {
-                    "id": "00a86584-8067-400e-af61-d2fe0bd127ba",
-                    "boundaryNum": 1,
-                    "name": "Mal Galli - Ward No. 6",
-                    "localname": "Mal Galli - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2-5-11",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "0aa1be6f-b233-4b99-8f2e-0e9f81988e98",
-                    "boundaryNum": 1,
-                    "name": "Sadiq Mala - Ward No. 6",
-                    "localname": "Sadiq Mala - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_1",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "d16eafcd-385f-4337-9887-71212090b0ba",
-                    "boundaryNum": 1,
-                    "name": "Shukleshwar Colony - Ward No. 6",
-                    "localname": "Shukleshwar Colony - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_2",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "a3977ecc-ddad-47c6-9db7-587164660fdc",
-                    "boundaryNum": 1,
-                    "name": "Khalewadi - Ward No. 6",
-                    "localname": "Khalewadi - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_3",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "5a36afa8-c712-4ce3-ae6b-fc027b9da438",
-                    "boundaryNum": 1,
-                    "name": "Laghu Vetan Housing Society - Ward No. 6",
-                    "localname": "Laghu Vetan Housing Society - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_4",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "8b5729fd-88cc-4321-a7f4-8bea66310193",
-                    "boundaryNum": 1,
-                    "name": "Brijbhushan Appartment - Ward No. 6",
-                    "localname": "Brijbhushan Appartment - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_5",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "cbd6ff1c-0988-4baf-88b4-9fa80f31c70c",
-                    "boundaryNum": 1,
-                    "name": "Krishngopal Housing Society - Ward No. 6",
-                    "localname": "Krishngopal Housing Society - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_6",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "8a95bcd6-2350-4fe7-bb41-8759d76c4696",
-                    "boundaryNum": 1,
-                    "name": "Nehru Colony - Ward No. 6",
-                    "localname": "Nehru Colony - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_7",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "65392690-746f-4862-b1cd-825ad1cd3f78",
-                    "boundaryNum": 1,
-                    "name": "Sangam Chowk - Ward No. 6",
-                    "localname": "Sangam Chowk - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_6_8",
-                    "area": "Z002",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "1ca31324-d7cc-4dd6-aeef-11c1da4add2e",
+                "id": "2b08edad-ad82-4e0a-98fc-28a4f0ae11fc",
                 "boundaryNum": 1,
                 "name": "Ward No. 7",
                 "localname": "Ward No. 7",
@@ -662,7 +314,7 @@
                 "code": "W007",
                 "children": [
                   {
-                    "id": "206528cd-45b4-44d9-95c0-8cd2d3c86b01",
+                    "id": "ef83f7e8-a1c1-434f-900f-cd09cd2827fa",
                     "boundaryNum": 1,
                     "name": "Freedom Fighther Colony - Ward No. 7",
                     "localname": "Freedom Fighther Colony - Ward No. 7",
@@ -674,7 +326,7 @@
                     "children": []
                   },
                   {
-                    "id": "37f9c66d-65b3-4a25-ae73-054d2038f617",
+                    "id": "1d614100-1bc8-44d6-b539-e1e654d4ae6a",
                     "boundaryNum": 1,
                     "name": "Police Line - Ward No. 7",
                     "localname": "Police Line - Ward No. 7",
@@ -686,7 +338,7 @@
                     "children": []
                   },
                   {
-                    "id": "7f714ffb-1b12-4061-b91e-70f7beec4374",
+                    "id": "a5115986-5fea-42a2-81b2-3cfb18b3a0bc",
                     "boundaryNum": 1,
                     "name": "Bhim Nagar - Ward No. 7",
                     "localname": "Bhim Nagar - Ward No. 7",
@@ -698,7 +350,7 @@
                     "children": []
                   },
                   {
-                    "id": "2f149ab3-d316-47a7-a4c3-f7bb553fc1c9",
+                    "id": "33c76792-06eb-4a91-b513-878b555d62a7",
                     "boundaryNum": 1,
                     "name": "Ambedkar colony - Ward No. 7",
                     "localname": "Ambedkar colony - Ward No. 7",
@@ -708,64 +360,604 @@
                     "code": "1_7_4",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "001fab3e-d32c-45c3-b8a8-38f61ecda609",
+                    "boundaryNum": 1,
+                    "name": "Ward No.7 - Ward No. 7",
+                    "localname": "Ward No.7 - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_7_5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6bfb2ff0-6bc4-4fd2-9d7f-532529a1b639",
+                    "boundaryNum": 1,
+                    "name": "Laxmi Nagar - Ward No. 7",
+                    "localname": "Laxmi Nagar - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_6",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "f876cb17-e78e-458e-9f2c-ab790f0411d1",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Housing Society - Ward No. 7",
+                    "localname": "Ambedkar Housing Society - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_1",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "0510bdba-9c4c-4e6f-931c-895afd48a6ee",
+                    "boundaryNum": 1,
+                    "name": "Mahatma Colony - Ward No. 7",
+                    "localname": "Mahatma Colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_2",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "44c2d23f-e8af-48e4-ae7a-e02479cb49dc",
+                    "boundaryNum": 1,
+                    "name": "Sahumaharaj colony - Ward No. 7",
+                    "localname": "Sahumaharaj colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_3",
+                    "area": "Z002",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a301d259-b026-4f1a-928e-6f9de7d35d76",
+            "boundaryNum": 1,
+            "name": "Bhingar",
+            "localname": "Bhingar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z002",
+            "children": [
+              {
+                "id": "830d00b5-dcc3-4811-9344-10c747006362",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W004",
+                "children": [
+                  {
+                    "id": "05c118bc-1a90-48a7-a5b6-8f12c1bc43a8",
+                    "boundaryNum": 1,
+                    "name": "Dapkar Galli - Ward No. 4",
+                    "localname": "Dapkar Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_1",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "610a3536-f831-4e41-9c56-c4f73e45657d",
+                    "boundaryNum": 1,
+                    "name": "Sonsare Galli - Ward No. 4",
+                    "localname": "Sonsare Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_2",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "42dd3eff-2123-41ac-862f-c0140577c7b3",
+                    "boundaryNum": 1,
+                    "name": "Dane Galli - Ward No. 4",
+                    "localname": "Dane Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_3",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "5a34e9b1-8b89-4d08-b9db-91e5136bf393",
+                    "boundaryNum": 1,
+                    "name": "Rangar galli - Ward No. 4",
+                    "localname": "Rangar galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_4",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "83783253-cdad-4337-9027-67bcca17e013",
+                    "boundaryNum": 1,
+                    "name": "Waghaskar Galli - Ward No. 4",
+                    "localname": "Waghaskar Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_5",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "0996a9e7-6e95-4737-9bf8-fb03e512e7ba",
+                    "boundaryNum": 1,
+                    "name": "Mullan Galli - Ward No. 4",
+                    "localname": "Mullan Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_6",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "1468bbfa-61d3-40e6-b686-bbb295ed45e9",
+                    "boundaryNum": 1,
+                    "name": "Momin Galii - Ward No. 4",
+                    "localname": "Momin Galii - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_7",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "c567be47-d950-42ed-9ff9-ac16d6f6b04d",
+                    "boundaryNum": 1,
+                    "name": "Gadekar Galli - Ward No. 4",
+                    "localname": "Gadekar Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_8",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "90272454-bfbf-400a-89cd-a04bd8d1e28c",
+                    "boundaryNum": 1,
+                    "name": "Patil Galli - Ward No. 4",
+                    "localname": "Patil Galli - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_9",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "d60a1154-3959-498a-948b-9c038d9f12f9",
+                    "boundaryNum": 1,
+                    "name": "Boyire Talim - Ward No. 4",
+                    "localname": "Boyire Talim - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_10",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "417425a2-1632-4120-9aaf-4ce602d3e920",
+                    "boundaryNum": 1,
+                    "name": "Ward No.4 - Ward No. 4",
+                    "localname": "Ward No.4 - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_4_11",
+                    "area": "Z002",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "3d94894b-b53d-45e3-bcaa-4c6a65df87ca",
+                "id": "a4d4cf09-d040-42db-980a-a1c02e26b9b9",
                 "boundaryNum": 1,
-                "name": "Ward No. 8",
-                "localname": "Ward No. 8",
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
                 "longitude": null,
                 "latitude": null,
                 "label": "Ward",
-                "code": "W008",
+                "code": "W005",
                 "children": [
                   {
-                    "id": "2f6bf29c-4151-41a4-88d7-77c9a8e2b7ab",
+                    "id": "9170f8b3-acdf-4334-9452-13a22d6666e5",
                     "boundaryNum": 1,
-                    "name": "Laxmi Nagar - Ward No. 8",
-                    "localname": "Laxmi Nagar - Ward No. 8",
+                    "name": "Bramhan Galli - Ward No. 5",
+                    "localname": "Bramhan Galli - Ward No. 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "1_7_6",
+                    "code": "2_5_1",
                     "area": "Z002",
                     "children": []
                   },
                   {
-                    "id": "eb478d29-8b8b-4842-bda8-d263d33c6779",
+                    "id": "d1433138-87e1-4e08-90af-dfd0514ca864",
                     "boundaryNum": 1,
-                    "name": "Ambedkar Housing Society - Ward No. 8",
-                    "localname": "Ambedkar Housing Society - Ward No. 8",
+                    "name": "Muley Galli - Ward No. 5",
+                    "localname": "Muley Galli - Ward No. 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2_8_1",
+                    "code": "2_5_2",
                     "area": "Z002",
                     "children": []
                   },
                   {
-                    "id": "8d743ceb-a272-4f72-8950-be6106f573e5",
+                    "id": "99a62c75-db13-4419-a80d-9300fb759a4c",
                     "boundaryNum": 1,
-                    "name": "Mahatma Colony - Ward No. 8",
-                    "localname": "Mahatma Colony - Ward No. 8",
+                    "name": "Sutar Galli - Ward No. 5",
+                    "localname": "Sutar Galli - Ward No. 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2_8_2",
+                    "code": "2_5_3",
                     "area": "Z002",
                     "children": []
                   },
                   {
-                    "id": "4c568d18-b5aa-4b9a-a904-d3e9fbc59b98",
+                    "id": "25cad373-0d42-488b-94b7-9e44c86687c5",
                     "boundaryNum": 1,
-                    "name": "Sahumaharaj colony - Ward No. 8",
-                    "localname": "Sahumaharaj colony - Ward No. 8",
+                    "name": "Sarpan Galli - Ward No. 5",
+                    "localname": "Sarpan Galli - Ward No. 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "2_8_3",
+                    "code": "2_5_4",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "4e7ea979-6c78-405d-b014-6597149f988e",
+                    "boundaryNum": 1,
+                    "name": "Dhangar Galli - Ward No. 5",
+                    "localname": "Dhangar Galli - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_5",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "bd34012d-8871-4ea7-b2c9-a100008ffc8c",
+                    "boundaryNum": 1,
+                    "name": "Joshi Galli - Ward No. 5",
+                    "localname": "Joshi Galli - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_6",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "c10753a0-75e5-4f54-86c1-647026650546",
+                    "boundaryNum": 1,
+                    "name": "Lakar galli - Ward No. 5",
+                    "localname": "Lakar galli - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_7",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "6962dd19-81f2-40cd-be18-85678c2f12d6",
+                    "boundaryNum": 1,
+                    "name": "Lohar Galli - Ward No. 5",
+                    "localname": "Lohar Galli - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_8",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "dfbcc92b-9835-476d-addf-fb635ddb51f7",
+                    "boundaryNum": 1,
+                    "name": "Nehru Chowk - Ward No. 5",
+                    "localname": "Nehru Chowk - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_9",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "a92cae0a-4a23-48cb-8553-32f708960fdc",
+                    "boundaryNum": 1,
+                    "name": "Ward No.5 - Ward No. 5",
+                    "localname": "Ward No.5 - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_10",
+                    "area": "Z002",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ded76153-447e-4b11-8440-457b7de2c9cd",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W006",
+                "children": [
+                  {
+                    "id": "13e8e69e-8677-4b58-8749-307991474d43",
+                    "boundaryNum": 1,
+                    "name": "Mal Galli - Ward No. 6",
+                    "localname": "Mal Galli - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_5_11",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "fca3fdc7-fc58-4772-b898-c9016a747a73",
+                    "boundaryNum": 1,
+                    "name": "Sadiq Mala - Ward No. 6",
+                    "localname": "Sadiq Mala - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_1",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "573acdde-3b2e-4760-8150-5929eefcf70c",
+                    "boundaryNum": 1,
+                    "name": "Shukleshwar Colony - Ward No. 6",
+                    "localname": "Shukleshwar Colony - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_2",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "2c5e6d94-9d28-432f-b403-2c163d2cc8dd",
+                    "boundaryNum": 1,
+                    "name": "Khalewadi - Ward No. 6",
+                    "localname": "Khalewadi - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_3",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "312963d4-2446-408f-af1f-e92b39b04bce",
+                    "boundaryNum": 1,
+                    "name": "Laghu Vetan Housing Society - Ward No. 6",
+                    "localname": "Laghu Vetan Housing Society - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_4",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "5d237f20-fad2-4198-93e7-140571a6c1e7",
+                    "boundaryNum": 1,
+                    "name": "Brijbhushan Appartment - Ward No. 6",
+                    "localname": "Brijbhushan Appartment - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_5",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "efb71742-89cf-4fab-9755-d2c827910d9c",
+                    "boundaryNum": 1,
+                    "name": "Krishngopal Housing Society - Ward No. 6",
+                    "localname": "Krishngopal Housing Society - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_6",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "8d7dff01-167b-4104-8c46-1c7faea1362e",
+                    "boundaryNum": 1,
+                    "name": "Nehru Colony - Ward No. 6",
+                    "localname": "Nehru Colony - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_7",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "4f56621c-022e-44b5-ad78-b83f5a9adf56",
+                    "boundaryNum": 1,
+                    "name": "Sangam Chowk - Ward No. 6",
+                    "localname": "Sangam Chowk - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_8",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "30be2e21-989d-4cbb-aa4c-759714f06866",
+                    "boundaryNum": 1,
+                    "name": "Ward No.6 - Ward No. 6",
+                    "localname": "Ward No.6 - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_6_9",
+                    "area": "Z002",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14d67709-4395-4ba8-84c1-0fd3258049cf",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "W007",
+                "children": [
+                  {
+                    "id": "ef83f7e8-a1c1-434f-900f-cd09cd2827fa",
+                    "boundaryNum": 1,
+                    "name": "Freedom Fighther Colony - Ward No. 7",
+                    "localname": "Freedom Fighther Colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_7_1",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1d614100-1bc8-44d6-b539-e1e654d4ae6a",
+                    "boundaryNum": 1,
+                    "name": "Police Line - Ward No. 7",
+                    "localname": "Police Line - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_7_2",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a5115986-5fea-42a2-81b2-3cfb18b3a0bc",
+                    "boundaryNum": 1,
+                    "name": "Bhim Nagar - Ward No. 7",
+                    "localname": "Bhim Nagar - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_7_3",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "33c76792-06eb-4a91-b513-878b555d62a7",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar colony - Ward No. 7",
+                    "localname": "Ambedkar colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_7_4",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "001fab3e-d32c-45c3-b8a8-38f61ecda609",
+                    "boundaryNum": 1,
+                    "name": "Ward No.7 - Ward No. 7",
+                    "localname": "Ward No.7 - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "1_7_5",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "6bfb2ff0-6bc4-4fd2-9d7f-532529a1b639",
+                    "boundaryNum": 1,
+                    "name": "Laxmi Nagar - Ward No. 7",
+                    "localname": "Laxmi Nagar - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_6",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "f876cb17-e78e-458e-9f2c-ab790f0411d1",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Housing Society - Ward No. 7",
+                    "localname": "Ambedkar Housing Society - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_1",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "0510bdba-9c4c-4e6f-931c-895afd48a6ee",
+                    "boundaryNum": 1,
+                    "name": "Mahatma Colony - Ward No. 7",
+                    "localname": "Mahatma Colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_2",
+                    "area": "Z002",
+                    "children": []
+                  },
+                  {
+                    "id": "44c2d23f-e8af-48e4-ae7a-e02479cb49dc",
+                    "boundaryNum": 1,
+                    "name": "Sahumaharaj colony - Ward No. 7",
+                    "localname": "Sahumaharaj colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "2_7_3",
                     "area": "Z002",
                     "children": []
                   }
