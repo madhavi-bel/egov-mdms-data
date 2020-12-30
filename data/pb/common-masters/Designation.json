@@ -283,12 +283,6 @@
       "description": "Ward Boy",
       "code": "DESIG_79",
       "active": true
-    },
-    {
-      "name": "Wardboy",
-      "description": "Wardboy",
-      "code": "DESIG_63",
-      "active": true
     }
   ]
 }
