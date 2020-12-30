@@ -17963,6 +17963,18 @@
       "serviceCode": "PG Detail Create",
       "code": "null",
       "path": ""
-    } 
+    },
+    {
+      "id": 5106,
+      "name": "PG Detail Create",
+      "url": "/pg-detail/_update",
+      "displayName": "PG Detail Update",
+      "orderNumber": 0,
+      "parentModule": "306",
+      "enabled": false,
+      "serviceCode": "PG Detail Update",
+      "code": "null",
+      "path": ""
+    }  
   ]
 }
