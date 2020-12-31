@@ -485,42 +485,6 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.EATING.A22",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": []
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": []
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
-      "code": "TRADE.EATING.A23",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": []
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": []
-        }
-      ],
-      "active": "true",
-      "type": "TL",
-      "validityPeriod": null,
-      "verificationDocument": []
-    },
-    {
       "code": "TRADE.VETERINARY.C1",
       "uom": null,
       "applicationDocument": [
