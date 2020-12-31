@@ -4,7 +4,7 @@
   "TradeType": [
     {
       "code": "TRADE.EATING.A1",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -40,7 +40,7 @@
     },
     {
       "code": "TRADE.EATING.A2",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -104,7 +104,7 @@
     },
     {
       "code": "TRADE.EATING.A5",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -140,7 +140,7 @@
     },
     {
       "code": "TRADE.EATING.A6",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -176,7 +176,7 @@
     },
     {
       "code": "TRADE.EATING.A7",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -211,8 +211,44 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A8",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT",
+            "NOC_OWNER"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "TAXRECEIPT",
+            "NOC_OWNER"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A9",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -248,7 +284,7 @@
     },
     {
       "code": "TRADE.EATING.A10",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -284,7 +320,7 @@
     },
     {
       "code": "TRADE.EATING.A11",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -319,8 +355,38 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A12",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A13",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -354,7 +420,7 @@
     },
     {
       "code": "TRADE.EATING.A14",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -388,7 +454,7 @@
     },
     {
       "code": "TRADE.EATING.A16",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -422,7 +488,7 @@
     },
     {
       "code": "TRADE.EATING.A17",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -456,7 +522,37 @@
     },
     {
       "code": "TRADE.EATING.A19",
-      "uom": null,
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.EATING.A21",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -486,7 +582,7 @@
     },
     {
       "code": "TRADE.VETERINARY.C1",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -495,10 +591,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "MEDCERT",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -508,10 +601,97 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "MEDCERT",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C2",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C3",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.VETERINARY.C4",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -522,7 +702,7 @@
     },
     {
       "code": "TRADE.MEDICAL.B1",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -531,9 +711,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -543,9 +721,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -555,8 +731,8 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDIUM.F12",
-      "uom": null,
+      "code": "TRADE.MEDICAL.B2",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -565,9 +741,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -577,9 +751,97 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B3",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B2",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.MEDICAL.B3",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -590,7 +852,7 @@
     },
     {
       "code": "TRADE.OTHERS.E1",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -599,9 +861,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -611,9 +871,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -624,7 +882,7 @@
     },
     {
       "code": "TRADE.OTHERS.E2",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -633,9 +891,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -645,9 +901,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -658,7 +912,7 @@
     },
     {
       "code": "TRADE.OTHERS.E3",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -667,9 +921,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -679,9 +931,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -692,7 +942,7 @@
     },
     {
       "code": "TRADE.OTHERS.E4",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -701,9 +951,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -713,9 +961,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -726,7 +972,7 @@
     },
     {
       "code": "TRADE.OTHERS.E5",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -735,9 +981,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -747,9 +991,127 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E6",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E7",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E8",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E9",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -760,7 +1122,7 @@
     },
     {
       "code": "TRADE.OTHERS.E10",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -769,9 +1131,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -781,9 +1141,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -794,7 +1152,7 @@
     },
     {
       "code": "TRADE.OTHERS.E11",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -803,9 +1161,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -815,9 +1171,487 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E12",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E13",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E14",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E15",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E16",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E17",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E18",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E19",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E20",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E21",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E22",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E23",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E24",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E25",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E26",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E29",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -828,7 +1662,7 @@
     },
     {
       "code": "TRADE.OTHERS.E30",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -837,9 +1671,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -849,9 +1681,277 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E34",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E35",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E37",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E38",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E39",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E40",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E42",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E43",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E45",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -862,7 +1962,7 @@
     },
     {
       "code": "TRADE.OTHERS.E46",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -871,9 +1971,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -883,9 +1981,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         }
       ],
@@ -896,7 +1992,7 @@
     },
     {
       "code": "TRADE.OTHERS.E47",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -905,9 +2001,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -917,9 +2011,97 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "TAXRECEIPT",
-            "NOC_OWNER"
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E48",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E50",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
+      "code": "TRADE.OTHERS.E52",
+      "uom": "SqFt",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
           ]
         }
       ],
