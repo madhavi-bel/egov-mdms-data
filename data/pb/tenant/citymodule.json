@@ -31,9 +31,6 @@
           "code": "pb.bareilly"
         },
         {
-          "code": "pb.fatehgarh"
-        },
-        {
           "code": "pb.mathura"
         },
         {
@@ -47,6 +44,9 @@
         },
         {
           "code": "pb.lebong"
+        },
+        {
+          "code": "pb.fatehgarh"
         },
         {
           "code": "pb.kasauli"
