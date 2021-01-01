@@ -195,6 +195,36 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A8",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A9",
       "uom": null,
       "applicationDocument": [
