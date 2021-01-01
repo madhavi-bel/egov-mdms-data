@@ -791,7 +791,7 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B2",
+      "code": "TRADE.DANGEROUS.D2",
       "uom": "SqFt",
       "applicationDocument": [
         {
@@ -821,7 +821,7 @@
       "verificationDocument": []
     },
     {
-      "code": "TRADE.MEDICAL.B3",
+      "code": "TRADE.DANGEROUS.D3",
       "uom": "SqFt",
       "applicationDocument": [
         {
