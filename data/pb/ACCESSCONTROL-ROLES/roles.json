@@ -221,6 +221,11 @@
       "code": "DEO_PATHANKOT",
       "name": "LR DEO Pathankot",
       "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
+    },
+    {
+      "code": "DEO_TESTING",
+      "name": "LR DEO Testing",
+      "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
     }
   ]
 }
