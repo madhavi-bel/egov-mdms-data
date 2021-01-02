@@ -372,54 +372,6 @@
                     "code": "1_7_5",
                     "area": "Z001",
                     "children": []
-                  },
-                  {
-                    "id": "6bfb2ff0-6bc4-4fd2-9d7f-532529a1b639",
-                    "boundaryNum": 1,
-                    "name": "Laxmi Nagar - Ward No. 7",
-                    "localname": "Laxmi Nagar - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_7_6",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "f876cb17-e78e-458e-9f2c-ab790f0411d1",
-                    "boundaryNum": 1,
-                    "name": "Ambedkar Housing Society - Ward No. 7",
-                    "localname": "Ambedkar Housing Society - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_7_1",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "0510bdba-9c4c-4e6f-931c-895afd48a6ee",
-                    "boundaryNum": 1,
-                    "name": "Mahatma Colony - Ward No. 7",
-                    "localname": "Mahatma Colony - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_7_2",
-                    "area": "Z002",
-                    "children": []
-                  },
-                  {
-                    "id": "44c2d23f-e8af-48e4-ae7a-e02479cb49dc",
-                    "boundaryNum": 1,
-                    "name": "Sahumaharaj colony - Ward No. 7",
-                    "localname": "Sahumaharaj colony - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "2_7_3",
-                    "area": "Z002",
-                    "children": []
                   }
                 ]
               }
@@ -852,67 +804,7 @@
                 "latitude": null,
                 "label": "Ward",
                 "code": "W007",
-                "children": [
-                  {
-                    "id": "ef83f7e8-a1c1-434f-900f-cd09cd2827fa",
-                    "boundaryNum": 1,
-                    "name": "Freedom Fighther Colony - Ward No. 7",
-                    "localname": "Freedom Fighther Colony - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "1_7_1",
-                    "area": "Z001",
-                    "children": []
-                  },
-                  {
-                    "id": "1d614100-1bc8-44d6-b539-e1e654d4ae6a",
-                    "boundaryNum": 1,
-                    "name": "Police Line - Ward No. 7",
-                    "localname": "Police Line - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "1_7_2",
-                    "area": "Z001",
-                    "children": []
-                  },
-                  {
-                    "id": "a5115986-5fea-42a2-81b2-3cfb18b3a0bc",
-                    "boundaryNum": 1,
-                    "name": "Bhim Nagar - Ward No. 7",
-                    "localname": "Bhim Nagar - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "1_7_3",
-                    "area": "Z001",
-                    "children": []
-                  },
-                  {
-                    "id": "33c76792-06eb-4a91-b513-878b555d62a7",
-                    "boundaryNum": 1,
-                    "name": "Ambedkar colony - Ward No. 7",
-                    "localname": "Ambedkar colony - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "1_7_4",
-                    "area": "Z001",
-                    "children": []
-                  },
-                  {
-                    "id": "001fab3e-d32c-45c3-b8a8-38f61ecda609",
-                    "boundaryNum": 1,
-                    "name": "Ward No.7 - Ward No. 7",
-                    "localname": "Ward No.7 - Ward No. 7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "1_7_5",
-                    "area": "Z001",
-                    "children": []
-                  },
+                "children": [                  
                   {
                     "id": "6bfb2ff0-6bc4-4fd2-9d7f-532529a1b639",
                     "boundaryNum": 1,
