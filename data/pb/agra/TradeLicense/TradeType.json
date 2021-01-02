@@ -1040,7 +1040,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F4",
-      "uom": "Worker",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
