@@ -289,6 +289,17 @@
       "description": "Defence Estates Officer",
       "code": "DESIG_80",
       "active": true
+    },
+    {
+      "name": "Upper Division Clerk",
+      "description": "Upper Division Clerk",
+      "code": "DESIG_81",
+      "active": true
+    },{
+      "name": "Head Clerk",
+      "description": "Head Clerk",
+      "code": "DESIG_82",
+      "active": true
     }
   ]
 }
