@@ -12772,6 +12772,24 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 5104,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5105,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5106,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "STADMIN",
       "actionid": 5001,
       "actioncode": "",
