@@ -13003,6 +13003,12 @@
       "actionid": 5073,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1687,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]
