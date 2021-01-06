@@ -13028,6 +13028,78 @@
       "actionid": 1687,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5109,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1511,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1512,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5109,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 1511,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 1512,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]

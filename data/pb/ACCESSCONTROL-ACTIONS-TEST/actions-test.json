@@ -17975,6 +17975,84 @@
       "serviceCode": "PG Detail Update",
       "code": "null",
       "path": ""
-    }  
+    },
+    {
+      "id": 5107,
+      "name": "LeaseRenewalExtensionStatusRegistry",
+      "url": "/report/rainmaker-lams/LeaseRenewalExtensionStatusRegistry/_get",
+      "displayName": "LeaseRenewalExtensionStatusRegistry",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5108,
+      "name": "LeaseRenewalExtensionStatusRegistry",
+      "url": "/report/rainmaker-lams/LeaseRenewalExtensionStatusRegistry/metadata/_get",
+      "displayName": "LeaseRenewalExtensionStatusRegistry",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5109,
+      "name": "LeaseRenewalExtensionStatusRegistry",
+      "url": "url",
+      "displayName": "Lease Renewal Extension Status Register",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-lams",
+      "enabled": true,
+      "serviceCode": "lams",
+      "code": "null",
+      "path": "Lease.Lease Reports.LeaseRenewalExtensionStatusRegistry",
+      "navigationURL": "/report/rainmaker-lams/LeaseRenewalExtensionStatusRegistry",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 5110,
+      "name": "LeaseRenewalExtensionApplicationStatusReport",
+      "url": "/report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport/_get",
+      "displayName": "LeaseRenewalExtensionApplicationStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5111,
+      "name": "LeaseRenewalExtensionApplicationStatusReport",
+      "url": "/report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport/metadata/_get",
+      "displayName": "LeaseRenewalExtensionApplicationStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5112,
+      "name": "LeaseRenewalExtensionApplicationStatusReport",
+      "url": "url",
+      "displayName": "Lease Renewal Extension Application Status Report",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-lams",
+      "enabled": true,
+      "serviceCode": "lams",
+      "code": "null",
+      "path": "Lease.Lease Reports.LeaseRenewalExtensionApplicationStatusReport",
+      "navigationURL": "/report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }   
   ]
 }
