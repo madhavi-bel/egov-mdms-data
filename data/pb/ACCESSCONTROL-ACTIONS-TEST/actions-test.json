@@ -18011,7 +18011,7 @@
       "serviceCode": "lams",
       "code": "null",
       "path": "Lease.Lease Reports.LeaseRenewalExtensionStatusRegistry",
-      "navigationURL": "/report/rainmaker-lams/LeaseRenewalExtensionStatusRegistry",
+      "navigationURL": "report/rainmaker-lams/LeaseRenewalExtensionStatusRegistry",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -18050,7 +18050,7 @@
       "serviceCode": "lams",
       "code": "null",
       "path": "Lease.Lease Reports.LeaseRenewalExtensionApplicationStatusReport",
-      "navigationURL": "/report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport",
+      "navigationURL": "report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }   
