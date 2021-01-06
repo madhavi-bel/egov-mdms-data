@@ -13100,7 +13100,42 @@
       "actionid": 5112,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5113,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5115,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5116,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5117,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5118,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-
   ]
 }

@@ -18053,6 +18053,84 @@
       "navigationURL": "report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }   
+    },
+    {
+      "id": 5113,
+      "name": "DGDELevelApplicationStatus",
+      "url": "/report/rainmaker-lams/DGDELevelApplicationStatus/_get",
+      "displayName": "DGDELevelApplicationStatus",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5114,
+      "name": "DGDELevelApplicationStatus",
+      "url": "/report/rainmaker-lams/DGDELevelApplicationStatus/metadata/_get",
+      "displayName": "DGDELevelApplicationStatus",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5115,
+      "name": "DGDELevelApplicationStatus",
+      "url": "url",
+      "displayName": "Lease Renewal Extension Status Register",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-lams",
+      "enabled": true,
+      "serviceCode": "lams",
+      "code": "null",
+      "path": "Lease.Lease Reports.DGDELevelApplicationStatus",
+      "navigationURL": "report/rainmaker-lams/DGDELevelApplicationStatus",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 5116,
+      "name": "DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "url": "/report/rainmaker-lams/DGDELevelLeaseRenewalExtensionStatusRegistry/_get",
+      "displayName": "DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5117,
+      "name": "DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "url": "/report/rainmaker-lams/DGDELevelLeaseRenewalExtensionStatusRegistry/metadata/_get",
+      "displayName": "DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5118,
+      "name": "DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "url": "url",
+      "displayName": "Lease Renewal Extension Application Status Report",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-lams",
+      "enabled": true,
+      "serviceCode": "lams",
+      "code": "null",
+      "path": "Lease.Lease Reports.DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "navigationURL": "report/rainmaker-lams/DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }      
   ]
 }
