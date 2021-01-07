@@ -15427,18 +15427,6 @@
       "path": ""
     },
     {
-      "id": 1990,
-      "name": "DSS Dashboard Config Lease",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/lease",
-      "parentModule": "",
-      "displayName": "DSS",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "DSS",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1902,
       "name": "StateLevelStatus",
       "url": "/report/rainmaker-tl/StateLevelStatus/metadata/_get",
@@ -16714,18 +16702,6 @@
       "id": 5030,
       "name": "DSS Dashboard Config M Collect",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-mCollect",
-      "parentModule": "",
-      "displayName": "DSS",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "DSS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5107,
-      "name": "DSS Dashboard Config ULB Lease",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-lease",
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
