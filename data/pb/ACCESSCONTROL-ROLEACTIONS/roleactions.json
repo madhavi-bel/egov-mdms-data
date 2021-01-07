@@ -13039,6 +13039,114 @@
       "actionid": 5119,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5109,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5111,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5112,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5109,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5111,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_APPROVER_CEO",
+      "actionid": 5112,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5113,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5114,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5115,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5116,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5117,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5118,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]
