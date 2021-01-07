@@ -809,14 +809,6 @@
       "slaHours": 336,
       "menuPath": "TAX",
       "active": true
-    },
-    {
-      "serviceCode": "Others",
-      "keywords": "",
-      "department": "DEPT_14",
-      "slaHours": 336,
-      "menuPath": "Others",
-      "active": true
     }
   ]
 }
