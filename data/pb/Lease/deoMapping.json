@@ -1,0 +1,124 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Lease",
+  "deoMapping":
+  [{
+    "DEO_AGRA": [
+      "pb.agra",
+      "pb.mathura"
+    ],
+    "DEO_ALLAHABAD": [
+      "pb.allahabad",
+      "pb.faizabad",
+      "pb.varanasi"
+    ],
+    "DEO_BAREILLY": [
+      "pb.almora",
+      "pb.bareilly",
+      "pb.nainital",
+      "pb.ranikhet",
+      "pb.shahjahanpur"
+    ],
+    "DEO_DANAPUR": [
+      "pb.danapur",
+      "pb.ramgarh"
+    ],
+    "DEO_JABALPUR": [
+      "pb.jabalpur",
+      "pb.pachmarhi"
+    ],
+    "DEO_LUCKNOW": [
+      "pb.fatehgarh",
+      "pb.kanpur",
+      "pb.lucknow"
+    ],
+    "DEO_MEERUT": [
+      "pb.chakrata",
+      "pb.clementtown",
+      "pb.dehradun",
+      "pb.landour",
+      "pb.lansdowne",
+      "pb.meerut",
+      "pb.roorkee"
+    ],
+    "DEO_MHOW": [
+      "pb.mhow"
+    ],
+    "DEO_GUWAHATI": [
+      "pb.shillong"
+    ],
+    "DEO_KOLKATA": [
+      "pb.barrackpore"
+    ],
+    "DEO_SILIGURI": [
+      "pb.jalapahar",
+      "pb.lebong"
+    ],
+    "DEO_KASHMIR": [
+      "pb.badamibagh"
+    ],
+    "DEO_AHMEDABAD": [
+      "pb.ahmedabad"
+    ],
+    "DEO_BANGALORE": [
+      "pb.belgaum"
+    ],
+    "DEO_BHOPAL": [
+      "pb.babina",
+      "pb.jhansi",
+      "pb.morar",
+      "pb.saugor"
+    ],
+    "DEO_CHENNAI": [
+      "pb.stm",
+      "pb.wellington"
+    ],
+    "DEO_COCHIN": [
+      "pb.cannanore"
+    ],
+    "DEO_JODHPUR": [
+      "pb.ajmer",
+      "pb.nasirabad"
+    ],
+    "DEO_MUMBAI": [
+      "pb.deolali",
+      "pb.kamptee"
+    ],
+    "DEO_PUNE": [
+      "pb.ahmednagar",
+      "pb.aurangabad",
+      "pb.dehuroad",
+      "pb.kirkee",
+      "pb.pune"
+    ],
+    "DEO_SECUNDERABAD": [
+      "pb.secunderabad"
+    ],
+    "DEO_AMBALA": [
+      "pb.ambala",
+      "pb.dagshai",
+      "pb.jutogh",
+      "pb.kasauli",
+      "pb.subathu"
+    ],
+    "DEO_DELHI": [
+      "pb.delhi"
+    ],
+    "DEO_JALANDHAR": [
+      "pb.amritsar",
+      "pb.ferozepur",
+      "pb.jalandhar"
+    ],
+    "DEO_JAMMU": [
+      "pb.jammu"
+    ],
+    "DEO_PATHANKOT": [
+      "pb.bakloh",
+      "pb.dalhousie",
+      "pb.khasyol"
+    ],
+    "DEO_TESTING": [
+      "pb.testing"
+    ]
+  }]
+}
