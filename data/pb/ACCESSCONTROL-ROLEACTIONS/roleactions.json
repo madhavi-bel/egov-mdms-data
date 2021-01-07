@@ -7318,6 +7318,12 @@
     },
     {
       "rolecode": "STADMIN",
+      "actionid": 5107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
       "actionid": 5036,
       "actioncode": "",
       "tenantId": "pb"
@@ -8243,6 +8249,12 @@
     {
       "rolecode": "DGDE",
       "actionid": 1894,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 1990,
       "actioncode": "",
       "tenantId": "pb"
     },
