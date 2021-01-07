@@ -1,8 +1,8 @@
 {
   "tenantId": "pb",
-  "moduleName": "deoMapping",
+  "moduleName": "Lease",
   "deoMapping":
-  {
+  [{
     "DEO_AGRA": [
       "pb.agra",
       "pb.mathura"
@@ -120,5 +120,5 @@
     "DEO_TESTING": [
       "pb.testing"
     ]
-  }
+  }]
 }
