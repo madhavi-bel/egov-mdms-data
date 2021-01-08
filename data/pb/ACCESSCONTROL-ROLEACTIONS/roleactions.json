@@ -13136,6 +13136,18 @@
       "actionid": 5118,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5119,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
