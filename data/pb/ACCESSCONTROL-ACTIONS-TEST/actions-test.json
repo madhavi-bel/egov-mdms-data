@@ -16630,36 +16630,6 @@
       "rightIcon": ""
     },
     {
-      "id": 5121,
-      "name": "Dashboard Lease",
-      "url": "url",
-      "displayName": "Lease",
-      "orderNumber": 5,
-      "parentModule": "dss-dashboard",
-      "enabled": true,
-      "serviceCode": "DSS",
-      "code": "null",
-      "path": "Dashboard.Lease",
-      "navigationURL": "integration/dss/lease",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 5120,
-      "name": "Dashboard CB Lease",
-      "url": "url",
-      "displayName": "Lease",
-      "orderNumber": 4,
-      "parentModule": "dss-dashboard",
-      "enabled": true,
-      "serviceCode": "DSS",
-      "code": "null",
-      "path": "Dashboard.Lease",
-      "navigationURL": "integration/dss/ulb-lease",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
       "id": 5022,
       "name": "Dashboard CB TradeLicense",
       "url": "url",
