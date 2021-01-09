@@ -448,6 +448,42 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "9ef4e139-6a81-440d-bfa5-4d590d85d32c",
+            "boundaryNum": 1,
+            "name": "Others",
+            "localname": "Others",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZONE_OTHERS",
+            "children": [
+              {
+                "id": "795eac0d-a5ab-4b6d-91fd-04219b7bda61",
+                "boundaryNum": 1,
+                "name": "Others",
+                "localname": "Others",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "code": "WARD_OTHERS",
+                "children": [
+                  {
+                    "id": "380638cb-f1f2-4b12-a102-493c7c7551bc",
+                    "boundaryNum": 1,
+                    "name": "Others",
+                    "localname": "Others",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOCAL_OTHERS",
+                    "area": "Others",
+                    "children": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
