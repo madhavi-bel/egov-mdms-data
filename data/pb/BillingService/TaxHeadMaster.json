@@ -2113,6 +2113,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "TL",
+      "name": "TL Misc Charges",
+      "code": "TL_MISC_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "4",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application form fee",
