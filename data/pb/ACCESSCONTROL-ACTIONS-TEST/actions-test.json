@@ -18185,6 +18185,17 @@
       "navigationURL": "report/rainmaker-lams/DGDELevelLeaseRenewalExtensionStatusRegistry",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 5122,
+      "name": "lrmsRenewal search",
+      "url": "/egov-pdf/download/LRMS/lrms-renewalCertificate",
+      "displayName": "lrmsRenewal search",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }      
   ]
 }

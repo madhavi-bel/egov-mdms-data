@@ -13160,6 +13160,18 @@
       "actionid": 5120,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5122,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_CEMP",
+      "actionid": 5122,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
