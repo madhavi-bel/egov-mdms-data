@@ -18064,7 +18064,7 @@
       "enabled": true,
       "serviceCode": "lams",
       "code": "null",
-      "path": "Lease.Lease Reports.LeaseRenewalExtensionStatusRegistry",
+      "path": "Lams.Lease Reports.LeaseRenewalExtensionStatusRegistry",
       "navigationURL": "report/rainmaker-lams/LeaseRenewalExtensionStatusRegistry",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -18103,7 +18103,7 @@
       "enabled": true,
       "serviceCode": "lams",
       "code": "null",
-      "path": "Lease.Lease Reports.LeaseRenewalExtensionApplicationStatusReport",
+      "path": "Lams.Lease Reports.LeaseRenewalExtensionApplicationStatusReport",
       "navigationURL": "report/rainmaker-lams/LeaseRenewalExtensionApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -18142,7 +18142,7 @@
       "enabled": true,
       "serviceCode": "lams",
       "code": "null",
-      "path": "Lease.Lease Reports.DGDELevelApplicationStatus",
+      "path": "Lams.Lease Reports.DGDELevelApplicationStatus",
       "navigationURL": "report/rainmaker-lams/DGDELevelApplicationStatus",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -18181,7 +18181,7 @@
       "enabled": true,
       "serviceCode": "lams",
       "code": "null",
-      "path": "Lease.Lease Reports.DGDELevelLeaseRenewalExtensionStatusRegistry",
+      "path": "Lams.Lease Reports.DGDELevelLeaseRenewalExtensionStatusRegistry",
       "navigationURL": "report/rainmaker-lams/DGDELevelLeaseRenewalExtensionStatusRegistry",
       "leftIcon": "action:assignment",
       "rightIcon": ""
