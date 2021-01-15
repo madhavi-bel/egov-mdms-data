@@ -13161,6 +13161,36 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+  },
+  {
+    "category": "CHARGES",
+    "service": "ENTFEE.MUSEUM",
+    "name": "ENTFEE.MUSEUM_ROUNDOFF",
+    "code": "ENTFEE.MUSEUM_ROUNDOFF",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "CHARGES",
+    "service": "ENTFEE.PARK",
+    "name": "ENTFEE.PARK_ROUNDOFF",
+    "code": "ENTFEE.PARK_ROUNDOFF",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "CHARGES",
+    "service": "ENTFEE.PLYGRND",
+    "name": "ENTFEE.PLYGRND_ROUNDOFF",
+    "code": "ENTFEE.PLYGRND_ROUNDOFF",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
   }
   ]
 }
