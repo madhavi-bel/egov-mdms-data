@@ -12201,7 +12201,7 @@
       "isActualDemand": false,
       "order": "5",
       "isRequired": false
-    },    
+    },
     {
       "category": "CHARGES",
       "service": "OTHFEE.PARKING",
@@ -12321,8 +12321,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_SEC_DEP",
@@ -12331,8 +12331,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_SEC_DEP",
@@ -12341,8 +12341,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_SEC_DEP",
@@ -12351,8 +12351,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_SEC_DEP",
@@ -12361,8 +12361,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_SEC_DEP",
@@ -12371,8 +12371,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "RENT.WWH",
       "name": "RENT.WWH_SEC_DEP",
@@ -12381,8 +12381,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "RENT.MH",
       "name": "RENT.MH_SEC_DEP",
@@ -12391,8 +12391,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_SEC_DEP",
@@ -12401,8 +12401,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_SEC_DEP",
@@ -12411,8 +12411,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_SEC_DEP",
@@ -12421,8 +12421,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_SEC_DEP",
@@ -12431,8 +12431,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_SEC_DEP",
@@ -12441,8 +12441,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_SEC_DEP",
@@ -12451,8 +12451,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SEC_DEP",
@@ -12461,8 +12461,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_SEC_DEP",
@@ -12471,8 +12471,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SEC_DEP",
@@ -12481,8 +12481,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_CGST",
@@ -12491,8 +12491,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_CGST",
@@ -12501,8 +12501,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_CGST",
@@ -12511,8 +12511,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_CGST",
@@ -12521,8 +12521,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_CGST",
@@ -12531,8 +12531,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_CGST",
@@ -12541,8 +12541,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.WWH",
       "name": "RENT.WWH_CGST",
@@ -12551,8 +12551,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.MH",
       "name": "RENT.MH_CGST",
@@ -12561,8 +12561,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_CGST",
@@ -12571,8 +12571,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_CGST",
@@ -12581,8 +12581,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_CGST",
@@ -12591,8 +12591,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_CGST",
@@ -12601,8 +12601,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_CGST",
@@ -12611,8 +12611,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_CGST",
@@ -12621,8 +12621,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_CGST",
@@ -12631,8 +12631,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_CGST",
@@ -12641,8 +12641,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_CGST",
@@ -12651,8 +12651,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_SGST",
@@ -12661,8 +12661,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_SGST",
@@ -12671,8 +12671,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_SGST",
@@ -12681,8 +12681,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_SGST",
@@ -12691,8 +12691,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_SGST",
@@ -12701,8 +12701,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_SGST",
@@ -12711,8 +12711,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.WWH",
       "name": "RENT.WWH_SGST",
@@ -12721,8 +12721,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.MH",
       "name": "RENT.MH_SGST",
@@ -12731,8 +12731,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_SGST",
@@ -12741,8 +12741,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_SGST",
@@ -12751,8 +12751,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_SGST",
@@ -12761,8 +12761,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_SGST",
@@ -12771,8 +12771,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_SGST",
@@ -12781,8 +12781,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_SGST",
@@ -12791,8 +12791,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SGST",
@@ -12801,8 +12801,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_SGST",
@@ -12811,8 +12811,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SGST",
@@ -12821,8 +12821,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_TAX",
@@ -12831,8 +12831,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_TAX",
@@ -12841,8 +12841,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_TAX",
@@ -12851,8 +12851,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_TAX",
@@ -12861,8 +12861,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_TAX",
@@ -12871,8 +12871,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_TAX",
@@ -12881,8 +12881,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.WWH",
       "name": "RENT.WWH_TAX",
@@ -12891,8 +12891,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.MH",
       "name": "RENT.MH_TAX",
@@ -12901,8 +12901,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_TAX",
@@ -12911,8 +12911,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_TAX",
@@ -12921,8 +12921,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_TAX",
@@ -12931,8 +12931,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_TAX",
@@ -12941,8 +12941,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_TAX",
@@ -12951,8 +12951,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_TAX",
@@ -12961,8 +12961,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_TAX",
@@ -12971,8 +12971,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_TAX",
@@ -12981,8 +12981,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_TAX",
@@ -12991,8 +12991,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_FIELD_FEE",
@@ -13001,8 +13001,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_FIELD_FEE",
@@ -13011,8 +13011,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_FIELD_FEE",
@@ -13021,8 +13021,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_FIELD_FEE",
@@ -13031,8 +13031,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_FIELD_FEE",
@@ -13041,8 +13041,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_FIELD_FEE",
@@ -13051,8 +13051,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "RENT.WWH",
       "name": "RENT.WWH_FIELD_FEE",
@@ -13061,8 +13061,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "RENT.MH",
       "name": "RENT.MH_FIELD_FEE",
@@ -13071,8 +13071,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_FIELD_FEE",
@@ -13081,8 +13081,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_FIELD_FEE",
@@ -13091,8 +13091,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_FIELD_FEE",
@@ -13101,8 +13101,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_FIELD_FEE",
@@ -13111,8 +13111,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_FIELD_FEE",
@@ -13121,8 +13121,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_FIELD_FEE",
@@ -13131,8 +13131,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_FIELD_FEE",
@@ -13141,8 +13141,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_FIELD_FEE",
@@ -13151,8 +13151,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_FIELD_FEE",
@@ -13161,36 +13161,36 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
-    "category": "CHARGES",
-    "service": "ENTFEE.MUSEUM",
-    "name": "ENTFEE.MUSEUM_ROUNDOFF",
-    "code": "ENTFEE.MUSEUM_ROUNDOFF",
-    "isDebit": false,
-    "isActualDemand": false,
-    "order": "0",
-    "isRequired": false
-  },
-  {
-    "category": "CHARGES",
-    "service": "ENTFEE.PARK",
-    "name": "ENTFEE.PARK_ROUNDOFF",
-    "code": "ENTFEE.PARK_ROUNDOFF",
-    "isDebit": false,
-    "isActualDemand": false,
-    "order": "0",
-    "isRequired": false
-  },
-  {
-    "category": "CHARGES",
-    "service": "ENTFEE.PLYGRND",
-    "name": "ENTFEE.PLYGRND_ROUNDOFF",
-    "code": "ENTFEE.PLYGRND_ROUNDOFF",
-    "isDebit": false,
-    "isActualDemand": false,
-    "order": "0",
-    "isRequired": false
-  }
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.MUSEUM",
+      "name": "ENTFEE.MUSEUM_ROUNDOFF",
+      "code": "ENTFEE.MUSEUM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_ROUNDOFF",
+      "code": "ENTFEE.PARK_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PLYGRND",
+      "name": "ENTFEE.PLYGRND_ROUNDOFF",
+      "code": "ENTFEE.PLYGRND_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }
   ]
 }
