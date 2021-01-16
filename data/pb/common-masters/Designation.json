@@ -300,6 +300,18 @@
       "description": "Head Clerk",
       "code": "DESIG_82",
       "active": true
+    },
+    {
+      "name": "Defence Secretary",
+      "description": "Defence Secretary",
+      "code": "DESIG_83",
+      "active": true
+    },
+    {
+      "name": "Principal Director",
+      "description": "Principal Director",
+      "code": "DESIG_84",
+      "active": true
     }
   ]
 }
