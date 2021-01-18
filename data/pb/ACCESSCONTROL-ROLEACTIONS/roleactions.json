@@ -13196,6 +13196,17 @@
       "actionid": 5124,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5125,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "LR_CEMP",
+      "actionid": 5125,
+      "actioncode": ""
     }
   ]
 }

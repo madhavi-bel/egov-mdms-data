@@ -18220,6 +18220,18 @@
       "serviceCode": "lams-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5125,
+      "name": "",
+      "url": "/lams-services/dSign/getApplicationfile",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "lams-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
