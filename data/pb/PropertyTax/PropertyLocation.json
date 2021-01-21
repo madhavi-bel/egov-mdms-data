@@ -1,0 +1,21 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "PropertyLocation": [
+    {
+      "name": "Civil Area (Bazar Area)",
+      "code": "CIVIL",
+      "active": true
+    },
+    {
+      "name": "Outside Civil Area (Bungalow Area)",
+      "code": "BUNGLOW",
+      "active": true
+    },
+    {
+      "name": "Outside Cantonment Zone",
+      "code": "OUTSIDE",
+      "active": true      
+    }
+  ]
+}
