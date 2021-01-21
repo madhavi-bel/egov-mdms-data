@@ -1,30 +1,25 @@
 {
   "tenantId": "pb",
-  "moduleName": "ws-services-calculation",
+  "moduleName": "sw-services-calculation",
   "PipeSize": [
     {
       "id": "1",
-      "size":0.25,
+      "size":2,
       "isActive": true
     },
     {
       "id": "2",
-      "size":0.50, 
+      "size":4, 
       "isActive": true
     },
     {
       "id": "3",
-      "size":0.75,
+      "size":6,
       "isActive": true
     },
     {
       "id": "4",
-       "size":1.00,
-      "isActive": true
-    },
-       {
-      "id": "5",
-       "size":1.50,
+       "size":8,
       "isActive": true
     }
   ]
