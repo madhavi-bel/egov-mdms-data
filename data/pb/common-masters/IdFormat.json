@@ -455,11 +455,11 @@
       "idname": "nks.rain_harvesting_charges.receipt.id"
     },
     {
-      "format": "WS-CB-[cb:name]-[cy:yyyy]-[SEQ_EGOV_COMMON]",
+      "format": "WS-[cb:name]-[cy:yyyy]-[SEQ_WS_CON_[TENANT_ID]]",
       "idname": "waterservice.connection.id"
     },
     {
-      "format": "SW-CB-[cb:name]-[cy:yyyy]-[SEQ_EGOV_COMMON]",
+      "format": "SW-[cb:name]-[cy:yyyy]-[SEQ_SW_CON_[TENANT_ID]]",
       "idname": "sewerageservice.connection.id"
     },{
       "idname":"egov.idgen.bpa.applicationNum",
@@ -486,19 +486,19 @@
       "idname": "bpa.nc_san_fee.receipt.id"
     },
     {
-      "format": "WS/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+      "format": "WS/CB/[cb.name]/[fy:yyyy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
       "idname": "ws.receipt.id"
     },
     {
-      "format": "SW/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+      "format": "SW/CB/[cb.name]/[fy:yyyy]/[SEQ_SW_BILL_RCPT_[TENANT_ID]]",
       "idname": "sw.receipt.id"
     },
     {
-      "format": "WS-APP-[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
+      "format": "WS-AP-[cb.name]/[cy:yyyy-MM-dd]/[SEQ_WS_APP_[TENANT_ID]]",
       "idname": "waterservice.application.id"
     },
     {
-      "format": "SW-APP-[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
+      "format": "SW-AP-[cb.name]/[cy:yyyy-MM-dd]/[SEQ_SW_APP_[TENANT_ID]]",
       "idname": "sewerageservice.application.id"
     },
     {
@@ -534,11 +534,11 @@
       "idname": "pt.mutation.number"
     },
    {
-         "format": "WS/CB/[cb.name]/CON_FEE/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+         "format": "WS.OTP/[cb.name]/[fy:yyyy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
          "idname": "ws.one_time_fee.receipt.id"
     },
     {
-         "format": "SW/CB/[cb.name]/CON_FEE/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+         "format": "SW.OTP/[cb.name]/[fy:yyyy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
          "idname": "sw.one_time_fee.receipt.id"
     },
     {
