@@ -21,6 +21,16 @@
       "id": "4",
        "size":8,
       "isActive": true
+    },
+    {
+      "id": "4",
+      "size":10,
+      "isActive": true
+    },
+    {
+      "id": "4",
+       "size":12,
+      "isActive": true
     }
   ]
 }
