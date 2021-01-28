@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-masters",
+  "connectionHolderType": [
+    {
+      "name": "HOR",
+      "code": "HOR",
+      "active": true
+    },
+    {
+      "name": "Tenant",
+      "code": "TENANT",
+      "active": true
+    }
+  ]
+}
