@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "ws-services-masters",
-  "connectionHolderType": [
+  "authorizedConnection": [
     {
       "name": "Authorized connection",
       "code": "AUTHORIZED",
