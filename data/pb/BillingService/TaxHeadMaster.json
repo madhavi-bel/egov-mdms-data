@@ -2143,6 +2143,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application labour charge",
+      "code": "WS_LABOUR_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application one time fee",
