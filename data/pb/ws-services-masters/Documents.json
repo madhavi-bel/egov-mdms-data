@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -35,7 +35,7 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -67,18 +67,18 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
-      "code": "ELECTRICITY_BILL",
-      "documentType": "ELECTRICITY_BILL",
+      "code": "PROPERTY_TAX_RECIEPT",
+      "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "ELECTRICITY_BILL",
+          "code": "PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
-      "description": "ELECTRICITY_BILL_DESCRIPTION"
+      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
     },
     {
       "code": "PLUMBER_REPORT_DRAWING",
@@ -107,20 +107,6 @@
         }
       ],
       "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
-    },
-    {
-      "code": "PROPERTY_TAX_RECIEPT",
-      "documentType": "PROPERTY_TAX_RECIEPT",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "PROPERTY_TAX_RECIEPT",
-          "active": true
-        }
-      ],
-      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
     }
   ]
 }
