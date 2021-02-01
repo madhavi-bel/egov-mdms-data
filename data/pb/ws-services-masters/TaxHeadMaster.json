@@ -73,6 +73,17 @@
       "isActualDemand": true,
       "order": "6",
       "isRequired": false
+
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application road cutting charge",
+      "code": "WS_ROAD_CUTTING_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
     },
     {
       "category": "FEE",
