@@ -13315,6 +13315,12 @@
       "actionid": 1885,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
