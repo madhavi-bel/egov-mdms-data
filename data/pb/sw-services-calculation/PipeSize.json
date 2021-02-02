@@ -14,22 +14,22 @@
     },
     {
       "id": "3",
-      "size":4, 
+      "size":4,
       "isActive": true
     },
     {
       "id": "4",
-      "size":6,
+       "size":6,
       "isActive": true
     },
     {
       "id": "5",
-       "size":8,
+      "size":8,
       "isActive": true
     },
     {
       "id": "6",
-      "size":10,
+       "size":10,
       "isActive": true
     },
     {

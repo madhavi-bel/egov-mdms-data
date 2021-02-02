@@ -328,6 +328,12 @@
       "code": "NONRESIDENTIAL.OTHERS.PUBLICSPACES.CREMATION/BURIAL",
       "active": true,
       "fromFY": "2015-16"
+    },
+    {
+      "name": "Slum",
+      "code": "SLUM",
+      "active": true,
+      "fromFY": "2015-16"
     }
   ]
 }
