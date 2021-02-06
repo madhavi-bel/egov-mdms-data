@@ -29,21 +29,26 @@
     },
     {
       "id": "6",
-       "size":2,
+       "size":1.75,
       "isActive": true
     },
     {
       "id": "7",
-       "size":3,
+       "size":2,
       "isActive": true
     },
     {
       "id": "8",
-       "size":4,
+       "size":3,
       "isActive": true
     },
     {
       "id": "9",
+       "size":4,
+      "isActive": true
+    },
+    {
+      "id": "10",
        "size":6,
       "isActive": true
     }
