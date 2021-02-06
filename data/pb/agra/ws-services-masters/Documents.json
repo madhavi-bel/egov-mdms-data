@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.agra",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "AGREEMENT",
+      "documentType": "AGREEMENT",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AGREEMENT",
+          "active": true
+        }
+      ],
+      "description": "AGREEMENT_DESCRIPTION"
+    },
+    {
+      "code": "AFFIDAVIT_LEGAL_HOLDER",
+      "documentType": "AFFIDAVIT_LEGAL_HOLDER",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AFFIDAVIT_LEGAL_HOLDER",
+          "active": true
+        }
+      ],
+      "description": "AFFIDAVIT_LEGAL_HOLDER_DESCRIPTION"
     }
   ]
 }

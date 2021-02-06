@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.ajmer",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "RATION_CARD",
+      "documentType": "RATION_CARD",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "RATION_CARD",
+          "active": true
+        }
+      ],
+      "description": "RATION_CARD_DESCRIPTION"
+    },
+    {
+      "code": "SALE_DEED",
+      "documentType": "SALE_DEED",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SALE_DEED",
+          "active": true
+        }
+      ],
+      "description": "SALE_DEED_DESCRIPTION"
     }
   ]
 }

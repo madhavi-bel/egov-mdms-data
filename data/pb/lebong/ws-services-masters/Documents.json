@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.lebong",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,20 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "SOURCE_LAYOUT",
+      "documentType": "SOURCE_LAYOUT",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SOURCE_LAYOUT",
+          "active": true
+        }
+      ],
+      "description": "SOURCE_LAYOUT_DESCRIPTION"
     }
   ]
 }

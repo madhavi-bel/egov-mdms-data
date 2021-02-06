@@ -1,7 +1,7 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.kirkee",
   "moduleName": "ws-services-masters",
-  "Documents": [
+  "ModifyConnectionDocuments": [
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "COST_ESTIMATE",
+      "documentType": "COST_ESTIMATE",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "COST_ESTIMATE",
+          "active": true
+        }
+      ],
+      "description": "COST_ESTIMATE_DESCRIPTION"
+    },
+    {
+      "code": "SITE_PLAN",
+      "documentType": "SITE_PLAN",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "PLUMBER_LICENSE",
+          "active": true
+        }
+      ],
+      "description": "SITE_PLAN_DESCRIPTION"
     }
   ]
 }

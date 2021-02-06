@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.amritsar",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "AFFIDAVIT_AMRITSAR",
+      "documentType": "AFFIDAVIT_AMRITSAR",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AFFIDAVIT",
+          "active": true
+        }
+      ],
+      "description": "AFFIDAVIT_AMRITSAR_DESCRIPTION"
+    },
+    {
+      "code": "NOC_HOR",
+      "documentType": "NOC_HOR",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "NOC_HOR",
+          "active": true
+        }
+      ],
+      "description": "NOC_HOR_DESCRIPTION"
     }
   ]
 }

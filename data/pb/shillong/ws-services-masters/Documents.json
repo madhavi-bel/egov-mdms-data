@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.shillong",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,20 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "HOR_CERTIFICATE",
+      "documentType": "HOR_CERTIFICATE",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "HOR_OCCUPANCY",
+          "active": true
+        }
+      ],
+      "description": "HOR_CERTIFICATE_DESCRIPTION"
     }
   ]
 }

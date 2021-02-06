@@ -1,7 +1,7 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.jhansi",
   "moduleName": "ws-services-masters",
-  "Documents": [
+  "ModifyConnectionDocuments": [
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
@@ -93,6 +93,20 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "AGREEMENT",
+      "documentType": "AGREEMENT",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AGREEMENT_JHANSI",
+          "active": true
+        }
+      ],
+      "description": "AGREEMENT_DESCRIPTION"
     }
   ]
 }

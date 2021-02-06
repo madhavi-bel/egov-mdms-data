@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.delhi",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "TRADE_LICENSE_COPY",
+      "documentType": "TRADE_LICENSE_COPY",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "TRADE_LICENSE_COPY",
+          "active": true
+        }
+      ],
+      "description": "TRADE_LICENSE_COPY_DESCRIPTION"
+    },
+    {
+      "code": "NOC_HOR",
+      "documentType": "NOC_HOR",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "NOC_HOR",
+          "active": true
+        }
+      ],
+      "description": "NOC_HOR_DESCRIPTION"
     }
   ]
 }

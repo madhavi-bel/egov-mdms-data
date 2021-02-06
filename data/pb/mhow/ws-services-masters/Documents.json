@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.mhow",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,48 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "SALE_DEED",
+      "documentType": "SALE_DEED",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SALE_DEED",
+          "active": true
+        }
+      ],
+      "description": "SALE_DEED_DESCRIPTION"
+    },
+    {
+      "code": "HOR_DEATH_CERT",
+      "documentType": "HOR_DEATH_CERT",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "HOR_DEATH_CERT",
+          "active": true
+        }
+      ],
+      "description": "HOR_DEATH_CERT_DESCRIPTION"
+    },
+    {
+      "code": "APPLICANT_PHOTO",
+      "documentType": "APPLICANT_PHOTO",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "PHOTO_APPLICANT",
+          "active": true
+        }
+      ],
+      "description": "APPLICANT_PHOTO_DESCRIPTION"
     }
   ]
 }

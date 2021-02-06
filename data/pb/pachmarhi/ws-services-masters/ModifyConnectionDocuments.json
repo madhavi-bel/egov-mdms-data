@@ -1,7 +1,7 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.pachmarhi",
   "moduleName": "ws-services-masters",
-  "Documents": [
+  "ModifyConnectionDocuments": [
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "SITE_PLAN",
+      "documentType": "SITE_PLAN",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SITE_PLAN",
+          "active": true
+        }
+      ],
+      "description": "SITE_PLAN_DESCRIPTION"
+    },
+    {
+      "code": "NOC_HOR",
+      "documentType": "NOC_HOR",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "NOC_HOR",
+          "active": true
+        }
+      ],
+      "description": "NOC_HOR_DESCRIPTION"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.varanasi",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,38 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "AGREEMENT",
+      "documentType": "AGREEMENT",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AGREEMENT",
+          "active": true
+        }
+      ],
+      "description": "AGREEMENT_DESCRIPTION"
+    },
+    {
+      "code": "OCCUPANCY_RIGHTS",
+      "documentType": "OCCUPANCY_RIGHTS",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SUCCESSOR_CERTIFICATE",
+          "active": true
+        },
+        {
+          "code": "AFFIDAVIT_TENANT",
+          "active": true
+        }
+      ],
+      "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
     }
   ]
 }

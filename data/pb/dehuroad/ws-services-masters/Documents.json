@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.dehuroad",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,48 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "OCCUPANCY_RIGHTS",
+      "documentType": "OCCUPANCY_RIGHTS",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "7_12_EXTRACT",
+          "active": true
+        }
+      ],
+      "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
+    },
+    {
+      "code": "LOCATION_PLAN",
+      "documentType": "LOCATION_PLAN",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "LOCATION_PLAN",
+          "active": true
+        }
+      ],
+      "description": "LOCATION_PLAN_DESCRIPTION"
+    },
+    {
+      "code": "PHOTOGRAPH_HOUSE",
+      "documentType": "PHOTOGRAPH_HOUSE",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "PHOTOGRAPH_HOUSE",
+          "active": true
+        }
+      ],
+      "description": "PHOTOGRAPH_HOUSE_DESCRIPTION"
     }
   ]
 }

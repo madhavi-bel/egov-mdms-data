@@ -1,7 +1,7 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.morar",
   "moduleName": "ws-services-masters",
-  "Documents": [
+  "ModifyConnectionDocuments": [
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",

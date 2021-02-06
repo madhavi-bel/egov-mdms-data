@@ -1,7 +1,7 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.stm",
   "moduleName": "ws-services-masters",
-  "Documents": [
+  "ModifyConnectionDocuments": [
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "PATTA_COPY",
+      "documentType": "PATTA_COPY",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "PATTA_COPY",
+          "active": true
+        }
+      ],
+      "description": "PATTA_COPY_DESCRIPTION"
+    },
+    {
+      "code": "ENCUMBRANCE_CERTIFICATE",
+      "documentType": "ENCUMBRANCE_CERTIFICATE",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "ENCUMBRANCE_CERTIFICATE",
+          "active": true
+        }
+      ],
+      "description": "ENCUMBRANCE_CERTIFICATE_DESCRIPTION"
     }
   ]
 }

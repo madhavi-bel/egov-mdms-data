@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.secunderabad",
+  "tenantId": "pb.kamptee",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,6 +93,34 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "PLOT_SANCTION",
+      "documentType": "PLOT_SANCTION",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "PLOT_SANCTION_LETTER",
+          "active": true
+        }
+      ],
+      "description": "PLOT_SANCTION_DESCRIPTION"
+    },
+    {
+      "code": "BUILDING_COMPLETION_CERTIFICATE",
+      "documentType": "BUILDING_COMPLETION_CERTIFICATE",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "BUILDING_COMPLETION_CERTIFICATE",
+          "active": true
+        }
+      ],
+      "description": "BUILDING_COMPLETION_CERTIFICATE_DESCRIPTION"
     }
   ]
 }
