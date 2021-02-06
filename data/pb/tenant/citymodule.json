@@ -586,6 +586,24 @@
           "code": "pb.nainital"
         }
       ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }

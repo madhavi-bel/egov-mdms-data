@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-masters",
+  "authorizedConnection": [
+    {
+      "name": "Authorized connection",
+      "code": "AUTHORIZED",
+      "active": true
+    },
+    {
+      "name": "Unauthorized connection",
+      "code": "UNAUTHORIZED",
+      "active": true
+    }
+  ]
+}

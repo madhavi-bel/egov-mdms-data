@@ -2113,6 +2113,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "TL",
+      "name": "TL Misc Charges",
+      "code": "TL_MISC_CHARGES",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "4",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application form fee",
@@ -2130,6 +2140,16 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application labour charge",
+      "code": "WS_LABOUR_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
       "isRequired": false
     },
     {
@@ -2230,16 +2250,6 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application meter charge",
-      "code": "SW_METER_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "4",
       "isRequired": false
     },
     {
@@ -12191,7 +12201,7 @@
       "isActualDemand": false,
       "order": "5",
       "isRequired": false
-    },    
+    },
     {
       "category": "CHARGES",
       "service": "OTHFEE.PARKING",
@@ -12311,8 +12321,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_SEC_DEP",
@@ -12321,8 +12331,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_SEC_DEP",
@@ -12331,8 +12341,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_SEC_DEP",
@@ -12341,8 +12351,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_SEC_DEP",
@@ -12351,8 +12361,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_SEC_DEP",
@@ -12361,8 +12371,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "RENT.WWH",
       "name": "RENT.WWH_SEC_DEP",
@@ -12371,8 +12381,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "RENT.MH",
       "name": "RENT.MH_SEC_DEP",
@@ -12381,8 +12391,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_SEC_DEP",
@@ -12391,8 +12401,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_SEC_DEP",
@@ -12401,8 +12411,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_SEC_DEP",
@@ -12411,8 +12421,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_SEC_DEP",
@@ -12421,8 +12431,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_SEC_DEP",
@@ -12431,8 +12441,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_SEC_DEP",
@@ -12441,8 +12451,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SEC_DEP",
@@ -12451,8 +12461,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_SEC_DEP",
@@ -12461,8 +12471,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SEC_DEP",
@@ -12471,8 +12481,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_CGST",
@@ -12481,8 +12491,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_CGST",
@@ -12491,8 +12501,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_CGST",
@@ -12501,8 +12511,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_CGST",
@@ -12511,8 +12521,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_CGST",
@@ -12521,8 +12531,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_CGST",
@@ -12531,8 +12541,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.WWH",
       "name": "RENT.WWH_CGST",
@@ -12541,8 +12551,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.MH",
       "name": "RENT.MH_CGST",
@@ -12551,8 +12561,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_CGST",
@@ -12561,8 +12571,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_CGST",
@@ -12571,8 +12581,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_CGST",
@@ -12581,8 +12591,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_CGST",
@@ -12591,8 +12601,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_CGST",
@@ -12601,8 +12611,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_CGST",
@@ -12611,8 +12621,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_CGST",
@@ -12621,8 +12631,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_CGST",
@@ -12631,8 +12641,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_CGST",
@@ -12641,8 +12651,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_SGST",
@@ -12651,8 +12661,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_SGST",
@@ -12661,8 +12671,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_SGST",
@@ -12671,8 +12681,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_SGST",
@@ -12681,8 +12691,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_SGST",
@@ -12691,8 +12701,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_SGST",
@@ -12701,8 +12711,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.WWH",
       "name": "RENT.WWH_SGST",
@@ -12711,8 +12721,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.MH",
       "name": "RENT.MH_SGST",
@@ -12721,8 +12731,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_SGST",
@@ -12731,8 +12741,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_SGST",
@@ -12741,8 +12751,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_SGST",
@@ -12751,8 +12761,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_SGST",
@@ -12761,8 +12771,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_SGST",
@@ -12771,8 +12781,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_SGST",
@@ -12781,8 +12791,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_SGST",
@@ -12791,8 +12801,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_SGST",
@@ -12801,8 +12811,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_SGST",
@@ -12811,8 +12821,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_TAX",
@@ -12821,8 +12831,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_TAX",
@@ -12831,8 +12841,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_TAX",
@@ -12841,8 +12851,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_TAX",
@@ -12851,8 +12861,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_TAX",
@@ -12861,8 +12871,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_TAX",
@@ -12871,8 +12881,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.WWH",
       "name": "RENT.WWH_TAX",
@@ -12881,8 +12891,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "RENT.MH",
       "name": "RENT.MH_TAX",
@@ -12891,8 +12901,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_TAX",
@@ -12901,8 +12911,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_TAX",
@@ -12911,8 +12921,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_TAX",
@@ -12921,8 +12931,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_TAX",
@@ -12931,8 +12941,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_TAX",
@@ -12941,8 +12951,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_TAX",
@@ -12951,8 +12961,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_TAX",
@@ -12961,8 +12971,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_TAX",
@@ -12971,8 +12981,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "TAX",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_TAX",
@@ -12981,8 +12991,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": true
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.EMD_CONT_SUPP",
       "name": "CREDDEP.EMD_CONT_SUPP_FIELD_FEE",
@@ -12991,8 +13001,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.EMD_LC",
       "name": "CREDDEP.EMD_LC_FIELD_FEE",
@@ -13001,8 +13011,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.EMD_PS_CSLT",
       "name": "CREDDEP.EMD_PS_CSLT_FIELD_FEE",
@@ -13011,8 +13021,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.SD_CONT_SUPP",
       "name": "CREDDEP.SD_CONT_SUPP_FIELD_FEE",
@@ -13021,8 +13031,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.SD_LC",
       "name": "CREDDEP.SD_LC_FIELD_FEE",
@@ -13031,8 +13041,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "CREDDEP.SDPS_CSLT",
       "name": "CREDDEP.SDPS_CSLT_FIELD_FEE",
@@ -13041,8 +13051,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "RENT.WWH",
       "name": "RENT.WWH_FIELD_FEE",
@@ -13051,8 +13061,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "RENT.MH",
       "name": "RENT.MH_FIELD_FEE",
@@ -13061,8 +13071,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SRVC.MRF",
       "name": "SRVC.MRF_FIELD_FEE",
@@ -13071,8 +13081,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SRVC.MRLF",
       "name": "SRVC.MRLF_FIELD_FEE",
@@ -13081,8 +13091,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SRVC.MCF",
       "name": "SRVC.MCF_FIELD_FEE",
@@ -13091,8 +13101,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.PF",
       "name": "OTHFEE.PF_FIELD_FEE",
@@ -13101,8 +13111,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.CAB_OP_FEE",
       "name": "OTHFEE.CAB_OP_FEE_FIELD_FEE",
@@ -13111,8 +13121,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.MOB_TOW",
       "name": "OTHFEE.MOB_TOW_FIELD_FEE",
@@ -13121,8 +13131,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "TX.ANI_VEH",
       "name": "TX.ANI_VEH_FIELD_FEE",
@@ -13131,8 +13141,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "SALE.VERMI",
       "name": "SALE.VERMI_FIELD_FEE",
@@ -13141,8 +13151,8 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "service": "OTHFEE.RTI_STAMP",
       "name": "OTHFEE.RTI_STAMP_FIELD_FEE",
@@ -13151,6 +13161,1416 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-  }
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.MUSEUM",
+      "name": "ENTFEE.MUSEUM_ROUNDOFF",
+      "code": "ENTFEE.MUSEUM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PARK",
+      "name": "ENTFEE.PARK_ROUNDOFF",
+      "code": "ENTFEE.PARK_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.PLYGRND",
+      "name": "ENTFEE.PLYGRND_ROUNDOFF",
+      "code": "ENTFEE.PLYGRND_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ASSREV.COMP_CONCESSION",
+      "name": "ASSREV.COMP_CONCESSION_ROUNDOFF",
+      "code": "ASSREV.COMP_CONCESSION_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ASSREV.COMP_TAX",
+      "name": "ASSREV.COMP_TAX_ROUNDOFF",
+      "code": "ASSREV.COMP_TAX_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ASSREV.COMP_TAXOTHER",
+      "name": "ASSREV.COMP_TAXOTHER_ROUNDOFF",
+      "code": "ASSREV.COMP_TAXOTHER_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.MNY_DEP",
+      "name": "CREDDEP.MNY_DEP_ROUNDOFF",
+      "code": "CREDDEP.MNY_DEP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.CAND_SEC_DEP",
+      "name": "CREDDEP.CAND_SEC_DEP_ROUNDOFF",
+      "code": "CREDDEP.CAND_SEC_DEP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.SEC_DEP",
+      "name": "CREDDEP.SEC_DEP_ROUNDOFF",
+      "code": "CREDDEP.SEC_DEP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "ENTFEE.VEH",
+      "name": "ENTFEE.VEH_ROUNDOFF",
+      "code": "ENTFEE.VEH_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.APP_FEE",
+      "name": "OTHFEE.APP_FEE_ROUNDOFF",
+      "code": "OTHFEE.APP_FEE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.WATER_CHRG",
+      "name": "OTHFEE.WATER_CHRG_ROUNDOFF",
+      "code": "OTHFEE.WATER_CHRG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.BETT_CHRG",
+      "name": "OTHFEE.BETT_CHRG_ROUNDOFF",
+      "code": "OTHFEE.BETT_CHRG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.BIRTH_REG",
+      "name": "OTHFEE.BIRTH_REG_ROUNDOFF",
+      "code": "OTHFEE.BIRTH_REG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.BLD_FEE",
+      "name": "OTHFEE.BLD_FEE_ROUNDOFF",
+      "code": "OTHFEE.BLD_FEE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CATT_CHALLAN",
+      "name": "OTHFEE.CATT_CHALLAN_ROUNDOFF",
+      "code": "OTHFEE.CATT_CHALLAN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.COMP_UNAUTH",
+      "name": "OTHFEE.COMP_UNAUTH_ROUNDOFF",
+      "code": "OTHFEE.COMP_UNAUTH_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.COMPD_DLYAPP",
+      "name": "OTHFEE.COMPD_DLYAPP_ROUNDOFF",
+      "code": "OTHFEE.COMPD_DLYAPP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.COMPD_FEE",
+      "name": "OTHFEE.COMPD_FEE_ROUNDOFF",
+      "code": "OTHFEE.COMPD_FEE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CONSRV",
+      "name": "OTHFEE.CONSRV_ROUNDOFF",
+      "code": "OTHFEE.CONSRV_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CONST_WASTE",
+      "name": "OTHFEE.CONST_WASTE_ROUNDOFF",
+      "code": "OTHFEE.CONST_WASTE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CRT_STMP",
+      "name": "OTHFEE.CRT_STMP_ROUNDOFF",
+      "code": "OTHFEE.CRT_STMP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DRY_ANML_CHALLAN",
+      "name": "OTHFEE.DRY_ANML_CHALLAN_ROUNDOFF",
+      "code": "OTHFEE.DRY_ANML_CHALLAN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DMG_CHRG",
+      "name": "OTHFEE.DMG_CHRG_ROUNDOFF",
+      "code": "OTHFEE.DMG_CHRG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DEAD_ANML_CONT",
+      "name": "OTHFEE.DEAD_ANML_CONT_ROUNDOFF",
+      "code": "OTHFEE.DEAD_ANML_CONT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DEATH_REG",
+      "name": "OTHFEE.DEATH_REG_ROUNDOFF",
+      "code": "OTHFEE.DEATH_REG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DENG_CHALLAN",
+      "name": "OTHFEE.DENG_CHALLAN_ROUNDOFF",
+      "code": "OTHFEE.DENG_CHALLAN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DEV_CHRG",
+      "name": "OTHFEE.DEV_CHRG_ROUNDOFF",
+      "code": "OTHFEE.DEV_CHRG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DISTRAINT",
+      "name": "OTHFEE.DISTRAINT_ROUNDOFF",
+      "code": "OTHFEE.DISTRAINT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DISTRAINT_TAX",
+      "name": "OTHFEE.DISTRAINT_TAX_ROUNDOFF",
+      "code": "OTHFEE.DISTRAINT_TAX_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DRINK_WT",
+      "name": "OTHFEE.DRINK_WT_ROUNDOFF",
+      "code": "OTHFEE.DRINK_WT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DUMP_GRBG",
+      "name": "OTHFEE.DUMP_GRBG_ROUNDOFF",
+      "code": "OTHFEE.DUMP_GRBG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.EDU",
+      "name": "OTHFEE.EDU_ROUNDOFF",
+      "code": "OTHFEE.EDU_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ELEC_RLY",
+      "name": "OTHFEE.ELEC_RLY_ROUNDOFF",
+      "code": "OTHFEE.ELEC_RLY_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.EMP_REG",
+      "name": "OTHFEE.EMP_REG_ROUNDOFF",
+      "code": "OTHFEE.EMP_REG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ENCRMNT",
+      "name": "OTHFEE.ENCRMNT_ROUNDOFF",
+      "code": "OTHFEE.ENCRMNT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MTN_TR",
+      "name": "OTHFEE.MTN_TR_ROUNDOFF",
+      "code": "OTHFEE.MTN_TR_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CERT",
+      "name": "OTHFEE.CERT_ROUNDOFF",
+      "code": "OTHFEE.CERT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.DC",
+      "name": "OTHFEE.DC_ROUNDOFF",
+      "code": "OTHFEE.DC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.GRNT_PERM",
+      "name": "OTHFEE.GRNT_PERM_ROUNDOFF",
+      "code": "OTHFEE.GRNT_PERM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.OD",
+      "name": "OTHFEE.OD_ROUNDOFF",
+      "code": "OTHFEE.OD_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.HC",
+      "name": "OTHFEE.HC_ROUNDOFF",
+      "code": "OTHFEE.HC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ISS_BIRTHCERT",
+      "name": "OTHFEE.ISS_BIRTHCERT_ROUNDOFF",
+      "code": "OTHFEE.ISS_BIRTHCERT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ISS_DEATHCERT",
+      "name": "OTHFEE.ISS_DEATHCERT_ROUNDOFF",
+      "code": "OTHFEE.ISS_DEATHCERT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MED",
+      "name": "OTHFEE.MED_ROUNDOFF",
+      "code": "OTHFEE.MED_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.ISS_SANTICERT",
+      "name": "OTHFEE.ISS_SANTICERT_ROUNDOFF",
+      "code": "OTHFEE.ISS_SANTICERT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.VOTERLIST",
+      "name": "OTHFEE.VOTERLIST_ROUNDOFF",
+      "code": "OTHFEE.VOTERLIST_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RICKSHW",
+      "name": "OTHFEE.RICKSHW_ROUNDOFF",
+      "code": "OTHFEE.RICKSHW_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.LIC",
+      "name": "OTHFEE.LIC_ROUNDOFF",
+      "code": "OTHFEE.LIC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MISC",
+      "name": "OTHFEE.MISC_ROUNDOFF",
+      "code": "OTHFEE.MISC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MTN",
+      "name": "OTHFEE.MTN_ROUNDOFF",
+      "code": "OTHFEE.MTN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.NDC",
+      "name": "OTHFEE.NDC_ROUNDOFF",
+      "code": "OTHFEE.NDC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.NOTICE",
+      "name": "OTHFEE.NOTICE_ROUNDOFF",
+      "code": "OTHFEE.NOTICE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PENALT",
+      "name": "OTHFEE.PENALT_ROUNDOFF",
+      "code": "OTHFEE.PENALT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.OTH_SHOW",
+      "name": "OTHFEE.OTH_SHOW_ROUNDOFF",
+      "code": "OTHFEE.OTH_SHOW_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PARK_ELEC",
+      "name": "OTHFEE.PARK_ELEC_ROUNDOFF",
+      "code": "OTHFEE.PARK_ELEC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PLASTIC_CHALLAN",
+      "name": "OTHFEE.PLASTIC_CHALLAN_ROUNDOFF",
+      "code": "OTHFEE.PLASTIC_CHALLAN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.REG",
+      "name": "OTHFEE.REG_ROUNDOFF",
+      "code": "OTHFEE.REG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.REGL",
+      "name": "OTHFEE.REGL_ROUNDOFF",
+      "code": "OTHFEE.REGL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.REHRI",
+      "name": "OTHFEE.REHRI_ROUNDOFF",
+      "code": "OTHFEE.REHRI_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RD_SHOW",
+      "name": "OTHFEE.RD_SHOW_ROUNDOFF",
+      "code": "OTHFEE.RD_SHOW_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RTI",
+      "name": "OTHFEE.RTI_ROUNDOFF",
+      "code": "OTHFEE.RTI_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.SLGHT_HS",
+      "name": "OTHFEE.SLGHT_HS_ROUNDOFF",
+      "code": "OTHFEE.SLGHT_HS_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TEHBAZZZRI",
+      "name": "OTHFEE.TEHBAZZZRI_ROUNDOFF",
+      "code": "OTHFEE.TEHBAZZZRI_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TNDR_FRM",
+      "name": "OTHFEE.TNDR_FRM_ROUNDOFF",
+      "code": "OTHFEE.TNDR_FRM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TREE_AUC",
+      "name": "OTHFEE.TREE_AUC_ROUNDOFF",
+      "code": "OTHFEE.TREE_AUC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.TR_ASS_TAX",
+      "name": "OTHFEE.TR_ASS_TAX_ROUNDOFF",
+      "code": "OTHFEE.TR_ASS_TAX_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.WF",
+      "name": "OTHFEE.WF_ROUNDOFF",
+      "code": "OTHFEE.WF_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.COM_CEN_BK",
+      "name": "RENT.COM_CEN_BK_ROUNDOFF",
+      "code": "RENT.COM_CEN_BK_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.EREC_POL",
+      "name": "RENT.EREC_POL_ROUNDOFF",
+      "code": "RENT.EREC_POL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.EXB_CIRC",
+      "name": "RENT.EXB_CIRC_ROUNDOFF",
+      "code": "RENT.EXB_CIRC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.CANTT_FUND",
+      "name": "RENT.CANTT_FUND_ROUNDOFF",
+      "code": "RENT.CANTT_FUND_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.CA",
+      "name": "RENT.CA_ROUNDOFF",
+      "code": "RENT.CA_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.GH",
+      "name": "RENT.GH_ROUNDOFF",
+      "code": "RENT.GH_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.OFF_BLDG",
+      "name": "RENT.OFF_BLDG_ROUNDOFF",
+      "code": "RENT.OFF_BLDG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.REMIS_REFND",
+      "name": "RENT.REMIS_REFND_ROUNDOFF",
+      "code": "RENT.REMIS_REFND_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ST_VEN",
+      "name": "RENT.ST_VEN_ROUNDOFF",
+      "code": "RENT.ST_VEN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.TEL_TW",
+      "name": "RENT.TEL_TW_ROUNDOFF",
+      "code": "RENT.TEL_TW_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.TEMP_STALL",
+      "name": "RENT.TEMP_STALL_ROUNDOFF",
+      "code": "RENT.TEMP_STALL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_LEASE",
+      "name": "RENT.ULB_LEASE_ROUNDOFF",
+      "code": "RENT.ULB_LEASE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_PATTA",
+      "name": "RENT.ULB_PATTA_ROUNDOFF",
+      "code": "RENT.ULB_PATTA_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_NAZOOL",
+      "name": "RENT.ULB_NAZOOL_ROUNDOFF",
+      "code": "RENT.ULB_NAZOOL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_SHP",
+      "name": "RENT.ULB_SHP_ROUNDOFF",
+      "code": "RENT.ULB_SHP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.ULB_LIC",
+      "name": "RENT.ULB_LIC_ROUNDOFF",
+      "code": "RENT.ULB_LIC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.AUC_TREE",
+      "name": "SALE.AUC_TREE_ROUNDOFF",
+      "code": "SALE.AUC_TREE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.FRM_PUB",
+      "name": "SALE.FRM_PUB_ROUNDOFF",
+      "code": "SALE.FRM_PUB_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.PROD",
+      "name": "SALE.PROD_ROUNDOFF",
+      "code": "SALE.PROD_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.STR_SCRP",
+      "name": "SALE.STR_SCRP_ROUNDOFF",
+      "code": "SALE.STR_SCRP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.CHQ_BNC",
+      "name": "SRVC.CHQ_BNC_ROUNDOFF",
+      "code": "SRVC.CHQ_BNC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_ADM",
+      "name": "SRVC.APP_ADM_ROUNDOFF",
+      "code": "SRVC.APP_ADM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_CONSER",
+      "name": "SRVC.APP_CONSER_ROUNDOFF",
+      "code": "SRVC.APP_CONSER_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_ELEC",
+      "name": "SRVC.APP_ELEC_ROUNDOFF",
+      "code": "SRVC.APP_ELEC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_PWD",
+      "name": "SRVC.APP_PWD_ROUNDOFF",
+      "code": "SRVC.APP_PWD_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_ENGTP",
+      "name": "SRVC.APP_ENGTP_ROUNDOFF",
+      "code": "SRVC.APP_ENGTP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_HOSP",
+      "name": "SRVC.APP_HOSP_ROUNDOFF",
+      "code": "SRVC.APP_HOSP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_RD",
+      "name": "SRVC.APP_RD_ROUNDOFF",
+      "code": "SRVC.APP_RD_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_STR",
+      "name": "SRVC.APP_STR_ROUNDOFF",
+      "code": "SRVC.APP_STR_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_TAX",
+      "name": "SRVC.APP_TAX_ROUNDOFF",
+      "code": "SRVC.APP_TAX_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.APP_WATER",
+      "name": "SRVC.APP_WATER_ROUNDOFF",
+      "code": "SRVC.APP_WATER_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.SRVC_CHRG",
+      "name": "SRVC.SRVC_CHRG_ROUNDOFF",
+      "code": "SRVC.SRVC_CHRG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.ADVT",
+      "name": "TX.ADVT_ROUNDOFF",
+      "code": "TX.ADVT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.CONS",
+      "name": "TX.CONS_ROUNDOFF",
+      "code": "TX.CONS_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.PROF",
+      "name": "TX.PROF_ROUNDOFF",
+      "code": "TX.PROF_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.SANT",
+      "name": "TX.SANT_ROUNDOFF",
+      "code": "TX.SANT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.PROPTY",
+      "name": "TX.PROPTY_ROUNDOFF",
+      "code": "TX.PROPTY_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.BUR_GRND",
+      "name": "UC.BUR_GRND_ROUNDOFF",
+      "code": "UC.BUR_GRND_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.COST_FEED_AN",
+      "name": "UC.COST_FEED_AN_ROUNDOFF",
+      "code": "UC.COST_FEED_AN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.CREMAT_CHRG",
+      "name": "UC.CREMAT_CHRG_ROUNDOFF",
+      "code": "UC.CREMAT_CHRG_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.EDU_CESS",
+      "name": "UC.EDU_CESS_ROUNDOFF",
+      "code": "UC.EDU_CESS_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.FNRL_VAN",
+      "name": "UC.FNRL_VAN_ROUNDOFF",
+      "code": "UC.FNRL_VAN_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.GRBG_COLL",
+      "name": "UC.GRBG_COLL_ROUNDOFF",
+      "code": "UC.GRBG_COLL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.LIB_MEM",
+      "name": "UC.LIB_MEM_ROUNDOFF",
+      "code": "UC.LIB_MEM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.MTRL_STACK",
+      "name": "UC.MTRL_STACK_ROUNDOFF",
+      "code": "UC.MTRL_STACK_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PU_TLT",
+      "name": "UC.PU_TLT_ROUNDOFF",
+      "code": "UC.PU_TLT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PERM_BORE",
+      "name": "UC.PERM_BORE_ROUNDOFF",
+      "code": "UC.PERM_BORE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PROCES_FEE",
+      "name": "UC.PROCES_FEE_ROUNDOFF",
+      "code": "UC.PROCES_FEE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.PUB_FEE",
+      "name": "UC.PUB_FEE_ROUNDOFF",
+      "code": "UC.PUB_FEE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.MOB_TLT",
+      "name": "UC.MOB_TLT_ROUNDOFF",
+      "code": "UC.MOB_TLT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.RD_CUTT",
+      "name": "UC.RD_CUTT_ROUNDOFF",
+      "code": "UC.RD_CUTT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.SEP_TNK_CLR",
+      "name": "UC.SEP_TNK_CLR_ROUNDOFF",
+      "code": "UC.SEP_TNK_CLR_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "UC.WATER_TNK",
+      "name": "UC.WATER_TNK_ROUNDOFF",
+      "code": "UC.WATER_TNK_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.TOLL",
+      "name": "TX.TOLL_ROUNDOFF",
+      "code": "TX.TOLL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PARKING",
+      "name": "OTHFEE.PARKING_ROUNDOFF",
+      "code": "OTHFEE.PARKING_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHERS.CESS",
+      "name": "OTHERS.CESS_ROUNDOFF",
+      "code": "OTHERS.CESS_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.EMD_CONT_SUPP",
+      "name": "CREDDEP.EMD_CONT_SUPP_ROUNDOFF",
+      "code": "CREDDEP.EMD_CONT_SUPP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.EMD_LC",
+      "name": "CREDDEP.EMD_LC_ROUNDOFF",
+      "code": "CREDDEP.EMD_LC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.EMD_PS_CSLT",
+      "name": "CREDDEP.EMD_PS_CSLT_ROUNDOFF",
+      "code": "CREDDEP.EMD_PS_CSLT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.SD_CONT_SUPP",
+      "name": "CREDDEP.SD_CONT_SUPP_ROUNDOFF",
+      "code": "CREDDEP.SD_CONT_SUPP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.SD_LC",
+      "name": "CREDDEP.SD_LC_ROUNDOFF",
+      "code": "CREDDEP.SD_LC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "CREDDEP.SDPS_CSLT",
+      "name": "CREDDEP.SDPS_CSLT_ROUNDOFF",
+      "code": "CREDDEP.SDPS_CSLT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.WWH",
+      "name": "RENT.WWH_ROUNDOFF",
+      "code": "RENT.WWH_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "RENT.MH",
+      "name": "RENT.MH_ROUNDOFF",
+      "code": "RENT.MH_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.MRF",
+      "name": "SRVC.MRF_ROUNDOFF",
+      "code": "SRVC.MRF_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.MRLF",
+      "name": "SRVC.MRLF_ROUNDOFF",
+      "code": "SRVC.MRLF_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SRVC.MCF",
+      "name": "SRVC.MCF_ROUNDOFF",
+      "code": "SRVC.MCF_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.PF",
+      "name": "OTHFEE.PF_ROUNDOFF",
+      "code": "OTHFEE.PF_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.CAB_OP_FEE",
+      "name": "OTHFEE.CAB_OP_FEE_ROUNDOFF",
+      "code": "OTHFEE.CAB_OP_FEE_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.MOB_TOW",
+      "name": "OTHFEE.MOB_TOW_ROUNDOFF",
+      "code": "OTHFEE.MOB_TOW_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.ANI_VEH",
+      "name": "TX.ANI_VEH_ROUNDOFF",
+      "code": "TX.ANI_VEH_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SALE.VERMI",
+      "name": "SALE.VERMI_ROUNDOFF",
+      "code": "SALE.VERMI_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHFEE.RTI_STAMP",
+      "name": "OTHFEE.RTI_STAMP_ROUNDOFF",
+      "code": "OTHFEE.RTI_STAMP_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }
   ]
 }
