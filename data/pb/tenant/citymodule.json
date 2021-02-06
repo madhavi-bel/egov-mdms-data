@@ -601,9 +601,6 @@
           "code": "pb.lucknow"
         },
         {
-          "code": "pb.pune"
-        },
-        {
           "code": "pb.secunderabad"
         },
         {
@@ -673,9 +670,6 @@
           "code": "pb.chakrata"
         },
         {
-          "code": "pb.clementtown"
-        },
-        {
           "code": "pb.dehradun"
         },
         {
@@ -692,9 +686,6 @@
         },
         {
           "code": "pb.kanpur"
-        },
-        {
-          "code": "pb.landour"
         },
         {
           "code": "pb.lansdowne"
@@ -721,9 +712,6 @@
           "code": "pb.shillong"
         },
         {
-          "code": "pb.badamibagh"
-        },
-        {
           "code": "pb.ajmer"
         },
         {
@@ -745,16 +733,13 @@
           "code": "pb.stm"
         },
         {
+          "code": "pb.saugor"
+        },
+        {
           "code": "pb.jhansi"
         },
         {
           "code": "pb.kamptee"
-        },
-        {
-          "code": "pb.kirkee"
-        },
-        {
-          "code": "pb.morar"
         },
         {
           "code": "pb.ahmedabad"
@@ -811,7 +796,13 @@
           "code": "pb.mhow"
         },
         {
+          "code": "pb.lebong"
+        },
+        {
           "code": "pb.kasauli"
+        },
+        {
+          "code": "pb.jammu"
         },
         {
           "code": "pb.jalandhar"
@@ -848,6 +839,9 @@
         },
         {
           "code": "pb.wellington"
+        },
+        {
+          "code": "pb.almora"
         },
         {
           "code": "pb.chakrata"
