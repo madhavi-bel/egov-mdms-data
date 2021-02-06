@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
