@@ -93,6 +93,17 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
-    } 
+    } ,
+    {
+      "code": "CBSPECDOC",
+      "documentType": "CBSPECDOC",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+         
+      ],
+      "description": "CBSPECDOC_DESCRIPTION"
+    }
   ]
 }
