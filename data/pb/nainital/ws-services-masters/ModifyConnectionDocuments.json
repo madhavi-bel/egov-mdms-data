@@ -98,7 +98,7 @@
       "code": "AFFIDAVIT",
       "documentType": "AFFIDAVIT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

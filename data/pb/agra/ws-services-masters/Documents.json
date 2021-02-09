@@ -98,7 +98,7 @@
       "code": "AGREEMENT",
       "documentType": "AGREEMENT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "AFFIDAVIT_LEGAL_HOLDER",
       "documentType": "AFFIDAVIT_LEGAL_HOLDER",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

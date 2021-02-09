@@ -116,7 +116,7 @@
       "code": "CLEARANCE_CERTIFICATE",
       "documentType": "CLEARANCE_CERTIFICATE",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

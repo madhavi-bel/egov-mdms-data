@@ -98,7 +98,7 @@
       "code": "AFFIDAVIT",
       "documentType": "AFFIDAVIT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "DRAWING_DANAPUR",
       "documentType": "DRAWING_DANAPUR",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -126,7 +126,7 @@
       "code": "COST_ESTIMATE",
       "documentType": "COST_ESTIMATE",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
