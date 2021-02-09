@@ -112,7 +112,7 @@
       "code": "HOR_DEATH_CERT",
       "documentType": "HOR_DEATH_CERT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

@@ -98,7 +98,7 @@
       "code": "OCCUPANCY_RIGHTS",
       "documentType": "OCCUPANCY_RIGHTS",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

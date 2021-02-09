@@ -112,7 +112,7 @@
       "code": "NOC_HOR",
       "documentType": "NOC_HOR",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

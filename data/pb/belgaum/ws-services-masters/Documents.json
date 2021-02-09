@@ -98,7 +98,7 @@
       "code": "NOC",
       "documentType": "NOC",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
