@@ -1,78 +1,34 @@
 {
   "tenantId": "pb",
-  "moduleName": "ws-services-masters",
+  "moduleName": "common-masters",
   "OwnerType": [
     {
-      "name": "Freedom ws-services-mastersFighter",
       "code": "FREEDOMFIGHTER",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
+      "active": true
     },
     {
-      "name": "Widow",
       "code": "WIDOW",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
+      "active": true
     },
     {
-      "name": "Handicapped Person",
       "code": "HANDICAPPED",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
+      "active": true
     },
     {
-      "name": "Below Poverty Line",
       "code": "BPL",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
+      "active": true
     },
     {
-      "name": "Defense Personnel",
       "code": "DEFENSE",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
+      "active": true
     },
     {
-      "name": "None of the above",
+      "code": "STAFF",
+      "active": true
+    },
+    {
       "code": "NONE",
-      "active": true,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
-      "type": "WS"
+      "active": true
     }
   ]
 }
