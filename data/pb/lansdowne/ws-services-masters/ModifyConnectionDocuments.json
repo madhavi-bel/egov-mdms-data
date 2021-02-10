@@ -98,7 +98,7 @@
       "code": "AFFIDAVIT_HOR",
       "documentType": "AFFIDAVIT_HOR",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

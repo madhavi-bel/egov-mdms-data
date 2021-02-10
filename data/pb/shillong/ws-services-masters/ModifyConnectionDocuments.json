@@ -98,7 +98,7 @@
       "code": "HOR_CERTIFICATE",
       "documentType": "HOR_CERTIFICATE",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

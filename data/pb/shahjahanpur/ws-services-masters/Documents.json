@@ -98,7 +98,7 @@
       "code": "COST_ESTIMATE",
       "documentType": "COST_ESTIMATE",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

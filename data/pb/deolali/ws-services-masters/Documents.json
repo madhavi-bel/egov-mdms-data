@@ -98,7 +98,7 @@
       "code": "BUILDING_COMPLETION_CERTIFICATE",
       "documentType": "BUILDING_COMPLETION_CERTIFICATE",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "OWNERSHIP_RIGHT",
       "documentType": "OWNERSHIP_RIGHT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
