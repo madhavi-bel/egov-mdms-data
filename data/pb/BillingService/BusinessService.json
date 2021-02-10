@@ -1877,7 +1877,8 @@
       "businessService": "WS.ONE_TIME_FEE",
       "code": "WS.ONE_TIME_FEE",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD",
+        "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -1889,7 +1890,8 @@
       "businessService": "SW.ONE_TIME_FEE",
       "code": "SW.ONE_TIME_FEE",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD",
+        "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
