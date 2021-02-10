@@ -3,81 +3,39 @@
   "moduleName": "ws-services-calculation",
   "RoadType": [
     {
-      "name": "Berm Cutting (Katcha)",
-      "code": "BERMCUTTINGKATCHA",
-      "unitCost": 6,
-      "isActive": false
-    },
-    {
-      "name": "BM and Premix Road",
-      "code": "BMPREMIXROAD",
-      "unitCost": 120,
-      "isActive": false
-    },
-    {
-      "name": "Brick Paving",
-      "code": "BRICKPAVING",
-      "unitCost": 30,
-      "isActive": false
-    },
-    {
       "name": "Cement/Concrete Road",
       "code": "CCROAD",
-      "unitCost": 180,
+      "unitCost": 0,
       "isActive": true
-    },
-    {
-      "name": "Interlocking Paver Block",
-      "code": "INTERLOCKINGPAVERBLOCK",
-      "unitCost": 150,
-      "isActive": false
-    },
-    {
-      "name": "Open Pipe",
-      "code": "OPENPIPE",
-      "unitCost": 200,
-      "isActive": false
-    },
-    {
-      "name": "Open Pipe",
-      "code": "OPENPIPE",
-      "unitCost": 200,
-      "isActive": false
-    },
-    {
-      "name": "Premix Carpet",
-      "code": "PREMIXCARPET",
-      "unitCost": 180,
-      "isActive": false
     },
     {
       "name": "Asphalt Road",
       "code": "ASPHALT",
-      "unitCost": 180,
+      "unitCost": 0,
       "isActive": true
     },
     {
       "name": "Mud Road",
       "code": "MUDROAD",
-      "unitCost": 180,
+      "unitCost": 0,
       "isActive": true
     },
     {
       "name": "Brick Road",
       "code": "BRICKROAD",
-      "unitCost": 180,
+      "unitCost": 0,
       "isActive": true
     },
     {
       "name": "Tile Road/Pavement",
       "code": "TILEROAD",
-      "unitCost": 180,
+      "unitCost": 0,
       "isActive": true
     },
     {
       "name": "WBM/stone/gravel Road",
       "code": "WSGROAD",
-      "unitCost": 180,
+      "unitCost": 0,
       "isActive": true
     }
   ]
