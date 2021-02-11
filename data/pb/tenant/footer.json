@@ -180,6 +180,10 @@
         {
           "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_4",
           "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_CERTIFICATE_DISCLAIMER_5",
+          "order": "5."
         }
       ]
     },
