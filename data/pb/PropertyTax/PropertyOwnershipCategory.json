@@ -1,0 +1,16 @@
+{
+    "tenantId": "pb",
+    "moduleName": "PropertyTax",
+    "PropertyOwnershipCategory": [
+      {
+        "name": "HOR",
+        "code": "HOR",
+        "active": true
+      },
+      {
+        "name": "Tenant",
+        "code": "TENANT",
+        "active": true
+      }
+    ]
+  }

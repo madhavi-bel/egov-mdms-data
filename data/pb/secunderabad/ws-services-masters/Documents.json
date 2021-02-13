@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -35,7 +35,7 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -67,52 +67,10 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
-      "code": "ELECTRICITY_BILL",
-      "documentType": "ELECTRICITY_BILL",
-      "active": true,
-      "required": false,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "ELECTRICITY_BILL",
-          "active": true
-        }
-      ],
-      "description": "ELECTRICITY_BILL_DESCRIPTION"
-    },
-    {
-      "code": "PLUMBER_REPORT_DRAWING",
-      "documentType": "PLUMBER_REPORT_DRAWING",
-      "active": true,
-      "required": false,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "PLUMBER_REPORT_DRAWING",
-          "active": true
-        }
-      ],
-      "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
-    },
-    {
-      "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-      "documentType": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-      "active": true,
-      "required": false,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-          "active": true
-        }
-      ],
-      "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
-    },
-    {
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -121,6 +79,20 @@
         }
       ],
       "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
+    },
+    {
+      "code": "SELFDECLERATION",
+      "documentType": "SELFDECLERATION",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SELFDECLERATION",
+          "active": true
+        }
+      ],
+      "description": "SELFDECLERATION_DESCRIPTION"
     }
   ]
 }

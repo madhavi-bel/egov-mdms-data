@@ -18185,6 +18185,53 @@
       "navigationURL": "report/rainmaker-lams/DGDELevelLeaseRenewalExtensionStatusRegistry",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }      
+    },
+    {
+      "id": 5122,
+      "name": "lrmsRenewal search",
+      "url": "/egov-pdf/download/LRMS/lrms-renewalCertificate",
+      "displayName": "lrmsRenewal search",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5123,
+      "name": "Apply for Lease renewal",
+      "url": "/lams-services/dSign/createApplicationPdf",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "lams-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5124,
+      "name": "Apply for Lease renewal",
+      "url": "/lams-services/lams/esignresp",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "lams-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5125,
+      "name": "",
+      "url": "/lams-services/dSign/getApplicationfile",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "lams-services",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

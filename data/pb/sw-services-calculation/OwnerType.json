@@ -15,6 +15,18 @@
       "type": "SW"
     },
     {
+      "name": "Employee/Staff of CB",
+      "code": "STAFF",
+      "active": true,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "type": "SW"
+    },
+    {
       "name": "Widow",
       "code": "WIDOW",
       "active": true,

@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-masters",
+  "motorInfo": [
+    {
+      "name": "Without Pump",
+      "code": "WITHOUTPUMP",
+      "active": true
+    },
+    {
+      "name": "With Pump",
+      "code": "WITHPUMP",
+      "active": true
+    }
+  ]
+}

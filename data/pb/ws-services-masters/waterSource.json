@@ -48,13 +48,23 @@
       "active": true
     },
     {
-      "name": "Bulksupply-Raw",
-      "code": "BULKSUPPLY.RAW",
+      "name": "Pipe-Raw/Non-Treated",
+      "code": "PIPE.RAW",
       "active": true
     },
     {
-      "name": "Bulksupply-Treated",
-      "code": "BULKSUPPLY.TREATED",
+      "name": "Pipe-Treated",
+      "code": "PIPE.TREATED",
+      "active": true
+    },
+    {
+      "name": "Pipe-Public Stand post",
+      "code": "PIPE.PUBLICSTDPOST",
+      "active": true
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
       "active": true
     }
   ]
