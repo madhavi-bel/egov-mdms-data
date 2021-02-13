@@ -98,7 +98,7 @@
       "code": "WATER_PIPELINE_SKETCH",
       "documentType": "WATER_PIPELINE_SKETCH",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

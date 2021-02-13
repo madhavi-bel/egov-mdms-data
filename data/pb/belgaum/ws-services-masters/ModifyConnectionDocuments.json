@@ -98,7 +98,7 @@
       "code": "NOC",
       "documentType": "NOC",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "SITE_PLAN",
       "documentType": "SITE_PLAN",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

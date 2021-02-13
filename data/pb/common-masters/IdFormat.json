@@ -534,11 +534,11 @@
       "idname": "pt.mutation.number"
     },
    {
-         "format": "WS.OTP/[cb.name]/[fy:yyyy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
+         "format": "WS/CB/[cb.name]/[fy:yyyy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
          "idname": "ws.one_time_fee.receipt.id"
     },
     {
-         "format": "SW.OTP/[cb.name]/[fy:yyyy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
+         "format": "SW/CB/[cb.name]/[fy:yyyy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
          "idname": "sw.one_time_fee.receipt.id"
     },
     {

@@ -98,7 +98,7 @@
       "code": "SALE_DEED",
       "documentType": "SALE_DEED",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "HOR_DEATH_CERT",
       "documentType": "HOR_DEATH_CERT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -126,7 +126,7 @@
       "code": "APPLICANT_PHOTO",
       "documentType": "APPLICANT_PHOTO",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

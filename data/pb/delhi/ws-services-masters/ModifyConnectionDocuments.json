@@ -98,7 +98,7 @@
       "code": "TRADE_LICENSE_COPY",
       "documentType": "TRADE_LICENSE_COPY",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "NOC_HOR",
       "documentType": "NOC_HOR",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {

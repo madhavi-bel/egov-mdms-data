@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.kanpur",
+  "tenantId": "pb",
   "moduleName": "ws-services-masters",
   "Documents": [
     {
@@ -93,20 +93,6 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
-    },
-    {
-      "code": "PIPELINE_PLAN",
-      "documentType": "PIPELINE_PLAN",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "PLUMBER_REPORT_DRAWING",
-          "active": true
-        }
-      ],
-      "description": "PIPELINE_PLAN_DESCRIPTION"
     }
   ]
 }
