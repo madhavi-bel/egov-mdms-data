@@ -12156,30 +12156,6 @@
     },
     {
       "rolecode": "WS_CEMP",
-      "actionid": 5074,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 5074,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 5074,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 5074,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CEMP",
       "actionid": 5075,
       "actioncode": "",
       "tenantId": "pb"
@@ -12276,31 +12252,6 @@
     },
     {
       "rolecode": "WS_CEMP",
-      "actionid": 5078,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 5078,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 5078,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 5078,
-      "actioncode": "",
-      "tenantId": "pb"
-    }
-    ,
-    {
-      "rolecode": "WS_CEMP",
       "actionid": 5079,
       "actioncode": "",
       "tenantId": "pb"
@@ -12346,33 +12297,7 @@
       "actionid": 5080,
       "actioncode": "",
       "tenantId": "pb"
-    }
-    ,
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 5081,
-      "actioncode": "",
-      "tenantId": "pb"
     },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 5081,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 5081,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 5081,
-      "actioncode": "",
-      "tenantId": "pb"
-    }
-    ,
     {
       "rolecode": "WS_CEMP",
       "actionid": 5082,
@@ -12419,30 +12344,6 @@
     {
       "rolecode": "WS_APPROVER",
       "actionid": 5083,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 5084,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 5084,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 5084,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 5084,
       "actioncode": "",
       "tenantId": "pb"
     },
