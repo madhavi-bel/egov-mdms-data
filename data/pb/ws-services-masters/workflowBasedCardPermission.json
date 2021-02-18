@@ -6,7 +6,7 @@
         "name": "WS Connection Tax Head Containers",
         "code": "wsConnectionTaxHeadsContainer",
         "active": true,
-        "status" : ["PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_DOCUMENT_VERIFICATION"]
+        "status" : ["PENDING_FOR_FIELD_INSPECTION"]
       },
       {
         "name": "WS Connection Tax Head Containers",
