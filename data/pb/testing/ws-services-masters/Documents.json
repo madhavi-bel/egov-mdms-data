@@ -85,7 +85,7 @@
       "documentType": "SELFDECLERATION",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SELFDECLERATION",
