@@ -22,7 +22,31 @@
         {
           "label": "हिंदी",
           "value": "hi_IN"
-        } 
+        },
+        {
+         "label": "বাংলা",
+         "value": "bn_IN"
+       },
+       {
+         "label": "ಕನ್ನಡ",
+         "value": "kn_IN"
+       },
+       {
+         "label": "മലയാളം",
+         "value": "ml_IN"
+       },
+       {
+         "label": "मराठी",
+         "value": "mr_IN"
+       },
+       {
+         "label": "தமிழ்",
+         "value": "ta_IN"
+       },
+       {
+         "label": "తెలుగు",
+         "value": "te_IN"
+       }    
       ],
       "localizationModules":[
        {
