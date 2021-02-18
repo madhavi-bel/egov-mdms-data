@@ -13,10 +13,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "NOC_OWNER",
-            "LIC_SHOP_ACT",
-            "FIRENOC"
+            "SELFDECLERATION"
           ]
         },
         {
@@ -26,10 +23,7 @@
             "OWNERSHIPPROOF",
             "OWNERIDPROOF",
             "ADDPROOF",
-            "SELFDECLERATION",
-            "NOC_OWNER",
-            "LIC_SHOP_ACT",
-            "FIRENOC"
+            "SELFDECLERATION"
           ]
         }
       ],
