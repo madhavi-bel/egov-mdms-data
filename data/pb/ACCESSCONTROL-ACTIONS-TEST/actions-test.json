@@ -18349,8 +18349,8 @@
     },
     {
       "id": 5135,
-      "name": "CBWaterRegistryReport-Metadata",
-      "url": "/report/rainmaker-ws/CBWaterRegistryReport/metadata/_get",
+      "name": "CBWaterRegistryReport",
+      "url": "/report/rainmaker-ws/CBWaterRegistryReport/_get",
       "displayName": "Rainmaker WS report",
       "orderNumber": 1,
       "parentModule": "147",
