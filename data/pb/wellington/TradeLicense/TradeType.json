@@ -196,7 +196,7 @@
     },
     {
       "code": "TRADE.EATING.A8",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
