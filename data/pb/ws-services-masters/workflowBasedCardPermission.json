@@ -19,7 +19,15 @@
         "code": "connectiondetailscontainer",
         "active": true,
         "status" : ["PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_DOCUMENT_VERIFICATION"]
+      },
+      {
+        "name": "WS Connection Tax Head Containers",
+        "code": "activationDetailsContainer",
+        "active": true,
+        "status" : ["PENDING_FOR_CONNECTION_ACTIVATION"]
       } 
+
+      
     ]
   }
   
