@@ -670,7 +670,7 @@
     },
     {
       "code": "TRADE.DANGEROUS.D3",
-      "uom": "Star",
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
