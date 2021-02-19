@@ -18346,6 +18346,18 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": "WSAppplicationStatusRegistry"
+    },
+    {
+      "id": 5135,
+      "name": "CBWaterRegistryReport-Metadata",
+      "url": "/report/rainmaker-ws/CBWaterRegistryReport/metadata/_get",
+      "displayName": "Rainmaker WS report",
+      "orderNumber": 1,
+      "parentModule": "147",
+      "enabled": false,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": "CBWaterRegistryReport"
     }
   ]
 }
