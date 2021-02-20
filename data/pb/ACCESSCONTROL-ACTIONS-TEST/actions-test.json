@@ -15303,7 +15303,7 @@
       "serviceCode": "wns",
       "code": "null",
       "navigationURL": "wns/search",
-      "path": "wns",
+      "path": "wns.search",
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
@@ -17605,7 +17605,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.WaterConnectionApplicationStatusReport",
+      "path": "wns.WS REPORTS.WaterConnectionApplicationStatusReport",
       "navigationURL": "report/rainmaker-ws/WaterConnectionApplicationStatusReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -17658,7 +17658,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.WaterRegistryReport",
+      "path": "wns.WS REPORTS.WaterRegistryReport",
       "navigationURL": "report/rainmaker-ws/WaterRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -17696,7 +17696,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.CollectionforWaterConnectionType",
+      "path": "wns.WS REPORTS.CollectionforWaterConnectionType",
       "navigationURL": "report/rainmaker-ws/CollectionforWaterConnectionType",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -17734,7 +17734,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.UsageTypeWaterCollection",
+      "path": "wns.WS REPORTS.UsageTypeWaterCollection",
       "navigationURL": "report/rainmaker-ws/UsageTypeWaterCollection",
       "leftIcon": "action:description",
       "rightIcon": ""
