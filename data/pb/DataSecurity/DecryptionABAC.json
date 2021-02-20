@@ -1612,6 +1612,52 @@
             ]
           }
         ]
+      },
+      {
+        "key" : "CBSewerageRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "SewerageRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
       }
     ]
 }
