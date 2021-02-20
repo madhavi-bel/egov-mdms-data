@@ -18430,7 +18430,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "wns.WS REPORTS.SewerageRegistryReport",
+      "path": "WS REPORTS.SewerageRegistryReport",
       "navigationURL": "report/rainmaker-ws/SewerageRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18468,7 +18468,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "wns.WS REPORTS.CBSewerageRegistryReport",
+      "path": "WS REPORTS.CBSewerageRegistryReport",
       "navigationURL": "report/rainmaker-ws/CBSewerageRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18506,7 +18506,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "wns.WS REPORTS.CBSWLevelStatus",
+      "path": "WS REPORTS.CBSWLevelStatus",
       "navigationURL": "report/rainmaker-ws/CBSWLevelStatus",
       "leftIcon": "action:description",
       "rightIcon": ""
