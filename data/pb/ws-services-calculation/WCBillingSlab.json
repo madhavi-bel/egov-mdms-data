@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Water consumption",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "Water consumption",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Water consumption",
@@ -77,7 +77,7 @@
       "slabs": []
     },
     {
-      "id": 6,
+      "id": "6",
       "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Water consumption",
@@ -86,7 +86,7 @@
       "slabs": []
     },
     {
-      "id": 7,
+      "id": "7",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "Water consumption",
@@ -95,7 +95,7 @@
       "slabs": []
     },
     {
-      "id": 8,
+      "id": "8",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Water consumption",
