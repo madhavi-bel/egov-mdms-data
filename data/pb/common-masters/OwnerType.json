@@ -23,6 +23,10 @@
       "active": true
     },
     {
+      "code": "STAFF",
+      "active": true
+    },
+    {
       "code": "NONE",
       "active": true
     }
