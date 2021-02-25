@@ -12328,19 +12328,7 @@
       "actionid": 5080,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 5084,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 5084,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+    },       
     {
       "rolecode": "CITIZEN",
       "actionid": 5072,
