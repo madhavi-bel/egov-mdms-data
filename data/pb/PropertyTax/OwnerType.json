@@ -58,6 +58,12 @@
       }
     },
     {
+      "name": "Staff/Employee",
+      "code": "STAFF",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "None of the above",
       "code": "NONE",
       "active": true,
