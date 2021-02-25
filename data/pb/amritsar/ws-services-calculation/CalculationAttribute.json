@@ -6,12 +6,12 @@
       "name": "Metered",
       "code": "METERED",
       "attribute": "Water consumption",
-      "active": true
+      "active": false
     },
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "attribute": "Flat",
+      "attribute": "HOR",
       "active": true
     }
   ]
