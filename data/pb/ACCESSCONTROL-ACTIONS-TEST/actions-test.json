@@ -18583,6 +18583,22 @@
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5154,
+      "name": "rainmaker-citizen-birth",
+      "url": "card",
+      "displayName": "Birth",
+      "orderNumber": 8,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "birth-citizen/home",
+      "leftIcon": "custom:library-books",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
