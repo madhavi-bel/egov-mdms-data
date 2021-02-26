@@ -18513,9 +18513,9 @@
     },
     {
       "id": 5148,
-      "name": "Birth Cert",
+      "name": "Birth",
       "url": "url",
-      "displayName": "Birth Cert",
+      "displayName": "Birth",
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "BND",
