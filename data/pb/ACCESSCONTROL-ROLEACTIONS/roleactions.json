@@ -12161,6 +12161,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "STADMIN",
+      "actionid": 5074,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5074,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 5075,
       "actioncode": "",
@@ -12185,6 +12197,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "STADMIN",
+      "actionid": 5075,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5075,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 5076,
       "actioncode": "",
@@ -12204,6 +12228,18 @@
     },
     {
       "rolecode": "WS_APPROVER",
+      "actionid": 5076,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5076,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
       "actionid": 5076,
       "actioncode": "",
       "tenantId": "pb"
@@ -12279,8 +12315,19 @@
       "actionid": 5078,
       "actioncode": "",
       "tenantId": "pb"
-    }
-    ,
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5078,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5078,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "WS_CEMP",
       "actionid": 5079,
@@ -12306,6 +12353,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "STADMIN",
+      "actionid": 5079,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5079,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 5080,
       "actioncode": "",
@@ -12325,6 +12384,18 @@
     },
     {
       "rolecode": "WS_APPROVER",
+      "actionid": 5080,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5080,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
       "actionid": 5080,
       "actioncode": "",
       "tenantId": "pb"
