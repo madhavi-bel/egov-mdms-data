@@ -18520,7 +18520,7 @@
       "enabled": true,
       "serviceCode": "BND",
       "code": "null",
-      "navigationURL": "birth-common/getCertificate",
+      "navigationURL": "birth-citizen/home",
       "path": "applyForCert",
       "leftIcon": "custom:library-books"
     },
