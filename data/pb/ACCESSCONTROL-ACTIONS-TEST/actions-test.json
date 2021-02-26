@@ -18521,7 +18521,7 @@
       "serviceCode": "BND",
       "code": "null",
       "navigationURL": "birth-common/getCertificate",
-      "path": "Birth.applyForCert",
+      "path": "applyForCert",
       "leftIcon": "custom:library-books"
     },
     {
