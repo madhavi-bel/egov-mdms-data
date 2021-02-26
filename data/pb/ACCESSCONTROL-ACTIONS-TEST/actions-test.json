@@ -18510,7 +18510,79 @@
       "navigationURL": "report/rainmaker-ws/CBSWLevelStatus",
       "leftIcon": "action:description",
       "rightIcon": ""
+    },
+    {
+      "id": 5148,
+      "name": "Birth Cert",
+      "url": "url",
+      "displayName": "Birth Cert",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "BND",
+      "code": "null",
+      "navigationURL": "birth-common/getCertificate",
+      "path": "Birth.applyForCert",
+      "leftIcon": "custom:library-books"
+    },
+    {
+      "id": 5149,
+      "name": "Search Hospital",
+      "url": "/birth-death-services/hospital/_search",
+      "parentModule": "",
+      "displayName": "Search Hospital",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5150,
+      "name": "Birth Search",
+      "url": "/birth-death-services/birth/_search",
+      "parentModule": "",
+      "displayName": "Birth Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5151,
+      "name": "Download Birth Cert",
+      "url": "/birth-death-services/birth/_download",
+      "parentModule": "",
+      "displayName": "Download Birth Cert",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5152,
+      "name": "Get file store id for consumer code",
+      "url": "/birth-death-services/common/getfilestoreid",
+      "parentModule": "",
+      "displayName": "Get file store id for consumer code",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5153,
+      "name": "my requests",
+      "url": "/birth-death-services/requests/_search",
+      "parentModule": "",
+      "displayName": "my requests",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
     }
-
   ]
 }
