@@ -2153,7 +2153,19 @@
         "isCitizen": true,
         "type": "Adhoc",
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "code": "PT.MUTATION",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
+
  
   ]
 }
