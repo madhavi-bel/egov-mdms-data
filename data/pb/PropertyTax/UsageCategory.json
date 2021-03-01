@@ -325,7 +325,7 @@
     },
     {
       "name": "Cremation/ Burial Ground",
-      "code": "NONRESIDENTIAL.OTHERS.PUBLICSPACES.CREMATION/BURIAL",
+      "code": "NONRESIDENTIAL.OTHERS.PUBLICFACILITY.CREMATIONBURIAL",
       "active": true,
       "fromFY": "2015-16"
     },
