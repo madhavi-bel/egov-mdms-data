@@ -13838,6 +13838,12 @@
       "actionid": 1943,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1552,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
