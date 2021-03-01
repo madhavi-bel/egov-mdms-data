@@ -1086,7 +1086,7 @@
       "idname": "others.cess.receipt.id"
     },
     {
-      "format": "PT/CB/[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
+      "format": "PT-CB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]",
       "idname": "pt.propertyid"
     },
     {
