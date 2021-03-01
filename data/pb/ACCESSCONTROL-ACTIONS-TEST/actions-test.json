@@ -18243,7 +18243,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.CBWaterRegistryReport",
+      "path": "wns.WS REPORTS.CBWaterRegistryReport",
       "navigationURL": "report/rainmaker-ws/CBWaterRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18392,7 +18392,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.SewerageConnectionApplicationStatusReport",
+      "path": "wns.SW REPORTS.SewerageConnectionApplicationStatusReport",
       "navigationURL": "report/rainmaker-ws/SewerageConnectionApplicationStatusReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18430,7 +18430,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.SewerageRegistryReport",
+      "path": "wns.SW REPORTS.SewerageRegistryReport",
       "navigationURL": "report/rainmaker-ws/SewerageRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18468,7 +18468,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.CBSewerageRegistryReport",
+      "path": "wns.SW REPORTS.CBSewerageRegistryReport",
       "navigationURL": "report/rainmaker-ws/CBSewerageRegistryReport",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18506,11 +18506,169 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.CBSWLevelStatus",
+      "path": "wns.SW REPORTS.CBSWLevelStatus",
       "navigationURL": "report/rainmaker-ws/CBSWLevelStatus",
       "leftIcon": "action:description",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 5148,
+      "name": "Birth",
+      "url": "url",
+      "displayName": "Birth",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "BND",
+      "code": "null",
+      "navigationURL": "birth-citizen/home",
+      "path": "applyForCert",
+      "leftIcon": "custom:library-books"
+    },
+    {
+      "id": 5149,
+      "name": "Search Hospital",
+      "url": "/birth-death-services/hospital/_search",
+      "parentModule": "",
+      "displayName": "Search Hospital",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5150,
+      "name": "Birth Search",
+      "url": "/birth-death-services/birth/_search",
+      "parentModule": "",
+      "displayName": "Birth Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5151,
+      "name": "Download Birth Cert",
+      "url": "/birth-death-services/birth/_download",
+      "parentModule": "",
+      "displayName": "Download Birth Cert",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5152,
+      "name": "Get file store id for consumer code",
+      "url": "/birth-death-services/common/getfilestoreid",
+      "parentModule": "",
+      "displayName": "Get file store id for consumer code",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5153,
+      "name": "my requests",
+      "url": "/birth-death-services/requests/_search",
+      "parentModule": "",
+      "displayName": "my requests",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5154,
+      "name": "rainmaker-citizen-birth",
+      "url": "card",
+      "displayName": "Birth",
+      "orderNumber": 8,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "birth-citizen/home",
+      "leftIcon": "custom:library-books",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 5155,
+      "name": "ptmutationcertificate search",
+      "url": "/egov-pdf/download/PT/ptmutationcertificate",
+      "displayName": "ptmutationcertificate search",
+      "orderNumber": 7,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 5156,
+      "name": "ptbill search",
+      "url": "/egov-pdf/download/PT/ptbill",
+      "displayName": "ptbill search",
+      "orderNumber": 8,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 5157,
+      "name": "ptreceipt search",
+      "url": "/egov-pdf/download/PT/ptreceipt",
+      "displayName": "ptreceipt search",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+   },
+   {
+    "id": 5158,
+    "name": "PT Receipt Update",
+    "url": "/collection-services/payments/PT/_workflow",
+    "displayName": "PT Receipt Update",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+ },
+ {
+    "id": 5159,
+    "name": "PT Payment search",
+    "url": "/collection-services/payments/PT/_search",
+    "displayName": "PT Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+ },
+ {
+  "id": 5160,
+  "name": "PT Payment search",
+  "url": "/collection-services/payments/PT.MUTATION/_search",
+  "displayName": "PT Payment search",
+  "orderNumber": 1,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "",
+  "code": "null",
+  "path": ""
+}
 
   ]
 }

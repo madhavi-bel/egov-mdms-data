@@ -6,7 +6,8 @@
       "name": "Metered",
       "code": "METERED",
       "attribute": "Water consumption",
-      "active": true
+      "filterAttribute" : [ ],
+      "active": false
     },
     {
       "name": "Non Metered",
