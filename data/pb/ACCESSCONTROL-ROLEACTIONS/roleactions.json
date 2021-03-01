@@ -13868,6 +13868,12 @@
       "actionid": 1577,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1815,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
