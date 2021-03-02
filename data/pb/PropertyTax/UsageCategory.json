@@ -205,6 +205,54 @@
       "fromFY": "2015-16"
     },
     {
+      "name": "Pathlab",
+      "code": "NONRESIDENTIAL.COMMERCIAL.MEDICALFACILITY.PATHLAB",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Bhojanalaya/Tea Shop/Halwai Shop",
+      "code": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.TEA",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Bank",
+      "code": "NONRESIDENTIAL.COMMERCIAL.BANK",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Animal Dairy",
+      "code": "NONRESIDENTIAL.COMMERCIAL.ANIMALDAIRY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Dhobi",
+      "code": "NONRESIDENTIAL.COMMERCIAL.DHOBI",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Service Centre",
+      "code": "NONRESIDENTIAL.COMMERCIAL.SERVICECENTER",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Petrol Pump",
+      "code": "NONRESIDENTIAL.COMMERCIAL.PETROLPUMP",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Dyers ",
+      "code": "NONRESIDENTIAL.COMMERCIAL.DYERS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "Other Commercial Usage ",
       "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
       "active": true,
@@ -325,7 +373,7 @@
     },
     {
       "name": "Cremation/ Burial Ground",
-      "code": "NONRESIDENTIAL.OTHERS.PUBLICSPACES.CREMATION/BURIAL",
+      "code": "NONRESIDENTIAL.OTHERS.PUBLICFACILITY.CREMATIONBURIAL",
       "active": true,
       "fromFY": "2015-16"
     },
