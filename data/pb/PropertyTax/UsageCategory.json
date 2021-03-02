@@ -87,8 +87,19 @@
       }
     },
     {
-      "name": "Office Space",
-      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACE",
+      "name": "Office Space(Less than 10 persons)",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACELESS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Office Space(More than 10 persons)",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACEMORE",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
@@ -145,8 +156,14 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Manufacturing Facility",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITY",
+      "name": "Manufacturing Facility(Less than 10 person)",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITYLESS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Manufacturing Facility(More than 10 person)",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITYMORE",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -223,8 +240,14 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Animal Dairy",
-      "code": "NONRESIDENTIAL.COMMERCIAL.ANIMALDAIRY",
+      "name": "Animal Dairy(Below 10 Cattle)",
+      "code": "NONRESIDENTIAL.COMMERCIAL.ANIMALDAIRYLESS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Animal Dairy(Above 10 Cattle)",
+      "code": "NONRESIDENTIAL.COMMERCIAL.ANIMALDAIRYMORE",
       "active": true,
       "fromFY": "2015-16"
     },
