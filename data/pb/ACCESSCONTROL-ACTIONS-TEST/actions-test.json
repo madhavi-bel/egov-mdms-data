@@ -18668,6 +18668,82 @@
   "serviceCode": "",
   "code": "null",
   "path": ""
+},
+{
+  "id": 5161,
+  "name": "ModifyWaterConnectionApplicationStatusReport-Metadata",
+  "url": "/report/rainmaker-ws/ModifyWaterConnectionApplicationStatusReport/metadata/_get",
+  "displayName": "Rainmaker WS report",
+  "orderNumber": 1,
+  "parentModule": "147",
+  "enabled": false,
+  "serviceCode": "WSREPORTS",
+  "code": "null",
+  "path": "ModifyWaterConnectionApplicationStatusReport"
+},
+{
+  "id": 5162,
+  "name": "ModifyWaterConnectionApplicationStatusReport",
+  "url": "/report/rainmaker-ws/ModifyWaterConnectionApplicationStatusReport/_get",
+  "displayName": "WS Report",
+  "orderNumber": 0,
+  "enabled": false,
+  "serviceCode": "WSREPORTS",
+  "code": "null",
+  "path": "ModifyWaterConnectionApplicationStatusReport"
+},
+{
+  "id": 5163,
+  "name": "ModifyWaterConnectionApplicationStatusReport",
+  "url": "url",
+  "displayName": "ModifyWaterConnectionApplicationStatusReport",
+  "orderNumber": 1,
+  "parentModule": "rainmaker-ws",
+  "enabled": true,
+  "serviceCode": "WS",
+  "code": "null",
+  "path": "wns.WS REPORTS.ModifyWaterConnectionApplicationStatusReport",
+  "navigationURL": "report/rainmaker-ws/ModifyWaterConnectionApplicationStatusReport",
+  "leftIcon": "action:description",
+  "rightIcon": ""
+},
+{
+  "id": 5164,
+  "name": "ModifySewerageConnectionApplicationStatusReport-Metadata",
+  "url": "/report/rainmaker-ws/ModifySewerageConnectionApplicationStatusReport/metadata/_get",
+  "displayName": "Rainmaker WS report",
+  "orderNumber": 1,
+  "parentModule": "147",
+  "enabled": false,
+  "serviceCode": "WSREPORTS",
+  "code": "null",
+  "path": "ModifySewerageConnectionApplicationStatusReport"
+},
+{
+  "id": 5165,
+  "name": "ModifySewerageConnectionApplicationStatusReport",
+  "url": "/report/rainmaker-ws/ModifySewerageConnectionApplicationStatusReport/_get",
+  "displayName": "WS Report",
+  "orderNumber": 0,
+  "enabled": false,
+  "serviceCode": "WSREPORTS",
+  "code": "null",
+  "path": "ModifySewerageConnectionApplicationStatusReport"
+},
+{
+  "id": 5166,
+  "name": "ModifySewerageConnectionApplicationStatusReport",
+  "url": "url",
+  "displayName": "ModifySewerageConnectionApplicationStatusReport",
+  "orderNumber": 1,
+  "parentModule": "rainmaker-ws",
+  "enabled": true,
+  "serviceCode": "WS",
+  "code": "null",
+  "path": "wns.SW REPORTS.ModifySewerageConnectionApplicationStatusReport",
+  "navigationURL": "report/rainmaker-ws/ModifySewerageConnectionApplicationStatusReport",
+  "leftIcon": "action:description",
+  "rightIcon": ""
 }
 
   ]
