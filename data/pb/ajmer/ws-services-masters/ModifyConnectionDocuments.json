@@ -71,7 +71,7 @@
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "PROPERTY_TAX_RECIEPT",
@@ -85,7 +85,7 @@
       "documentType": "SELFDECLERATION",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SELFDECLERATION",
@@ -99,7 +99,7 @@
       "documentType": "RATION_CARD",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "RATION_CARD",
@@ -113,7 +113,7 @@
       "documentType": "SALE_DEED",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SALE_DEED",
