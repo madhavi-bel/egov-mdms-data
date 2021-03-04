@@ -15,6 +15,12 @@
       "fromFY": "2015-16"
     },
     {
+      "name": "Non Residential",
+      "code": "NONRESIDENTIAL.NONRESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "Mixed",
       "code": "MIXED",
       "active": true,
@@ -156,13 +162,13 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Manufacturing Facility(Less than 10 person)",
+      "name": "Manufacturing Facility(Less than 10 persons)",
       "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITYLESS",
       "active": true,
       "fromFY": "2015-16"
     },
     {
-      "name": "Manufacturing Facility(More than 10 person)",
+      "name": "Manufacturing Facility(More than 10 persons)",
       "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITYMORE",
       "active": true,
       "fromFY": "2015-16"
