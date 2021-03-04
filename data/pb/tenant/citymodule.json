@@ -820,6 +820,15 @@
           "code": "pb.ahmedabad"
         }
       ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }

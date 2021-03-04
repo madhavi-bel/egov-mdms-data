@@ -71,7 +71,7 @@
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "PROPERTY_TAX_RECIEPT",
@@ -85,7 +85,7 @@
       "documentType": "SELFDECLERATION",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SELFDECLERATION",
@@ -117,7 +117,7 @@
       "documentType": "CLEARANCE_CERTIFICATE",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "CLEARANCE_CERTIFICATE",

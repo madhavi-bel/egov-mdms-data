@@ -14401,6 +14401,16 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "BIRTH_CERT",
+      "name": "BIRTH_CERT_FEE",
+      "code": "BIRTH_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }

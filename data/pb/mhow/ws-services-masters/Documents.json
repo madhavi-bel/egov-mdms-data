@@ -71,7 +71,7 @@
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "PROPERTY_TAX_RECIEPT",
@@ -85,7 +85,7 @@
       "documentType": "SELFDECLERATION",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SELFDECLERATION",
@@ -99,7 +99,7 @@
       "documentType": "SALE_DEED",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SALE_DEED",
@@ -113,7 +113,7 @@
       "documentType": "HOR_DEATH_CERT",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "HOR_DEATH_CERT",
@@ -127,7 +127,7 @@
       "documentType": "APPLICANT_PHOTO",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "PHOTO_APPLICANT",

@@ -4206,6 +4206,16 @@
 		"code": "UC.WATER_TNK",
 		"glcode": null,
 		"cb": "pb.testing"
+	},
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+		"cb": "pb.testing"
+	},
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+		"cb": "pb.lucknow"
 	}
 	]
 }

@@ -23,10 +23,6 @@
           "label": "हिंदी",
           "value": "hi_IN"
         },
-        {
-         "label": "বাংলা",
-         "value": "bn_IN"
-       },
        {
          "label": "ಕನ್ನಡ",
          "value": "kn_IN"
@@ -46,7 +42,11 @@
        {
          "label": "తెలుగు",
          "value": "te_IN"
-       }    
+       },
+       {
+         "label": "বাংলা",
+         "value": "bn_IN"
+       }   
       ],
       "localizationModules":[
        {
