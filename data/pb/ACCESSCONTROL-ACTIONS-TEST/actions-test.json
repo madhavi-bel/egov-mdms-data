@@ -18575,7 +18575,7 @@
     {
       "id": 5153,
       "name": "my requests",
-      "url": "/birth-death-services/requests/_search",
+      "url": "/birth-death-services/birth/_searchApplications",
       "parentModule": "",
       "displayName": "my requests",
       "orderNumber": 0,
