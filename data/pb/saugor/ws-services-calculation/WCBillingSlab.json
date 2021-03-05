@@ -13,19 +13,19 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 80,
+          "charge": 960,
           "meterCharge": 0
         },
         {
           "from": 51,
           "to": 0.76,
-          "charge": 225,
+          "charge": 2700,
           "meterCharge": 0
         },
         {
           "from": 0.76,
           "to": 1.1,
-          "charge": 750,
+          "charge": 9000,
           "meterCharge": 0
         }
       ]
@@ -33,7 +33,7 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
@@ -41,19 +41,19 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 500,
+          "charge": 6000,
           "meterCharge": 0
         },
         {
           "from": 51,
           "to": 0.76,
-          "charge": 1500,
+          "charge": 18000,
           "meterCharge": 0
         },
         {
           "from": 0.76,
           "to": 1.1,
-          "charge": 3000,
+          "charge": 36000,
           "meterCharge": 0
         }
       ]
