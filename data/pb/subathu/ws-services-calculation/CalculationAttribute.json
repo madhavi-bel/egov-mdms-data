@@ -7,13 +7,14 @@
       "code": "METERED",
       "filterAttribute" : [],
       "attribute": "Water consumption",
-      "active": false
+      "active": true
     },
     {
       "name": "Non Metered",
       "code": "NONMETERED",
+      "filterAttribute" : [],
       "attribute": "Flat",
-      "active": true
+      "active": false
     }
   ]
 }

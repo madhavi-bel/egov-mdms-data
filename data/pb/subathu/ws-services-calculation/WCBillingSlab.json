@@ -12,7 +12,7 @@
       "slabs": [
         {
           "from": 0,
-          "to": 1000000,
+          "to": 10000000,
           "charge": 8,
           "meterCharge": 0
         }
