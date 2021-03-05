@@ -2,105 +2,25 @@
   "tenantId": "pb.faizabad",
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
+    
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 4,
-          "meterCharge": 0
-        }
-      ]
+      "PropertyLocation": null,
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 465,
+      "slabs": []
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 6,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 8,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 10,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "waterSource" :"PIPE.PUBLICSTDPOST",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 100,
+      "minimumCharge": 189,
       "slabs": []
-    },
-    {
-      "id": "6",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
-    },
-    {
-      "id": "7",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
-    },
-    {
-      "id": "8",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 400,
-      "slabs": []
-    }
+    } 
   ]
 }
