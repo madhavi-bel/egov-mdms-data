@@ -4,38 +4,18 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 50,
+      "minimumCharge": 600,
       "slabs": []
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 250,
-      "slabs": []
-    },
-    {
-      "id": "3",
-      "PropertyLocation": "OUTSIDE",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 50,
-      "slabs": []
-    },
-    {
-      "id": "4",
-      "PropertyLocation": "OUTSIDE",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 250,
+      "minimumCharge": 3000,
       "slabs": []
     }
   ]
