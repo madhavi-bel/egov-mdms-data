@@ -13,7 +13,7 @@
       "name": "Non Metered",
       "code": "NONMETERED",
       "attribute": "Flat",
-      "active": true
+      "active": false
     }
   ]
 }

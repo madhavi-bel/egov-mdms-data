@@ -8,7 +8,7 @@
       "buildingType":  null,
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 100,
+      "minimumCharge": 300,
       "slabs": []
     }
   ]
