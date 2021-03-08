@@ -14581,6 +14581,16 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "DEATH_CERT",
+      "name": "DEATH_CERT_FEE",
+      "code": "DEATH_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
