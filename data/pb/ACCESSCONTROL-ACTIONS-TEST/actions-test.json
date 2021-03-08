@@ -18527,7 +18527,7 @@
     {
       "id": 5149,
       "name": "Search Hospital",
-      "url": "/birth-death-services/hospital/_search",
+      "url": "/birth-death-services/common/getHospitals",
       "parentModule": "",
       "displayName": "Search Hospital",
       "orderNumber": 0,
