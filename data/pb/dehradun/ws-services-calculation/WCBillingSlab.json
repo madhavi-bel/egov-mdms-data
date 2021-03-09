@@ -23,25 +23,25 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 4800,
+          "charge": 2400,
           "meterCharge": 0
         },
         {
           "from": 0.51,
           "to": 0.76,
-          "charge": 11200,
+          "charge": 8400,
           "meterCharge": 0
         },
         {
           "from": 0.76,
           "to": 2.01,
-          "charge": 18000,
+          "charge": 36000,
           "meterCharge": 0
         },
         {
           "from": 2.01,
           "to": 3.01,
-          "charge": 40000,
+          "charge": 120000,
           "meterCharge": 0
         }
       ]
