@@ -109,22 +109,22 @@
       "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
     },
     {
-      "code": "NOC_DEHRADUN",
-      "documentType": "NOC_DEHRADUN",
+      "code": "OWNER.NOC_DEHRADUN",
+      "documentType": "OWNER",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "NOC_SUBDIVISION",
+          "code": "OWNER.NOC_DEHRADUN.NOC_SUBDIVISION",
           "active": true
         },
         {
-          "code": "NOC_HOR",
+          "code": "OWNER.NOC_DEHRADUN.NOC_HOR",
           "active": true
         }
       ],
-      "description": "NOC_DEHRADUN_DESCRIPTION"
+      "description": "OWNER.NOC_DEHRADUN.NOC_DEHRADUN_DESCRIPTION"
     }
   ]
 }
