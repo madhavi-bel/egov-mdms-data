@@ -15,7 +15,7 @@
       "connectionType": "Non Metered",
       "billingCycle": "yearly",
       "demandEndDateMillis": 2592000000,
-      "demandExpiryDate": 864000000 ,
+      "demandExpiryDate": 1296000000 ,
       "demandGenerationDateMillis": 29635200000
     }
   ]
