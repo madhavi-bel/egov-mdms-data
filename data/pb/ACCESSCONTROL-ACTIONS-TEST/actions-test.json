@@ -18821,6 +18821,18 @@
     "leftIcon": "custom:library-books",
     "rightIcon": "",
     "queryParams": ""
+  },
+  {
+    "id": 5173,
+    "name": "View Certificate data",
+    "url": "/birth-death-services/birth/_viewCertData",
+    "parentModule": "",
+    "displayName": "View Certificate data",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
   }
 
   ]
