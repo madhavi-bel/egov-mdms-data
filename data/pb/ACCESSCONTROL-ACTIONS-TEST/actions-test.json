@@ -18833,7 +18833,30 @@
     "serviceCode": "birth-death-services",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5174,
+    "name": "View Certificate data",
+    "url": "/birth-death-services/common/saveBirthImport",
+    "parentModule": "",
+    "displayName": "View Certificate data",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5175,
+    "name": "View Certificate data",
+    "url": "/birth-death-services/common/saveDeathImport",
+    "parentModule": "",
+    "displayName": "View Certificate data",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
   }
-
   ]
 }

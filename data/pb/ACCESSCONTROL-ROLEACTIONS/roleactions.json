@@ -14186,6 +14186,18 @@
       "actionid": 5173,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5175,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5174,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
