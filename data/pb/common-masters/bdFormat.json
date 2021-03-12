@@ -1,0 +1,254 @@
+{
+    "tenantId": "pb",
+    "moduleName": "common-masters",
+    "bdTemplate":[
+        {
+            "template": "bd_Bihar",
+            "code": "pb.danapur"
+        },
+        {
+            "template": "bd_Delhi",
+            "code": "pb.delhi"
+        },
+        {
+            "template": "bd_Gujarat",
+            "code": "pb.ahmedabad"
+        },
+        {
+            "template": "bd_Haryana",
+            "code": "pb.ambala"
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.bakloh "
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.dagshai "
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.dalhousie "
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.jutogh "
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.kasauli "
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.khasyol"
+        },
+        {
+            "template": "bd_HimachalPradesh",
+            "code": "pb.subathu"
+        },
+        {
+            "template": "bd_JammuAndKashmir",
+            "code": "pb.badamibagh"
+        },
+        {
+            "template": "bd_JammuAndKashmir",
+            "code": "pb.jammu"
+        },
+        {
+            "template": "bd_Jharkhand",
+            "code": "pb.ramgarh"
+        },
+        {
+            "template": "bd_Karnataka",
+            "code": "pb.belgaum"
+        },
+        {
+            "template": "bd_Kerala",
+            "code": "pb.cannanore"
+        },
+        {
+            "template": "bd_MadhyaPradesh",
+            "code": "pb.jabalpur"
+        },
+        {
+            "template": "bd_MadhyaPradesh",
+            "code": "pb.mhow"
+        },
+        {
+            "template": "bd_MadhyaPradesh",
+            "code": "pb.pachmarhi "
+        },
+        {
+            "template": "bd_MadhyaPradesh",
+            "code": "pb.morar"
+        },
+        {
+            "template": "bd_MadhyaPradesh",
+            "code": "pb.saugor"
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.ahmednagar "
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.aurangabad"
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.dehuRoad "
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.deolali "
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.kamptee "
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.kirkee"
+        },
+        {
+            "template": "bd_Maharashtra",
+            "code": "pb.pune"
+        },
+        {
+            "template": "bd_Meghalaya",
+            "code": "pb.shillong"
+        },
+        {
+            "template": "bd_Punjab",
+            "code": "pb.amritsar"
+        },
+        {
+            "template": "bd_Punjab",
+            "code": "pb.ferozpur"
+        },
+        {
+            "template": "bd_Punjab",
+            "code": "pb.jalandhar"
+        },
+        {
+            "template": "bd_Rajasthan",
+            "code": "pb.ajmer"
+        },
+        {
+            "template": "bd_Rajasthan",
+            "code": "pb.\r\nnasirabad"
+        },
+        {
+            "template": "bd_Tamil Nadu",
+            "code": "pb.stm"
+        },
+        {
+            "template": "bd_Tamil Nadu",
+            "code": "pb.wellington"
+        },
+        {
+            "template": "bd_Telangana",
+            "code": "pb.secunderabad"
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.agra"
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.allahabad"
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.babina "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.bareilly "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.jhansi "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.kanpur "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.lucknow "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.faizabad "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.fatehgarh "
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.mathura"
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.meerut"
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.shahjahanpur"
+        },
+        {
+            "template": "bd_UttarPradesh",
+            "code": "pb.varanasi"
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.aImora "
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.chakrata"
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.clement Town "
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.dehradun"
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.landour "
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.lansdowne "
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.nainital "
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.ranikhet"
+        },
+        {
+            "template": "bd_Uttarakhand",
+            "code": "pb.roorkee"
+        },
+        {
+            "template": "bd_WestBengal",
+            "code": "pb.barrackpore"
+        },
+        {
+            "template": "bd_WestBengal",
+            "code": "pb.jalapahar"
+        },
+        {
+            "template": "bd_WestBengal",
+            "code": "pb.lebang"
+        }
+    ]
+}
