@@ -3,251 +3,251 @@
     "moduleName": "common-masters",
     "bdTemplate":[
         {
-            "template": "bd_Bihar",
+            "template": "bd-bihar",
             "code": "pb.danapur"
         },
         {
-            "template": "birth-certificate-delhi",
+            "template": "bd-delhi",
             "code": "pb.delhi"
         },
         {
-            "template": "bd_Gujarat",
+            "template": "bd-gujarat",
             "code": "pb.ahmedabad"
         },
         {
-            "template": "bd_Haryana",
+            "template": "bd-haryana",
             "code": "pb.ambala"
         },
         {
-            "template": "bd_HimachalPradesh",
-            "code": "pb.bakloh "
+            "template": "bd-himachalpradesh",
+            "code": "pb.bakloh"
         },
         {
-            "template": "bd_HimachalPradesh",
-            "code": "pb.dagshai "
+            "template": "bd-himachalpradesh",
+            "code": "pb.dagshai"
         },
         {
-            "template": "bd_HimachalPradesh",
-            "code": "pb.dalhousie "
+            "template": "bd-himachalpradesh",
+            "code": "pb.dalhousie"
         },
         {
-            "template": "bd_HimachalPradesh",
-            "code": "pb.jutogh "
+            "template": "bd-himachalpradesh",
+            "code": "pb.jutogh"
         },
         {
-            "template": "bd_HimachalPradesh",
-            "code": "pb.kasauli "
+            "template": "bd-himachalpradesh",
+            "code": "pb.kasauli"
         },
         {
-            "template": "bd_HimachalPradesh",
+            "template": "bd-himachalpradesh",
             "code": "pb.khasyol"
         },
         {
-            "template": "bd_HimachalPradesh",
+            "template": "bd-himachalpradesh",
             "code": "pb.subathu"
         },
         {
-            "template": "bd_JammuAndKashmir",
+            "template": "bd-jammukashmir",
             "code": "pb.badamibagh"
         },
         {
-            "template": "bd_JammuAndKashmir",
+            "template": "bd-jammukashmir",
             "code": "pb.jammu"
         },
         {
-            "template": "bd_Jharkhand",
+            "template": "bd-jharkhand",
             "code": "pb.ramgarh"
         },
         {
-            "template": "bd_Karnataka",
+            "template": "bd-karnataka",
             "code": "pb.belgaum"
         },
         {
-            "template": "bd_Kerala",
+            "template": "bd-kerala",
             "code": "pb.cannanore"
         },
         {
-            "template": "bd_MadhyaPradesh",
+            "template": "bd-madhyapradesh",
             "code": "pb.jabalpur"
         },
         {
-            "template": "bd_MadhyaPradesh",
+            "template": "bd-madhyapradesh",
             "code": "pb.mhow"
         },
         {
-            "template": "bd_MadhyaPradesh",
-            "code": "pb.pachmarhi "
+            "template": "bd-madhyapradesh",
+            "code": "pb.pachmarhi"
         },
         {
-            "template": "bd_MadhyaPradesh",
+            "template": "bd-madhyapradesh",
             "code": "pb.morar"
         },
         {
-            "template": "bd_MadhyaPradesh",
+            "template": "bd-madhyapradesh",
             "code": "pb.saugor"
         },
         {
-            "template": "bd_Maharashtra",
-            "code": "pb.ahmednagar "
+            "template": "bd-maharashtra",
+            "code": "pb.ahmednagar"
         },
         {
-            "template": "bd_Maharashtra",
+            "template": "bd-maharashtra",
             "code": "pb.aurangabad"
         },
         {
-            "template": "bd_Maharashtra",
-            "code": "pb.dehuRoad "
+            "template": "bd-maharashtra",
+            "code": "pb.dehuRoad"
         },
         {
-            "template": "bd_Maharashtra",
-            "code": "pb.deolali "
+            "template": "bd-maharashtra",
+            "code": "pb.deolali"
         },
         {
-            "template": "bd_Maharashtra",
-            "code": "pb.kamptee "
+            "template": "bd-maharashtra",
+            "code": "pb.kamptee"
         },
         {
-            "template": "bd_Maharashtra",
+            "template": "bd-maharashtra",
             "code": "pb.kirkee"
         },
         {
-            "template": "bd_Maharashtra",
+            "template": "bd-maharashtra",
             "code": "pb.pune"
         },
         {
-            "template": "bd_Meghalaya",
+            "template": "bd-meghalaya",
             "code": "pb.shillong"
         },
         {
-            "template": "bd_Punjab",
+            "template": "bd-punjab",
             "code": "pb.amritsar"
         },
         {
-            "template": "bd_Punjab",
+            "template": "bd-punjab",
             "code": "pb.ferozpur"
         },
         {
-            "template": "bd_Punjab",
+            "template": "bd-punjab",
             "code": "pb.jalandhar"
         },
         {
-            "template": "bd_Rajasthan",
+            "template": "bd-rajasthan",
             "code": "pb.ajmer"
         },
         {
-            "template": "bd_Rajasthan",
-            "code": "pb.\r\nnasirabad"
+            "template": "bd-rajasthan",
+            "code": "pb.nasirabad"
         },
         {
-            "template": "bd_Tamil Nadu",
+            "template": "bd-tamilnadu",
             "code": "pb.stm"
         },
         {
-            "template": "bd_Tamil Nadu",
+            "template": "bd-tamilnadu",
             "code": "pb.wellington"
         },
         {
-            "template": "bd_Telangana",
+            "template": "bd-telangana",
             "code": "pb.secunderabad"
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "bd-uttarpradesh",
             "code": "pb.agra"
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "bd-uttarpradesh",
             "code": "pb.allahabad"
         },
         {
-            "template": "bd_UttarPradesh",
-            "code": "pb.babina "
+            "template": "bd-uttarpradesh",
+            "code": "pb.babina"
         },
         {
-            "template": "bd_UttarPradesh",
-            "code": "pb.bareilly "
+            "template": "bd-uttarpradesh",
+            "code": "pb.bareilly"
         },
         {
-            "template": "bd_UttarPradesh",
-            "code": "pb.jhansi "
+            "template": "bd-uttarpradesh",
+            "code": "pb.jhansi"
         },
         {
-            "template": "bd_UttarPradesh",
-            "code": "pb.kanpur "
+            "template": "bd-uttarpradesh",
+            "code": "pb.kanpur"
         },
         {
-            "template": "birth-certificate",
-            "code": "pb.lucknow "
+            "template": "bd-uttarpradesh",
+            "code": "pb.lucknow"
         },
         {
-            "template": "bd_UttarPradesh",
-            "code": "pb.faizabad "
+            "template": "bd-uttarpradesh",
+            "code": "pb.faizabad"
         },
         {
-            "template": "bd_UttarPradesh",
-            "code": "pb.fatehgarh "
+            "template": "bd-uttarpradesh",
+            "code": "pb.fatehgarh"
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "bd-uttarpradesh",
             "code": "pb.mathura"
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "bd-uttarpradesh",
             "code": "pb.meerut"
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "bd-uttarpradesh",
             "code": "pb.shahjahanpur"
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "bd-uttarpradesh",
             "code": "pb.varanasi"
         },
         {
-            "template": "bd_Uttarakhand",
-            "code": "pb.aImora "
+            "template": "bd-uttarpradesh",
+            "code": "pb.aImora"
         },
         {
-            "template": "bd_Uttarakhand",
+            "template": "bd-uttarpradesh",
             "code": "pb.chakrata"
         },
         {
-            "template": "bd_Uttarakhand",
-            "code": "pb.clement Town "
+            "template": "bd-uttarakhand",
+            "code": "pb.clementTown "
         },
         {
-            "template": "bd_Uttarakhand",
+            "template": "bd-uttarakhand",
             "code": "pb.dehradun"
         },
         {
-            "template": "bd_Uttarakhand",
-            "code": "pb.landour "
+            "template": "bd-uttarakhand",
+            "code": "pb.landour"
         },
         {
-            "template": "bd_Uttarakhand",
-            "code": "pb.lansdowne "
+            "template": "bd-uttarakhand",
+            "code": "pb.lansdowne"
         },
         {
-            "template": "bd_Uttarakhand",
+            "template": "bd-uttarakhand",
             "code": "pb.nainital "
         },
         {
-            "template": "bd_Uttarakhand",
+            "template": "bd-uttarakhand",
             "code": "pb.ranikhet"
         },
         {
-            "template": "bd_Uttarakhand",
+            "template": "bd-uttarakhand",
             "code": "pb.roorkee"
         },
         {
-            "template": "bd_WestBengal",
+            "template": "bd-westbengal",
             "code": "pb.barrackpore"
         },
         {
-            "template": "bd_WestBengal",
+            "template": "bd-westbengal",
             "code": "pb.jalapahar"
         },
         {
-            "template": "bd_WestBengal",
+            "template": "bd-westbengal",
             "code": "pb.lebang"
         }
     ]
