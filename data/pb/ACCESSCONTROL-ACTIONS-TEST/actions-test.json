@@ -18933,6 +18933,44 @@
     "navigationURL": "report/rainmaker-tl/CBLevelTradeLicensePendingForRenewalReport",
     "leftIcon": "action:description",
     "rightIcon": ""
+  },
+  {
+    "id": 5182,
+    "name": "DGDEChallanStatusRegistry-Metadata",
+    "url": "/report/rainmaker-tl/DGDEChallanStatusRegistry/metadata/_get",
+    "displayName": "TL Report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "report",
+    "code": "null",
+    "path": "DGDEChallanStatusRegistry"
+  },
+  {
+    "id": 5183,
+    "name": "DGDEChallanStatusRegistry",
+    "url": "/report/rainmaker-tl/DGDEChallanStatusRegistry/_get",
+    "displayName": "TL Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "report",
+    "code": "null",
+    "path": "DGDEChallanStatusRegistry"
+  },
+  {
+    "id": 5184,
+    "name": "DGDEChallanStatusRegistry",
+    "url": "url",
+    "displayName": "DGDEChallanStatusRegistry",
+    "orderNumber": 8,
+    "parentModule": "rainmaker-tl",
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": "TradeLicense.Trade License Reports.DGDEChallanStatusRegistry",
+    "navigationURL": "report/rainmaker-tl/DGDEChallanStatusRegistry",
+    "leftIcon": "action:description",
+    "rightIcon": ""
   }
   ]
 }
