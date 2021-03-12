@@ -7,7 +7,7 @@
             "code": "pb.danapur"
         },
         {
-            "template": "bd_Delhi",
+            "template": "birth-certificate-delhi",
             "code": "pb.delhi"
         },
         {
@@ -175,7 +175,7 @@
             "code": "pb.kanpur "
         },
         {
-            "template": "bd_UttarPradesh",
+            "template": "birth-certificate",
             "code": "pb.lucknow "
         },
         {
