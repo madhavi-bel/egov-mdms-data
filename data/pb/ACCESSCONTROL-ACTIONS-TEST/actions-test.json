@@ -18962,13 +18962,13 @@
     "name": "DGDEChallanStatusRegistry",
     "url": "url",
     "displayName": "DGDEChallanStatusRegistry",
-    "orderNumber": 8,
+    "orderNumber": 3,
     "parentModule": "rainmaker-tl",
     "enabled": true,
     "serviceCode": "report",
     "code": "null",
-    "path": "TradeLicense.Trade License Reports.DGDEChallanStatusRegistry",
-    "navigationURL": "report/rainmaker-tl/DGDEChallanStatusRegistry",
+    "path": "Reports.DGDEChallanStatusRegistry",
+    "navigationURL": "report/rainmaker-uc/DGDEChallanStatusRegistry",
     "leftIcon": "action:description",
     "rightIcon": ""
   }
