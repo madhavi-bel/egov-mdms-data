@@ -18974,7 +18974,7 @@
   },
   {
     "id": 5185,
-    "name": "DGDEDepartmentWiseReport",
+    "name": "DGDEDepartmentReport",
     "url": "url",
     "displayName": "DGDEDepartmentsWise",
     "orderNumber": 3,
@@ -18989,8 +18989,8 @@
   },
   {
     "id": 5186,
-    "name": "RainmakerPGR-DGDEDepartmentWiseReport-Metadata",
-    "url": "/report/rainmaker-pgr/DGDEDepartmentWiseReport/metadata/_get",
+    "name": "RainmakerPGR-DGDEDepartmentReport-Metadata",
+    "url": "/report/rainmaker-pgr/DGDEDepartmentReport/metadata/_get",
     "displayName": "Rainmaker PGR report",
     "orderNumber": 1,
     "parentModule": "147",
@@ -19001,8 +19001,8 @@
   },
   {
     "id": 5187,
-    "name": "DGDEDepartmentWiseReport",
-    "url": "/report/rainmaker-pgr/DGDEDepartmentWiseReport/_get",
+    "name": "DGDEDepartmentReport",
+    "url": "/report/rainmaker-pgr/DGDEDepartmentReport/_get",
     "displayName": "PGR Report",
     "orderNumber": 0,
     "enabled": false,
