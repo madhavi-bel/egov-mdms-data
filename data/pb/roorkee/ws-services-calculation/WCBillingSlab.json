@@ -13,8 +13,8 @@
     },
     {
       "id": "2",
-      "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 11304,

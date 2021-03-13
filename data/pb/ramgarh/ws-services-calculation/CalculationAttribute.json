@@ -3,12 +3,6 @@
   "moduleName": "ws-services-calculation",
   "CalculationAttribute": [
     {
-      "name": "Metered",
-      "code": "METERED",
-      "attribute": "Water consumption",
-      "active": true
-    },
-    {
       "name": "Non Metered",
       "code": "NONMETERED",
       "attribute": "Flat",
