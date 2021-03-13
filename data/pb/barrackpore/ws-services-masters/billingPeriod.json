@@ -3,7 +3,7 @@
   "moduleName": "ws-services-masters",
   "billingPeriod": [
     {
-      "active": true,
+      "active": false,
       "connectionType": "Metered",
       "billingCycle": "monthly",
       "demandEndDateMillis": 2592000000,
