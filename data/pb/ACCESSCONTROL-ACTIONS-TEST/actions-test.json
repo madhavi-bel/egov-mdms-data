@@ -18971,6 +18971,44 @@
     "navigationURL": "report/rainmaker-uc/DGDEChallanStatusRegistry",
     "leftIcon": "action:description",
     "rightIcon": ""
+  },
+  {
+    "id": 5185,
+    "name": "DGDEDepartmentWiseReport",
+    "url": "url",
+    "displayName": "DGDEDepartmentsWise",
+    "orderNumber": 3,
+    "parentModule": "rainmaker-pgr",
+    "enabled": true,
+    "serviceCode": "PGR",
+    "code": "null",
+    "path": "Complaints.PGR Reports.DepartmentWiseReport",
+    "navigationURL": "report/rainmaker-pgr/DGDEDepartmentReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 5186,
+    "name": "RainmakerPGR-DGDEDepartmentWiseReport-Metadata",
+    "url": "/report/rainmaker-pgr/DGDEDepartmentWiseReport/metadata/_get",
+    "displayName": "Rainmaker PGR report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5187,
+    "name": "DGDEDepartmentWiseReport",
+    "url": "/report/rainmaker-pgr/DGDEDepartmentWiseReport/_get",
+    "displayName": "PGR Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
   }
   ]
 }
