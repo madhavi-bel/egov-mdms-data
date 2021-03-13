@@ -19009,6 +19009,44 @@
     "serviceCode": "RainmakerPGRReports",
     "code": "null",
     "path": "PGR Report"
+  },
+  {
+    "id": 5188,
+    "name": "DGDEDescriptionReport",
+    "url": "url",
+    "displayName": "DGDEDepartmentsWise",
+    "orderNumber": 5,
+    "parentModule": "rainmaker-pgr",
+    "enabled": true,
+    "serviceCode": "PGR",
+    "code": "null",
+    "path": "Complaints.PGR Reports.DepartmentWiseReport",
+    "navigationURL": "report/rainmaker-pgr/DGDEDescriptionReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 5189,
+    "name": "RainmakerPGR-DGDEDescriptionReport-Metadata",
+    "url": "/report/rainmaker-pgr/DGDEDescriptionReport/metadata/_get",
+    "displayName": "Rainmaker PGR report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5190,
+    "name": "DGDEDescriptionReport",
+    "url": "/report/rainmaker-pgr/DGDEDescriptionReport/_get",
+    "displayName": "PGR Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
   }
   ]
 }
