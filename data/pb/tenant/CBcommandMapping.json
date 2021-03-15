@@ -1,0 +1,18 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "CBcommandMapping": [
+      {
+        "tenant": "pb.agra",
+        "code": "pb.agra",
+        "name": "CB Agra"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.delhi",
+        "name": "CB Delhi"
+      }
+
+    ]
+}
+      
