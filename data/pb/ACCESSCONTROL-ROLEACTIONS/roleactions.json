@@ -14288,6 +14288,102 @@
       "actionid": 5190,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5191,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5192,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5193,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5194,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5195,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5196,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5197,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5198,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5199,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5201,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5202,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5203,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5204,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5205,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5206,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
