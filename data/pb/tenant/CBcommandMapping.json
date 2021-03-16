@@ -131,9 +131,72 @@
       "tenant": "pb.agra",
       "code": "pb.nainital",
       "name": "CB Nainital"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.delhi",
+      "name": "CB Delhi"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.ambala",
+      "name": "CB Ambala"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.kasauli",
+      "name": "CB Kasauli"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.jammu",
+      "name": "CB Jammu"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.jalandhar",
+      "name": "CB Jalandhar"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.dagshai",
+      "name": "CB Dagshai"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.amritsar",
+      "name": "CB Amritsar"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.subathu",
+      "name": "CB Subathu"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.khasyol",
+      "name": "CB Khasyol"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.jutogh",
+      "name": "CB Jutogh"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.ferozepur",
+      "name": "CB Ferozepur"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.dalhousie",
+      "name": "CB Dalhousie"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.bakloh",
+      "name": "CB Bakloh"
     }
-
-
     ]
 }
       
