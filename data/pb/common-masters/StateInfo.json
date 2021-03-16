@@ -48,6 +48,42 @@
          "value": "bn_IN"
        }   
       ],
+      "languagesRegional" : [
+       {
+         "label": "ಕನ್ನಡ",
+         "value": "kn_IN"
+       },
+       {
+         "label": "മലയാളം",
+         "value": "ml_IN"
+       },
+       {
+         "label": "मराठी",
+         "value": "mr_IN"
+       },
+       {
+         "label": "தமிழ்",
+         "value": "ta_IN"
+       },
+       {
+         "label": "తెలుగు",
+         "value": "te_IN"
+       },
+       {
+         "label": "বাংলা",
+         "value": "bn_IN"
+       }   
+      ],
+      "languagesCommon" : [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
+      ],
       "localizationModules":[
        {
           "label":"rainmaker-uc",
