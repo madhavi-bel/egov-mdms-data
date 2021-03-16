@@ -94,7 +94,7 @@
     },
     {
       "code": "TRADE.EATING.A4",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -184,7 +184,7 @@
     },
     {
       "code": "TRADE.EATING.A7",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -214,7 +214,7 @@
     },
     {
       "code": "TRADE.EATING.A8",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -454,7 +454,7 @@
     },
     {
       "code": "TRADE.EATING.A16",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -904,7 +904,7 @@
     },
     {
       "code": "TRADE.DANGEROUS.D3",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -934,7 +934,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F1",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -964,7 +964,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F2",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -994,7 +994,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F3",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1024,7 +1024,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F4",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1324,7 +1324,7 @@
     },
     {
       "code": "TRADE.OTHERS.E2",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1354,7 +1354,7 @@
     },
     {
       "code": "TRADE.OTHERS.E3",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1414,7 +1414,7 @@
     },
     {
       "code": "TRADE.OTHERS.E5",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1444,7 +1444,7 @@
     },
     {
       "code": "TRADE.OTHERS.E6",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1474,7 +1474,7 @@
     },
     {
       "code": "TRADE.OTHERS.E7",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1534,7 +1534,7 @@
     },
     {
       "code": "TRADE.OTHERS.E9",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1594,7 +1594,7 @@
     },
     {
       "code": "TRADE.OTHERS.E11",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1744,7 +1744,7 @@
     },
     {
       "code": "TRADE.OTHERS.E16",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1774,7 +1774,7 @@
     },
     {
       "code": "TRADE.OTHERS.E17",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1804,7 +1804,7 @@
     },
     {
       "code": "TRADE.OTHERS.E18",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1834,7 +1834,7 @@
     },
     {
       "code": "TRADE.OTHERS.E19",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1894,7 +1894,7 @@
     },
     {
       "code": "TRADE.OTHERS.E21",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1924,7 +1924,7 @@
     },
     {
       "code": "TRADE.OTHERS.E22",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1954,7 +1954,7 @@
     },
     {
       "code": "TRADE.OTHERS.E23",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2044,7 +2044,7 @@
     },
     {
       "code": "TRADE.OTHERS.E26",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2074,7 +2074,7 @@
     },
     {
       "code": "TRADE.OTHERS.E27",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2104,7 +2104,7 @@
     },
     {
       "code": "TRADE.OTHERS.E28",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2134,7 +2134,7 @@
     },
     {
       "code": "TRADE.OTHERS.E29",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2164,7 +2164,7 @@
     },
     {
       "code": "TRADE.OTHERS.E30",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2194,7 +2194,7 @@
     },
     {
       "code": "TRADE.OTHERS.E31",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2224,7 +2224,7 @@
     },
     {
       "code": "TRADE.OTHERS.E32",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2254,7 +2254,7 @@
     },
     {
       "code": "TRADE.OTHERS.E33",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2284,7 +2284,7 @@
     },
     {
       "code": "TRADE.OTHERS.E34",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2314,7 +2314,7 @@
     },
     {
       "code": "TRADE.OTHERS.E35",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2344,7 +2344,7 @@
     },
     {
       "code": "TRADE.OTHERS.E36",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2374,7 +2374,7 @@
     },
     {
       "code": "TRADE.OTHERS.E37",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2404,7 +2404,7 @@
     },
     {
       "code": "TRADE.OTHERS.E38",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2434,7 +2434,7 @@
     },
     {
       "code": "TRADE.OTHERS.E39",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2464,7 +2464,7 @@
     },
     {
       "code": "TRADE.OTHERS.E40",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2494,7 +2494,7 @@
     },
     {
       "code": "TRADE.OTHERS.E41",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2524,7 +2524,7 @@
     },
     {
       "code": "TRADE.OTHERS.E42",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2554,7 +2554,7 @@
     },
     {
       "code": "TRADE.OTHERS.E43",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2614,7 +2614,7 @@
     },
     {
       "code": "TRADE.OTHERS.E45",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2674,7 +2674,7 @@
     },
     {
       "code": "TRADE.OTHERS.E47",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2704,7 +2704,7 @@
     },
     {
       "code": "TRADE.OTHERS.E48",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2734,7 +2734,7 @@
     },
     {
       "code": "TRADE.OTHERS.E49",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2764,7 +2764,7 @@
     },
     {
       "code": "TRADE.OTHERS.E50",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2794,7 +2794,7 @@
     },
     {
       "code": "TRADE.OTHERS.E51",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2824,7 +2824,7 @@
     },
     {
       "code": "TRADE.OTHERS.E52",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
