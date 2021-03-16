@@ -131,9 +131,132 @@
       "tenant": "pb.agra",
       "code": "pb.nainital",
       "name": "CB Nainital"
+    },
+    {
+      "tenant": "pb.badamibagh",
+      "code": "pb.badamibagh",
+      "name": "CB Badamibagh"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.barrackpore",
+      "name": "CB Barrackpore"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.lebong",
+      "name": "CB Lebong"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.jalapahar",
+      "name": "CB Jalapahar"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.shillong",
+      "name": "CB Shillong"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.secunderabad",
+      "name": "CB Secunderabad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.pune",
+      "name": "CB Pune"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.testing",
+      "name": "CB Testing"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.nasirabad",
+      "name": "CB Nasirabad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.deolali",
+      "name": "CB Deolali"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.dehuroad",
+      "name": "CB Dehuroad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.ahmednagar",
+      "name": "CB Ahmednagar"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.wellington",
+      "name": "CB Wellington"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.ajmer",
+      "name": "CB Ajmer"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.aurangabad",
+      "name": "CB Aurangabad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.babina",
+      "name": "CB  Babina"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.belgaum",
+      "name": "CB Belgaum"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.cannanore",
+      "name": "CB Cannanore"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.stm",
+      "name": "CB St. Thomas Mount"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.saugor",
+      "name": "CB Saugor"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.jhansi",
+      "name": "CB Jhansi"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.kamptee",
+      "name": "CB Kamptee"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.kirkee",
+      "name": "CB Kirkee"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.morar",
+      "name": "CB Morar"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.ahmedabad",
+      "name": "CB Ahmedabad"
     }
-
-
-    ]
+  ]
 }
       
