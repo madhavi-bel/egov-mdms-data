@@ -1566,6 +1566,367 @@
             ]
           }
         ]
+      },
+      {
+        "key" : "WSAppplicationStatusRegistry",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CBWaterRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CBSewerageRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "SewerageRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CBLevelTradeLicenseAppplicationStatusRegistry",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CBLevelTradeLicensePendingForRenewalReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "DGDEChallanStatusRegistry",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/consumername"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandLevelTradeLicensePendingForRenewalReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandLevelTradeLicenseAppplicationStatusRegistry",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandLevelTradeLicenseRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CMDLevelLeaseRenewalExtensionStatusRegistry",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "key" : "CommandDescriptionReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandReceiptRegister",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandChallanStatusRegistry",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandWaterRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "CommandSewerageRegistryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
       }
     ]
 }
