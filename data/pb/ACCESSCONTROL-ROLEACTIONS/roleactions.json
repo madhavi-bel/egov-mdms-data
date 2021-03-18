@@ -14610,6 +14610,18 @@
       "actionid": 5244,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 1779,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 1773,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]
