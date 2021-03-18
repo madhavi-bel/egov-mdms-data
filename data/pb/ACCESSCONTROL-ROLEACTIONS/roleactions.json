@@ -14366,14 +14366,32 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "TL_CEMP",
+      "actionid": 5062,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CMD_REPORT",
       "actionid": 5208,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
+      "rolecode": "WS_CEMP",
+      "actionid": 5062,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CMD_REPORT",
       "actionid": 5209,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5062,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -14512,6 +14530,12 @@
     {
       "rolecode": "CMD_REPORT",
       "actionid": 5232,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 5062,
       "actioncode": "",
       "tenantId": "pb"
     }
