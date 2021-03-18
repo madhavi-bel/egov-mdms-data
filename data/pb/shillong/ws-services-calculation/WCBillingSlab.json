@@ -19,15 +19,15 @@
       "calculationAttribute": "Flat",
       "minimumCharge": 4800,
       "slabs": []
-    },
+    }, 
     {
-      "id": "2",
+      "id": "3",
       "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL.INSTITUTIONAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 2328,
       "slabs": []
-    }
+    } 
   ]
 }

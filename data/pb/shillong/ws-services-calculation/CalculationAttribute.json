@@ -12,7 +12,7 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "filterAttribute" : ["buildingType"],
+      "filterAttribute" : ["PropertyLocation","buildingType"],
       "attribute": "Flat",
       "active": true
     }
