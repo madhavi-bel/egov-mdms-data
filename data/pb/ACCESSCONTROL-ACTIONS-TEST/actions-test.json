@@ -18275,7 +18275,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.CBLevelStatus",
+      "path": "wns.WS REPORTS.CBLevelStatus",
       "navigationURL": "report/rainmaker-ws/CBLevelStatus",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18931,7 +18931,7 @@
     {
       "id": 5182,
       "name": "DGDEChallanStatusRegistry-Metadata",
-      "url": "/report/rainmaker-tl/DGDEChallanStatusRegistry/metadata/_get",
+      "url": "/report/rainmaker-uc/DGDEChallanStatusRegistry/metadata/_get",
       "displayName": "TL Report",
       "orderNumber": 1,
       "parentModule": "147",
@@ -18943,7 +18943,7 @@
     {
       "id": 5183,
       "name": "DGDEChallanStatusRegistry",
-      "url": "/report/rainmaker-tl/DGDEChallanStatusRegistry/_get",
+      "url": "/report/rainmaker-uc/DGDEChallanStatusRegistry/_get",
       "displayName": "TL Report",
       "orderNumber": 0,
       "enabled": false,
@@ -19731,7 +19731,121 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": "CommandSWLevelStatus"
-    }
+    },
+  {
+    "id": 5245,
+    "name": "DGDELevelComplaintStatusReport",
+    "url": "url",
+    "displayName": "DGDELevelComplaintStatusReport",
+    "orderNumber": 3,
+    "parentModule": "rainmaker-pgr",
+    "enabled": true,
+    "serviceCode": "PGR",
+    "code": "null",
+    "path": "Complaints.PGR Reports.DGDELevelComplaintStatusReport",
+    "navigationURL": "report/rainmaker-pgr/DGDELevelComplaintStatusReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 5246,
+    "name": "RainmakerPGR-DGDELevelComplaintStatusReport-Metadata",
+    "url": "/report/rainmaker-pgr/DGDELevelComplaintStatusReport/metadata/_get",
+    "displayName": "Rainmaker PGR report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5247,
+    "name": "DGDELevelComplaintStatusReport",
+    "url": "/report/rainmaker-pgr/DGDELevelComplaintStatusReport/_get",
+    "displayName": "PGR Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5248,
+    "name": "ComplaintStatusReport",
+    "url": "url",
+    "displayName": "ComplaintStatusReport",
+    "orderNumber": 3,
+    "parentModule": "rainmaker-pgr",
+    "enabled": true,
+    "serviceCode": "PGR",
+    "code": "null",
+    "path": "Complaints.PGR Reports.ComplaintStatusReport",
+    "navigationURL": "report/rainmaker-pgr/ComplaintStatusReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 5249,
+    "name": "RainmakerPGR-ComplaintStatusReport-Metadata",
+    "url": "/report/rainmaker-pgr/ComplaintStatusReport/metadata/_get",
+    "displayName": "Rainmaker PGR report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5250,
+    "name": "ComplaintStatusReport",
+    "url": "/report/rainmaker-pgr/ComplaintStatusReport/_get",
+    "displayName": "PGR Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5251,
+    "name": "CommandLevelComplaintStatusReport",
+    "url": "url",
+    "displayName": "DGDEDepartmentsWise",
+    "orderNumber": 3,
+    "parentModule": "rainmaker-pgr",
+    "enabled": true,
+    "serviceCode": "PGR",
+    "code": "null",
+    "path": "Complaints.PGR Reports.CommandLevelComplaintStatusReport",
+    "navigationURL": "report/rainmaker-pgr/CommandLevelComplaintStatusReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 5252,
+    "name": "RainmakerPGR-CommandLevelComplaintStatusReport-Metadata",
+    "url": "/report/rainmaker-pgr/CommandLevelComplaintStatusReport/metadata/_get",
+    "displayName": "Rainmaker PGR report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  },
+  {
+    "id": 5253,
+    "name": "CommandLevelComplaintStatusReport",
+    "url": "/report/rainmaker-pgr/CommandLevelComplaintStatusReport/_get",
+    "displayName": "PGR Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "RainmakerPGRReports",
+    "code": "null",
+    "path": "PGR Report"
+  }
 
    
   ]

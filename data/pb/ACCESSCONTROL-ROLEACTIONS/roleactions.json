@@ -14622,6 +14622,60 @@
       "actionid": 1773,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5251,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5252,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5253,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5245,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5246,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5247,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5248,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5249,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5250,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]
