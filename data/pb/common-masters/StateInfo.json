@@ -26,6 +26,10 @@
 		{
 			 "label": "ಕನ್ನಡ",
 			 "value": "kn_IN"
+		},
+		{
+         "label": "മലയാളം",
+         "value": "ml_IN"
 		}
       ],
       "localizationModules":[
