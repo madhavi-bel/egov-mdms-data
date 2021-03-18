@@ -14538,6 +14538,79 @@
       "actionid": 5062,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5233,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5234,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5235,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5236,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5237,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5238,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5239,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5240,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5241,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5242,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5243,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMD_REPORT",
+      "actionid": 5244,
+      "actioncode": "",
+      "tenantId": "pb"
     }
+
   ]
 }
