@@ -18275,7 +18275,7 @@
       "enabled": true,
       "serviceCode": "WS",
       "code": "null",
-      "path": "WS REPORTS.CBLevelStatus",
+      "path": "wns.WS REPORTS.CBLevelStatus",
       "navigationURL": "report/rainmaker-ws/CBLevelStatus",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -18931,7 +18931,7 @@
     {
       "id": 5182,
       "name": "DGDEChallanStatusRegistry-Metadata",
-      "url": "/report/rainmaker-tl/DGDEChallanStatusRegistry/metadata/_get",
+      "url": "/report/rainmaker-uc/DGDEChallanStatusRegistry/metadata/_get",
       "displayName": "TL Report",
       "orderNumber": 1,
       "parentModule": "147",
@@ -18943,7 +18943,7 @@
     {
       "id": 5183,
       "name": "DGDEChallanStatusRegistry",
-      "url": "/report/rainmaker-tl/DGDEChallanStatusRegistry/_get",
+      "url": "/report/rainmaker-uc/DGDEChallanStatusRegistry/_get",
       "displayName": "TL Report",
       "orderNumber": 0,
       "enabled": false,
