@@ -3,7 +3,8 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
-      "id": "1", 
+      "id": "1",
+      "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -30,8 +31,9 @@
       ]
     },
     {
-      "id": "2", 
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -46,7 +48,7 @@
     },
     {
       "id": "3",
-      
+      "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -62,8 +64,8 @@
     },
     {
       "id": "4",
-      
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -78,7 +80,7 @@
     },
     {
       "id": "5",
-      
+      "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -87,8 +89,8 @@
     },
     {
       "id": "6",
-      
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 200,
@@ -96,7 +98,7 @@
     },
     {
       "id": "7",
-      
+      "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -105,8 +107,8 @@
     },
     {
       "id": "8",
-      
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 400,
