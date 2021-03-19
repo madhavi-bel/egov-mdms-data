@@ -109,18 +109,18 @@
       "description": "BUILDING_COMPLETION_CERTIFICATE_DESCRIPTION"
     },
     {
-      "code": "OWNERSHIP_RIGHT",
+      "code": "OWNER.OWNERSHIP_RIGHT",
       "documentType": "OWNERSHIP_RIGHT",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "7_12_EXTRACT",
+          "code": "OWNER.OWNERSHIP_RIGHT.7_12_EXTRACT",
           "active": true
         },
         {
-          "code": "SALE_DEED",
+          "code": "OWNER.OWNERSHIP_RIGHT.SALE_DEED",
           "active": true
         }
       ],
