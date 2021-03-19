@@ -102,11 +102,11 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AFFIDAVIT_LUCK_HOR",
+          "code": "AFFIDAVIT_HOR.AFFIDAVIT_LUCK_HOR",
           "active": true
         },
         {
-          "code": "AFFIDAVIT_LUCK_TENANT",
+          "code": "AFFIDAVIT_HOR.AFFIDAVIT_LUCK_TENANT",
           "active": true
         }
       ],
