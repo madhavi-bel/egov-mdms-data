@@ -67,6 +67,24 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
+      "code": "OCCUPANCY_RIGHTS",
+      "documentType": "OCCUPANCY_RIGHTS",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "OCCUPANCY_RIGHTS.SUCCESSOR_CERTIFICATE",
+          "active": true
+        },
+        {
+          "code": "OCCUPANCY_RIGHTS.AFFIDAVIT_TENANT",
+          "active": true
+        }
+      ],
+      "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
+    },
+    {
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
@@ -93,25 +111,7 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
-    },
-    {
-      "code": "OCCUPANCY_RIGHTS",
-      "documentType": "OCCUPANCY_RIGHTS",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "SUCCESSOR_CERTIFICATE",
-          "active": true
-        },
-        {
-          "code": "AFFIDAVIT_TENANT",
-          "active": true
-        }
-      ],
-      "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
-    },
+    },    
     {
       "code": "CLEARANCE_CERTIFICATE",
       "documentType": "CLEARANCE_CERTIFICATE",

@@ -67,22 +67,22 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
-      "code": "OWNER.NOC_DEHRADUN",
-      "documentType": "OWNER",
+      "code": "NOC_DEHRADUN",
+      "documentType": "NOC_DEHRADUN",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "OWNER.NOC_DEHRADUN.NOC_SUBDIVISION",
+          "code": "NOC_DEHRADUN.NOC_SUBDIVISION",
           "active": true
         },
         {
-          "code": "OWNER.NOC_DEHRADUN.NOC_HOR",
+          "code": "NOC_DEHRADUN.NOC_HOR",
           "active": true
         }
       ],
-      "description": "OWNER.NOC_DEHRADUN.NOC_DEHRADUN_DESCRIPTION"
+      "description": "NOC_DEHRADUN_DESCRIPTION"
     },
     {
       "code": "PROPERTY_TAX_RECIEPT",
@@ -125,7 +125,6 @@
         }
       ],
       "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
-    }
-    
+    }    
   ]
 }

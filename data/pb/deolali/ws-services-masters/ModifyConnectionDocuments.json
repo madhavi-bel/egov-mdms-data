@@ -67,6 +67,24 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
+      "code": "OWNERSHIP_RIGHT",
+      "documentType": "OWNERSHIP_RIGHT",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "OWNERSHIP_RIGHT.7_12_EXTRACT",
+          "active": true
+        },
+        {
+          "code": "OWNERSHIP_RIGHT.SALE_DEED",
+          "active": true
+        }
+      ],
+      "description": "OWNERSHIP_RIGHT_DESCRIPTION"
+    },
+    {
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
@@ -107,24 +125,6 @@
         }
       ],
       "description": "BUILDING_COMPLETION_CERTIFICATE_DESCRIPTION"
-    },
-    {
-      "code": "OWNERSHIP_RIGHT",
-      "documentType": "OWNERSHIP_RIGHT",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "7_12_EXTRACT",
-          "active": true
-        },
-        {
-          "code": "SALE_DEED",
-          "active": true
-        }
-      ],
-      "description": "OWNERSHIP_RIGHT_DESCRIPTION"
     }
   ]
 }
