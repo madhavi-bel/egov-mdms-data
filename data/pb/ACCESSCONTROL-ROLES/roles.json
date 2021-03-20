@@ -318,9 +318,14 @@
       "description": "PT Approver"
     },
     {
+      "code": "CMD_REPORT",
+      "name": "Command level employee",
+      "description": "Command level employee to view reports"
+    },
+    {
       "code": "BND_CEMP",
-      "name": "BND Counter Employee",
-      "description": "Birth and Death Counter Employee"
+      "name": "BnD Counter Employee",
+      "description": "BnD Counter Employee"
     }
   ]
 }

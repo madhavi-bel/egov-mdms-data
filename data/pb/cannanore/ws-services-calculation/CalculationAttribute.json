@@ -13,7 +13,7 @@
       "code": "NONMETERED",
       "attribute": "Flat",
       "active": true,
-      "filterAttribute" : ["PropertyLocation","buildingType"]
+      "filterAttribute" : [ "majorUsageType"]
     }
   ]
 }

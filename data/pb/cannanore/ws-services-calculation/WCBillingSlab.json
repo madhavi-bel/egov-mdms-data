@@ -4,7 +4,7 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -13,22 +13,13 @@
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.NONRESIDENTIAL",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 125,
       "slabs": []
-    },
-    {
-      "id": "3",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 125,
-      "slabs": []
-    }
+    } 
   
   ]
 }

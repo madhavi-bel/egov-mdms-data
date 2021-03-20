@@ -5,12 +5,14 @@
     {
       "name": "Metered",
       "code": "METERED",
-      "attribute": "Water consumption",
-      "active": true
+      "attribute": "Water consumption", 
+      "filterAttribute" : [ ],
+      "active": false
     },
     {
       "name": "Non Metered",
-      "code": "NONMETERED",
+      "code": "NONMETERED", 
+      "filterAttribute" : ["PropertyLocation","majorUsageType","ownershipCategory"],
       "attribute": "Flat",
       "active": true
     }

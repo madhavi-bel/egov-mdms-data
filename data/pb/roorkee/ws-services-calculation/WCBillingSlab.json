@@ -3,8 +3,8 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
-      "id": "1",
-      "PropertyLocation": "CIVIL",
+      "id": "1", 
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -12,13 +12,13 @@
       "slabs": []
     },
     {
-      "id": "6",
+      "id": "2",
       "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 11304,
       "slabs": []
-    }
+    } 
   ]
 }

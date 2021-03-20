@@ -25,7 +25,7 @@
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 0,
+      "minimumCharge": 250,
       "slabs": [
 
         {
