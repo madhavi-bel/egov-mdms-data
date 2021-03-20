@@ -105,6 +105,28 @@
             "type" : "Normal"
           }  
         ]
-      } 
+      },
+ 
+      {
+        "key" : "BndDetail",
+        "attributeList" : [
+          {
+            "jsonPath" : "mobileNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "emailId",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "aadhaarNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "icdCode",
+            "type" : "Normal"
+          } 
+        ]
+      }
     ]
 }

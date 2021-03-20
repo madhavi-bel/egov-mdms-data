@@ -1927,6 +1927,72 @@
             ]
           }
         ]
+      },
+	  {
+        "key" : "BndDetail",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "CITIZEN",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/emailId"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/aadhaarNumber"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/icdCode"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          },
+		  {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/emailId"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/aadhaarNumber"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/icdCode"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          },
+		  
+        ]
       }
     ]
 }
