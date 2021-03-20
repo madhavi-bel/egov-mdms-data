@@ -316,6 +316,11 @@
       "code": "PT_APPROVER",
       "name": "PT Counter Approver",
       "description": "PT Approver"
+    },
+    {
+      "code": "BND_CEMP",
+      "name": "BND Counter Employee",
+      "description": "Birth and Death Counter Employee"
     }
   ]
 }
