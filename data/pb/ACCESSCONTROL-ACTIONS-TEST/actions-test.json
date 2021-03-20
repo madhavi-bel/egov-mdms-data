@@ -19845,8 +19845,33 @@
     "serviceCode": "RainmakerPGRReports",
     "code": "null",
     "path": "PGR Report"
+  },
+  {
+    "id": 5254,
+    "name": "Birth Registry",
+    "url": "url",
+    "displayName": "Birth Registry",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "BND",
+    "code": "null",
+    "navigationURL": "birth-employee/newRegistration",
+    "path": "applyForCert",
+    "leftIcon": "custom:library-books"
+  },
+  {
+    "id": 5255,
+    "name": "Death Registry",
+    "url": "url",
+    "displayName": "Death Registry",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "BND",
+    "code": "null",
+    "navigationURL": "death-employee/newRegistration",
+    "path": "applyForCert",
+    "leftIcon": "custom:library-books"
   }
-
    
   ]
 }
