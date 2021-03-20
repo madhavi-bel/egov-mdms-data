@@ -19260,7 +19260,7 @@
       "id": 5208,
       "name": "CMDLevelApplicationStatus",
       "url": "url",
-      "displayName": "Lease Renewal Extension Status Register",
+      "displayName": "CMDLevelApplicationStatus",
       "orderNumber": 6,
       "parentModule": "rainmaker-lams",
       "enabled": true,
