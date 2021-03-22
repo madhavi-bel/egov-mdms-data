@@ -111,19 +111,19 @@
         "key" : "BndDetail",
         "attributeList" : [
           {
-            "jsonPath" : "mobileNumber",
+            "jsonPath" : "mobileno",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "emailId",
+            "jsonPath" : "emailid",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "aadhaarNumber",
+            "jsonPath" : "aadharno",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "icdCode",
+            "jsonPath" : "icdcode",
             "type" : "Normal"
           } 
         ]

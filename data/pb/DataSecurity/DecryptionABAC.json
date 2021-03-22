@@ -1936,26 +1936,26 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/mobilenumber",
+                  "jsonPath" : "*/mobileno",
                   "maskingTechnique" : "mobile"
                 },
                 "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
-                  "jsonPath" : "*/emailId"
+                  "jsonPath" : "*/emailid"
                 },
                 "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
-                  "jsonPath" : "*/aadhaarNumber"
+                  "jsonPath" : "*/aadharno"
                 },
                 "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
-                  "jsonPath" : "*/icdCode"
+                  "jsonPath" : "*/icdcode"
                 },
                 "accessType" : "PLAIN"
               }
@@ -1966,26 +1966,26 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/mobilenumber",
+                  "jsonPath" : "*/mobileno",
                   "maskingTechnique" : "mobile"
                 },
                 "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
-                  "jsonPath" : "*/emailId"
+                  "jsonPath" : "*/emailid"
                 },
                 "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
-                  "jsonPath" : "*/aadhaarNumber"
+                  "jsonPath" : "*/aadharno"
                 },
                 "accessType" : "PLAIN"
               },
               {
                 "attribute" : {
-                  "jsonPath" : "*/icdCode"
+                  "jsonPath" : "*/icdcode"
                 },
                 "accessType" : "PLAIN"
               }
