@@ -19871,6 +19871,32 @@
     "navigationURL": "death-employee/newRegistration",
     "path": "death.newReg",
     "leftIcon": "custom:library-books"
+  },
+  {
+    "id": 5256,
+    "name": "Death",
+    "url": "url",
+    "displayName": "Death",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "BND",
+    "code": "null",
+    "navigationURL": "death-common/getCertificate",
+    "path": "death.searchRegistry",
+    "leftIcon": "custom:library-books"
+  },
+  {
+    "id": 5257,
+    "name": "Birth",
+    "url": "url",
+    "displayName": "Birth",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "BND",
+    "code": "null",
+    "navigationURL": "birth-common/getCertificate",
+    "path": "birth.searchRegistry",
+    "leftIcon": "custom:library-books"
   }
    
   ]
