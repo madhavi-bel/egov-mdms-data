@@ -18515,7 +18515,7 @@
       "serviceCode": "BND",
       "code": "null",
       "navigationURL": "birth-citizen/home",
-      "path": "applyForCert",
+      "path": "birth.applyForCert",
       "leftIcon": "custom:library-books"
     },
     {
@@ -18749,7 +18749,7 @@
       "serviceCode": "BND",
       "code": "null",
       "navigationURL": "death-citizen/home",
-      "path": "applyForCert",
+      "path": "death.applyForCert",
       "leftIcon": "custom:library-books"
     },
     {
@@ -19856,7 +19856,7 @@
     "serviceCode": "BND",
     "code": "null",
     "navigationURL": "birth-employee/newRegistration",
-    "path": "applyForCert",
+    "path": "birth.newReg",
     "leftIcon": "custom:library-books"
   },
   {
@@ -19869,7 +19869,7 @@
     "serviceCode": "BND",
     "code": "null",
     "navigationURL": "death-employee/newRegistration",
-    "path": "applyForCert",
+    "path": "death.newReg",
     "leftIcon": "custom:library-books"
   }
    
