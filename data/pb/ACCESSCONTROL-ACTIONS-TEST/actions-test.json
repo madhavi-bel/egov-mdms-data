@@ -19897,7 +19897,31 @@
     "navigationURL": "birth-common/getCertificate",
     "path": "birth.searchRegistry",
     "leftIcon": "custom:library-books"
-  }
+  },
+  {
+    "id": 5258,
+    "name": "View Full Certificate data",
+    "url": "/birth-death-services/birth/_viewfullCertData",
+    "parentModule": "",
+    "displayName": "View Full  Certificate data",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5259,
+    "name": "View Full Certificate data",
+    "url": "/birth-death-services/death/_viewfullCertData",
+    "parentModule": "",
+    "displayName": "View Full Certificate data",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
+  },
    
   ]
 }
