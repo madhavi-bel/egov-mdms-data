@@ -19874,9 +19874,9 @@
   },
   {
     "id": 5256,
-    "name": "Death",
+    "name": "Death Search",
     "url": "url",
-    "displayName": "Death",
+    "displayName": "Death Search",
     "orderNumber": 4,
     "enabled": true,
     "serviceCode": "BND",
@@ -19887,9 +19887,9 @@
   },
   {
     "id": 5257,
-    "name": "Birth",
+    "name": "Birth Search",
     "url": "url",
-    "displayName": "Birth",
+    "displayName": "Birth Search",
     "orderNumber": 4,
     "enabled": true,
     "serviceCode": "BND",
