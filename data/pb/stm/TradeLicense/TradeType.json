@@ -4,7 +4,7 @@
   "TradeType": [
     {
       "code": "TRADE.EATING.A1",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
