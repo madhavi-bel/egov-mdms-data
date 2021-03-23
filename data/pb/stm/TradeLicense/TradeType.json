@@ -2584,7 +2584,7 @@
     },
     {
       "code": "TRADE.OTHERS.E44",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
