@@ -23,14 +23,42 @@
           "label": "हिंदी",
           "value": "hi_IN"
         },
-		{
-			 "label": "ಕನ್ನಡ",
-			 "value": "kn_IN"
-		},
-		{
+       {
+         "label": "ಕನ್ನಡ",
+         "value": "kn_IN"
+       },
+       {
          "label": "മലയാളം",
          "value": "ml_IN"
-		}
+       },
+       {
+         "label": "தமிழ்",
+         "value": "ta_IN"
+       }  
+      ],
+      "languagesRegional" : [
+       {
+         "label": "ಕನ್ನಡ",
+         "value": "kn_IN"
+       },
+       {
+         "label": "മലയാളം",
+         "value": "ml_IN"
+       },
+       {
+         "label": "தமிழ்",
+         "value": "ta_IN"
+       }   
+      ],
+      "languagesCommon" : [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
       ],
       "localizationModules":[
        {
