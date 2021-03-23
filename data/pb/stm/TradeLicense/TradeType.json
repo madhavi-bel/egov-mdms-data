@@ -514,7 +514,7 @@
     },
     {
       "code": "TRADE.EATING.A18",
-      "uom": "SqFt",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
