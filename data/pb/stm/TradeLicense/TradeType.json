@@ -34,7 +34,7 @@
     },
     {
       "code": "TRADE.EATING.A2",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -64,7 +64,7 @@
     },
     {
       "code": "TRADE.EATING.A3",
-      "uom": null,
+      "uom": "SqFt",
       "applicationDocument": [
         {
           "applicationType": "NEW",
