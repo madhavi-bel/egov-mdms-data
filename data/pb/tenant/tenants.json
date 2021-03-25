@@ -1679,6 +1679,7 @@
         "localName": "CANTONMENT BOARD, AJMER",
         "districtCode": "86",
         "districtName": "Ajmer",
+        "blockName":"Ajmer",
         "regionName": "Southern Command",
         "ulbGrade": "Cantonment Board",
         "longitude": 74.6532086,
