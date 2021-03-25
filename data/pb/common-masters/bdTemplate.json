@@ -239,6 +239,10 @@
             "code": "pb.roorkee"
         },
         {
+            "template": "bd-uttarakhand",
+            "code": "pb.almora"
+        },
+        {
             "template": "bd-westbengal",
             "code": "pb.barrackpore"
         },
