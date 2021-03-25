@@ -8,7 +8,7 @@
       "buildingType": null,
       "connectionType": "Non Metered",
       "calculationAttribute": "No. of taps",
-      "minimumCharge": 0,
+      "minimumCharge": 25,
       "slabs": [
         {
           "from": 0,

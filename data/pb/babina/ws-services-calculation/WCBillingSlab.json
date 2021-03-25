@@ -52,6 +52,16 @@
       "minimumCharge": 4800,
       "unAuthorizedConnection" :0,
       "slabs": []
-    }
+    },
+    {
+      "id": "6",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 720,
+      "unAuthorizedConnection" :1680,
+      "slabs": []
+    },
   ]
 }
