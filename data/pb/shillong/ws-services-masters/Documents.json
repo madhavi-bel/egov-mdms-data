@@ -102,7 +102,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "HOR_OCCUPANCY",
+          "code": "HOR_CERTIFICATE",
           "active": true
         }
       ],

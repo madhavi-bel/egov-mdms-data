@@ -95,8 +95,8 @@
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "PLUMBER_REPORT_DRAWING",
-      "documentType": "PLUMBER_REPORT_DRAWING",
+      "code": "DRAWING_WATER_CONNECTION",
+      "documentType": "DRAWING_WATER_CONNECTION",
       "active": true,
       "required": true,
       "hasDropdown": false,
@@ -106,7 +106,7 @@
           "active": true
         }
       ],
-      "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
+      "description": "DRAWING_WATER_CONNECTION_DESCRIPTION"
     },
     {
       "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",

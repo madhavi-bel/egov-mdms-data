@@ -95,8 +95,8 @@
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "PIPELINE_PLAN",
-      "documentType": "PIPELINE_PLAN",
+      "code": "PLUMBER_REPORT_DRAWING",
+      "documentType": "PLUMBER_REPORT_DRAWING",
       "active": true,
       "required": true,
       "hasDropdown": false,
@@ -106,7 +106,7 @@
           "active": true
         }
       ],
-      "description": "PIPELINE_PLAN_DESCRIPTION"
+      "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
     }
   ]
 }

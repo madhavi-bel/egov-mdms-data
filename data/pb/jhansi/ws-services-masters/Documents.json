@@ -95,8 +95,8 @@
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "AGREEMENT",
-      "documentType": "AGREEMENT",
+      "code": "AGREEMENT_JHANSI",
+      "documentType": "AGREEMENT_JHANSI",
       "active": true,
       "required": true,
       "hasDropdown": false,
@@ -106,7 +106,7 @@
           "active": true
         }
       ],
-      "description": "AGREEMENT_DESCRIPTION"
+      "description": "AGREEMENT_JHANSI_DESCRIPTION"
     }
   ]
 }

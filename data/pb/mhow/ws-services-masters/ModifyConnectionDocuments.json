@@ -130,7 +130,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PHOTO_APPLICANT",
+          "code": "APPLICANT_PHOTO",
           "active": true
         }
       ],

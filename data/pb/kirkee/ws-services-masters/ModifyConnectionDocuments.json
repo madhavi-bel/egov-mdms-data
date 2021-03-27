@@ -109,8 +109,8 @@
       "description": "COST_ESTIMATE_DESCRIPTION"
     },
     {
-      "code": "SITE_PLAN",
-      "documentType": "SITE_PLAN",
+      "code": "PLUMBER_LICENSE",
+      "documentType": "PLUMBER_LICENSE",
       "active": true,
       "required": true,
       "hasDropdown": false,
@@ -120,7 +120,7 @@
           "active": true
         }
       ],
-      "description": "SITE_PLAN_DESCRIPTION"
+      "description": "PLUMBER_LICENSE_DESCRIPTION"
     }
   ]
 }
