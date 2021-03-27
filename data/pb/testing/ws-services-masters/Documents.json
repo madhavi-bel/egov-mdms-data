@@ -93,6 +93,38 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "ABC",
+      "documentType": "ABC",
+      "active": true,
+      "required": true,
+      "hasDropdown": false,
+      "dropdownData": [
+        {
+          "code": "XYZ",
+          "active": true
+        }
+      ],
+      "description": "ABC_DESCRIPTION"
+    },
+    {
+      "code": "DEF",
+      "documentType": "DEF",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "DEF.A",
+          "active": true
+        },
+        {
+          "code": "DEF.B",
+          "active": true
+        }
+      ],
+      "description": "DEF_DESCRIPTION"
     }
   ]
 }
