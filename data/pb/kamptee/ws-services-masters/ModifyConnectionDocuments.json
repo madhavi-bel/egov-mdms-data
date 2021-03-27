@@ -95,8 +95,8 @@
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "PLOT_SANCTION",
-      "documentType": "PLOT_SANCTION",
+      "code": "PLOT_SANCTION_LETTER",
+      "documentType": "PLOT_SANCTION_LETTER",
       "active": true,
       "required": true,
       "hasDropdown": false,
@@ -106,7 +106,7 @@
           "active": true
         }
       ],
-      "description": "PLOT_SANCTION_DESCRIPTION"
+      "description": "PLOT_SANCTION_LETTER_DESCRIPTION"
     },
     {
       "code": "BUILDING_COMPLETION_CERTIFICATE",

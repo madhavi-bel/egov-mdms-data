@@ -95,8 +95,8 @@
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "OCCUPANCY_RIGHTS",
-      "documentType": "OCCUPANCY_RIGHTS",
+      "code": "7_12_EXTRACT",
+      "documentType": "7_12_EXTRACT",
       "active": true,
       "required": true,
       "hasDropdown": false,
@@ -106,7 +106,7 @@
           "active": true
         }
       ],
-      "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
+      "description": "7_12_EXTRACT_DESCRIPTION"
     },
     {
       "code": "LOCATION_PLAN",
