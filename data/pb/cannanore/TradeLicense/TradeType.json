@@ -309,6 +309,42 @@
       "verificationDocument": []
     },
     {
+      "code": "TRADE.EATING.A16",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "NOC_OWNER",
+            "NOC_REVENUE"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERPHOTO",
+            "OWNERSHIPPROOF",
+            "OWNERIDPROOF",
+            "ADDPROOF",
+            "SELFDECLERATION",
+            "MEDCERT",
+            "NOC_OWNER",
+            "NOC_REVENUE"
+          ]
+        }
+      ],
+      "active": "true",
+      "type": "TL",
+      "validityPeriod": null,
+      "verificationDocument": []
+    },
+    {
       "code": "TRADE.EATING.A17",
       "uom": null,
       "applicationDocument": [
