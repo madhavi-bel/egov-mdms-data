@@ -71,7 +71,7 @@
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
           "code": "PROPERTY_TAX_RECIEPT",
