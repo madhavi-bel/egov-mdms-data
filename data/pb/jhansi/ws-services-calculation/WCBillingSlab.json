@@ -6,6 +6,7 @@
       "id": "1",
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
+      "ownerType" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
@@ -13,16 +14,14 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 110,
-          "meterCharge": 0,
-          "Employee" : 30
+          "charge": 330,
+          "meterCharge": 0 
         },
         {
           "from": 0.51,
           "to": 0.76,
-          "charge": 430,
-          "meterCharge": 0,
-          "Employee" : 0
+          "charge": 1290,
+          "meterCharge": 0 
         }
       ]
     },
@@ -30,6 +29,7 @@
       "id": "2",
       "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL",
+      "ownerType" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
@@ -37,8 +37,25 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 1100,
+          "charge": 3300,
           "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "ownerType" :"STAFF",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 400,
+          "meterCharge": 0 
         }
       ]
     }
