@@ -34,7 +34,11 @@
        {
          "label": "தமிழ்",
          "value": "ta_IN"
-       }  
+       },
+       {
+         "label": "తెలుగు",
+         "value": "te_IN"
+       }	   
       ],
       "languagesRegional" : [
        {
@@ -48,7 +52,11 @@
        {
          "label": "தமிழ்",
          "value": "ta_IN"
-       }   
+       },
+       {
+         "label": "తెలుగు",
+         "value": "te_IN"
+       }	   
       ],
       "languagesCommon" : [
         {
