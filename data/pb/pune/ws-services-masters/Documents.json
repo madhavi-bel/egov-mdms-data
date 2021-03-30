@@ -71,7 +71,7 @@
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
           "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
@@ -85,7 +85,7 @@
       "documentType": "SELFDECLERATION",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
           "code": "SELFDECLERATION.SELFDECLERATION",
