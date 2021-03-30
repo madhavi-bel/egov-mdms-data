@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,25 +88,25 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "AGREEMENT_JHANSI",
-      "documentType": "AGREEMENT_JHANSI",
+      "code": "AGREEMENT",
+      "documentType": "AGREEMENT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AGREEMENT_JHANSI",
+          "code": "AGREEMENT.AGREEMENT_JHANSI",
           "active": true
         }
       ],
-      "description": "AGREEMENT_JHANSI_DESCRIPTION"
+      "description": "AGREEMENT_DESCRIPTION"
     }
   ]
 }

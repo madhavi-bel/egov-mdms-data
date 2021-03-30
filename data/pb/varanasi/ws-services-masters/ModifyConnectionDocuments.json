@@ -67,6 +67,48 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
+      "code": "PROPERTY_TAX_RECIEPT",
+      "documentType": "PROPERTY_TAX_RECIEPT",
+      "active": true,
+      "required": true,
+      "hasDropdown": false,
+      "dropdownData": [
+        {
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
+          "active": true
+        }
+      ],
+      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
+    },
+    {
+      "code": "SELFDECLERATION",
+      "documentType": "SELFDECLERATION",
+      "active": true,
+      "required": true,
+      "hasDropdown": false,
+      "dropdownData": [
+        {
+          "code": "SELFDECLERATION.SELFDECLERATION",
+          "active": true
+        }
+      ],
+      "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "AGREEMENT",
+      "documentType": "AGREEMENT",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AGREEMENT.AGREEMENT",
+          "active": true
+        }
+      ],
+      "description": "AGREEMENT_DESCRIPTION"
+    },
+    {
       "code": "OCCUPANCY_RIGHTS",
       "documentType": "OCCUPANCY_RIGHTS",
       "active": true,
@@ -83,48 +125,6 @@
         }
       ],
       "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
-    },
-    {
-      "code": "PROPERTY_TAX_RECIEPT",
-      "documentType": "PROPERTY_TAX_RECIEPT",
-      "active": true,
-      "required": true,
-      "hasDropdown": false,
-      "dropdownData": [
-        {
-          "code": "PROPERTY_TAX_RECIEPT",
-          "active": true
-        }
-      ],
-      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
-    },
-    {
-      "code": "SELFDECLERATION",
-      "documentType": "SELFDECLERATION",
-      "active": true,
-      "required": true,
-      "hasDropdown": false,
-      "dropdownData": [
-        {
-          "code": "SELFDECLERATION",
-          "active": true
-        }
-      ],
-      "description": "SELFDECLERATION_DESCRIPTION"
-    },
-    {
-      "code": "AGREEMENT",
-      "documentType": "AGREEMENT",
-      "active": true,
-      "required": true,
-      "hasDropdown": false,
-      "dropdownData": [
-        {
-          "code": "AGREEMENT",
-          "active": true
-        }
-      ],
-      "description": "AGREEMENT_DESCRIPTION"
     }
   ]
 }

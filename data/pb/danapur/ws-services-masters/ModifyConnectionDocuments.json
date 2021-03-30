@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,7 +88,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -99,10 +99,10 @@
       "documentType": "AFFIDAVIT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AFFIDAVIT",
+          "code": "AFFIDAVIT.AFFIDAVIT",
           "active": true
         }
       ],
@@ -113,10 +113,10 @@
       "documentType": "DRAWING_DANAPUR",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "DRAWING_DANAPUR",
+          "code": "DRAWING_DANAPUR.DRAWING_DANAPUR",
           "active": true
         }
       ],
@@ -127,10 +127,10 @@
       "documentType": "COST_ESTIMATE",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "COST_ESTIMATE",
+          "code": "COST_ESTIMATE.COST_ESTIMATE",
           "active": true
         }
       ],

@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,7 +88,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -99,28 +99,28 @@
       "documentType": "AFFIDAVIT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AFFIDAVIT",
+          "code": "AFFIDAVIT.AFFIDAVIT_NAINITAL",
           "active": true
         }
       ],
       "description": "AFFIDAVIT_DESCRIPTION"
     },
     {
-      "code": "NOC_HOR",
-      "documentType": "NOC_HOR",
+      "code": "NOC",
+      "documentType": "NOC",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "NOC_HOR",
+          "code": "NOC.NOC_HOR",
           "active": true
         }
       ],
-      "description": "NOC_HOR_DESCRIPTION"
+      "description": "NOC_DESCRIPTION"
     }
   ]
 }

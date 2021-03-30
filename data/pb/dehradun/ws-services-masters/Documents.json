@@ -67,24 +67,6 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
-      "code": "NOC_DEHRADUN",
-      "documentType": "NOC_DEHRADUN",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "NOC_DEHRADUN.NOC_SUBDIVISION",
-          "active": true
-        },
-        {
-          "code": "NOC_DEHRADUN.NOC_HOR",
-          "active": true
-        }
-      ],
-      "description": "NOC_DEHRADUN_DESCRIPTION"
-    },
-    {
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
@@ -92,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -106,25 +88,43 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-      "documentType": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+      "code": "BUILDING_PLAN",
+      "documentType": "BUILDING_PLAN",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+          "code": "BUILDING_PLAN.BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
           "active": true
         }
       ],
-      "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
+      "description": "BUILDING_PLAN_DESCRIPTION"
+    },
+    {
+      "code": "NOC",
+      "documentType": "NOC",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "NOC.NOC_SUBDIVISION",
+          "active": true
+        },
+        {
+          "code": "NOC.NOC_HOR",
+          "active": true
+        }
+      ],
+      "description": "NOC_DESCRIPTION"
     }
   ]
 }

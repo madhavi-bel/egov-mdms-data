@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,7 +88,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -99,10 +99,10 @@
       "documentType": "SITE_PLAN",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SITE_PLAN",
+          "code": "SITE_PLAN.SITE_PLAN",
           "active": true
         }
       ],
@@ -113,10 +113,10 @@
       "documentType": "NOC_HOR",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "NOC_HOR",
+          "code": "NOC_HOR.NOC_HOR",
           "active": true
         }
       ],

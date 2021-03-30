@@ -67,29 +67,11 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
-      "code": "AFFIDAVIT_HOR",
-      "documentType": "AFFIDAVIT_HOR",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "AFFIDAVIT_HOR.AFFIDAVIT_LUCK_HOR",
-          "active": true
-        },
-        {
-          "code": "AFFIDAVIT_HOR.AFFIDAVIT_LUCK_TENANT",
-          "active": true
-        }
-      ],
-      "description": "AFFIDAVIT_HOR_DESCRIPTION"
-    },
-    {
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
@@ -103,7 +85,7 @@
       "documentType": "SELFDECLERATION",
       "active": true,
       "required": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "dropdownData": [
         {
           "code": "SELFDECLERATION.SELFDECLERATION",
@@ -111,6 +93,24 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "AFFIDAVIT",
+      "documentType": "AFFIDAVIT",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "AFFIDAVIT.AFFIDAVIT_LUCK_HOR",
+          "active": true
+        },
+        {
+          "code": "AFFIDAVIT.AFFIDAVIT_LUCK_TENANT",
+          "active": true
+        }
+      ],
+      "description": "AFFIDAVIT_DESCRIPTION"
     }
   ]
 }

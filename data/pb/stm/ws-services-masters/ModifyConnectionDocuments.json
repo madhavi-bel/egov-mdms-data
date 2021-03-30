@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,7 +88,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -99,10 +99,10 @@
       "documentType": "PATTA_COPY",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PATTA_COPY",
+          "code": "PATTA_COPY.PATTA_COPY",
           "active": true
         }
       ],
@@ -113,10 +113,10 @@
       "documentType": "ENCUMBRANCE_CERTIFICATE",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "ENCUMBRANCE_CERTIFICATE",
+          "code": "ENCUMBRANCE_CERTIFICATE.ENCUMBRANCE_CERTIFICATE",
           "active": true
         }
       ],

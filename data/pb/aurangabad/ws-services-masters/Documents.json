@@ -67,6 +67,34 @@
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
     },
     {
+      "code": "PROPERTY_TAX_RECIEPT",
+      "documentType": "PROPERTY_TAX_RECIEPT",
+      "active": true,
+      "required": true,
+      "hasDropdown": false,
+      "dropdownData": [
+        {
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
+          "active": true
+        }
+      ],
+      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
+    },
+    {
+      "code": "SELFDECLERATION",
+      "documentType": "SELFDECLERATION",
+      "active": true,
+      "required": true,
+      "hasDropdown": false,
+      "dropdownData": [
+        {
+          "code": "SELFDECLERATION.SELFDECLERATION",
+          "active": true
+        }
+      ],
+      "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
       "code": "OCCUPANCY_RIGHTS",
       "documentType": "OCCUPANCY_RIGHTS",
       "active": true,
@@ -85,42 +113,14 @@
       "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
     },
     {
-      "code": "PROPERTY_TAX_RECIEPT",
-      "documentType": "PROPERTY_TAX_RECIEPT",
-      "active": true,
-      "required": true,
-      "hasDropdown": false,
-      "dropdownData": [
-        {
-          "code": "PROPERTY_TAX_RECIEPT",
-          "active": true
-        }
-      ],
-      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
-    },
-    {
-      "code": "SELFDECLERATION",
-      "documentType": "SELFDECLERATION",
-      "active": true,
-      "required": true,
-      "hasDropdown": false,
-      "dropdownData": [
-        {
-          "code": "SELFDECLERATION",
-          "active": true
-        }
-      ],
-      "description": "SELFDECLERATION_DESCRIPTION"
-    },
-    {
       "code": "CLEARANCE_CERTIFICATE",
       "documentType": "CLEARANCE_CERTIFICATE",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "CLEARANCE_CERTIFICATE",
+          "code": "CLEARANCE_CERTIFICATE.CLEARANCE_CERTIFICATE",
           "active": true
         }
       ],

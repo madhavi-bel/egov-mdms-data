@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,39 +88,39 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "TRADE_LICENSE_COPY",
-      "documentType": "TRADE_LICENSE_COPY",
+      "code": "TRADE_LICENSE",
+      "documentType": "TRADE_LICENSE",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "TRADE_LICENSE_COPY",
+          "code": "TRADE_LICENSE.TRADE_LICENSE_COPY",
           "active": true
         }
       ],
-      "description": "TRADE_LICENSE_COPY_DESCRIPTION"
+      "description": "TRADE_LICENSE_DESCRIPTION"
     },
     {
-      "code": "NOC_HOR",
-      "documentType": "NOC_HOR",
+      "code": "NOC",
+      "documentType": "NOC",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "NOC_HOR",
+          "code": "NOC.NOC_HOR",
           "active": true
         }
       ],
-      "description": "NOC_HOR_DESCRIPTION"
+      "description": "NOC_DESCRIPTION"
     }
   ]
 }

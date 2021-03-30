@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,35 +88,35 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "7_12_EXTRACT",
-      "documentType": "7_12_EXTRACT",
+      "code": "OWNERSHIP_RIGHT",
+      "documentType": "OWNERSHIP_RIGHT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "7_12_EXTRACT",
+          "code": "OWNERSHIP_RIGHT.7_12_EXTRACT",
           "active": true
         }
       ],
-      "description": "7_12_EXTRACT_DESCRIPTION"
+      "description": "OWNERSHIP_RIGHT_DESCRIPTION"
     },
     {
       "code": "LOCATION_PLAN",
       "documentType": "LOCATION_PLAN",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "LOCATION_PLAN",
+          "code": "LOCATION_PLAN.LOCATION_PLAN",
           "active": true
         }
       ],
@@ -127,10 +127,10 @@
       "documentType": "PHOTOGRAPH_HOUSE",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PHOTOGRAPH_HOUSE",
+          "code": "PHOTOGRAPH_HOUSE.PHOTOGRAPH_HOUSE",
           "active": true
         }
       ],

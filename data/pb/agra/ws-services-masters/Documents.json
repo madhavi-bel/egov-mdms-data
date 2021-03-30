@@ -74,7 +74,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,7 +88,7 @@
       "hasDropdown": false,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -99,10 +99,10 @@
       "documentType": "AGREEMENT",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AGREEMENT",
+          "code": "AGREEMENT.AGREEMENT_AGRA",
           "active": true
         }
       ],
@@ -113,10 +113,10 @@
       "documentType": "AFFIDAVIT_LEGAL_HOLDER",
       "active": true,
       "required": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AFFIDAVIT_LEGAL_HOLDER",
+          "code": "AFFIDAVIT_LEGAL_HOLDER.AFFIDAVIT_LEGAL_HOLDER",
           "active": true
         }
       ],
