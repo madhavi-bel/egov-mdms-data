@@ -19921,7 +19921,30 @@
     "serviceCode": "birth-death-services",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5260,
+    "name": "import excel",
+    "url": "/birth-death-services/upload/_birth",
+    "parentModule": "",
+    "displayName": "import excel",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5261,
+    "name": "import excel",
+    "url": "/birth-death-services/upload/_death",
+    "parentModule": "",
+    "displayName": "import excel",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
   }
-   
   ]
 }
