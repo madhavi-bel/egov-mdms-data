@@ -14760,6 +14760,30 @@
       "actionid": 1940,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5260,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5261,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5262,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5263,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

@@ -19921,6 +19921,54 @@
     "serviceCode": "birth-death-services",
     "code": "null",
     "path": ""
-  }
+  },
+  {
+      "id": 5260,
+      "name": "DSS Dashboard birth",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/birth",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5261,
+      "name": "DSS Dashboard death",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/death",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5262,
+      "name": "DSS Dashboard birth",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-birth",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5263,
+      "name": "DSS Dashboard death",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-death",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
