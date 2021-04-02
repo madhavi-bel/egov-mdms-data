@@ -276,6 +276,11 @@
       "code": "SW_CLERK",
       "name": "SW Clerk",
       "description": "SW Clerk can activate the connection application"
+    },
+    {
+      "code": "BND_CEMP",
+      "name": "BnD Counter Employee",
+      "description": "BnD Counter Employee"
     }
   ]
 }
