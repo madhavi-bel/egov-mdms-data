@@ -243,6 +243,10 @@
             "code": "pb.almora"
         },
         {
+            "template": "bd-uttarakhand",
+            "code": "pb.testing"
+        },
+        {
             "template": "bd-westbengal",
             "code": "pb.barrackpore"
         },
