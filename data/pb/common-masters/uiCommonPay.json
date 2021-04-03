@@ -1955,8 +1955,8 @@
     {
       "code": "BIRTH_CERT",
       "headerBandLabel": "PAYMENT_TL_CONSUMER_CODE",
-      "receiptKey": "birth-receipt",
-      "billKey": "birth-bill",
+      "receiptKey": "birth-certificate",
+      "billKey": "birth-certificate",
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -1968,8 +1968,8 @@
     {
       "code": "DEATH_CERT",
       "headerBandLabel": "PAYMENT_TL_CONSUMER_CODE",
-      "receiptKey": "death-receipt",
-      "billKey": "death-bill",
+      "receiptKey": "death-certificate",
+      "billKey": "death-certificate",
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
