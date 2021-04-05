@@ -74,7 +74,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,7 +88,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -102,7 +102,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SALE_DEED",
+          "code": "SALE_DEED.SALE_DEED",
           "active": true
         }
       ],
@@ -116,7 +116,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "HOR_DEATH_CERT",
+          "code": "HOR_DEATH_CERT.HOR_DEATH_CERT",
           "active": true
         }
       ],
@@ -130,7 +130,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PHOTO_APPLICANT",
+          "code": "APPLICANT_PHOTO.APPLICANT_PHOTO",
           "active": true
         }
       ],

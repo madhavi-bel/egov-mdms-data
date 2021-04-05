@@ -74,7 +74,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,25 +88,25 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "PIPELINE_PLAN",
-      "documentType": "PIPELINE_PLAN",
+      "code": "PLUMBER_REPORT_DRAWING",
+      "documentType": "PLUMBER_REPORT_DRAWING",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PLUMBER_REPORT_DRAWING",
+          "code": "PLUMBER_REPORT_DRAWING.PLUMBER_REPORT_DRAWING",
           "active": true
         }
       ],
-      "description": "PIPELINE_PLAN_DESCRIPTION"
+      "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
     }
   ]
 }

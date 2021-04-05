@@ -74,7 +74,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,25 +88,25 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "PLOT_SANCTION",
-      "documentType": "PLOT_SANCTION",
+      "code": "PLOT_SANCTION_LETTER",
+      "documentType": "PLOT_SANCTION_LETTER",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PLOT_SANCTION_LETTER",
+          "code": "PLOT_SANCTION_LETTER.PLOT_SANCTION_LETTER",
           "active": true
         }
       ],
-      "description": "PLOT_SANCTION_DESCRIPTION"
+      "description": "PLOT_SANCTION_LETTER_DESCRIPTION"
     },
     {
       "code": "BUILDING_COMPLETION_CERTIFICATE",
@@ -116,7 +116,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "BUILDING_COMPLETION_CERTIFICATE",
+          "code": "BUILDING_COMPLETION_CERTIFICATE.BUILDING_COMPLETION_CERTIFICATE",
           "active": true
         }
       ],

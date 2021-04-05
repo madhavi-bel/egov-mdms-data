@@ -74,7 +74,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,25 +88,25 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "SITE_PLAN",
-      "documentType": "SITE_PLAN",
+      "code": "PLUMBER_LICENSE",
+      "documentType": "PLUMBER_LICENSE",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PLUMBER_LICENSE",
+          "code": "PLUMBER_LICENSE.PLUMBER_LICENSE",
           "active": true
         }
       ],
-      "description": "SITE_PLAN_DESCRIPTION"
+      "description": "PLUMBER_LICENSE_DESCRIPTION"
     }
   ]
 }

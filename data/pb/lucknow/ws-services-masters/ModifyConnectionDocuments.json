@@ -74,7 +74,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,29 +88,29 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "AFFIDAVIT_HOR",
-      "documentType": "AFFIDAVIT_HOR",
+      "code": "AFFIDAVIT",
+      "documentType": "AFFIDAVIT",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "AFFIDAVIT_LUCK_HOR",
+          "code": "AFFIDAVIT.AFFIDAVIT_LUCK_HOR",
           "active": true
         },
         {
-          "code": "AFFIDAVIT_LUCK_TENANT",
+          "code": "AFFIDAVIT.AFFIDAVIT_LUCK_TENANT",
           "active": true
         }
       ],
-      "description": "AFFIDAVIT_HOR_DESCRIPTION"
+      "description": "AFFIDAVIT_DESCRIPTION"
     }
   ]
 }

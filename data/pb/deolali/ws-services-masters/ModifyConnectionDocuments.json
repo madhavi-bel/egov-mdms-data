@@ -74,7 +74,7 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -88,25 +88,25 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "BUILDING_COMPLETION_CERTIFICATE",
-      "documentType": "BUILDING_COMPLETION_CERTIFICATE",
+      "code": "BUILDING_PLAN",
+      "documentType": "BUILDING_PLAN",
       "active": true,
       "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "BUILDING_COMPLETION_CERTIFICATE",
+          "code": "BUILDING_PLAN.BUILDING_COMPLETION_CERTIFICATE",
           "active": true
         }
       ],
-      "description": "BUILDING_COMPLETION_CERTIFICATE_DESCRIPTION"
+      "description": "BUILDING_PLAN_DESCRIPTION"
     },
     {
       "code": "OWNERSHIP_RIGHT",
@@ -116,11 +116,11 @@
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "7_12_EXTRACT",
+          "code": "OWNERSHIP_RIGHT.7_12_EXTRACT",
           "active": true
         },
         {
-          "code": "SALE_DEED",
+          "code": "OWNERSHIP_RIGHT.SALE_DEED",
           "active": true
         }
       ],
