@@ -14881,6 +14881,24 @@
       "actionid": 1804,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 5264,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 5265,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5266,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
