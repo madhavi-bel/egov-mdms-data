@@ -19972,6 +19972,30 @@
     },
     {
       "id": 5264,
+      "name": "Update Birth",
+      "url": "/birth-death-services/common/updateBirthImport",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5265,
+      "name": "Update death",
+      "url": "/birth-death-services/common/updateDeathImport",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5266,
       "name": "Data Entry",
       "url": "url",
       "displayName": "Data Entry",
