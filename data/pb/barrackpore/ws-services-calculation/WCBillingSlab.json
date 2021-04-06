@@ -1,0 +1,56 @@
+{
+  "tenantId": "pb.barrackpore",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "ownershipCategory" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 540,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL",
+      "ownershipCategory" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1920,
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "ownershipCategory" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1800,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL",
+      "ownershipCategory" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 19200,
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL",
+      "ownershipCategory" :"INSTITUTIONALGOVERNMENT",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 12000,
+      "slabs": []
+    }
+  ]
+}

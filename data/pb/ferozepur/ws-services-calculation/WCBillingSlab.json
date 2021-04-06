@@ -1,0 +1,50 @@
+{
+  "tenantId": "pb.ferozepur",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "No. of taps",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1,
+          "charge": 41,
+          "meterCharge": 0
+        },
+        {
+          "from": 1,
+          "to": 100000,
+          "charge": 21,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1,
+          "charge": 138,
+          "meterCharge": 0
+        },
+        {
+          "from": 1,
+          "to": 100000,
+          "charge": 83,
+          "meterCharge": 0
+        }
+      ]
+    }
+  ]
+}

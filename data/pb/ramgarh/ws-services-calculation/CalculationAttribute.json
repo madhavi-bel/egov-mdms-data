@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.ramgarh",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}

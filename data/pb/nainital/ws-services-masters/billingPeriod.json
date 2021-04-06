@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb.nainital",
+  "moduleName": "ws-services-masters",
+  "billingPeriod": [
+    {
+      "active": true,
+      "connectionType": "Metered",
+      "billingCycle": "Bi Months",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 0,
+      "demandGenerationDateMillis": 345600000
+    }
+  ]
+}

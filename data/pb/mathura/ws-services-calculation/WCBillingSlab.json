@@ -1,0 +1,43 @@
+{
+  "tenantId": "pb.mathura",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+     
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 80,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 180,
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 660,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 370,
+      "slabs": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "tenantId": "pb.jhansi",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab":  [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "ownerType" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 330,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 1290,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "ownerType" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 3300,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "ownerType" :"STAFF",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 300,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    }
+  ]
+}

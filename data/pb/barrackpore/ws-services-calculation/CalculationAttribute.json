@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.barrackpore",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption", 
+      "filterAttribute" : [ ],
+      "active": false
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED", 
+      "filterAttribute" : ["PropertyLocation","majorUsageType","ownershipCategory"],
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}

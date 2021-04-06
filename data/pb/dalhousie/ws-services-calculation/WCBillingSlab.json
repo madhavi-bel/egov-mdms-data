@@ -1,0 +1,38 @@
+{
+  "tenantId": "pb.dalhousie",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 3.5,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 5,
+          "meterCharge": 0
+        }
+      ]
+    } 
+  ]
+}

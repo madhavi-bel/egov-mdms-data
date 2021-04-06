@@ -1,0 +1,25 @@
+{
+  "tenantId": "pb.cannanore",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 40,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 125,
+      "slabs": []
+    } 
+  
+  ]
+}

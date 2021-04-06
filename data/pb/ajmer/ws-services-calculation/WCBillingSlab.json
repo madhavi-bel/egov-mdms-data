@@ -1,0 +1,26 @@
+{
+  "tenantId": "pb.ajmer",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1128,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2250,
+      "slabs": []
+    }
+ 
+  ]
+}

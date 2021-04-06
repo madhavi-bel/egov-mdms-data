@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.stm",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 3000,
+      "slabs": []
+    }
+  ]
+}

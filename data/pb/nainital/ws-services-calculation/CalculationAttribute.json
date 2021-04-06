@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.nainital",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : [ "buildingType"],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "filterAttribute" : [ ],
+      "active": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tenantId": "pb.jalandhar",
+  "moduleName": "ws-services-calculation",
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "endingDay": "25/09"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tenantId": "pb.varanasi",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED", 
+      "filterAttribute" : ["PropertyLocation","buildingType"],
+      "attribute": "Pipe Size",
+      "active": true
+    }
+  ]
+}

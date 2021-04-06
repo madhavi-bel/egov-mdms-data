@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb.jutogh",
+  "moduleName": "ws-services-masters",
+  "billingPeriod": [
+    {
+      "active": false,
+      "connectionType": "Metered",
+      "billingCycle": "monthly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 0,
+      "demandGenerationDateMillis": 345600000
+    },
+    {
+      "active": true,
+      "connectionType": "Non Metered",
+      "billingCycle": "quarterly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 0,
+      "demandGenerationDateMillis": 345600000
+    }
+  ]
+}

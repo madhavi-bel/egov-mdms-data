@@ -1,0 +1,47 @@
+{
+  "tenantId": "pb.chakrata",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+     
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 480,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingSubType" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1200,
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingSubType" :"NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingSubType" :"NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.NONACRESTAURANT",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400,
+      "slabs": []
+    }
+  ]
+}

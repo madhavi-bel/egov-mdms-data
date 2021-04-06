@@ -1,0 +1,57 @@
+{
+  "tenantId": "pb.dehradun",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 1200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 1200,
+          "meterCharge": 0
+        }
+    ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 2400,
+          "meterCharge": 0
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 8400,
+          "meterCharge": 0
+        },
+        {
+          "from": 0.76,
+          "to": 2.01,
+          "charge": 36000,
+          "meterCharge": 0
+        },
+        {
+          "from": 2.01,
+          "to": 3.01,
+          "charge": 120000,
+          "meterCharge": 0
+        }
+      ]
+    } 
+  ]
+}

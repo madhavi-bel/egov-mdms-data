@@ -1,0 +1,58 @@
+{
+  "tenantId": "pb.kanpur",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "5",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "OwnershipType": "Owner",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 100,
+      "slabs": [
+        {
+          "from":361,
+          "to":2000 ,
+          "charge": 1630,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":2001,
+          "to":3500,
+          "charge": 2080,
+          "meterCharge": 0,
+          "type":"Flat"
+
+        },
+        {
+          "from":3501,
+          "to":5000 ,
+          "charge": 2789,
+          "meterCharge": 0,
+          "type":"Flat"
+
+        },
+        {
+          "from":5001,
+          "to":10000 ,
+          "charge": 3492,
+          "meterCharge": 0,
+          "type":"Flat"
+
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "OwnershipType": "Tenant",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1395,
+      "slabs": []
+    }
+  ]
+}

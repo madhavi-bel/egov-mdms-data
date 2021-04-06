@@ -1,0 +1,67 @@
+{
+  "tenantId": "pb.varanasi",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+     
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 360,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 360,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1500,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 1500,
+          "meterCharge": 0
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 2400,
+          "meterCharge": 0
+        },
+        {
+          "from": 0.76,
+          "to": 1.01,
+          "charge": 3000,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 3640,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 2640,
+          "meterCharge": 0
+        }
+      ]
+    } 
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tenantId": "pb.meerut",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Land Area",
+      "minimumCharge": 100,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 501,
+          "charge": 600,
+          "meterCharge": 0
+        },
+        {
+          "from": 501,
+          "to": 1000000,
+          "charge": 900,
+          "meterCharge": 0
+        }
+      ]
+    }
+  ]
+}

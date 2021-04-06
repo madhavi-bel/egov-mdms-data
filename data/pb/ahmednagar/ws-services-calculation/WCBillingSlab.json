@@ -1,0 +1,37 @@
+{
+  "tenantId": "pb.ahmednagar",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+     
+    {
+      "id": "1",
+      "PropertyLocation":null,
+      "buildingType": "RESIDENTIAL",
+      "waterSource" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2000,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation":null,
+      "buildingType": "RESIDENTIAL",
+      "waterSource" :"PIPE.PUBLICSTDPOST",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 100,
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation":null,
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Non Metered",
+      "waterSource" :"*",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 4000,
+      "slabs": []
+    } 
+  ]
+}

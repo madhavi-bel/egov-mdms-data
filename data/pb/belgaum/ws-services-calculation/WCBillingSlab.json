@@ -1,0 +1,187 @@
+{
+  "tenantId": "pb.belgaum",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 1200,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 0.76,
+          "charge": 3200,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.76,
+          "to": 1.1,
+          "charge": 6400,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.1,
+          "to": 1.51,
+          "charge": 9600,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.51,
+          "to": 2.1,
+          "charge": 19900,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.NONRESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 11400,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 0.76,
+          "charge": 26670,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.76,
+          "to": 1.1,
+          "charge": 53580,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.1,
+          "to": 1.51,
+          "charge": 80490,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.51,
+          "to": 2.1,
+          "charge": 163590,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 9600,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 0.76,
+          "charge": 18130,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.76,
+          "to": 1.1,
+          "charge": 26240,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.1,
+          "to": 1.51,
+          "charge": 54340,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.51,
+          "to": 2.1,
+          "charge": 110240,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 9600,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 0.76,
+          "charge": 18130,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.76,
+          "to": 1.1,
+          "charge": 26240,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.1,
+          "to": 1.51,
+          "charge": 54340,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.51,
+          "to": 2.1,
+          "charge": 110240,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    }
+   
+  ]
+}

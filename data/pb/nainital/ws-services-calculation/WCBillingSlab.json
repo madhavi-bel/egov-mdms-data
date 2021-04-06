@@ -1,0 +1,39 @@
+{
+  "tenantId": "pb.nainital",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 207.13,
+      "maximumCharge": 779.6,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 13.52,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 1057.89,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 35.68,
+          "meterCharge": 0
+        }
+      ]
+    }
+  ]
+}

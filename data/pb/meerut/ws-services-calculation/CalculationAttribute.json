@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.meerut",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Land Area",
+      "active": true
+    }
+  ]
+}

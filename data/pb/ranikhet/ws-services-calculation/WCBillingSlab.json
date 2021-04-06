@@ -1,0 +1,102 @@
+{
+  "tenantId": "pb.ranikhet",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 10000000,
+          "charge": 12,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 10000000,
+          "charge": 25,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 10000000,
+          "charge": 12,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 10000000,
+          "charge": 25,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 10000000,
+          "charge": 40,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1,
+          "to": 10000000,
+          "charge": 40,
+          "meterCharge": 0
+        }
+      ]
+    }
+  ]
+}

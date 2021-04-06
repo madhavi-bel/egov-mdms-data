@@ -1,0 +1,34 @@
+{
+  "tenantId": "pb.aurangabad",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2000,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 3115,
+      "slabs": [  ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 39876,
+      "slabs": [  ]
+    }
+   
+  ]
+}

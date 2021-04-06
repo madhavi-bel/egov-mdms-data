@@ -1,0 +1,19 @@
+{
+  "tenantId": "pb.jutogh",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : [ ],
+      "active": false
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}
