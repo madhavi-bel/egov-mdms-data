@@ -16,7 +16,8 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": null
+      "type": null,
+      "billGineiURL" : "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "PropertyTax.Create",
@@ -2184,6 +2185,17 @@
         "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
+      "businessService": "PT.MUTATION",
+      "code": "PT.MUTATION",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "Birth Certificate Fees",
       "code": "BIRTH_CERT",
       "collectionModesNotAllowed": [
@@ -2211,6 +2223,7 @@
       "isCitizen": true,
       "type": null
     }
+
  
   ]
 }

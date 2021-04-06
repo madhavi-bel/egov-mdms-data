@@ -228,6 +228,26 @@
       "description": "LR DEO can approve the Outside Civil Lease Renewal Application"
     },
     {
+      "code": "PT_CEMP",
+      "name": "PT Counter Employee",
+      "description": "Property Counter Employee"
+    },
+    {
+      "code": "PT_DOC_VERIFIER",
+      "name": "PT Doc Verifier",
+      "description": "Property Document Verifier"
+    },
+    {
+      "code": "PT_FIELD_INSPECTOR",
+      "name": "PT Field Inspector",
+      "description": "Property Field Inspector"
+    },
+    {
+      "code": "PT_APPROVER",
+      "name": "PT Counter Approver",
+      "description": "PT Approver"
+    },
+    {
       "code": "WS_CEMP",
       "name": "WS Counter Employee",
       "description": "WS counter employee can take action as citizen"
@@ -276,6 +296,36 @@
       "code": "SW_CLERK",
       "name": "SW Clerk",
       "description": "SW Clerk can activate the connection application"
+    },
+    {
+      "code": "PT_CEMP",
+      "name": "PT Counter Employee",
+      "description": "Property Counter Employee"
+    },
+    {
+      "code": "PT_DOC_VERIFIER",
+      "name": "PT Doc Verifier",
+      "description": "Property Document Verifier"
+    },
+    {
+      "code": "PT_FIELD_INSPECTOR",
+      "name": "PT Field Inspector",
+      "description": "Property Field Inspector"
+    },
+    {
+      "code": "PT_APPROVER",
+      "name": "PT Counter Approver",
+      "description": "PT Approver"
+    },
+    {
+      "code": "CMD_REPORT",
+      "name": "Command level employee",
+      "description": "Command level employee to view reports"
+    },
+    {
+      "code": "BND_CEMP",
+      "name": "BnD Counter Employee",
+      "description": "BnD Counter Employee"
     }
   ]
 }

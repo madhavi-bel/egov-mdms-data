@@ -417,6 +417,14 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },    
+    "CBcommandMapping": {
+      "masterName": "CBcommandMapping",
+      "isStateLevel": true,
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "works": {
@@ -611,14 +619,14 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -641,6 +649,13 @@
       "masterName": "CancerCess",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "PTWorkflow": {
+      "masterName": "PTWorkflow",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.businessService"
+      ]
     }
   },
   "TradeLicense": {
@@ -867,7 +882,7 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
@@ -881,33 +896,33 @@
   "ws-services-calculation": {
     "WaterCess": {
       "masterName": "WaterCess",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
@@ -957,7 +972,7 @@
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
@@ -1004,33 +1019,33 @@
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]

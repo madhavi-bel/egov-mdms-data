@@ -326,6 +326,11 @@
       "tenant": "pb",
       "code": "TL_SELFDECLERATION_FORM",
       "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/TL_SELFDECLERATION_FORM.pdf"
+    },
+    {
+      "tenant": "pb",
+      "code": "HRMS",
+      "URL": "https://github.com/belegovgithub/webaccess/raw/master/pdf/EmplyeeRoleDetails.pdf"
     }
   ]
 }

@@ -1,0 +1,327 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "CBcommandMapping": [
+      {
+        "tenant": "pb.agra",
+        "code": "pb.agra",
+        "name": "CB Agra"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.lucknow",
+        "name": "CB Lucknow"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.bareilly",
+        "name": "CB Bareilly"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.mathura",
+        "name": "CB Mathura"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.pachmarhi",
+        "name": "CB Pachmarhi"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.allahabad",
+        "name": "CB Allahabad"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.meerut",
+        "name": "CB Meerut"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.mhow",
+        "name": "CB Mhow"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.danapur",
+        "name": "CB Danapur"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.roorkee",
+        "name": "CB Roorkee"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.bareilly",
+        "name": "CB Bareilly"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.ramgarh",
+        "name": "CB Ramgarh"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.almora",
+        "name": "CB Almora"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.chakrata",
+        "name": "CB Chakrata"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.clementtown",
+        "name": "CB Clement Town"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.dehradun",
+        "name": "CB Dehradun"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.faizabad",
+        "name": "CB Faizabad"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.fatehgarh",
+        "name": "CB Fatehgarh"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.jabalpur",
+        "name": "CB Jabalpur"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.kanpur",
+        "name": "CB Kanpur"
+      },
+      {
+        "tenant": "pb.agra",
+        "code": "pb.landour",
+        "name": "CB Landour"
+    },
+    {
+      "tenant": "pb.agra",
+      "code": "pb.lansdowne",
+      "name": "CB Lansdowne"
+    },
+    {
+      "tenant": "pb.agra",
+      "code": "pb.shahjahanpur",
+      "name": "CB Shahjahanpur"
+    },
+    {
+      "tenant": "pb.agra",
+      "code": "pb.varanasi",
+      "name": "CB Varanasi"
+    },
+    {
+      "tenant": "pb.agra",
+      "code": "pb.ranikhet",
+      "name": "CB Ranikhet"
+    },
+    {
+      "tenant": "pb.agra",
+      "code": "pb.nainital",
+      "name": "CB Nainital"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.delhi",
+      "name": "CB Delhi"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.ambala",
+      "name": "CB Ambala"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.kasauli",
+      "name": "CB Kasauli"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.jammu",
+      "name": "CB Jammu"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.jalandhar",
+      "name": "CB Jalandhar"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.dagshai",
+      "name": "CB Dagshai"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.amritsar",
+      "name": "CB Amritsar"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.subathu",
+      "name": "CB Subathu"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.khasyol",
+      "name": "CB Khasyol"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.jutogh",
+      "name": "CB Jutogh"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.ferozepur",
+      "name": "CB Ferozepur"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.dalhousie",
+      "name": "CB Dalhousie"
+    },
+    {
+      "tenant": "pb.delhi",
+      "code": "pb.bakloh",
+      "name": "CB Bakloh"
+    },
+    {
+      "tenant": "pb.badamibagh",
+      "code": "pb.badamibagh",
+      "name": "CB Badamibagh"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.barrackpore",
+      "name": "CB Barrackpore"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.lebong",
+      "name": "CB Lebong"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.jalapahar",
+      "name": "CB Jalapahar"
+    },
+    {
+      "tenant": "pb.barrackpore",
+      "code": "pb.shillong",
+      "name": "CB Shillong"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.secunderabad",
+      "name": "CB Secunderabad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.pune",
+      "name": "CB Pune"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.testing",
+      "name": "CB Testing"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.nasirabad",
+      "name": "CB Nasirabad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.deolali",
+      "name": "CB Deolali"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.dehuroad",
+      "name": "CB Dehuroad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.ahmednagar",
+      "name": "CB Ahmednagar"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.wellington",
+      "name": "CB Wellington"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.ajmer",
+      "name": "CB Ajmer"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.aurangabad",
+      "name": "CB Aurangabad"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.babina",
+      "name": "CB  Babina"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.belgaum",
+      "name": "CB Belgaum"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.cannanore",
+      "name": "CB Cannanore"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.stm",
+      "name": "CB St. Thomas Mount"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.saugor",
+      "name": "CB Saugor"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.jhansi",
+      "name": "CB Jhansi"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.kamptee",
+      "name": "CB Kamptee"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.kirkee",
+      "name": "CB Kirkee"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.morar",
+      "name": "CB Morar"
+    },
+    {
+      "tenant": "pb.secunderabad",
+      "code": "pb.ahmedabad",
+      "name": "CB Ahmedabad"
+    }
+    ]
+}
+      

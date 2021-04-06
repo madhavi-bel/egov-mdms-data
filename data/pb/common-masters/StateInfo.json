@@ -32,13 +32,21 @@
          "value": "ml_IN"
        },
        {
+         "label": "मराठी",
+         "value": "mr_IN"
+       },
+       {
          "label": "தமிழ்",
          "value": "ta_IN"
        },
        {
          "label": "తెలుగు",
          "value": "te_IN"
-       }	   
+       },
+       {
+         "label": "বাংলা",
+         "value": "bn_IN"
+       }   
       ],
       "languagesRegional" : [
        {
@@ -50,13 +58,21 @@
          "value": "ml_IN"
        },
        {
+         "label": "मराठी",
+         "value": "mr_IN"
+       },
+       {
          "label": "தமிழ்",
          "value": "ta_IN"
        },
        {
          "label": "తెలుగు",
          "value": "te_IN"
-       }	   
+       },
+       {
+         "label": "বাংলা",
+         "value": "bn_IN"
+       }   
       ],
       "languagesCommon" : [
         {

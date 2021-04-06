@@ -24,7 +24,14 @@
           "charge": 4474,
           "meterCharge": 0,
           "type":"Flat"
-        } 
+        },
+        {
+          "from": 0.76,
+          "to": 1.01,
+          "charge": 7284,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
       ]
     },
     {
@@ -53,7 +60,7 @@
         {
           "from": 0.76,
           "to": 1.01,
-          "charge": 12564,
+          "charge": 48000,
           "meterCharge": 0,
           "type":"Flat"
         } 
