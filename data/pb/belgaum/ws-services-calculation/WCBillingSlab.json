@@ -136,6 +136,51 @@
           "type":"Flat"
         }
       ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 9600,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 0.76,
+          "charge": 18130,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.76,
+          "to": 1.1,
+          "charge": 26240,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.1,
+          "to": 1.51,
+          "charge": 54340,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":1.51,
+          "to": 2.1,
+          "charge": 110240,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
     }
    
   ]

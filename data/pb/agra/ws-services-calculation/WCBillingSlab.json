@@ -6,21 +6,24 @@
       "id": "5",
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "Pipe Size",
       "minimumCharge": 100,
       "slabs": [
         {
           "from": 0,
           "to": 0.51,
           "charge": 2112,
-          "meterCharge": 0
+          "meterCharge": 0,
+          "type":"Flat"
         },
         {
           "from": 0.51,
           "to": 0.76,
           "charge": 4474,
-          "meterCharge": 0
+          "meterCharge": 0,
+          "type":"Flat"
         } 
       ]
     },
@@ -28,27 +31,31 @@
       "id": "6",
       "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingSubType" :"*",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "Pipe Size",
       "minimumCharge": 200,
       "slabs": [
         {
           "from": 0,
           "to": 0.51,
           "charge": 6276,
-          "meterCharge": 0
+          "meterCharge": 0,
+          "type":"Flat"
         },
         {
           "from": 0.51,
           "to": 0.76,
           "charge": 8375,
-          "meterCharge": 0
+          "meterCharge": 0,
+          "type":"Flat"
         },
         {
           "from": 0.76,
           "to": 1.01,
           "charge": 12564,
-          "meterCharge": 0
+          "meterCharge": 0,
+          "type":"Flat"
         } 
       ]
     } 
