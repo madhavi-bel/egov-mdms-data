@@ -70,7 +70,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -110,7 +111,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
