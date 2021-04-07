@@ -9,6 +9,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "No. of taps",
       "minimumCharge": 0,
+      "motorCharge" : 83,
       "slabs": [
         {
           "from": 0,
@@ -31,6 +32,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 0,
+      "motorCharge" :165,
       "slabs": [
         {
           "from": 0,
