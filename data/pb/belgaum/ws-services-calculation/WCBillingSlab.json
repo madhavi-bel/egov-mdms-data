@@ -4,7 +4,7 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
@@ -13,35 +13,35 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 1200,
+          "charge": 1500,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":0.51,
           "to": 0.76,
-          "charge": 3200,
+          "charge": 4000,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":0.76,
           "to": 1.1,
-          "charge": 6400,
+          "charge": 8000,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":1.1,
           "to": 1.51,
-          "charge": 9600,
+          "charge": 12000,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":1.51,
           "to": 2.1,
-          "charge": 19900,
+          "charge": 24875,
           "meterCharge": 0,
           "type":"Flat"
         }
@@ -49,7 +49,7 @@
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL.NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
@@ -94,7 +94,7 @@
     },
     {
       "id": "3",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
@@ -103,35 +103,35 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 9600,
+          "charge": 18600,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":0.51,
           "to": 0.76,
-          "charge": 18130,
+          "charge": 35670,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":0.76,
           "to": 1.1,
-          "charge": 26240,
+          "charge": 72120,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":1.1,
           "to": 1.51,
-          "charge": 54340,
+          "charge": 108080,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from":1.51,
           "to": 2.1,
-          "charge": 110240,
+          "charge": 219880,
           "meterCharge": 0,
           "type":"Flat"
         }
@@ -139,7 +139,7 @@
     },
     {
       "id": "4",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "MIXED",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",

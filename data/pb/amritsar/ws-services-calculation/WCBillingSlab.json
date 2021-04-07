@@ -5,40 +5,40 @@
     {
       "id": "1",
       "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
+      "buildingType": null,
       "connectionType": "Non Metered",
       "PropertyOwnershipCategory": "HOR",
       "calculationAttribute": "Flat",
-      "minimumCharge": 240,
+      "minimumCharge": 80,
       "slabs": []
     },
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
+      "buildingType": null,
       "connectionType": "Non Metered",
       "PropertyOwnershipCategory": "TENANT",
-      "minimumCharge": 240,
+      "minimumCharge": 80,
       "calculationAttribute": "Flat",
       "slabs": []
     },
     {
       "id": "3",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
+      "buildingType": null,
       "connectionType": "Non Metered",
       "PropertyOwnershipCategory": "HOR",
-      "minimumCharge": 495,
+      "minimumCharge": 165,
       "calculationAttribute": "Flat",
       "slabs": []
     },
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
+      "buildingType": null,
       "connectionType": "Non Metered",
       "PropertyOwnershipCategory": "TENANT",
-      "minimumCharge": 240,
+      "minimumCharge": 80,
       "calculationAttribute": "Flat",
       "slabs": []
     }
