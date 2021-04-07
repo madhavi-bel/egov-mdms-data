@@ -1,5 +1,14 @@
 {
   "tenantId": "pb.shahjahanpur",
   "moduleName": "ws-services-calculation",
-  "Penalty": []
+  "Penalty": [
+    {
+      "rate": 5,
+      "minAmount": 200,
+      "applicableAfterDays": 365,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2022"
+    }
+  ]
 }
