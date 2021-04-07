@@ -5,7 +5,7 @@
     {
       "id": "1",
       "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
+      "majorUsageType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -21,7 +21,7 @@
     {
       "id": "2",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
+      "majorUsageType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -37,7 +37,7 @@
     {
       "id": "3",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "NONRESIDENTIAL",
+      "majorUsageType": "NONRESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -53,7 +53,7 @@
     {
       "id": "4",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "MIXED",
+      "majorUsageType": "MIXED",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,

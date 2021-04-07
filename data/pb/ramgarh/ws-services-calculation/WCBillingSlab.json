@@ -3,15 +3,14 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [    
     {
-      "id": "5",
+      "id": "1",
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Pipe Size",
-      "Pipe size": 0.75,
-      "OwnershipType": "Owner",
+      "calculationAttribute": "Flat",
+      "ownershipCategory": "Owner",
       "Watersource": "Treated",
-      "minimumCharge": 3105,
+      "minimumCharge": 1320,
       "slabs": []
     },
     {

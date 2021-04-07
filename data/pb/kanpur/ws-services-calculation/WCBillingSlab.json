@@ -3,103 +3,55 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
-      "id": "1",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 4,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 6,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 8,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Metered",
-      "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000,
-          "charge": 10,
-          "meterCharge": 0
-        }
-      ]
-    },
-    {
       "id": "5",
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
+      "OwnershipType": "Owner",
       "calculationAttribute": "Flat",
       "minimumCharge": 100,
-      "slabs": []
-    },
-    {
-      "id": "6",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
+      "slabs": [
+        {
+          "from":361,
+          "to":2000 ,
+          "charge": 1630,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":2001,
+          "to":3500,
+          "charge": 2080,
+          "meterCharge": 0,
+          "type":"Flat"
+
+        },
+        {
+          "from":3501,
+          "to":5000 ,
+          "charge": 2789,
+          "meterCharge": 0,
+          "type":"Flat"
+
+        },
+        {
+          "from":5001,
+          "to":10000 ,
+          "charge": 3492,
+          "meterCharge": 0,
+          "type":"Flat"
+
+        }
+      ]
     },
     {
       "id": "7",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
+      "OwnershipType": "Tenant",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
-    },
-    {
-      "id": "8",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 400,
+      "minimumCharge": 1395,
       "slabs": []
     }
   ]
