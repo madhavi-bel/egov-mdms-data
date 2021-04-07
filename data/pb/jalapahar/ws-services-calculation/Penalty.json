@@ -1,14 +1,5 @@
 {
   "tenantId": "pb.jalapahar",
   "moduleName": "ws-services-calculation",
-  "Penalty": [
-    {
-      "rate": 10,
-      "minAmount": null,
-      "applicableAfterDays": 0,
-      "flatAmount": null,
-      "fromFY": "2020-21",
-      "startingDay": "1/01/2021"
-    }
-  ]
+  "Penalty": []
 }
