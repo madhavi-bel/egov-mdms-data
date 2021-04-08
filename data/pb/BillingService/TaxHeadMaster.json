@@ -40,7 +40,8 @@
       "isDebit": true,
       "isActualDemand": true,
       "order": "0",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -69,7 +70,7 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
+      "order": "1",
       "isRequired": false,
       "legacy": true
     },
@@ -14593,6 +14594,116 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "housetax",
+      "code": "PT_HOUSE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "watertax",
+      "code": "PT_WATER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Conservancy",
+      "code": "PT_CONSERVANCY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "lightiningtax",
+      "code": "PT_LIGHTINING_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "educationtax",
+      "code": "PT_EDUCATION_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false,
+      "legacy": true
+    } ,
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "housetaxarrear",
+      "code": "PT_ARREAR_HOUSE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "watertaxarrear",
+      "code": "PT_ARREAR_WATER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "ConservancyArrear",
+      "code": "PT_ARREAR_CONSERVANCY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "lightiningtaxArrear",
+      "code": "PT_ARREAR_LIGHTINING_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "educationtaxArrear",
+      "code": "PT_ARREAR_EDUCATION_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false,
+      "legacy": true
     }
   ]
 }
