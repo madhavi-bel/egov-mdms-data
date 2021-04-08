@@ -71,8 +71,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
-      "isRequired": false,
-      "legacy": true
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -112,8 +111,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
-      "isRequired": false,
-      "legacy": true
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -14657,7 +14655,7 @@
       "code": "PT_ARREAR_HOUSE_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "2",
+      "order": "7",
       "isRequired": false,
       "legacy": true
     },
@@ -14668,7 +14666,7 @@
       "code": "PT_ARREAR_WATER_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
+      "order": "8",
       "isRequired": false,
       "legacy": true
     },
@@ -14679,7 +14677,7 @@
       "code": "PT_ARREAR_CONSERVANCY_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "4",
+      "order": "9",
       "isRequired": false,
       "legacy": true
     },
@@ -14690,7 +14688,7 @@
       "code": "PT_ARREAR_LIGHTINING_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "5",
+      "order": "10",
       "isRequired": false,
       "legacy": true
     },
@@ -14701,7 +14699,7 @@
       "code": "PT_ARREAR_EDUCATION_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "6",
+      "order": "11",
       "isRequired": false,
       "legacy": true
     }
