@@ -827,6 +827,9 @@
       "tenants": [
         {
           "code": "pb.testing"
+        },
+        {
+          "code": "pb.agra"
         }
       ]
     }
