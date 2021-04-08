@@ -1,5 +1,15 @@
 {
   "tenantId": "pb.babina",
   "moduleName": "ws-services-calculation",
-  "Rebate": []
+  "Rebate": [
+    {
+      "rate": 15,
+      "minAmount": "",
+      "applicableAfterDays":"",
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2021"
+    }
+  ]
 }

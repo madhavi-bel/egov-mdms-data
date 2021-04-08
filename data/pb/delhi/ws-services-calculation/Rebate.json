@@ -1,5 +1,15 @@
 {
   "tenantId": "pb.delhi",
   "moduleName": "ws-services-calculation",
-  "Rebate": []
+  "Rebate": [
+    {
+      "rate": 25,
+      "minAmount": "",
+      "applicableAfterDays":30,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2021"
+    }
+  ]
 }

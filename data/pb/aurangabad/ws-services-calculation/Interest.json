@@ -1,5 +1,15 @@
 {
   "tenantId": "pb.aurangabad",
   "moduleName": "ws-services-calculation",
-  "Interest": []
+  "Interest": [
+    {
+      "rate": 12,
+      "minAmount": "",
+      "applicableAfterDays":30,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2021"
+    }
+  ]
 }
