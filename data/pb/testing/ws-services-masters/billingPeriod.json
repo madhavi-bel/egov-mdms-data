@@ -13,10 +13,10 @@
     {
       "active": true,
       "connectionType": "Non Metered",
-      "billingCycle": "bi-monthly",
+      "billingCycle": "half-yearly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 0,
-      "demandGenerationDateMillis": 3369600000 
+      "demandGenerationDateMillis": 691200000 
     }
   ]
 }
