@@ -19,6 +19,14 @@
       "financialYear": "2021-22"
     },
     {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2019",
+      "financialYear": "2019-20"
+    },
+    {
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
@@ -291,12 +299,12 @@
       "financialYear": "2018-28"
     },
     {
-      "fromDate": 1554076800000,
-      "toDate": 1617175799000,
+      "fromDate": 1617215400000,
+      "toDate": 1680201000000,
       "periodCycle": "TWOYEARS",
       "service": "WS",
       "code": "WC2018",
-      "financialYear": "2020-21"
+      "financialYear": "2021-23"
     },
     {
       "fromDate": 1554076800000,
