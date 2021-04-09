@@ -299,9 +299,9 @@
       "financialYear": "2018-28"
     },
     {
-      "fromDate": 1617215400000,
-      "toDate": 1680201000000,
-      "periodCycle": "TWOYEARS",
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
       "service": "WS",
       "code": "WC2018",
       "financialYear": "2021-23"
