@@ -32,6 +32,10 @@
          "value": "ml_IN"
        },
        {
+         "label": "मराठी",
+         "value": "mr_IN"
+       },
+       {
          "label": "தமிழ்",
          "value": "ta_IN"
        },
@@ -48,6 +52,10 @@
        {
          "label": "മലയാളം",
          "value": "ml_IN"
+       },
+       {
+         "label": "मराठी",
+         "value": "mr_IN"
        },
        {
          "label": "தமிழ்",
