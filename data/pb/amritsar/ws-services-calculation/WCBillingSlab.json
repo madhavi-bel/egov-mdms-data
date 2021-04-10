@@ -7,7 +7,7 @@
       "PropertyLocation": "CIVIL",
       "buildingType": null,
       "connectionType": "Non Metered",
-      "PropertyOwnershipCategory": "HOR",
+      "propertyOwnershipCategory": "HOR",
       "calculationAttribute": "Flat",
       "minimumCharge": 80,
       "slabs": []
@@ -17,7 +17,7 @@
       "PropertyLocation": "CIVIL",
       "buildingType": null,
       "connectionType": "Non Metered",
-      "PropertyOwnershipCategory": "TENANT",
+      "propertyOwnershipCategory": "TENANT",
       "minimumCharge": 80,
       "calculationAttribute": "Flat",
       "slabs": []
@@ -27,7 +27,7 @@
       "PropertyLocation": "BUNGLOW",
       "buildingType": null,
       "connectionType": "Non Metered",
-      "PropertyOwnershipCategory": "HOR",
+      "propertyOwnershipCategory": "HOR",
       "minimumCharge": 165,
       "calculationAttribute": "Flat",
       "slabs": []
@@ -37,7 +37,7 @@
       "PropertyLocation": "BUNGLOW",
       "buildingType": null,
       "connectionType": "Non Metered",
-      "PropertyOwnershipCategory": "TENANT",
+      "propertyOwnershipCategory": "TENANT",
       "minimumCharge": 80,
       "calculationAttribute": "Flat",
       "slabs": []
