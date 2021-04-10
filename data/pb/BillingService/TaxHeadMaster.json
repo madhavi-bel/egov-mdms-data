@@ -14600,7 +14600,7 @@
       "code": "PT_HOUSE_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "2",
+      "order": "1",
       "isRequired": false,
       "legacy": true
     },
@@ -14611,7 +14611,7 @@
       "code": "PT_WATER_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
+      "order": "2",
       "isRequired": false,
       "legacy": true
     },
@@ -14622,7 +14622,7 @@
       "code": "PT_CONSERVANCY_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "4",
+      "order": "3",
       "isRequired": false,
       "legacy": true
     },
@@ -14633,7 +14633,7 @@
       "code": "PT_LIGHTINING_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "5",
+      "order": "4",
       "isRequired": false,
       "legacy": true
     },
@@ -14644,7 +14644,7 @@
       "code": "PT_EDUCATION_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "6",
+      "order": "5",
       "isRequired": false,
       "legacy": true
     }
