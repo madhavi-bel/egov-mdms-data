@@ -16,8 +16,7 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": null,
-      "billGineiURL" : "egov-searcher/bill-genie/billswithaddranduser/_get"
+      "type": null
     },
     {
       "businessService": "PropertyTax.Create",
