@@ -3,13 +3,13 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
-      "id": "5",
-      "PropertyLocation": "CIVIL",
+      "id": "1",
+      "PropertyLocation":null,
       "buildingType": "RESIDENTIAL",
-      "connectionType": "Non Metered",
-      "OwnershipType": "Owner",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 100,
+      "connectionType": "Non Metered",     
+      "PropertyOwnershipCategory": "Owner",
+      "calculationAttribute": "Flat",      
+      "maintenanceCharge":98,
       "slabs": [
         {
           "from":361,
@@ -45,13 +45,14 @@
       ]
     },
     {
-      "id": "7",
-      "PropertyLocation": "BUNGLOW",
+      "id": "2",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "OwnershipType": "Tenant",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 1395,
+      "maintenanceCharge" : 98,
       "slabs": []
     }
   ]
