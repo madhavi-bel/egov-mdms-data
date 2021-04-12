@@ -5,7 +5,7 @@
     
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -14,7 +14,7 @@
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
