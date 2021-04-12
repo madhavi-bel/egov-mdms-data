@@ -8,8 +8,8 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 207.13,
-      "maximumCharge": 779.6,
+      "minimumCharge": 414.26,
+      "maximumCharge": 1559.2,
       "slabs": [
         {
           "from": 0,
@@ -25,7 +25,7 @@
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 1057.89,
+      "minimumCharge": 2115.78,
       "slabs": [
         {
           "from": 0,
