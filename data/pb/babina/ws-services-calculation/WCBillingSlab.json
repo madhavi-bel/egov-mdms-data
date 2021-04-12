@@ -15,6 +15,18 @@
       "slabs": []
     },
     {
+      "id": "6",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "ownerType" :"STAFF",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 720,
+      "unAuthorizedConnection" :0,
+      "slabs": []
+    },
+    {
       "id": "2",
       "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL.OTHERS",
@@ -51,30 +63,6 @@
       "slabs": []
     },
     {
-      "id": "5",
-      "PropertyLocation": "OUTSIDE",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
-      "ownerType" :"*",
-      "authorizedConnection" :"AUTHORIZED",
-      "connectionType": "Non Metered", 
-      "calculationAttribute": "Flat",
-      "minimumCharge": 4800,
-      "unAuthorizedConnection" :0,
-      "slabs": []
-    },
-    {
-      "id": "6",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
-      "ownerType" :"STAFF",
-      "authorizedConnection" :"AUTHORIZED",
-      "connectionType": "Non Metered", 
-      "calculationAttribute": "Flat",
-      "minimumCharge": 720,
-      "unAuthorizedConnection" :0,
-      "slabs": []
-    },
-    {
       "id": "7",
       "PropertyLocation": "OUTSIDE",
       "buildingType": "RESIDENTIAL",
@@ -83,6 +71,18 @@
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
       "minimumCharge": 1080,
+      "unAuthorizedConnection" :0,
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "ownerType" :"*",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 4800,
       "unAuthorizedConnection" :0,
       "slabs": []
     }
