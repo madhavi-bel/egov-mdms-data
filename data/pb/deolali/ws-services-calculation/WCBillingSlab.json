@@ -4,7 +4,7 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": null,
+      "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -20,7 +20,7 @@
     },
     {
       "id": "2",
-      "PropertyLocation": null,
+      "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -36,7 +36,23 @@
     },
     {
       "id": "3",
-      "PropertyLocation": null,
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 4.21,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
       "buildingType": "NONRESIDENTIAL.NONRESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -51,12 +67,29 @@
       ]
     },
     {
+      "id": "5",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 30,
+          "meterCharge": 0
+        }
+      ]
+    },
+    
+    {
       "id": "6",
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 51,
+      "minimumCharge":51,
       "slabs": []
     },
     {
