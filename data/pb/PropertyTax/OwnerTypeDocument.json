@@ -32,6 +32,12 @@
       "code": "DEFENCEID",
       "ownerTypeCode": "DEFENSE",
       "active": true
+    },
+    {
+      "name": "Staff ID proof",
+      "code": "STAFFID",
+      "ownerTypeCode": "STAFF",
+      "active": true
     }
   ]
 }

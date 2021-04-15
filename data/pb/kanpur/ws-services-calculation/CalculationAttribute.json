@@ -11,8 +11,8 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "attribute": "Flat",
-      "filterAttribute" : ["PropertyOwnershipCategory"],
+      "attribute": "ARV",
+      "filterAttribute" : ["propertyOwnershipCategory"],
       "active": true
     }
   ]

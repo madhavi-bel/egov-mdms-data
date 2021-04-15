@@ -7,8 +7,8 @@
       "PropertyLocation":null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",     
-      "PropertyOwnershipCategory": "Owner",
-      "calculationAttribute": "Flat",      
+      "propertyOwnershipCategory": "HOR",
+      "calculationAttribute": "ARV",      
       "maintenanceCharge":98,
       "slabs": [
         {
@@ -16,14 +16,14 @@
           "to":2000 ,
           "charge": 1630,
           "meterCharge": 0,
-          "type":"Flat"
+          "type":"FLAT"
         },
         {
           "from":2001,
           "to":3500,
           "charge": 2080,
           "meterCharge": 0,
-          "type":"Flat"
+          "type":"FLAT"
 
         },
         {
@@ -31,7 +31,7 @@
           "to":5000 ,
           "charge": 2789,
           "meterCharge": 0,
-          "type":"Flat"
+          "type":"FLAT"
 
         },
         {
@@ -39,7 +39,7 @@
           "to":10000 ,
           "charge": 3492,
           "meterCharge": 0,
-          "type":"Flat"
+          "type":"FLAT"
 
         }
       ]
@@ -48,12 +48,22 @@
       "id": "2",
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
-      "OwnershipType": "Tenant",
+      "propertyOwnershipCategory": "TENANT",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "ARV",
       "minimumCharge": 1395,
       "maintenanceCharge" : 98,
-      "slabs": []
+      "slabs": [
+        {
+          "from":0,
+          "to":1000000000 ,
+          "charge": 1395,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        }
+
+      ]
     }
   ]
 }
