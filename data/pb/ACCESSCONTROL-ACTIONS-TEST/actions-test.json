@@ -20289,6 +20289,48 @@
         "navigationURL": "report/rainmaker-pt/DGDEReceiptRegister",
         "leftIcon": "action:assignment",
         "rightIcon": ""
+      },
+      {
+        "id": 5287,
+        "name": "Demand Register",
+        "url": "/report/rainmaker-pt/DemandRegisterReport/metadata/_get",
+        "displayName": "Get PT Report Metadata",
+        "orderNumber": 2,
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": "PT Report"
+      },
+      {
+        "id": 5288,
+        "name": "Demand Register",
+        "url": "/report/rainmaker-pt/DemandRegisterReport/_get",
+        "displayName": "Get PT Report",
+        "orderNumber": 2,
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": "PT Report"
+      },
+      {
+        "id": 5289,
+        "name": "DemandRegisterReport",
+        "url": "url",
+        "displayName": "Demand Register",
+        "orderNumber": 2,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "tenantId": "pb",
+        "createdDate": null,
+        "createdBy": null,
+        "lastModifiedDate": null,
+        "lastModifiedBy": null,
+        "path": "Property Tax.PT Reports.Demand Register",
+        "navigationURL": "report/rainmaker-pt/DemandRegisterReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
       }
     
   ]
