@@ -830,6 +830,18 @@
         },
         {
           "code": "pb.agra"
+        },
+        {
+          "code": "pb.delhi"
+        },
+        {
+          "code": "pb.pune"
+        },
+        {
+          "code": "pb.secunderabad"
+        },
+        {
+          "code": "pb.stm"
         }
       ]
     }

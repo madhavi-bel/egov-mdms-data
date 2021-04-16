@@ -1,0 +1,30 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 1,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "30/04",
+      "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 1,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "endingDay": "30/04",
+      "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 1,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "endingDay": "30/04",
+      "mutationPaymentPeriodInMonth": "06"
+    }
+  ]
+}
