@@ -20037,7 +20037,7 @@
       {
         "id": 5268,
         "name": "Receipt Register",
-        "url": "report/rainmaker-pt/ReceiptRegister/metadata/_get",
+        "url": "/report/rainmaker-pt/ReceiptRegister/metadata/_get",
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
@@ -20048,7 +20048,7 @@
       {
         "id": 5269,
         "name": "Receipt Register",
-        "url": "report/rainmaker-pt/ReceiptRegister/_get",
+        "url": "/report/rainmaker-pt/ReceiptRegister/_get",
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
@@ -20079,7 +20079,7 @@
       {
         "id": 5271,
         "name": "CancelledReceiptRegister",
-        "url": "report/rainmaker-pt/CancelledReceiptRegister/metadata/_get",
+        "url": "/report/rainmaker-pt/CancelledReceiptRegister/metadata/_get",
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
@@ -20090,7 +20090,7 @@
       {
         "id": 5272,
         "name": "CancelledReceiptRegister",
-        "url": "report/rainmaker-pt/CancelledReceiptRegister/_get",
+        "url": "/report/rainmaker-pt/CancelledReceiptRegister/_get",
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
@@ -20121,7 +20121,7 @@
       {
         "id": 5274,
         "name": "CBPTCollection",
-        "url": "report/rainmaker-pt/CBPTCollection/metadata/_get",
+        "url": "/report/rainmaker-pt/CBPTCollection/metadata/_get",
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
@@ -20132,7 +20132,7 @@
       {
         "id": 5275,
         "name": "CBPTCollection",
-        "url": "report/rainmaker-pt/CBPTCollection/_get",
+        "url": "/report/rainmaker-pt/CBPTCollection/_get",
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
@@ -20163,7 +20163,7 @@
       {
         "id": 5277,
         "name": "StateCancelledReceiptRegister",
-        "url": "report/rainmaker-pt/StateCancelledReceiptRegister/metadata/_get",
+        "url": "/report/rainmaker-pt/StateCancelledReceiptRegister/metadata/_get",
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
@@ -20174,7 +20174,7 @@
       {
         "id": 5278,
         "name": "StateCancelledReceiptRegister",
-        "url": "report/rainmaker-pt/StateCancelledReceiptRegister/_get",
+        "url": "/report/rainmaker-pt/StateCancelledReceiptRegister/_get",
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
@@ -20206,7 +20206,7 @@
       {
         "id": 5280,
         "name": "CBWidePtCollection",
-        "url": "report/rainmaker-pt/CBWidePtCollection/metadata/_get",
+        "url": "/report/rainmaker-pt/CBWidePtCollection/metadata/_get",
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
@@ -20217,7 +20217,7 @@
       {
         "id": 5281,
         "name": "CBWidePtCollection",
-        "url": "report/rainmaker-pt/CBWidePtCollection/_get",
+        "url": "/report/rainmaker-pt/CBWidePtCollection/_get",
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
