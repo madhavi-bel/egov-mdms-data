@@ -20036,23 +20036,23 @@
       },
       {
         "id": 5268,
-        "name": "ReceiptRegister",
+        "name": "Receipt Register",
         "url": "report/rainmaker-pt/ReceiptRegister/metadata/_get",
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
       {
         "id": 5269,
-        "name": "ReceiptRegister",
+        "name": "Receipt Register",
         "url": "report/rainmaker-pt/ReceiptRegister/_get",
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20067,7 +20067,6 @@
         "enabled": true,
         "serviceCode": "",
         "tenantId": "pb",
-    
         "createdDate": null,
         "createdBy": null,
         "lastModifiedDate": null,
@@ -20084,7 +20083,7 @@
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20095,7 +20094,7 @@
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20126,7 +20125,7 @@
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20137,7 +20136,7 @@
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20168,7 +20167,7 @@
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20179,7 +20178,7 @@
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20211,7 +20210,7 @@
         "displayName": "Get PT Report Metadata",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       },
@@ -20222,7 +20221,7 @@
         "displayName": "Get PT Report",
         "orderNumber": 2,
         "enabled": false,
-        "serviceCode": "PT_REPORTS",
+        "serviceCode": "",
         "code": "null",
         "path": "PT Report"
       }
