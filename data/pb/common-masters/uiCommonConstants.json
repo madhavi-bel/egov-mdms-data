@@ -67,6 +67,10 @@
             "routePath": "/dashboard/lease",
             "isOrigin": true
           },
+          "ulb-propertytax": {
+            "routePath": "/dashboard/ulb-propertytax",
+            "isOrigin": true
+          },
           "ulb-mCollect": {
             "routePath": "/dashboard/ulb-mCollect",
             "isOrigin": true
