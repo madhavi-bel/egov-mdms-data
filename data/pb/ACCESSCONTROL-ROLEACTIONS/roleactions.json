@@ -15253,6 +15253,18 @@
       "actionid": 5281,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5283,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5283,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]

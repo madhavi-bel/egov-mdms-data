@@ -20236,6 +20236,17 @@
         "serviceCode": "DSS",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5283,
+        "name": "ptbill search",
+        "url": "/egov-pdf/download/PT/propertybill",
+        "displayName": "ptbill search",
+        "orderNumber": 8,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
       }
     
   ]
