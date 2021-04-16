@@ -656,6 +656,13 @@
       "uniqueKeys": [
         "$.businessService"
       ]
+    },
+    "PropertyLocation": {
+      "masterName": "PropertyLocation",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "TradeLicense": {
