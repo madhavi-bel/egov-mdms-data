@@ -20247,6 +20247,48 @@
         "serviceCode": "egov-pdf",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5284,
+        "name": "DGDE Receipt Register",
+        "url": "/report/rainmaker-pt/DGDEReceiptRegister/metadata/_get",
+        "displayName": "Get PT Report Metadata",
+        "orderNumber": 2,
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": "PT Report"
+      },
+      {
+        "id": 5285,
+        "name": "DGDE Receipt Register",
+        "url": "/report/rainmaker-pt/DGDEReceiptRegister/_get",
+        "displayName": "Get PT Report",
+        "orderNumber": 2,
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": "PT Report"
+      },
+      {
+        "id": 5286,
+        "name": "DGDEReceiptRegister",
+        "url": "url",
+        "displayName": "DGDE Receipt Register",
+        "orderNumber": 2,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "tenantId": "pb",
+        "createdDate": null,
+        "createdBy": null,
+        "lastModifiedDate": null,
+        "lastModifiedBy": null,
+        "path": "Property Tax.PT Reports.DGDE Receipt Register",
+        "navigationURL": "report/rainmaker-pt/DGDEReceiptRegister",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
       }
     
   ]
