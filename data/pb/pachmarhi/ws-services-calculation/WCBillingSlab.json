@@ -42,7 +42,7 @@
           "type":"Flat"
         },
         {
-          "from": 51,
+          "from": 0.51,
           "to": 0.76,
           "charge": 7200,
           "meterCharge": 0,
