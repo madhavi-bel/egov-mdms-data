@@ -101,7 +101,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -111,7 +112,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -14600,7 +14602,7 @@
       "code": "PT_HOUSE_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "1",
+      "order": "3",
       "isRequired": false,
       "legacy": true
     },
@@ -14611,7 +14613,7 @@
       "code": "PT_WATER_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "2",
+      "order": "4",
       "isRequired": false,
       "legacy": true
     },
@@ -14622,18 +14624,18 @@
       "code": "PT_CONSERVANCY_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
+      "order": "5",
       "isRequired": false,
       "legacy": true
     },
     {
       "category": "TAX",
       "service": "PT",
-      "name": "lightiningtax",
+      "name": "lightingtax",
       "code": "PT_LIGHTINING_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "4",
+      "order": "6",
       "isRequired": false,
       "legacy": true
     },
@@ -14644,7 +14646,7 @@
       "code": "PT_EDUCATION_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "5",
+      "order": "7",
       "isRequired": false,
       "legacy": true
     }

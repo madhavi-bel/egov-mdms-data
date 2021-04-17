@@ -35,12 +35,12 @@
       "startingDay": "11/12/2018"
     },
     {
-      "rate": 9,
+      "rate": 1,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2019-20",
-      "startingDay": "11/12/2019"
+      "startingDay": "15/04/2019"
     }
   ]
 }
