@@ -5,7 +5,7 @@
     {
       "id": "5",
       "PropertyLocation": "CIVIL",
-      "majorUsageType": "RESIDENTIAL",
+      "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
@@ -29,7 +29,7 @@
     {
       "id": "6",
       "PropertyLocation": "CIVIL",
-      "majorUsageType": "NONRESIDENTIAL",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
