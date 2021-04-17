@@ -5,9 +5,9 @@
     {
       "id": "5",
       "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL",
+      "majorUsageType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
       "slabs": [
         {
@@ -29,9 +29,9 @@
     {
       "id": "6",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
+      "majorUsageType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
       "slabs": [
         {

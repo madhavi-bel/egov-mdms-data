@@ -6,12 +6,13 @@
       "name": "Metered",
       "code": "METERED",
       "attribute": "Water consumption",
-      "active": true
+      "active": false
     },
     {
       "name": "Non Metered",
-      "code": "NONMETERED",
-      "attribute": "Flat",
+      "code": "NONMETERED", 
+      "attribute": "Pipe Size",
+      "filterAttribute" : ["majorUsageType" ],
       "active": true
     }
   ]
