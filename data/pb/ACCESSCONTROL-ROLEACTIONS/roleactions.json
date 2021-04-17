@@ -15379,6 +15379,24 @@
       "actionid": 5289,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5290,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5291,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5292,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 
   ]
