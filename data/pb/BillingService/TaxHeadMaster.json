@@ -33,7 +33,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
@@ -94,7 +94,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
