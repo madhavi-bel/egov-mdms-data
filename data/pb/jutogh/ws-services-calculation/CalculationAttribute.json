@@ -13,6 +13,7 @@
       "name": "Non Metered",
       "code": "NONMETERED",
       "attribute": "Flat",
+      "filterAttribute" : [ ],
       "active": true
     }
   ]
