@@ -1,5 +1,13 @@
 {
   "tenantId": "pb.kanpur",
   "moduleName": "ws-services-calculation",
-  "Rebate": []
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "endingDay": "30/04"
+    }
+  ]
 }
