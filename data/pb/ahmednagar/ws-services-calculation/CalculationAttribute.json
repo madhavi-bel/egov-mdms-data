@@ -12,7 +12,7 @@
       "name": "Non Metered",
       "code": "NONMETERED",
       "attribute": "Flat",
-      "filterAttribute" : ["PropertyLocation","buildingType","waterSource"],
+      "filterAttribute" : ["buildingType","waterSource"],
       "active": true
     }
   ]
