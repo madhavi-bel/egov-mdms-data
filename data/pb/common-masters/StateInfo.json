@@ -42,7 +42,11 @@
        {
          "label": "తెలుగు",
          "value": "te_IN"
-       }  
+       },
+       {
+         "label": "বাংলা",
+         "value": "bn_IN"
+       }   
       ],
       "languagesRegional" : [
        {
@@ -64,6 +68,10 @@
        {
          "label": "తెలుగు",
          "value": "te_IN"
+       },
+       {
+         "label": "বাংলা",
+         "value": "bn_IN"
        }   
       ],
       "languagesCommon" : [
