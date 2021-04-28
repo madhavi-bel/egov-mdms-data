@@ -4,41 +4,22 @@
   "WCBillingSlab": [    
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "ownershipCategory": "Owner",
-      "Watersource": "Treated",
+      "ownershipCategory": "Owner", 
       "minimumCharge": 1320,
       "slabs": []
     },
     {
-      "id": "6",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
-    },
-    {
-      "id": "7",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
-    },
-    {
-      "id": "8",
-      "PropertyLocation": "BUNGLOW",
+      "id": "2",
+      "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 400,
+      "minimumCharge": 5400,
       "slabs": []
-    }
+    } 
   ]
 }
