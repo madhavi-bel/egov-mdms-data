@@ -30,7 +30,7 @@
       "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "No. of taps",
       "minimumCharge": 0,
       "motorCharge" :165,
       "slabs": [
