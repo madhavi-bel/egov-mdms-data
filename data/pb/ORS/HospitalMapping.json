@@ -1,0 +1,340 @@
+{
+	"moduleName": "ORS",
+	"HospitalMapping": [
+		{
+			"id": "91100097",
+			"name": "JOY POLY CLINIC",
+			"tenantId": "pb.danapur"
+		},
+		{
+			"id": "91070545",
+			"name": "DCB Dispensary, Jharera",
+			"tenantId": "pb.delhi"
+		},
+		{
+			"id": "91070546",
+			"name": "Mini Dispensary, Naraina",
+			"tenantId": "pb.delhi"
+		},
+		{
+			"id": "91070526",
+			"name": "Cantonment General Hospital, Delhi Cantt",
+			"tenantId": "pb.delhi"
+		},
+		{
+			"id": "91240038",
+			"name": "CANTONMENT HEALTH CENTRE AHMEDABAD",
+			"tenantId": "pb.ahmedabad"
+		},
+		{
+			"id": "91020043",
+			"name": "Cantt General Hospital Dalhousie",
+			"tenantId": "pb.dalhousie"
+		},
+		{
+			"id": "91020046",
+			"name": "Cantonment General Hospital Bakloh Cantt",
+			"tenantId": "pb.bakloh"
+		},
+		{
+			"id": "91020050",
+			"name": "Cantonment Board General Hospital Yol Cantt",
+			"tenantId": "pb.khasyol"
+		},
+		{
+			"id": "91020054",
+			"name": "CANTONMENT GENERAL HOSPITAL KASAULI",
+			"tenantId": "pb.kasauli"
+		},
+		{
+			"id": "91020051",
+			"name": "Cantt. Board Dispensary Jutogh",
+			"tenantId": "pb.jutogh"
+		},
+		{
+			"id": "91020053",
+			"name": "Cantonment General Hospital Subathu",
+			"tenantId": "pb.subathu"
+		},
+		{
+			"id": "91020056",
+			"name": "Cantonment Dispensary Dagshai",
+			"tenantId": "pb.dagshai"
+		},
+		{
+			"id": "91060069",
+			"name": "Dispensary cum polyclinic Cantonment Board Ambala",
+			"tenantId": "pb.ambala"
+		},
+		{
+			"id": "91010045",
+			"name": "Cantt Board Dispensary",
+			"tenantId": "pb.badamibagh"
+		},
+		{
+			"id": "91010046",
+			"name": "G B Pant Cantonment General Hospital Jammu Cantt",
+			"tenantId": "pb.jammu"
+		},
+		{
+			"id": "91205018",
+			"name": "CANTT GENERAL HOSPITAL RAMGARH",
+			"tenantId": "pb.ramgarh"
+		},
+		{
+			"id": "91298219",
+			"name": "CANTONMENT GENERAL HOSPITAL CAMP, BELAGAVI",
+			"tenantId": "pb.belagavi"
+		},
+		{
+			"id": "91233195",
+			"name": "CANTT GENERAL HOSPITAL SAUGRO",
+			"tenantId": "pb.saugro"
+		},
+		{
+			"id": "91233196",
+			"name": "CANTONMENT GENERAL HOSPITAL, MORAR CANTT",
+			"tenantId": "pb.morar"
+		},
+		{
+			"id": "91233193",
+			"name": "MOTILAL NEHRU HOSPITAL",
+			"tenantId": "pb.jabalpur"
+		},
+		{
+			"id": "91233194",
+			"name": "Gorabazar Dispensary",
+			"tenantId": "pb.mhow"
+		},
+		{
+			"id": "91233205",
+			"name": "Cantonment Board Pachmarhi Dispensary",
+			"tenantId": "pb.pachmarhi"
+		},
+		{
+			"id": "91233201",
+			"name": "D.P.CANTT GENERAL HOSPITAL MHOW",
+			"tenantId": "pb.mhow"
+		},
+		{
+			"id": "91270190",
+			"name": "CANTONMENT GENERAL HOPSITAL DEVLALI",
+			"tenantId": "pb.devlali"
+		},
+		{
+			"id": "91270192",
+			"name": "SARDAR VALLABHBHAI PATEL CANTONMENT GENERAL HOSPITAL PUNE",
+			"tenantId": "pb.pune"
+		},
+		{
+			"id": "91270195",
+			"name": "Cantonment General Hospital Kamptee",
+			"tenantId": "pb.kamptee"
+		},
+		{
+			"id": "91270196",
+			"name": "Dr. Babasaheb Ambedkar Cantonment General Hospital,Dehuroad",
+			"tenantId": "pb.dehuroad"
+		},
+		{
+			"id": "91270198",
+			"name": "Aurangabad Cantonment General Hospital",
+			"tenantId": "pb.aurangabad"
+		},
+		{
+			"id": "91270201",
+			"name": "Dr. B. R. Ambedkar Cantonment Hospital Ahmednagar",
+			"tenantId": "pb.ahmednagar"
+		},
+		{
+			"id": "91270202",
+			"name": "DR BABASAHEB AMBEDKAR CANTONMENT GENERAL HOSPITAL PUNE",
+			"tenantId": "pb.pune"
+		},
+		{
+			"id": "91270206",
+			"name": "MARKET DISPENSARY",
+			"tenantId": "pb.pune"
+		},
+		{
+			"id": "91170015",
+			"name": "Jeevan Ram Goenka Cantonment General Hospital",
+			"tenantId": "pb.shillong"
+		},
+		{
+			"id": "91030024",
+			"name": "Cantonment General Hospital, Cantonment Board Ferozepur",
+			"tenantId": "pb.ferozepur"
+		},
+		{
+			"id": "91030025",
+			"name": "Cantonment Board Dispensary Amritsar Cantt",
+			"tenantId": "pb.amritsar"
+		},
+		{
+			"id": "91030026",
+			"name": "War Memorial XXIX Punjabis Cantonment General Hospital",
+			"tenantId": "pb.jalandhar"
+		},
+		{
+			"id": "91080062",
+			"name": "CANTONMENT BOARD AJMER DISPENSARY",
+			"tenantId": "pb.ajmer"
+		},
+		{
+			"id": "91330035",
+			"name": "CANTONMENT GENERAL HOSPITAL, WELLINGTON",
+			"tenantId": "pb.wellington"
+		},
+		{
+			"id": "91330038",
+			"name": "Shri. Gulabchand Jain Cantonment Dispensary Pallavaram",
+			"tenantId": "pb.stm"
+		},
+		{
+			"id": "91330039",
+			"name": "Cantonment Dispensary cum Maternity Centre, St. Thomas Mount",
+			"tenantId": "pb.stm"
+		},
+		{
+			"id": "91360054",
+			"name": "SARDAR VALLABHBHAI PATEL CANTONMENT GENERAL HOSPITAL Hyderabad",
+			"tenantId": "pb.secunderabad"
+		},
+		{
+			"id": "91360055",
+			"name": "CANTONMENT DISPENSARY TRIMULGHERYY",
+			"tenantId": "pb.secunderabad"
+		},
+		{
+			"id": "91360056",
+			"name": "CANTONMENT DISPENSARY, PICKET",
+			"tenantId": "pb.secunderabad"
+		},
+		{
+			"id": "91360057",
+			"name": "CANTONMENT DISPENSARY, BALAMRAI.",
+			"tenantId": "pb.secunderabad"
+		},
+		{
+			"id": "91094237",
+			"name": "CANTT GENERAL HOSPITAL BAREILLY CANTT",
+			"tenantId": "pb.bareilly"
+		},
+		{
+			"id": "91094240",
+			"name": "Cantonment Board Dispensary Fatehgarh",
+			"tenantId": "pb.fatehgarh"
+		},
+		{
+			"id": "91094241",
+			"name": "Cantonment Board Dispensary, Mathura Cantt.",
+			"tenantId": "pb.mathura"
+		},
+		{
+			"id": "91094242",
+			"name": "Cantonment General Hospital Agra",
+			"tenantId": "pb.agra"
+		},
+		{
+			"id": "91094245",
+			"name": "CANTONMENT GENERAL HOSPITAL LUCKNOW CANTT",
+			"tenantId": "pb.lucknow"
+		},
+		{
+			"id": "91094251",
+			"name": "CANTONMENT GENERAL HOSPITAL VARANASI CANTT",
+			"tenantId": "pb.varanasi"
+		},
+		{
+			"id": "91094252",
+			"name": "Cantonment General Hospital Allahabad",
+			"tenantId": "pb.allahabad"
+		},
+		{
+			"id": "91094253",
+			"name": "Cantonment Board Dispensary Faizabad/AYODHYA UP",
+			"tenantId": "pb.faizabad"
+		},
+		{
+			"id": "91094254",
+			"name": "Cantt General Hospital Jhansi",
+			"tenantId": "pb.jhansi"
+		},
+		{
+			"id": "91094256",
+			"name": "CANTONMENT GENERAL HOSPITAL BABINA CANTT",
+			"tenantId": "pb.babina"
+		},
+		{
+			"id": "91094248",
+			"name": "Shahjahanpur Cantonment Board Dispensary",
+			"tenantId": "pb.shahjahanpur"
+		},
+		{
+			"id": "91094261",
+			"name": "CANTONMENT GENERAL HOSPITAL MEERUT",
+			"tenantId": "pb.meerut"
+		},
+		{
+			"id": "91094262",
+			"name": "Cantonment General Hospital Kanpur Cantt",
+			"tenantId": "pb.kanpur"
+		},
+		{
+			"id": "91094285",
+			"name": "Neeta Memorial Polyclinic",
+			"tenantId": "pb.lucknow"
+		},
+		{
+			"id": "91050155",
+			"name": "Cantonment General Hospital Dehradun",
+			"tenantId": "pb.dehradun"
+		},
+		{
+			"id": "91050156",
+			"name": "CANTONMENT GENERAL HOSPITAL, CLEMENT TOWN",
+			"tenantId": "pb.clementtown"
+		},
+		{
+			"id": "91050158",
+			"name": "CANTONMENT BOARD DISPENSARY NAINITAL",
+			"tenantId": "pb.nainital"
+		},
+		{
+			"id": "91050159",
+			"name": "Cantonment Board General Hospital, Roorkee",
+			"tenantId": "pb.roorkee"
+		},
+		{
+			"id": "91050154",
+			"name": "PANDIT MADAN MOHAN UPADHYAY CANTT DISPENSARY",
+			"tenantId": "pb.dehradun"
+		},
+		{
+			"id": "91050162",
+			"name": "Cantonment General Hospital Lansdowne",
+			"tenantId": "pb.lansdowne"
+		},
+		{
+			"id": "91050164",
+			"name": "CANTT BOARD DISPENSORY ALOMORA",
+			"tenantId": "pb.alomora"
+		},
+		{
+			"id": "91190036",
+			"name": "Jagadish Chandra Bose General Hospital",
+			"tenantId": "pb.barrackpore"
+		},
+		{
+			"id": "91190037",
+			"name": "CANTONMENT BOARD DISPENSARY JALAPAHAR",
+			"tenantId": "pb.jalapahar"
+		},
+		{
+			"id": "91190039",
+			"name": "CANTONMENT BOARD DISPENSARY LEBONG",
+			"tenantId": "pb.lebong"
+		}
+	]
+}
