@@ -20397,6 +20397,30 @@
         "serviceCode": "birth-death-services",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5295,
+        "name": "DSS Dashboard ors",
+        "url": "/dashboard-analytics/dashboard/getDashboardConfig/ors",
+        "parentModule": "",
+        "displayName": "DSS",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "DSS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5296,
+        "name": "DSS Dashboard ors",
+        "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-ors",
+        "parentModule": "",
+        "displayName": "DSS",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "DSS",
+        "code": "null",
+        "path": ""
       }
     
   ]
