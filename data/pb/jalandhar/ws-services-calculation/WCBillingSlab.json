@@ -7,36 +7,79 @@
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 100,
-      "slabs": []
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 70,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 80,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
     },
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 300,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
     },
     {
       "id": "3",
-      "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "MIXED",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 100,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
     },
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 400,
-      "slabs": []
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 350,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
     }
   ]
 }
