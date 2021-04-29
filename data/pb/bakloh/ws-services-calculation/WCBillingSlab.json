@@ -4,7 +4,7 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -13,14 +13,14 @@
         {
           "from": 0,
           "to": 1000000,
-          "charge": 46.64,
+          "charge": 3.5,
           "meterCharge": 0
         }
       ]
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
@@ -29,7 +29,7 @@
         {
           "from": 0,
           "to": 1000000,
-          "charge": 46.64,
+          "charge": 5,
           "meterCharge": 0
         }
       ]
