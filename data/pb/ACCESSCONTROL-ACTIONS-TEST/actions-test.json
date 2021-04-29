@@ -19124,6 +19124,30 @@
     "serviceCode": "DSS",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5293,
+    "name": "Check Declaration",
+    "url": "/birth-death-services/common/checkDeclaration",
+    "parentModule": "",
+    "displayName": "Check Declaration",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5294,
+    "name": "Update Declaration",
+    "url": "/birth-death-services/common/updateDeclaration",
+    "parentModule": "",
+    "displayName": "Update Declaration",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "birth-death-services",
+    "code": "null",
+    "path": ""
   }
   ]
 }
