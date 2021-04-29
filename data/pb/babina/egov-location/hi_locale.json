@@ -1,0 +1,650 @@
+[
+  {
+    "code": "PB_BABINA_REVENUE_3_14",
+    "message": "\u0924\u093f\u0935\u0930\u092f\u093e\u0928\u093e \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_15",
+    "message": "\u0930\u093e\u092f \u092e\u094b\u0939\u0932\u094d\u0932\u093e \u092d\u093e\u0917-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_16",
+    "message": "\u091f\u094b\u0932 \u0928\u0902\u092c\u0930 2 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_17",
+    "message": "\u0920\u093e\u0915\u0941\u0930\u0938 \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_18",
+    "message": "\u092e\u0926\u0928\u091f\u094b\u0930 \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_19",
+    "message": "\u0930\u093f\u091b\u0908\u092f\u0928-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_20",
+    "message": "\u0913\u0932\u094d\u0921 \u092a\u0902\u092a \u0939\u093e\u0909\u0938 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_3_21",
+    "message": "\u092a\u0941\u0930\u093e\u0928\u093e \u092a\u0902\u092a \u0939\u093e\u0909\u0938 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 3",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_08",
+    "message": "\u0930\u094c\u0924\u093f\u092f\u093e\u0928\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_09",
+    "message": "\u092a\u0940\u092a\u0932\u092a\u0941\u0930\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_10",
+    "message": "\u092e\u093e\u0924\u0928\u092a\u0941\u0930\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_11",
+    "message": "\u092c\u093e\u0932\u094d\u092e\u0940\u0915\u093f \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_12",
+    "message": "\u0938\u0941\u0928\u093e\u0930\u092f\u093e\u0928\u093e \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_13",
+    "message": "\u092c\u093f\u0939\u093e\u0930\u0940\u091c\u0940 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_14",
+    "message": "\u091c\u0948\u0928 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_15",
+    "message": "\u092a\u091f\u0935\u093e\u0930\u0940 \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_16",
+    "message": "\u092a\u094d\u0930\u093e\u0907\u092e\u0930\u0940 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_17",
+    "message": "\u0932\u094b\u0939\u0930\u092f\u093e\u0928\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_18",
+    "message": "\u092c\u0921\u093c\u0908 \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_19",
+    "message": "\u092c\u0941\u0927 \u092c\u093e\u091c\u093e\u0930 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_20",
+    "message": "\u0917\u0923\u0947\u0936 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_21",
+    "message": "\u0907\u092e\u0932\u093f\u092a\u0941\u0930\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_22",
+    "message": "\u092c\u093e\u091c\u093e\u0930 \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_23",
+    "message": "\u092c\u093e\u091c\u093e\u0930 \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f \u0915\u0947 \u092a\u0940\u091b\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_24",
+    "message": "\u092c\u0922\u0908 \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_25",
+    "message": "\u0932\u094b\u0939\u093e\u0930\u092f\u093e\u0928\u093e \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_26",
+    "message": "\u0917\u0923\u0947\u0936 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_4_27",
+    "message": "\u0930\u093e\u092e\u0932\u0940\u0932\u093e \u0917\u094d\u0930\u093e\u0909\u0902\u0921-\u0935\u093e\u0930\u094d\u0921 \u0928 4",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_16",
+    "message": "\u0907\u092e\u0932\u093f\u092a\u0941\u0930\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_17",
+    "message": "\u092e\u0938\u094d\u091c\u093f\u0926 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_18",
+    "message": "\u092e\u0947\u0928 \u0930\u094b\u0921-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_19",
+    "message": "\u0938\u0930\u094d\u0930\u093e\u092b\u093e \u092c\u093e\u091c\u093e\u0930-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_20",
+    "message": "\u091a\u092e\u093e\u0930\u093f\u092f\u093e\u0928\u093e \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_21",
+    "message": "\u0915\u0948\u0902\u091f \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u0940\u091b\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_22",
+    "message": "\u092e\u0938\u094d\u091c\u093f\u0926 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_23",
+    "message": "\u092f\u093e\u0926\u0935 \u092e\u093e\u0930\u094d\u0915\u0947\u091f-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_24",
+    "message": "\u0924\u094d\u0930\u093f\u0932\u094b\u0915\u0940\u0928\u093e\u0925\u091c\u0940 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_25",
+    "message": "\u0930\u093e\u092e\u091c\u093e\u0928\u0915\u0940 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_26",
+    "message": "\u0930\u093e\u092e\u091c\u093e\u0928\u0915\u0940 \u092e\u0902\u0926\u093f\u0930-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_27",
+    "message": "\u092c\u0938 \u0938\u094d\u091f\u0948\u0902\u0921 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_28",
+    "message": "\u092c\u0940\u091c\u093e\u0938\u0947\u0928 \u092e\u094b\u0939\u0932\u094d\u0932\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_29",
+    "message": "\u0917\u0941\u0932\u094d\u0932\u0940 \u092e\u093e\u0930\u094d\u0915\u0947\u091f-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_30",
+    "message": "\u0928\u0902\u0926\u0928\u092a\u0941\u0930\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_31",
+    "message": "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092c\u0948\u0902\u0915 \u0932\u0947\u0928-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_32",
+    "message": "\u092a\u0940\u090f\u0928\u092c\u0940 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_33",
+    "message": "\u0938\u094d\u091f\u0947\u0936\u0928 \u0930\u094b\u0921-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_34",
+    "message": "\u0915\u0948\u0902\u091f \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_35",
+    "message": "\u0924\u093f\u0932\u094d\u092f\u093e\u0928\u0940 \u092c\u091c\u0930\u093f\u092f\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_36",
+    "message": "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092c\u0948\u0902\u0915 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_37",
+    "message": "\u0917\u0941\u0930\u0941\u0926\u094d\u0935\u093e\u0930\u093e \u0938\u094d\u091f\u0947\u0936\u0928 \u0930\u094b\u0921 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_38",
+    "message": "\u0938\u0947\u0902\u091f \u092e\u093e\u0930\u094d\u0915\u094d\u0938 \u0938\u094d\u0915\u0942\u0932 \u0938\u094d\u091f\u0947\u0936\u0928 \u0930\u094b\u0921 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_39",
+    "message": "\u0924\u094d\u0930\u093f\u0932\u094b\u0915\u0940\u0928\u093e\u0925 \u092e\u0902\u0926\u093f\u0930 \u092e\u0941\u0916\u094d\u092f \u092e\u093e\u0930\u094d\u0917-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_40",
+    "message": "\u0917\u0923\u0947\u0936 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_41",
+    "message": "\u0917\u0923\u0947\u0936 \u091f\u0947\u092e\u094d\u092a\u0932 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_42",
+    "message": "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u092c\u0948\u0902\u0915 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_43",
+    "message": "\u0938\u0940\u092c\u0940\u0906\u0908  \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_44",
+    "message": "\u091c\u0948\u0928 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_45",
+    "message": "\u0938\u0940.\u092c\u0940.\u0906\u0908. \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_46",
+    "message": "\u0930\u093e\u092e \u091c\u093e\u0928\u0915\u0940 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_47",
+    "message": "\u092a\u0941\u0932\u093f\u0938 \u0938\u094d\u091f\u0947\u0936\u0928 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_48",
+    "message": "\u0915\u0948\u0902\u091f \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_49",
+    "message": "\u091f\u094b\u0932 \u0928\u0902\u0964 1 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_50",
+    "message": "\u092a\u0940\u090f\u0928\u092c\u0940 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_51",
+    "message": "\u092e\u0938\u094d\u091c\u093f\u0926 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u092e\u0947\u0928 \u0930\u094b\u0921 \u092a\u0930-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_52",
+    "message": "\u0917\u0941\u0930\u0941\u0926\u094d\u0935\u093e\u0930\u093e \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_53",
+    "message": "\u0924\u094d\u0930\u093f\u0932\u094b\u0915\u0940\u0928\u093e\u0925 \u091f\u0947\u092e\u094d\u092a\u0932 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_54",
+    "message": "\u091a\u092e\u0930\u092f\u093e\u0928\u093e-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_55",
+    "message": "\u0915\u0930\u094d\u092e\u093e \u092c\u093e\u0908 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_56",
+    "message": "\u0915\u0930\u094d\u092e\u093e \u092c\u093e\u0908 \u0938\u094d\u0915\u0942\u0932-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_5_57",
+    "message": "\u091c\u0948\u0928 \u091f\u0947\u092e\u094d\u092a\u0932 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 5",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_10",
+    "message": "\u0915\u0948\u0902\u091f \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u0940\u091b\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_11",
+    "message": "\u0906\u0930 \u090f\u092e\u094d \u0913 \u0928\u093f\u0935\u093e\u0938 \u0915\u0947 \u092a\u0940\u091b\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_12",
+    "message": "\u091f\u094b\u0932 \u0928 \u0967 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_13",
+    "message": "\u092c\u0938 \u0938\u094d\u091f\u0948\u0902\u0921 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_14",
+    "message": "\u091f\u094b\u0932 \u0928 \u0968 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_15",
+    "message": "\u092b\u093e\u0930\u0947\u0938\u094d\u091f \u0911\u092b\u093f\u0938 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_16",
+    "message": "\u092e\u0947\u0928 \u0930\u094b\u0921 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_17",
+    "message": "\u092a\u0940 \u0921\u092c\u094d\u0932\u0942 \u0921\u0940 \u092c\u0902\u0917\u0932\u093e \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_18",
+    "message": "\u091f\u094b\u0932 \u092a\u094b\u0938\u094d\u091f \u0928 \u0967 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_19",
+    "message": "\u0907\u0902\u0938\u094d\u092a\u0947\u0915\u094d\u0936\u0928 \u092c\u0902\u0917\u0932\u093e \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_20",
+    "message": "\u0938\u0948\u0902\u091f \u095b\u0947\u0935\u093f\u092f\u0930 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_21",
+    "message": "\u0928\u094d\u092f\u0942 \u091a\u0930\u094d\u091a \u0930\u094b\u0921 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_6_22",
+    "message": "\u0915\u0930\u094d\u092e\u093e\u092c\u093e\u0908 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 6",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_08",
+    "message": "\u091f\u094b\u0932 \u0928 \u0967 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_09",
+    "message": "\u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u093f\u0915 \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u093e\u0930\u094d\u092e\u0930 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_10",
+    "message": "\u092a\u0941\u0932\u093f\u0938 \u0932\u093e\u0907\u0928 \u0915\u0947 \u092a\u093e\u0938-\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_11",
+    "message": "\u092a\u0941\u0932\u093f\u0938 \u0932\u093e\u0907\u0928 \u0915\u0947 \u092a\u0940\u091b\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_12",
+    "message": "\u0928\u092e\u0915\u0940\u0928 \u0935\u093e\u0932\u0940  \u0917\u0932\u0940 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_13",
+    "message": "\u0915\u0948\u091f\u0932 \u092a\u094b\u0902\u0921 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_14",
+    "message": "\u0915\u0948\u0902\u091f \u0911\u092b\u093f\u0938 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_15",
+    "message": "\u0938\u0930\u0938\u094d\u0935\u0924\u0940 \u091c\u094d\u091e\u093e\u0928 \u092e\u0902\u0926\u093f\u0930 \u0915\u0947 \u092a\u0940\u091b\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_16",
+    "message": "\u0915\u0930\u0924\u093e\u0930 \u0938\u093f\u0902\u0939 \u092c\u093e\u095c\u0947 \u0915\u0947 \u092a\u0940\u091b\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_17",
+    "message": "\u0907\u0902\u0926\u094d\u0930\u093e \u0917\u093e\u0901\u0927\u0940 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_18",
+    "message": "\u0907\u0902\u0926\u094d\u0930\u093e \u0917\u093e\u0901\u0927\u0940 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u0940\u091b\u0947  -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_19",
+    "message": "\u0930\u093e\u091c\u093e \u0924\u093e\u0932 \u0938\u094d\u091f\u0947\u0936\u0928 \u0930\u094b\u0921 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_20",
+    "message": "\u092a\u0940 \u0921\u092c\u094d\u0932\u0942 \u0921\u0940 \u092c\u0902\u0917\u0932\u093e \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_21",
+    "message": "\u091a\u0930\u094d\u091a \u0930\u094b\u0921 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_22",
+    "message": "\u0938\u0948\u0902\u091f \u095b\u0947\u0935\u093f\u092f\u0930 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_23",
+    "message": "\u0928\u092e\u0915\u0940\u0928 \u0935\u093e\u0932\u0940 \u0917\u0932\u0940 \u0915\u0947 \u092c\u0917\u0932 \u092e\u0947\u0902 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_24",
+    "message": "\u0928\u092e\u0915\u0940\u0928 \u0935\u093e\u0932\u0940 \u0917\u0932\u0940-\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_25",
+    "message": "\u0915\u0948\u0902\u091f \u0911\u092b\u093f\u0938 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_26",
+    "message": "\u0930\u0947\u0932\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_27",
+    "message": "\u0938\u0948\u0902\u091f \u095b\u0947\u0935\u093f\u092f\u0930 \u0938\u094d\u0915\u0942\u0932 \u0915\u0947 \u092a\u093e\u0938  -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_28",
+    "message": "\u092e\u0947\u0928 \u0930\u094b\u0921  -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_29",
+    "message": "\u092c\u093f\u091c\u0932\u0940 \u0938\u092c -\u0938\u094d\u091f\u0947\u0936\u0928 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_30",
+    "message": "\u092c\u093f\u091c\u0932\u0940 \u0938\u092c \u0938\u094d\u091f\u0947\u0936\u0928 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_31",
+    "message": "20 \u0915\u0935\u093e\u091f\u0930 \u0928\u0928\u094d\u0926\u0902\u092a\u0941\u0930\u093e \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PB_BABINA_REVENUE_7_32",
+    "message": "\u092c\u093f\u091c\u0932\u0940\u0938\u092c \u0938\u094d\u091f\u0947\u0936\u0928 \u0915\u0947 \u092a\u093e\u0938 -\u0935\u093e\u0930\u094d\u0921 \u0928 7",
+    "module": "rainmaker-pb.babina",
+    "locale": "hi_IN"
+  }
+]
