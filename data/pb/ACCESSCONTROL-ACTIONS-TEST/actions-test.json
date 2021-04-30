@@ -20421,6 +20421,45 @@
         "serviceCode": "DSS",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5297,
+        "name": "DGDELevelDeclarationStatusReport",
+        "url": "/report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport/_get",
+        "displayName": "DGDELevelDeclarationStatusReport",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5298,
+        "name": "DGDELevelDeclarationStatusReport",
+        "url": "/report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport/metadata/_get",
+        "displayName": "DGDELevelDeclarationStatusReport",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5299,
+        "name": "DGDELevelDeclarationStatusReport",
+        "url": "url",
+        "displayName": "Declaration Status",
+        "orderNumber": 8,
+        "parentModule": "rainmaker-empdeclaration",
+        "enabled": true,
+        "serviceCode": "empdeclaration",
+        "code": "null",
+        "path": "cbdecl.DGDELevelDeclarationStatusReport",
+        "navigationURL": "report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
       }
     
   ]
