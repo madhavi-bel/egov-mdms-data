@@ -13,10 +13,11 @@
       ],
       "partPaymentAllowed": true,
       "minAmountPayable": 100,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "type": null
+      "type": null,
+      "billGineiURL" : "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "PropertyTax.Create",

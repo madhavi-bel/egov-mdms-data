@@ -20373,6 +20373,93 @@
         "navigationURL": "report/rainmaker-pt/DGDEDemandRegisterReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
+      },
+      {
+        "id": 5293,
+        "name": "Check Declaration",
+        "url": "/birth-death-services/common/checkDeclaration",
+        "parentModule": "",
+        "displayName": "Check Declaration",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "birth-death-services",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5294,
+        "name": "Update Declaration",
+        "url": "/birth-death-services/common/updateDeclaration",
+        "parentModule": "",
+        "displayName": "Update Declaration",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "birth-death-services",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5295,
+        "name": "DSS Dashboard ors",
+        "url": "/dashboard-analytics/dashboard/getDashboardConfig/ors",
+        "parentModule": "",
+        "displayName": "DSS",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "DSS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5296,
+        "name": "DSS Dashboard ors",
+        "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-ors",
+        "parentModule": "",
+        "displayName": "DSS",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "DSS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5297,
+        "name": "DGDELevelDeclarationStatusReport",
+        "url": "/report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport/_get",
+        "displayName": "DGDELevelDeclarationStatusReport",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5298,
+        "name": "DGDELevelDeclarationStatusReport",
+        "url": "/report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport/metadata/_get",
+        "displayName": "DGDELevelDeclarationStatusReport",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5299,
+        "name": "DGDELevelDeclarationStatusReport",
+        "url": "url",
+        "displayName": "Declaration Status",
+        "orderNumber": 8,
+        "parentModule": "rainmaker-empdeclaration",
+        "enabled": true,
+        "serviceCode": "empdeclaration",
+        "code": "null",
+        "path": "cbdecl.DGDELevelDeclarationStatusReport",
+        "navigationURL": "report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
       }
     
   ]
