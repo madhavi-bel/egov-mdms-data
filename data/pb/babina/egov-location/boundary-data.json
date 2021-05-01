@@ -408,19 +408,7 @@
                     "code": "3_17",
                     "area": "Z01",
                     "children": []
-                  },
-                  {
-                    "id": "889d6901-4e98-444f-8950-442002fb25bd",
-                    "boundaryNum": 1,
-                    "name": "Madantor Mohalla - WARD NO 3",
-                    "localname": "Madantor Mohalla - WARD NO 3",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "3_18",
-                    "area": "Z01",
-                    "children": []
-                  },
+                  },                  
                   {
                     "id": "a859750f-e3d9-4ecf-bb19-898587b5b590",
                     "boundaryNum": 1,
