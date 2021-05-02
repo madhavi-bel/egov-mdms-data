@@ -14649,6 +14649,72 @@
       "order": "7",
       "isRequired": false,
       "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Consolidatedpropertytax",
+      "code": "PT_CONSOLIDATED_PROPERTY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Consolidatedpropertytax",
+      "code": "PT_CONSOLIDATED_PROPERTY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Sanitarycess",
+      "code": "PT_SANITARY_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "9",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Educationcess",
+      "code": "PT_EDUCATION_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "10",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "AddlWaterTax",
+      "code": "PT_ADDL_WATER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "DrainageTax",
+      "code": "PT_DRAINAGE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "12",
+      "isRequired": false,
+      "legacy": true
     }
   ]
 }
