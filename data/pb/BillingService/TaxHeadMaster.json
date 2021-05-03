@@ -14664,17 +14664,6 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "Consolidatedpropertytax",
-      "code": "PT_CONSOLIDATED_PROPERTY_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "8",
-      "isRequired": false,
-      "legacy": true
-    },
-    {
-      "category": "TAX",
-      "service": "PT",
       "name": "Sanitarycess",
       "code": "PT_SANITARY_CESS",
       "isDebit": false,
