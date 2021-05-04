@@ -1911,6 +1911,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": null,
+      "isBillAmendmentEnabled": true,
       "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
     },
     {
