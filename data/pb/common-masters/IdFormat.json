@@ -1193,7 +1193,7 @@
     },
     {
       "idname": "bs.amendment.id",
-      "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
-  }
+      "format": "BILL-AMEND-CB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]"
+    }
   ]
 }
