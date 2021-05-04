@@ -9,7 +9,7 @@
       "connectionType": "Non Metered",
       "propertyOwnershipCategory": "HOR",
       "calculationAttribute": "Flat",
-      "minimumCharge": 80,
+      "minimumCharge": 240,
       "slabs": []
     },
     {
@@ -18,7 +18,7 @@
       "buildingType": null,
       "connectionType": "Non Metered",
       "propertyOwnershipCategory": "TENANT",
-      "minimumCharge": 80,
+      "minimumCharge": 240,
       "calculationAttribute": "Flat",
       "slabs": []
     },
@@ -28,7 +28,7 @@
       "buildingType": null,
       "connectionType": "Non Metered",
       "propertyOwnershipCategory": "HOR",
-      "minimumCharge": 165,
+      "minimumCharge": 495,
       "calculationAttribute": "Flat",
       "slabs": []
     },
@@ -38,7 +38,7 @@
       "buildingType": null,
       "connectionType": "Non Metered",
       "propertyOwnershipCategory": "TENANT",
-      "minimumCharge": 80,
+      "minimumCharge": 240,
       "calculationAttribute": "Flat",
       "slabs": []
     }
