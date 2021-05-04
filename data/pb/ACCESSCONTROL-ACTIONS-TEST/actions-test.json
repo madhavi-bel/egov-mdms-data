@@ -20460,6 +20460,17 @@
         "navigationURL": "report/rainmaker-empdeclaration/DGDELevelDeclarationStatusReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
+      },
+      {
+        "id": 5300,
+        "name": "ptreceipt search",
+        "url": "/egov-pdf/download/PT/newpt-receipt",
+        "displayName": "PT Receipt search",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
       }
     
   ]
