@@ -156,6 +156,18 @@
                     "code": "03_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "1baeb336-7d6c-4766-9780-449700988a08",
+                    "boundaryNum": 1,
+                    "name": "Kanpur Road - Ward No. 3",
+                    "localname": "Kanpur Road - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "03_03",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -252,6 +264,18 @@
                     "code": "04_08",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "21cfb7ba-a819-4677-af08-725ceca1cbbc",
+                    "boundaryNum": 1,
+                    "name": "Kahar Galla - Ward No. 4",
+                    "localname": "Kahar Galla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_02",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -298,6 +322,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "05_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0b3643ac-5180-438e-9838-7fac212ff8d0",
+                    "boundaryNum": 1,
+                    "name": "Ponappa Road - Ward No. 5",
+                    "localname": "Ponappa Road - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_04",
                     "area": "Z001",
                     "children": []
                   }
