@@ -14605,7 +14605,8 @@
       "isActualDemand": true,
       "order": "3",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14616,7 +14617,8 @@
       "isActualDemand": true,
       "order": "4",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14627,7 +14629,8 @@
       "isActualDemand": true,
       "order": "5",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14638,7 +14641,8 @@
       "isActualDemand": true,
       "order": "6",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14649,7 +14653,8 @@
       "isActualDemand": true,
       "order": "7",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14660,7 +14665,8 @@
       "isActualDemand": true,
       "order": "8",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14693,7 +14699,8 @@
       "isActualDemand": true,
       "order": "11",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14704,7 +14711,8 @@
       "isActualDemand": true,
       "order": "12",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     }
   ]
 }
