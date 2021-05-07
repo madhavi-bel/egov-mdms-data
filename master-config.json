@@ -656,6 +656,13 @@
       "uniqueKeys": [
         "$.businessService"
       ]
+    },
+    "TaxHeadMaster": {
+      "masterName": "TaxHeadMaster",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"        
+      ]
     }
   },
   "TradeLicense": {
