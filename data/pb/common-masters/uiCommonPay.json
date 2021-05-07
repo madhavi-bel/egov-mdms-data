@@ -44,8 +44,11 @@
     {
       "code": "BPA.NC_APP_FEE",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "pdfModule":"PAYMENT",
       "receiptKey": "consolidatedreceipt",
       "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt":false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -57,8 +60,11 @@
     {
       "code": "BPA.NC_SAN_FEE",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "pdfModule":"PAYMENT",
       "receiptKey": "consolidatedreceipt",
       "billKey": "consolidatedbill",
+      "cancelReceipt":false,
+      "arrears": true,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -70,8 +76,11 @@
     {
       "code": "BPA.LOW_RISK_PERMIT_FEE",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "pdfModule":"PAYMENT",
       "receiptKey": "consolidatedreceipt",
+      "cancelReceipt":false,
       "billKey": "consolidatedbill",
+      "arrears": true,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -96,8 +105,11 @@
     {
       "code": "BPAREG",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "pdfModule":"PAYMENT",
       "receiptKey": "consolidatedreceipt",
       "billKey": "consolidatedbill",
+      "cancelReceipt":false,
+      "arrears": true,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
