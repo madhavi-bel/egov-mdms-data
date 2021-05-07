@@ -16117,6 +16117,30 @@
       "actionid": 5322,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 1876,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 1876,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 1877,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPAREG_APPROVER",
+      "actionid": 1877,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
