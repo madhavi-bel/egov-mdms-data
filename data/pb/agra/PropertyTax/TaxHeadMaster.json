@@ -1,6 +1,6 @@
 {
-  "tenantId": "pb",
-  "moduleName": "ws-services-masters",
+  "tenantId": "pb.agra",
+  "moduleName": "PropertyTax",
   "TaxHeadMaster": [
     {
       "category": "TAX",
