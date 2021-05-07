@@ -2224,6 +2224,17 @@
       "isActive": true,
       "isCitizen": true,
       "type": null
+    },
+    {
+      "businessService": "BPARegistration",
+      "code": "BPAREG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
 
  
