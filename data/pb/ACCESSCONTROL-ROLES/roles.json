@@ -388,6 +388,11 @@
       "description": "BPA Service NOC verifier"
     },
     {
+      "code": "BPA_CEMP",
+      "name": "BPA Counter Employee",
+      "description": "BPA Counter Employee"
+    },
+    {
       "code": "NOC_CEMP",
       "name": "NoC counter employee",
       "description": "Fire NOC Counter Employee"
