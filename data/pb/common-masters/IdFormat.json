@@ -486,11 +486,11 @@
       "idname": "bpa.nc_san_fee.receipt.id"
     },
     {
-      "format": "WS/CB/[cb.name]/[fy:yyyy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
+      "format": "WS-BILL/CB/[cb.name]/[fy:yyyy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
       "idname": "ws.receipt.id"
     },
     {
-      "format": "SW/CB/[cb.name]/[fy:yyyy]/[SEQ_SW_BILL_RCPT_[TENANT_ID]]",
+      "format": "SW-BILL/CB/[cb.name]/[fy:yyyy]/[SEQ_SW_BILL_RCPT_[TENANT_ID]]",
       "idname": "sw.receipt.id"
     },
     {
