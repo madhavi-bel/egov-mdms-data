@@ -1,0 +1,40 @@
+{
+    "tenantId": "pb.almora",
+    "moduleName": "PropertyTax",
+    "TaxHeadMaster": [
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "housetax",
+        "code": "PT_HOUSE_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "3",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "watertax",
+        "code": "PT_WATER_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "4",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "Conservancy",
+        "code": "PT_CONSERVANCY_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "5",
+        "isRequired": false,
+        "legacy": true
+      }
+
+    ]
+  }
