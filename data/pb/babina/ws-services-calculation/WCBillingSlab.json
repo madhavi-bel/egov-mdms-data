@@ -10,8 +10,18 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 705,
-      "unAuthorizedConnection" :1695,
+      "minimumCharge": 705, 
+      "slabs": []
+    },
+    {
+      "id": "8",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "ownerType" :"*",
+      "authorizedConnection" :"UNAUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400, 
       "slabs": []
     },
     {
@@ -22,8 +32,7 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 720,
-      "unAuthorizedConnection" :0,
+      "minimumCharge": 720, 
       "slabs": []
     },
     {
@@ -34,8 +43,7 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 1440,
-      "unAuthorizedConnection" :0,
+      "minimumCharge": 1440, 
       "slabs": []
     },
     {
@@ -46,8 +54,7 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 3600,
-      "unAuthorizedConnection" :0,
+      "minimumCharge": 3600, 
       "slabs": []
     },
     {
@@ -58,8 +65,18 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 1800,
-      "unAuthorizedConnection" :600,
+      "minimumCharge": 1800, 
+      "slabs": []
+    },
+    {
+      "id": "9",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "RESIDENTIAL",
+      "ownerType" :"*",
+      "authorizedConnection" :"UNAUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400, 
       "slabs": []
     },
     {
@@ -70,8 +87,7 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 1080,
-      "unAuthorizedConnection" :0,
+      "minimumCharge": 1080, 
       "slabs": []
     },
     {
@@ -82,8 +98,7 @@
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
       "calculationAttribute": "Flat",
-      "minimumCharge": 4800,
-      "unAuthorizedConnection" :0,
+      "minimumCharge": 4800, 
       "slabs": []
     }
   ]
