@@ -20658,6 +20658,18 @@
     "serviceCode": "egov-searcher",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5323,
+    "name": "BPAREG Payment search",
+    "url": "/collection-services/payments/BPAREG/_search",
+    "displayName": "BPAREG Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
   ]
 }

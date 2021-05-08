@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.badamibagh",
+    "tenantId": "pb.dehradun",
     "moduleName": "PropertyTax",
     "TaxHeadMaster": [
       {
@@ -12,7 +12,18 @@
         "order": "3",
         "isRequired": false,
         "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "watertax",
+        "code": "PT_WATER_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "4",
+        "isRequired": false,
+        "legacy": true
       }
-
+     
     ]
   }

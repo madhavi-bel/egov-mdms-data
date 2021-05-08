@@ -1,0 +1,63 @@
+{
+    "tenantId": "pb.mhow",
+    "moduleName": "PropertyTax",
+    "TaxHeadMaster": [
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "watertax",
+        "code": "PT_WATER_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "4",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "Conservancy",
+        "code": "PT_CONSERVANCY_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "5",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "lightingtax",
+        "code": "PT_LIGHTINING_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "6",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "Consolidatedpropertytax",
+        "code": "PT_CONSOLIDATED_PROPERTY_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "8",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "AddlWaterTax",
+        "code": "PT_ADDL_WATER_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "11",
+        "isRequired": false,
+        "legacy": true
+       
+      }
+
+    ]
+  }

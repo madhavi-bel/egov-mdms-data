@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.badamibagh",
+    "tenantId": "pb.meerut",
     "moduleName": "PropertyTax",
     "TaxHeadMaster": [
       {
@@ -10,6 +10,17 @@
         "isDebit": false,
         "isActualDemand": true,
         "order": "3",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "watertax",
+        "code": "PT_WATER_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "4",
         "isRequired": false,
         "legacy": true
       }

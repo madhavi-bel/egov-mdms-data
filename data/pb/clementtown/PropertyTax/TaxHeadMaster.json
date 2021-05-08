@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.badamibagh",
+    "tenantId": "pb.clementtown",
     "moduleName": "PropertyTax",
     "TaxHeadMaster": [
       {
@@ -10,6 +10,17 @@
         "isDebit": false,
         "isActualDemand": true,
         "order": "3",
+        "isRequired": false,
+        "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "Conservancy",
+        "code": "PT_CONSERVANCY_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "5",
         "isRequired": false,
         "legacy": true
       }
