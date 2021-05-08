@@ -1,0 +1,17 @@
+{
+  "tenantId": "pb.jammu",
+  "moduleName": "PropertyTax",
+  "TaxHeadMaster": [
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "housetax",
+      "code": "PT_HOUSE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "legacy": true
+    }
+  ]
+}
