@@ -2873,6 +2873,37 @@
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
+    },
+    {
+      "code": "ENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+      "restrictions":{
+        "maxPlotArea":500,
+        "maxBulidingheight":15,
+        "maxFloors":3
+      }
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
     }
   ]
 }
