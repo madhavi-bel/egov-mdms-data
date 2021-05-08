@@ -5,7 +5,8 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "attribute": "Land Area",
+      "attribute": "Property Area",
+      "filterAttribute" : [ "buildingType"],
       "active": true
     }
   ]
