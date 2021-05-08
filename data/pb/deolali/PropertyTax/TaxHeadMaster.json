@@ -1,0 +1,17 @@
+{
+  "tenantId": "pb.deolali",
+  "moduleName": "PropertyTax",
+  "TaxHeadMaster": [
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Consolidatedpropertytax",
+      "code": "PT_CONSOLIDATED_PROPERTY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "legacy": true
+    }
+  ]
+}
