@@ -15,11 +15,38 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 5400,
       "slabs": []
-    } 
+    } ,
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "INSTITUTIONAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 5400,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": "INDUSTRIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 5400,
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 5400,
+      "slabs": []
+    }
   ]
 }
