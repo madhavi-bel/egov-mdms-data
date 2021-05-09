@@ -23,7 +23,7 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "ownerType" :"*",
       "waterSource" :"PIPE.TREATED",
@@ -59,7 +59,7 @@
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
       "ownerType" :"*",
       "connectionType": "Metered",
       "waterSource" :"PIPE.TREATED",
@@ -95,7 +95,7 @@
     {
       "id": "6",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "ownerType" :"*",
       "waterSource" :"PIPE.RAW",
@@ -131,7 +131,7 @@
     {
       "id": "8",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "ownerType" :"*",
       "waterSource" :"PIPE.RAW",

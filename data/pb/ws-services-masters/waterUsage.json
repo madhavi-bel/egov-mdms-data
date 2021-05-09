@@ -1,6 +1,6 @@
 {
   "tenantId": "pb",
-  "moduleName": "PropertyTax",
+  "moduleName": "ws-services-masters",
   "waterUsage": [
     {
       "name": "Residential",

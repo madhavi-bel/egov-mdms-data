@@ -15,7 +15,7 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "RESIDENTIAL.OTHERS",
       "ownershipCategory" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -35,7 +35,7 @@
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "RESIDENTIAL.OTHERS",
       "ownershipCategory" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -45,7 +45,7 @@
     {
       "id": "5",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "RESIDENTIAL.OTHERS",
       "ownershipCategory" :"INSTITUTIONALGOVERNMENT",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",

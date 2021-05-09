@@ -12,7 +12,7 @@
       "name": "Non Metered",
       "code": "NONMETERED",
       "attribute": "No. of taps",
-      "filterAttribute" : ["majorUsageType" ],
+      "filterAttribute" : ["buildingType" ],
       "active": true
     }
   ]
