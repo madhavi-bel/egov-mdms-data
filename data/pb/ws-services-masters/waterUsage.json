@@ -1,0 +1,52 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "waterUsage": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL" 
+    },
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL.RESIDENTIAL" 
+    },
+    {
+      "name": "Others",
+      "code": "RESIDENTIAL.OTHERS" 
+    },
+    {
+      "name": "Slum",
+      "code": "RESIDENTIAL.SLUM" 
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL" 
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL.COMMERCIAL" 
+    },
+    {
+      "name": "Hotels",
+      "code": "COMMERCIAL.HOTELS"
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL"
+    },
+    {
+      "name": "Industrial",
+      "code": "INDUSTRIAL" 
+    },
+    {
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL" 
+     
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED" 
+       
+    } 
+  ]
+}

@@ -898,6 +898,11 @@
       "masterName": "waterSourceWithSubSource",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "waterUsage": {
+      "masterName": "waterUsage",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "ws-services-calculation": {
