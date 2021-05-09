@@ -38,7 +38,7 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "buildingType": "RESIDENTIAL.OTHERS",
       "ownerType" :"*",
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
@@ -49,7 +49,7 @@
     {
       "id": "3",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "ownerType" :"*",
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 
@@ -93,7 +93,7 @@
     {
       "id": "5",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "ownerType" :"*",
       "authorizedConnection" :"AUTHORIZED",
       "connectionType": "Non Metered", 

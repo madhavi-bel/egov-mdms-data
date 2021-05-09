@@ -26,7 +26,7 @@
     {
       "id": "3",
       "PropertyLocation":null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "waterSource" :"*",
       "calculationAttribute": "Flat",
