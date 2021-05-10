@@ -6,25 +6,29 @@
         "name": "WS Connection Tax Head Containers",
         "code": "wsConnectionTaxHeadsContainer",
         "active": true,
-        "status" : ["PENDING_FOR_FIELD_INSPECTION"]
+        "status" : ["PENDING_FOR_FIELD_INSPECTION"],
+        "workflow" :["MODIFY","NEW"]
       },
       {
         "name": "WS Connection Tax Head Containers",
         "code": "plumberDetailsContainer",
         "active": true,
-        "status" : ["INITIATED","PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_DOCUMENT_VERIFICATION"]
+        "status" : ["INITIATED","PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_DOCUMENT_VERIFICATION"],
+        "workflow" :["MODIFY","NEW"]
       },
       {
         "name": "WS Connection Tax Head Containers",
         "code": "connectiondetailscontainer",
         "active": true,
-        "status" : ["INITIATED","PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_DOCUMENT_VERIFICATION"]
+        "status" : ["INITIATED","PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_DOCUMENT_VERIFICATION"],
+        "workflow" :["MODIFY","NEW"]
       },
       {
         "name": "WS Connection Tax Head Containers",
         "code": "activationDetailsContainer",
         "active": true,
-        "status" : ["PENDING_FOR_CONNECTION_ACTIVATION"]
+        "status" : ["PENDING_FOR_CONNECTION_ACTIVATION"],
+        "workflow" :["MODIFY","NEW"]
       } 
 
       
