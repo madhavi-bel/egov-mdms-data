@@ -11,7 +11,8 @@
       "isActualDemand": true,
       "order": "3",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -22,7 +23,8 @@
       "isActualDemand": true,
       "order": "4",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -33,7 +35,8 @@
       "isActualDemand": true,
       "order": "6",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -44,7 +47,8 @@
       "isActualDemand": true,
       "order": "5",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -54,6 +58,29 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "7",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "DemandNoticeCharge",
+      "code": "PT_DEMANDNOTICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt time interest",
+      "code": "PT_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": false,
       "legacy": true
     }
