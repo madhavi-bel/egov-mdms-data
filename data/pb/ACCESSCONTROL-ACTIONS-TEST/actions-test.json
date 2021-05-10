@@ -20657,6 +20657,18 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5324,
+    "name": "BPAREG Payment search",
+    "url": "/egov-searcher/locality/LAMS/_get",
+    "displayName": "BPAREG Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
   ]
 }

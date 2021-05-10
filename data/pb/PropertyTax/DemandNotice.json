@@ -1,0 +1,55 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "DemandNotice": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2015-16",
+      "startingDay": "06/07/2015" 
+    },
+	{
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2016-17",
+      "startingDay": "06/07/2016" 
+    },
+	{
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2017-18",
+      "startingDay": "06/07/2017" 
+    },
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2018-19",
+      "startingDay": "06/07/2018" 
+    },
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2019-20",
+      "startingDay": "06/07/2019" 
+    },
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2020-21",
+      "startingDay": "06/07/2020" 
+    },
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2021-22",
+      "startingDay": "14/04/2021" 
+    }
+  ]
+}

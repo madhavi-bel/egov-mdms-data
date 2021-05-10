@@ -631,6 +631,13 @@
         "$.fromFY"
       ]
     },
+    "DemandNotice": {
+      "masterName": "DemandNotice",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
     "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
