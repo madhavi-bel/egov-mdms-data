@@ -9,7 +9,7 @@
       "ownerType" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 330,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
@@ -34,7 +34,7 @@
       "ownerType" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 3300,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
@@ -52,7 +52,7 @@
       "ownerType" :"STAFF",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 300,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,

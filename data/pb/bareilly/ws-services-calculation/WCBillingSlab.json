@@ -7,7 +7,7 @@
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "propertyArea",
+      "calculationAttribute": "Property Area",
       "minimumCharge": 0,
       "slabs": [
         {
@@ -24,7 +24,7 @@
       "PropertyLocation": "CIVIL",
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "propertyArea",
+      "calculationAttribute": "Property Area",
       "minimumCharge": 0,
       "slabs": [
         {
