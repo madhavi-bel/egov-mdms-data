@@ -101,8 +101,7 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
-      "isRequired": false,
-      "legacy": true
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -14713,6 +14712,17 @@
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "DemandNoticeCharge",
+      "code": "PT_DEMANDNOTICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "legacy": true
     }
   ]
 }

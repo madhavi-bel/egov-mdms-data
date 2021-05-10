@@ -16230,17 +16230,6 @@
       "path": ""
     },
     {
-      "id": 1976,
-      "name": "Locality searcher endpoint for BPA",
-      "url": "/egov-searcher/locality/BPAREG/_get",
-      "displayName": "BPA locality searcher",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1977,
       "name": "Dashboard Payments-v1",
       "url": "/dashboard-ingest/ingest/migrate/paymentsindex-v1/v2",
@@ -20499,22 +20488,20 @@
     "name": "eDCRScrutinyHome",
     "url": "url",
     "displayName": "eDCR Scrutiny Home",
-    "orderNumber": 1,
-    "parentModule": "rainmaker-edcr",
+    "orderNumber": 4,
     "enabled": true,
     "serviceCode": "EDCR",
     "code": "null",
-    "path": "eDCRScrutiny",
     "navigationURL": "edcrscrutiny/home",
-    "leftIcon": "custom:edcr",
-    "rightIcon": ""
+    "path": "eDCRScrutiny",
+    "leftIcon": "custom:edcr"
   },
   {
     "id": 5311,
     "name": "rainmaker-citizen-edcrscrutiny",
     "url": "card",
     "displayName": "eDCR Scrutiny",
-    "orderNumber": 1,
+    "orderNumber": 8,
     "parentModule": "",
     "enabled": true,
     "serviceCode": "",
