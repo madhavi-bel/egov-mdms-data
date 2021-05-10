@@ -8,7 +8,7 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Property Area",
-      "minimumCharge": 100,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,

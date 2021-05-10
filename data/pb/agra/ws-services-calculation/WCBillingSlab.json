@@ -9,7 +9,7 @@
       "buildingSubType" :null,
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 100,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
@@ -41,7 +41,7 @@
       "buildingSubType" :null,
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 200,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,

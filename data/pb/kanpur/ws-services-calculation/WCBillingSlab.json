@@ -51,7 +51,7 @@
       "propertyOwnershipCategory": "TENANT",
       "connectionType": "Non Metered",
       "calculationAttribute": "ARV",
-      "minimumCharge": 1395,
+      "minimumCharge": 0,
       "maintenanceCharge" : 98,
       "slabs": [
         {
