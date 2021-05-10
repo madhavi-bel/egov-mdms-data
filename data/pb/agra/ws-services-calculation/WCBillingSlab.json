@@ -3,7 +3,7 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
-      "id": "5",
+      "id": "1",
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "buildingSubType" :null,
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "2",
       "PropertyLocation": null,
       "buildingType": "NONRESIDENTIAL.COMMERCIAL",
       "buildingSubType" :null,
