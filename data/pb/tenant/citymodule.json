@@ -826,13 +826,13 @@
       "code": "PT",
       "tenants": [
         {
-          "code": "pb.testing"
-        },
-        {
           "code": "pb.agra"
         },
         {
           "code": "pb.delhi"
+        },
+        {
+          "code": "pb.lucknow"
         },
         {
           "code": "pb.pune"
@@ -841,19 +841,178 @@
           "code": "pb.secunderabad"
         },
         {
-          "code": "pb.stm"
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.ambala"
+        },
+        {
+          "code": "pb.bareilly"
+        },
+        {
+          "code": "pb.mathura"
+        },
+        {
+          "code": "pb.allahabad"
+        },
+        {
+          "code": "pb.meerut"
+        },
+        {
+          "code": "pb.mhow"
+        },
+        {
+          "code": "pb.lebong"
+        },
+        {
+          "code": "pb.fatehgarh"
+        },
+        {
+          "code": "pb.kasauli"
+        },
+        {
+          "code": "pb.jammu"
+        },
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.danapur"
+        },
+        {
+          "code": "pb.dagshai"
         },
         {
           "code": "pb.roorkee"
         },
         {
+          "code": "pb.pachmarhi"
+        },
+        {
+          "code": "pb.nasirabad"
+        },
+        {
+          "code": "pb.dehuroad"
+        },
+        {
+          "code": "pb.deolali"
+        },
+        {
+          "code": "pb.ahmednagar"
+        },
+        {
+          "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.jalapahar"
+        },
+        {
+          "code": "pb.ramgarh"
+        },
+        {
+          "code": "pb.wellington"
+        },
+        {
+          "code": "pb.almora"
+        },
+        {
+          "code": "pb.chakrata"
+        },
+        {
+          "code": "pb.clementtown"
+        },
+        {
+          "code": "pb.dehradun"
+        },
+        {
+          "code": "pb.subathu"
+        },
+        {
+          "code": "pb.faizabad"
+        },
+        {
+          "code": "pb.jabalpur"
+        },
+        {
+          "code": "pb.kanpur"
+        },
+        {
+          "code": "pb.landour"
+        },
+        {
+          "code": "pb.lansdowne"
+        },
+        {
+          "code": "pb.khasyol"
+        },
+        {
+          "code": "pb.jutogh"
+        },
+        {
+          "code": "pb.shahjahanpur"
+        },
+        {
+          "code": "pb.varanasi"
+        },
+        {
+          "code": "pb.ferozepur"
+        },
+        {
+          "code": "pb.dalhousie"
+        },
+        {
+          "code": "pb.shillong"
+        },
+        {
+          "code": "pb.badamibagh"
+        },
+        {
+          "code": "pb.ajmer"
+        },
+        {
+          "code": "pb.aurangabad"
+        },
+        {
+          "code": "pb.babina"
+        },
+        {
+          "code": "pb.belgaum"
+        },
+        {
+          "code": "pb.cannanore"
+        },
+        {
+          "code": "pb.bakloh"
+        },
+        {
+          "code": "pb.stm"
+        },
+        {
+          "code": "pb.saugor"
+        },
+        {
+          "code": "pb.jhansi"
+        },
+        {
+          "code": "pb.kamptee"
+        },
+        {
+          "code": "pb.kirkee"
+        },
+        {
           "code": "pb.morar"
+        },
+        {
+          "code": "pb.ahmedabad"
         },
         {
           "code": "pb.barrackpore"
         },
         {
-          "code": "pb.wellington"
+          "code": "pb.ranikhet"
+        },
+        {
+          "code": "pb.nainital"
         }
       ]
     },
