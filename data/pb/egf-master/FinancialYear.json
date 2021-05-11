@@ -127,22 +127,7 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT"
-    },
-    {
-      "id": "14",
-      "tenantId": "pb",
-      "finYearRange": "2019-20",
-      "name": "2019-20",
-      "code": "2019-20",
-      "startingDate": 1554076799000,
-      "endingDate": 1585679399000,
-      "active": true,
-      "isActiveForPosting": false,
-      "isClosed": false,
-      "transferClosingBalance": false,
-      "module": "PT"
-    },
-    
+    }, 
     {
       "id": "15",
       "tenantId": "pb",
