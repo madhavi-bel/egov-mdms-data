@@ -28,7 +28,14 @@
         "code": "activationDetailsContainer",
         "active": true,
         "status" : ["PENDING_FOR_CONNECTION_ACTIVATION"],
-        "workflow" :["MODIFY","NEW"]
+        "workflow" :["NEW"]
+      },
+      {
+        "name": "WS Connection Tax Head Containers",
+        "code": "activationDetailsContainer",
+        "active": true,
+        "status" : ["INITIATED","PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_CONNECTION_ACTIVATION"],
+        "workflow" :["MODIFY"]
       } 
 
       
