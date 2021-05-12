@@ -36,7 +36,14 @@
         "active": true,
         "status" : ["INITIATED","PENDING_FOR_FIELD_INSPECTION","PENDING_FOR_CONNECTION_ACTIVATION"],
         "workflow" :["MODIFY"]
-      } 
+      },
+      {
+        "name": "Modification Effective from Container",
+        "code": "modificationsEffectiveFrom",
+        "active": true,
+        "status" : ["PENDING_FOR_CONNECTION_ACTIVATION"],
+        "workflow" :["MODIFY","NEW"]
+      }
 
       
     ]
