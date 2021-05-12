@@ -1,7 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
-  "Demandnotice": [
+  "DemandNotice": [
     {
       "rate": null,
       "minAmount": null,
