@@ -20657,6 +20657,18 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5324,
+    "name": "LAMS Locality",
+    "url": "/collection-services/payments/LAMS/_search",
+    "displayName": "LAMS Locality",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
   ]
 }
