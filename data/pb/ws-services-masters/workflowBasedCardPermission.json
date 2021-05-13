@@ -42,8 +42,23 @@
         "code": "modificationsEffectiveFrom",
         "active": true,
         "status" : ["PENDING_FOR_CONNECTION_ACTIVATION"],
-        "workflow" :["MODIFY","NEW"]
-      }
+        "workflow" :["MODIFY"]
+      },
+
+      {
+        "name": "WS Connection Tax Head Containers",
+        "code": "plumberDetailsContainer",
+        "active": true,
+        "status" : ["CONNECTION_ACTIVATED"],
+        "workflow" :["MODIFY"]
+      },
+      {
+        "name": "WS Connection Tax Head Containers",
+        "code": "connectiondetailscontainer",
+        "active": true,
+        "status" : ["CONNECTION_ACTIVATED"],
+        "workflow" :["MODIFY"]
+      },
 
       
     ]
