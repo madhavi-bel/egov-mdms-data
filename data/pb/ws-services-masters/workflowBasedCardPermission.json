@@ -58,7 +58,7 @@
         "active": true,
         "status" : ["CONNECTION_ACTIVATED"],
         "workflow" :["MODIFY"]
-      },
+      } 
 
       
     ]
