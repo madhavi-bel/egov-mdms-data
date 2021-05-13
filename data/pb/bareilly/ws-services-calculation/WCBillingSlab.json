@@ -29,14 +29,14 @@
       "slabs": [
         {
           "from": 1,
-          "to": 100,
+          "to": 100.01,
           "charge": 1400,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 100.01,
-          "to": 400,
+          "to": 400.01,
           "charge": 1600,
           "meterCharge": 0,
           "type":"Flat"
