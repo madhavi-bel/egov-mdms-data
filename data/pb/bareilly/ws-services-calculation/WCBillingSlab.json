@@ -22,21 +22,21 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Property Area",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 1,
-          "to": 100,
+          "to": 100.01,
           "charge": 1400,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 100.01,
-          "to": 400,
+          "to": 400.01,
           "charge": 1600,
           "meterCharge": 0,
           "type":"Flat"

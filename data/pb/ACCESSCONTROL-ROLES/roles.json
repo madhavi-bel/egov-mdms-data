@@ -426,6 +426,11 @@
       "code": "AIRPORT_AUTHORITY_APPROVER",
       "name": "Airport authority Approver",
       "description": "Airport authority application approver"
+    },
+    {
+      "code": "THIRDPARTY",
+      "name": "Third party requirig API access",
+      "description": "Third party requirig API access"
     }
   ]
 }

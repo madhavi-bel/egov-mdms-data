@@ -631,6 +631,13 @@
         "$.fromFY"
       ]
     },
+    "DemandNotice": {
+      "masterName": "DemandNotice",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
     "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
@@ -896,6 +903,11 @@
     },
     "waterSourceWithSubSource": {
       "masterName": "waterSourceWithSubSource",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "waterUsage": {
+      "masterName": "waterUsage",
       "isStateLevel": true,
       "uniqueKeys": []
     }

@@ -28,7 +28,7 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "RESIDENTIAL.OTHERS",
       "connectionType": "Non Metered",
       "calculationAttribute": "No. of taps",
       "minimumCharge": 0,

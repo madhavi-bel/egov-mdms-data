@@ -22,7 +22,7 @@
     {
       "id": "2",
       "PropertyLocation":null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 2115.78,

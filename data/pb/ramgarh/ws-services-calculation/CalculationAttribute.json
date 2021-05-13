@@ -6,7 +6,7 @@
       "name": "Non Metered",
       "code": "NONMETERED",
       "attribute": "Flat",
-      "filterAttribute" : [ "majorUsageType"],
+      "filterAttribute" : [ "buildingType"],
       "active": true
     }
   ]

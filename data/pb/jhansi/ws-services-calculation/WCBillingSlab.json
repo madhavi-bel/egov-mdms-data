@@ -30,7 +30,7 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "ownerType" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
