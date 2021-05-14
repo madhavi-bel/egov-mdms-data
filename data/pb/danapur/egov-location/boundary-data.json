@@ -324,6 +324,42 @@
                     "code": "LOC20",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "55381ad5-2693-4dee-9818-9b75840ec672",
+                    "boundaryNum": 1,
+                    "name": "Lal Kothi - Ward No. 5",
+                    "localname": "Lal Kothi - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "53579117-cfb8-4b7a-bd55-12f92dcce6ea",
+                    "boundaryNum": 1,
+                    "name": "Drivers Lane - Ward No. 5",
+                    "localname": "Drivers Lane - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4c3ad9eb-9fef-484e-bc16-b5cb584cc491",
+                    "boundaryNum": 1,
+                    "name": "Army Area - Ward No. 5",
+                    "localname": "Army Area - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -394,6 +430,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "LOC24",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a4aa0575-4d02-4afe-a900-10ea892de3ef",
+                    "boundaryNum": 1,
+                    "name": "Army Area - Ward No. 7",
+                    "localname": "Army Area - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
                     "area": "Z001",
                     "children": []
                   }
