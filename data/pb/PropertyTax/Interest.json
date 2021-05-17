@@ -3,52 +3,20 @@
   "moduleName": "PropertyTax",
   "Interest": [
     {
-      "rate": 18,
+      "rate": null,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2015-16",
-      "startingDay": "1/01/2016"
+      "startingDay": "01/09/2016"
     },
     {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2015-16",
-      "startingDay": "1/04/2016"
-    },
-    {
-      "rate": 4,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "01/04/2019"
-    },
-    {
-      "rate": 9,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "11/12/2018"
-    },
-    {
-      "rate": 1,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2019-20",
-      "startingDay": "15/04/2019"
-    },
-    {
-      "rate": 1,
+      "rate": null,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2021-22",
-      "startingDay": "01/05/2021"
+      "startingDay": "01/09/2021"
     }
   ]
 }
