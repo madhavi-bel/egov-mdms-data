@@ -14,7 +14,7 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
      "calculationAttribute": "Flat",
       "minimumCharge": 9720,
@@ -41,7 +41,7 @@
     {
       "id": "5",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
      "calculationAttribute": "Flat",
       "minimumCharge": 9720,
@@ -68,7 +68,7 @@
     {
       "id": "8",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
      "calculationAttribute": "Flat",
       "minimumCharge": 11160
