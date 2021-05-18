@@ -7,13 +7,15 @@
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
+      "minimumCharge": 525,
       "slabs": [
         {
           "from": 0,
           "to": 1000000,
-          "charge": 4,
+          "charge": 8.75,
           "meterCharge": 0
         }
       ]
@@ -21,15 +23,17 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
+      "minimumCharge": 2025,
       "slabs": [
         {
           "from": 0,
           "to": 1000000,
-          "charge": 6,
+          "charge": 33.75,
           "meterCharge": 0
         }
       ]
@@ -39,13 +43,15 @@
       "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
+      "minimumCharge": 525,
       "slabs": [
         {
           "from": 0,
           "to": 1000000,
-          "charge": 8,
+          "charge": 8.75,
           "meterCharge": 0
         }
       ]
@@ -53,15 +59,17 @@
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
+      "ownerType" :"*",
       "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 0,
+      "minimumCharge": 2025,
       "slabs": [
         {
           "from": 0,
           "to": 1000000,
-          "charge": 10,
+          "charge": 33.75,
           "meterCharge": 0
         }
       ]
@@ -70,37 +78,109 @@
       "id": "5",
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 100,
-      "slabs": []
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.RAW",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 5,
+          "meterCharge": 0
+        }
+      ]
     },
     {
       "id": "6",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.RAW",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 1012.5,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 16.875 ,
+          "meterCharge": 0
+        }
+      ]
     },
     {
       "id": "7",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "RESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 200,
-      "slabs": []
+      "ownerType" :"*",
+      "connectionType": "Metered",
+      "waterSource" :"PIPE.RAW",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 5,
+          "meterCharge": 0
+        }
+      ]
     },
     {
       "id": "8",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 400,
-      "slabs": []
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.RAW",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 1012.5,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 16.875 ,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "ownerType" :"STAFF",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 262.50,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 4.375,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "ownerType" :"STAFF",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 262.50,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 4.375,
+          "meterCharge": 0
+        }
+      ]
     }
   ]
 }

@@ -9,6 +9,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "No. of taps",
       "minimumCharge": 0,
+      "motorCharge" : 83,
       "slabs": [
         {
           "from": 0,
@@ -27,10 +28,11 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "RESIDENTIAL.OTHERS",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "No. of taps",
       "minimumCharge": 0,
+      "motorCharge" :165,
       "slabs": [
         {
           "from": 0,

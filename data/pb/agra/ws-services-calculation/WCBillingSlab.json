@@ -3,13 +3,13 @@
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
-      "id": "5",
+      "id": "1",
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
-      "buildingSubType" :"*",
+      "buildingSubType" :null,
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 100,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "id": "6",
+      "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
-      "buildingSubType" :"*",
+      "buildingType": "COMMERCIAL",
+      "buildingSubType" :null,
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 200,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,

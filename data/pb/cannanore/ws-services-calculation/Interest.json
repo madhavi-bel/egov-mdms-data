@@ -4,8 +4,8 @@
   "Interest": [
     {
       "rate": 5,
-      "minAmount": null,
-      "applicableAfterDays": 0,
+      "minAmount": 5,
+      "applicableAfterDays":30,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",

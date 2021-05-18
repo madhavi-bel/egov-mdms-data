@@ -2089,6 +2089,94 @@
       "type": "TL",
       "validityPeriod": null,
       "verificationDocument": []
+    },
+    {
+      "code": "ARCHITECT.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "BUILDER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+      "restrictions":{
+        "maxPlotArea":500,
+        "maxBulidingheight":15,
+        "maxFloors":3
+      }
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "TOWNPLANNER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "SUPERVISOR.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+      "restrictions":{
+        "maxPlotArea":100,
+        "maxBulidingheight":10,
+        "maxFloors":2
+      }
     }
   ]
 }

@@ -4,14 +4,14 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation":null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Land Area",
-      "minimumCharge": 100,
+      "calculationAttribute": "Property Area",
+      "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 501,
           "charge": 600,
           "meterCharge": 0

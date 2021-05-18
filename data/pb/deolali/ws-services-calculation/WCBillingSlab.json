@@ -21,7 +21,7 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -53,7 +53,7 @@
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL.NONRESIDENTIAL",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -69,7 +69,7 @@
     {
       "id": "5",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
@@ -82,19 +82,20 @@
         }
       ]
     },
+    
     {
       "id": "6",
-      "PropertyLocation": " ",
+      "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 51,
+      "minimumCharge":51,
       "slabs": []
     },
     {
       "id": "7",
-      "PropertyLocation": " ",
-      "buildingType": "NONRESIDENTIAL.NONRESIDENTIAL",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 264,
@@ -102,8 +103,8 @@
     },
     {
       "id": "8",
-      "PropertyLocation": "",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 360,

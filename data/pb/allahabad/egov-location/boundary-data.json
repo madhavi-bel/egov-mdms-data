@@ -84,6 +84,42 @@
                     "code": "02_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "493144b4-b189-48de-a9b0-5a74b29e1a63",
+                    "boundaryNum": 1,
+                    "name": "Ponappa Road - Ward No. 2",
+                    "localname": "Ponappa Road - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "f067994c-6399-43d2-bdf3-fa1435285d90",
+                    "boundaryNum": 1,
+                    "name": "Lockhart Road - Ward No. 2",
+                    "localname": "Lockhart Road - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "31a2c8a7-0c03-42e5-88f4-6091d49c42b0",
+                    "boundaryNum": 1,
+                    "name": "Draupadi Ghat - Ward No. 2",
+                    "localname": "Draupadi Ghat - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "02_05",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -120,6 +156,18 @@
                     "code": "03_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "1baeb336-7d6c-4766-9780-449700988a08",
+                    "boundaryNum": 1,
+                    "name": "Kanpur Road - Ward No. 3",
+                    "localname": "Kanpur Road - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "03_03",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -142,6 +190,90 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "04_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b3e045b8-b72d-4d48-9334-ceb4c50fb993",
+                    "boundaryNum": 1,
+                    "name": "Baired Road - Ward No. 4",
+                    "localname": "Baired Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "79b752f1-1610-40ef-8d6d-2e0f98e1d098",
+                    "boundaryNum": 1,
+                    "name": "Robart Road - Ward No. 4",
+                    "localname": "Robart Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_04",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "9ee20ddb-9383-4cf5-bd14-9e1c34c517de",
+                    "boundaryNum": 1,
+                    "name": "Kanpur Road - Ward No. 4",
+                    "localname": "Kanpur Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_05",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "83124c10-d3f7-485f-9880-dbd06356921b",
+                    "boundaryNum": 1,
+                    "name": "Elgin Road - Ward No. 4",
+                    "localname": "Elgin Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_06",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ac8ba210-1996-4fc1-9620-84f3d038d6c4",
+                    "boundaryNum": 1,
+                    "name": "Carriappa Road - Ward No. 4",
+                    "localname": "Carriappa Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_07",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "b9691c60-2338-4969-80ce-5e95141217ce",
+                    "boundaryNum": 1,
+                    "name": "Cassels Road - Ward No. 4",
+                    "localname": "Cassels Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_08",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "21cfb7ba-a819-4677-af08-725ceca1cbbc",
+                    "boundaryNum": 1,
+                    "name": "Kahar Galla - Ward No. 4",
+                    "localname": "Kahar Galla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "04_02",
                     "area": "Z001",
                     "children": []
                   }
@@ -178,6 +310,30 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "05_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a2dbfa3f-e1c8-4717-be4a-be7d25b77958",
+                    "boundaryNum": 1,
+                    "name": "Ashoka Road - Ward No. 5",
+                    "localname": "Ashoka Road - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "0b3643ac-5180-438e-9838-7fac212ff8d0",
+                    "boundaryNum": 1,
+                    "name": "Ponappa Road - Ward No. 5",
+                    "localname": "Ponappa Road - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "05_04",
                     "area": "Z001",
                     "children": []
                   }

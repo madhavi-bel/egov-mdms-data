@@ -486,11 +486,11 @@
       "idname": "bpa.nc_san_fee.receipt.id"
     },
     {
-      "format": "WS/CB/[cb.name]/[fy:yyyy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
+      "format": "WS-BILL/CB/[cb.name]/[fy:yyyy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
       "idname": "ws.receipt.id"
     },
     {
-      "format": "SW/CB/[cb.name]/[fy:yyyy]/[SEQ_SW_BILL_RCPT_[TENANT_ID]]",
+      "format": "SW-BILL/CB/[cb.name]/[fy:yyyy]/[SEQ_SW_BILL_RCPT_[TENANT_ID]]",
       "idname": "sw.receipt.id"
     },
     {
@@ -1190,6 +1190,10 @@
     },{
       "format": "DT/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
       "idname": "death_cert.receipt.id"
+    },
+    {
+      "idname": "bs.amendment.id",
+      "format": "BILL-AMEND-CB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]"
     }
   ]
 }

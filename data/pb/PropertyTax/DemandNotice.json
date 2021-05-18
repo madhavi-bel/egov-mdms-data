@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "DemandNotice": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2015-16",
+      "startingDay": "16/07/2015" 
+    },
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "fromFY": "2021-22",
+      "startingDay": "16/07/2021" 
+    }
+  ]
+}

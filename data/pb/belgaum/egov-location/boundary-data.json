@@ -276,6 +276,30 @@
                     "code": "BCB02_18",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "47129e72-3115-45a6-bcbc-89aedb96c808",
+                    "boundaryNum": 1,
+                    "name": "Kariappa Road - Ward No. 2",
+                    "localname": "Kariappa Road - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB02_19",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a0244cb7-ed5d-4d94-9ef0-41a9ec607002",
+                    "boundaryNum": 1,
+                    "name": "Fort Road - Ward No. 2",
+                    "localname": "Fort Road - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB02_20",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -612,6 +636,42 @@
                     "code": "BCB03_27",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "4fb0cb9d-0995-4d89-b041-56c1371b61a9",
+                    "boundaryNum": 1,
+                    "name": "Bewoor Road - Ward No. 3",
+                    "localname": "Bewoor Road - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB03_28",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "e440da49-f383-4225-b949-5a99ba4da827",
+                    "boundaryNum": 1,
+                    "name": "Kariappa Road - Ward No. 3",
+                    "localname": "Kariappa Road - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB03_29",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1b091812-bac2-430e-803d-a05dd5fde211",
+                    "boundaryNum": 1,
+                    "name": "Mission Road - Ward No. 3",
+                    "localname": "Mission Road - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB03_30",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -864,6 +924,30 @@
                     "code": "BCB04_20",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "0fb785de-9f54-4f66-8138-20fe249626e4",
+                    "boundaryNum": 1,
+                    "name": "St.Anthony Street - Ward No. 4",
+                    "localname": "St.Anthony Street - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB04_21",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "12673739-074c-4cf8-ba80-f071cb2dd972",
+                    "boundaryNum": 1,
+                    "name": "Fort Road - Ward No. 4",
+                    "localname": "Fort Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB04_22",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -996,6 +1080,54 @@
                     "code": "BCB05_10",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "2818c916-13ba-493c-b473-d2e92c267530",
+                    "boundaryNum": 1,
+                    "name": "Kakar Street - Ward No. 5",
+                    "localname": "Kakar Street - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB05_11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "aac5d1f1-d075-41ed-a210-efd82e9e19e0",
+                    "boundaryNum": 1,
+                    "name": "Market Street - Ward No. 5",
+                    "localname": "Market Street - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB05_12",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "2c4374c0-6687-42f8-97aa-d4d25ed5dbec",
+                    "boundaryNum": 1,
+                    "name": "St.Anthony Street - Ward No. 5",
+                    "localname": "St.Anthony Street - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB05_13",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ccedda14-6f8a-4858-b159-685d6676e4e0",
+                    "boundaryNum": 1,
+                    "name": "Madras 'A' Street - Ward No. 5",
+                    "localname": "Madras 'A' Street - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB05_14",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -1104,6 +1236,54 @@
                     "code": "BCB06_08",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "958e41a6-ef67-4a79-801f-2c597ba94dda",
+                    "boundaryNum": 1,
+                    "name": "High Street - Ward No. 6",
+                    "localname": "High Street - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB06_09",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "1e6ae7be-cab3-4c51-bc4a-04696f5994da",
+                    "boundaryNum": 1,
+                    "name": "Kondappa Street - Ward No. 6",
+                    "localname": "Kondappa Street - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB06_10",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "d9cba6e8-c3b0-44d5-b251-9b2855f26c60",
+                    "boundaryNum": 1,
+                    "name": "Picket Road - Ward No. 6",
+                    "localname": "Picket Road - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB06_11",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "7626d394-6267-4def-ac6f-e249a72c2d6e",
+                    "boundaryNum": 1,
+                    "name": "St.Anthony Street - Ward No. 6",
+                    "localname": "St.Anthony Street - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB06_12",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -1198,6 +1378,30 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BCB07_07",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "ba43c186-aa38-4ec8-87e9-1de4baaa33fa",
+                    "boundaryNum": 1,
+                    "name": "Market Street - Ward No. 7",
+                    "localname": "Market Street - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB07_08",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "a93b1810-0464-410c-9944-69cfc7631810",
+                    "boundaryNum": 1,
+                    "name": "Church Street - Ward No. 7",
+                    "localname": "Church Street - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BCB07_09",
                     "area": "Z001",
                     "children": []
                   }

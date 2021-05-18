@@ -61,7 +61,7 @@
     {
       "id": "3",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,

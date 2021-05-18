@@ -8,10 +8,11 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
+      "waterSource" :"PIPE.TREATED",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 10000000,
           "charge": 12,
           "meterCharge": 0
@@ -21,13 +22,14 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
+      "waterSource" :"PIPE.TREATED",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 10000000,
           "charge": 25,
           "meterCharge": 0
@@ -39,11 +41,12 @@
       "PropertyLocation": "OUTSIDE",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 10000000,
           "charge": 12,
           "meterCharge": 0
@@ -53,13 +56,14 @@
     {
       "id": "4",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 10000000,
           "charge": 25,
           "meterCharge": 0
@@ -69,13 +73,14 @@
     {
       "id": "5",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
+      "waterSource" :"MES",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 10000000,
           "charge": 40,
           "meterCharge": 0
@@ -85,13 +90,14 @@
     {
       "id": "6",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
+      "waterSource" :"MES",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 10000000,
           "charge": 40,
           "meterCharge": 0

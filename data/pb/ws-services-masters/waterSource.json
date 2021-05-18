@@ -8,6 +8,11 @@
       "active": true
     },
     {
+      "name": "MES",
+      "code": "MES",
+      "active": true
+    },
+    {
       "name": "Ground-Handpump",
       "code": "GROUND.HANDPUMP",
       "active": true
@@ -60,11 +65,6 @@
     {
       "name": "Pipe-Public Stand post",
       "code": "PIPE.PUBLICSTDPOST",
-      "active": true
-    },
-    {
-      "name": "Others",
-      "code": "OTHERS",
       "active": true
     }
   ]

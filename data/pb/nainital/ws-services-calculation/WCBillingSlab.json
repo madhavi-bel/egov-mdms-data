@@ -4,12 +4,12 @@
   "WCBillingSlab": [
     {
       "id": "1",
-      "PropertyLocation": "CIVIL",
+      "PropertyLocation":null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 207.13,
-      "maximumCharge": 779.6,
+      "minimumCharge": 414.26,
+      "maximumCharge": 1559.2,
       "slabs": [
         {
           "from": 0,
@@ -21,11 +21,11 @@
     },
     {
       "id": "2",
-      "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "PropertyLocation":null,
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 1057.89,
+      "minimumCharge": 2115.78,
       "slabs": [
         {
           "from": 0,

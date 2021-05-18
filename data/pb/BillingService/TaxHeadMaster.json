@@ -33,14 +33,15 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "PT",
       "name": "Pt time rebate",
       "code": "PT_TIME_REBATE",
       "isDebit": true,
       "isActualDemand": true,
       "order": "0",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -69,7 +70,7 @@
       "code": "PT_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
+      "order": "1",
       "isRequired": false
     },
     {
@@ -93,7 +94,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "PT",
       "name": "Pt time penalty",
       "code": "PT_TIME_PENALTY",
@@ -110,7 +111,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
-      "isRequired": false
+      "isRequired": false,
+      "legacy": true
     },
     {
       "category": "TAX",
@@ -1870,7 +1872,8 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -14591,6 +14594,135 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "housetax",
+      "code": "PT_HOUSE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "watertax",
+      "code": "PT_WATER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Conservancy",
+      "code": "PT_CONSERVANCY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "lightingtax",
+      "code": "PT_LIGHTINING_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "educationtax",
+      "code": "PT_EDUCATION_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Consolidatedpropertytax",
+      "code": "PT_CONSOLIDATED_PROPERTY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Sanitarycess",
+      "code": "PT_SANITARY_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "9",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Educationcess",
+      "code": "PT_EDUCATION_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "10",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "AddlWaterTax",
+      "code": "PT_ADDL_WATER_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "DrainageTax",
+      "code": "PT_DRAINAGE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "12",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "DemandNoticeCharge",
+      "code": "PT_DEMANDNOTICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "legacy": true
     }
   ]
 }

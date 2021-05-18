@@ -8,7 +8,7 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 200,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
@@ -22,10 +22,10 @@
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 250,
+      "minimumCharge": 0,
       "slabs": [
 
         {
@@ -51,7 +51,7 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 2500,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
@@ -65,7 +65,7 @@
     {
       "id": "4",
       "PropertyLocation": "BUNGLOW",
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,

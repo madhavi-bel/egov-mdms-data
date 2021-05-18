@@ -16,7 +16,7 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "buildingType": "COMMERCIAL",
       "buildingSubType" :"*",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -26,22 +26,12 @@
     {
       "id": "3",
       "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
-      "buildingSubType" :"NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "buildingType": "COMMERCIAL",
+      "buildingSubType" :"COMMERCIAL.HOTELS",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
       "minimumCharge": 2400,
       "slabs": []
-    },
-    {
-      "id": "4",
-      "PropertyLocation": null,
-      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
-      "buildingSubType" :"NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.NONACRESTAURANT",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 2400,
-      "slabs": []
-    }
+    } 
   ]
 }

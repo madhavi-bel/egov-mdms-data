@@ -12,7 +12,7 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED", 
-      "filterAttribute" : ["PropertyLocation","majorUsageType","ownershipCategory"],
+      "filterAttribute" : ["PropertyLocation","buildingType","ownershipCategory"],
       "attribute": "Flat",
       "active": true
     }

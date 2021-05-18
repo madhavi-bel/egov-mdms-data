@@ -1,0 +1,15 @@
+{
+    "tenantId": "pb.meerut",
+    "moduleName": "PropertyTax",
+    "Rebate": [
+        {
+            "rate": 2,
+            "maxAmount": null,
+            "flatAmount": null,
+            "fromFY": "2021-22",
+            "endingDay": "30/06",
+            "mutationPaymentPeriodInMonth": "06"
+          }
+         
+    ]
+}

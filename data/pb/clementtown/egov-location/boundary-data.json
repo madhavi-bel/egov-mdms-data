@@ -72,6 +72,18 @@
                     "code": "W1_TRNRD",
                     "area": "800311",
                     "children": []
+                  },
+                  {
+                    "id": "ec7b1aec-fc98-4383-9e39-389b4f2629e0",
+                    "boundaryNum": 1,
+                    "name": "Bada Bharuwala - Ward 1",
+                    "localname": "Bada Bharuwala - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_BBH",
+                    "area": "800311",
+                    "children": []
                   }
                 ]
               },
@@ -168,6 +180,18 @@
                     "code": "W4_AUA",
                     "area": "800311",
                     "children": []
+                  },
+                  {
+                    "id": "2827a808-911f-4953-8fe4-c2310d3de5aa",
+                    "boundaryNum": 1,
+                    "name": "Camp Area - Ward 4",
+                    "localname": "Camp Area - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4_CMP",
+                    "area": "800311",
+                    "children": []
                   }
                 ]
               },
@@ -202,6 +226,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "W5_IDP",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "4ec8ea2a-2df3-41bb-824f-85425460ff81",
+                    "boundaryNum": 1,
+                    "name": "Camp Area - Ward 5",
+                    "localname": "Camp Area - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_CMP",
                     "area": "800311",
                     "children": []
                   }
@@ -286,6 +322,30 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "W7_CBH",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "ada04ba4-d5c2-4fc4-87e0-383d1e998cf8",
+                    "boundaryNum": 1,
+                    "name": "Camp Area - Ward 7",
+                    "localname": "Camp Area - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_CMP",
+                    "area": "800311",
+                    "children": []
+                  },
+                  {
+                    "id": "b8f51a3a-9474-40a6-8be5-78977b0aec00",
+                    "boundaryNum": 1,
+                    "name": "Morowala - Ward 7",
+                    "localname": "Morowala - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_MRW",
                     "area": "800311",
                     "children": []
                   }

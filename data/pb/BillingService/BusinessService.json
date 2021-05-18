@@ -13,10 +13,11 @@
       ],
       "partPaymentAllowed": true,
       "minAmountPayable": 100,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "type": null,
+      "isBillAmendmentEnabled": true,
       "billGineiURL" : "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
@@ -2222,6 +2223,17 @@
       "isActive": true,
       "isCitizen": true,
       "type": null
+    },
+    {
+      "businessService": "BPARegistration",
+      "code": "BPAREG",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
 
  

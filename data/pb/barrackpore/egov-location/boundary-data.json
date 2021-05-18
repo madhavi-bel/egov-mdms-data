@@ -237,7 +237,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc12",
+                    "code": "LOC12",
                     "area": "Z001",
                     "children": []
                   },
@@ -249,7 +249,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc13",
+                    "code": "LOC13",
                     "area": "Z001",
                     "children": []
                   },
@@ -261,7 +261,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc14",
+                    "code": "LOC14",
                     "area": "Z001",
                     "children": []
                   }
@@ -285,7 +285,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc15",
+                    "code": "LOC15",
                     "area": "Z001",
                     "children": []
                   },
@@ -297,7 +297,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc16",
+                    "code": "LOC16",
                     "area": "Z001",
                     "children": []
                   },
@@ -309,7 +309,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc17",
+                    "code": "LOC17",
                     "area": "Z001",
                     "children": []
                   },
@@ -321,7 +321,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc18",
+                    "code": "LOC18",
                     "area": "Z001",
                     "children": []
                   },
@@ -333,7 +333,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Loc19",
+                    "code": "LOC19",
                     "area": "Z001",
                     "children": []
                   }

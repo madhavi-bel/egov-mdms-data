@@ -3,11 +3,13 @@
   "moduleName": "ws-services-calculation",
   "Rebate": [
     {
-      "rate": 10,
-      "maxAmount": null,
+      "rate": 25,
+      "minAmount": "",
+      "applicableAfterDays":30,
       "flatAmount": null,
+      "maxAmount": null,
       "fromFY": "2020-21",
-      "endingDay": "25/09"
+      "startingDay": "1/01/2021"
     }
   ]
 }
