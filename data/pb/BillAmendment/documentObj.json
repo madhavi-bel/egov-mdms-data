@@ -101,7 +101,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "ADDRESSPROOF",
@@ -160,7 +160,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "SELFDECLARATION",
@@ -283,7 +283,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "ADDRESSPROOF",
@@ -342,7 +342,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           }
         ]
       },
@@ -445,7 +445,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "ADDRESSPROOF",
@@ -504,7 +504,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           }
         ]
       },
@@ -607,7 +607,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "ADDRESSPROOF",
@@ -666,7 +666,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           }
         ]
       },
@@ -743,7 +743,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "ADDRESSPROOF",
@@ -802,7 +802,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "SELFDECLARATION",
@@ -953,7 +953,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           },
           {
             "documentType": "ADDRESSPROOF",
@@ -1012,7 +1012,7 @@
                 "active": true
               }
             ],
-            "required": true
+            "required": false
           }
         ]
       }
