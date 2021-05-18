@@ -8,6 +8,7 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
+      "waterSource" :"PIPE.TREATED",
       "minimumCharge": 0,
       "slabs": [
         {
@@ -24,6 +25,7 @@
       "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
+      "waterSource" :"PIPE.TREATED",
       "minimumCharge": 0,
       "slabs": [
         {
@@ -39,6 +41,7 @@
       "PropertyLocation": "OUTSIDE",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
@@ -55,6 +58,7 @@
       "PropertyLocation": "OUTSIDE",
       "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
@@ -69,8 +73,9 @@
     {
       "id": "5",
       "PropertyLocation": "CIVIL",
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
+      "waterSource" :"MES",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
@@ -85,8 +90,9 @@
     {
       "id": "6",
       "PropertyLocation": "OUTSIDE",
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
+      "waterSource" :"MES",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 0,
       "slabs": [
