@@ -6,7 +6,7 @@
       "name": "Metered",
       "code": "METERED",
       "attribute": "Water consumption",
-      "filterAttribute" : [ "PropertyLocation","buildingType","waterSource","ownerType"],
+      "filterAttribute" : [  "buildingType","waterSource","ownerType"],
       "active": true
     },
     {
