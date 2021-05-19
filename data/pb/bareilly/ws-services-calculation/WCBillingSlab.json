@@ -12,7 +12,7 @@
       "slabs": [
         {
           "from": 0,
-          "to": 1000000,
+          "to": 9999999999,
           "charge": 550,
           "meterCharge": 0,
           "type":"Flat"
@@ -28,7 +28,7 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 1,
+          "from": 0,
           "to": 100.01,
           "charge": 1400,
           "meterCharge": 0,
