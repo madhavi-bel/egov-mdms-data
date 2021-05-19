@@ -9,7 +9,7 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
-      "minimumCharge": 1200,
+      "minimumCharge": 0  ,
       "slabs": [
         {
           "from": 0,
