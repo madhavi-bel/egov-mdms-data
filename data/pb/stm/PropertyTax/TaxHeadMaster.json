@@ -57,7 +57,7 @@
       "code": "PT_EDUCATION_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "",
+      "order": "7",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
