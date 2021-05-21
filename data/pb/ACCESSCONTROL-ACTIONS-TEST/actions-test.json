@@ -20713,13 +20713,13 @@
     "name": "BillAmendment",
     "url": "url",
     "displayName": "Bill Amendment",
-    "orderNumber": 3,
+    "orderNumber": 5,
     "parentModule": "",
     "enabled": true,
-    "serviceCode": "PT",
-    "code": "false",
-    "path": "",
-    "navigationURL": "/bill-amend/search"
+    "serviceCode": "BA",
+    "code": "null",
+    "navigationURL": "bill-amend/search",
+    "path": "BA"
   }
   ]
 }
