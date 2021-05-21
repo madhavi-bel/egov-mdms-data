@@ -20707,6 +20707,19 @@
     "serviceCode": "WSREPORTS",
     "code": "null",
     "path": "WaterConnectionFailedBillReport"
+  },
+  {
+    "id": 5328,
+    "name": "BillAmendment",
+    "url": "url",
+    "displayName": "Bill Amendment",
+    "orderNumber": 3,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "PT",
+    "code": "false",
+    "path": "",
+    "navigationURL": "/bill-amend/search"
   }
   ]
 }
