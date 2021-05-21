@@ -1452,19 +1452,7 @@
                     "code": "LOC139",
                     "area": "Z001",
                     "children": []
-                  },
-                  {
-                    "id": "33cf2166-e635-4822-8a5a-67431d3ee148",
-                    "boundaryNum": 1,
-                    "name": "POLICE OFFICE ROAD - Ward No. 4",
-                    "localname": "POLICE OFFICE ROAD - Ward No. 4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LOC142",
-                    "area": "Z001",
-                    "children": []
-                  },
+                  },                  
                   {
                     "id": "3dc287b9-5064-4388-b429-16cdc801d45a",
                     "boundaryNum": 1,
@@ -1960,8 +1948,8 @@
                   {
                     "id": "2945dfcb-fa1a-4284-a5c3-5c9621cd5477",
                     "boundaryNum": 1,
-                    "name": "ACHARYA TULASI RAOD Ward 6 - Ward No. 6",
-                    "localname": "ACHARYA TULASI RAOD Ward 6 - Ward No. 6",
+                    "name": "ACHARYA TULASI ROAD Ward 6 - Ward No. 6",
+                    "localname": "ACHARYA TULASI ROAD Ward 6 - Ward No. 6",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2004,19 +1992,7 @@
                     "code": "LOC144",
                     "area": "Z002",
                     "children": []
-                  },
-                  {
-                    "id": "24cd7014-1584-4b6a-baea-a313dafcbbed",
-                    "boundaryNum": 1,
-                    "name": "BAZAAR ROAD - Ward No. 6",
-                    "localname": "BAZAAR ROAD - Ward No. 6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LOC152",
-                    "area": "Z002",
-                    "children": []
-                  },
+                  },                  
                   {
                     "id": "5515b223-8108-4e67-bb97-917cf77e6277",
                     "boundaryNum": 1,
