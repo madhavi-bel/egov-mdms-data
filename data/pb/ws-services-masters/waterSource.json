@@ -66,6 +66,11 @@
       "name": "Pipe-Public Stand post",
       "code": "PIPE.PUBLICSTDPOST",
       "active": true
+    },
+    {
+      "name": "Underground-Spring",
+      "code": "UNDERGROUND.SPRING",
+      "active": true
     }
   ]
 }
