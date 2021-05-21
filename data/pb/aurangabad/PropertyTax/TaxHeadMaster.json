@@ -11,7 +11,8 @@
       "isActualDemand": true,
       "order": "3",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -22,7 +23,8 @@
       "isActualDemand": true,
       "order": "4",
       "isRequired": false,
-      "legacy": true
+      "legacy": true,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
