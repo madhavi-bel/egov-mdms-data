@@ -1,7 +1,7 @@
 {
     "tenantId": "pb",
     "moduleName": "ws-services-masters",
-    "uom": [
+    "uomDetail": [
       {
         "name": "Based on Water Consumption. The values are calculated based on slab. For example if the slabs are 0 to 10K 4 Rs/Unit and 10K to 1000K is 5Rs/Unit.  And if consumption unit is 12K then amount will be 4*10 +5*2 =50Rs  ",
         "code": "Water consumption",

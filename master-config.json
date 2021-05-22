@@ -910,6 +910,11 @@
       "masterName": "waterUsage",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "uomDetail": {
+      "masterName": "uomDetail",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "ws-services-calculation": {
