@@ -14,14 +14,14 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 330,
+          "charge": 660,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 0.51,
           "to": 0.76,
-          "charge": 1290,
+          "charge": 2580,
           "meterCharge": 0,
           "type":"Flat"
         }
@@ -39,7 +39,7 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 3300,
+          "charge": 6600,
           "meterCharge": 0,
           "type":"Flat"
         }
@@ -57,7 +57,7 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 300,
+          "charge": 600,
           "meterCharge": 0,
           "type":"Flat"
         }
