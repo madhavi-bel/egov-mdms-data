@@ -619,13 +619,20 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "DemandNotice": {
+      "masterName": "DemandNotice",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
@@ -655,6 +662,13 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.businessService"
+      ]
+    },
+    "TaxHeadMaster": {
+      "masterName": "TaxHeadMaster",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"        
       ]
     }
   },
@@ -889,6 +903,16 @@
     },
     "waterSourceWithSubSource": {
       "masterName": "waterSourceWithSubSource",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "waterUsage": {
+      "masterName": "waterUsage",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "uomDetail": {
+      "masterName": "uomDetail",
       "isStateLevel": true,
       "uniqueKeys": []
     }

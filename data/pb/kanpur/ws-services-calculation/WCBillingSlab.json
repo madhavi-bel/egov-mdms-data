@@ -12,7 +12,7 @@
       "maintenanceCharge":98,
       "slabs": [
         {
-          "from":361,
+          "from":0,
           "to":2000 ,
           "charge": 1630,
           "meterCharge": 0,
@@ -36,7 +36,7 @@
         },
         {
           "from":5001,
-          "to":10000 ,
+          "to":10000000 ,
           "charge": 3492,
           "meterCharge": 0,
           "type":"FLAT"
@@ -56,7 +56,7 @@
       "slabs": [
         {
           "from":0,
-          "to":1000000000 ,
+          "to":10000000 ,
           "charge": 1395,
           "meterCharge": 0,
           "type":"FLAT"
