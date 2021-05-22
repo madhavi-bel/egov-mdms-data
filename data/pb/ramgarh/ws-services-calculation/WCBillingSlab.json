@@ -38,15 +38,6 @@
       "calculationAttribute": "Flat",
       "minimumCharge": 5400,
       "slabs": []
-    },
-    {
-      "id": "5",
-      "PropertyLocation": null,
-      "buildingType": "COMMERCIAL",
-      "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 5400,
-      "slabs": []
     }
   ]
 }
