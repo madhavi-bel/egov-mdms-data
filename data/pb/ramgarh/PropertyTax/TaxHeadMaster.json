@@ -17,7 +17,7 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "lightingtax",
+        "name": "lightinganddrainagetax",
         "code": "PT_LIGHTINING_TAX",
         "isDebit": false,
         "isActualDemand": true,
