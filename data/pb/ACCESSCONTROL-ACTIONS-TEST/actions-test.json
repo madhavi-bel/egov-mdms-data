@@ -20719,7 +20719,8 @@
     "serviceCode": "BA",
     "code": "null",
     "navigationURL": "bill-amend/search",
-    "path": "BA"
+    "path": "BA",
+    "leftIcon": "action:receipt"
   }
   ]
 }
