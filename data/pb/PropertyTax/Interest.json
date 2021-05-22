@@ -8,7 +8,7 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2015-16",
-      "startingDay": "01/09/2015"
+      "startingDay": "01/08/2015"
     },
     {
       "rate": null,
@@ -16,7 +16,7 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2021-22",
-      "startingDay": "01/09/2021"
+      "startingDay": "01/08/2021"
     }
   ]
 }
