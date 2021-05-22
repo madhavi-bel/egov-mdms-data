@@ -8,7 +8,7 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "ownershipCategory": "Owner", 
+      "ownershipCategory": null, 
       "minimumCharge": 1320,
       "slabs": []
     },
