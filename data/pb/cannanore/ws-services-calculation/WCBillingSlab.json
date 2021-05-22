@@ -54,7 +54,7 @@
         },
         {
           "from": 40,
-          "to": 1000,
+          "to": 100000,
           "charge": 14,
           "meterCharge": 0
         }
