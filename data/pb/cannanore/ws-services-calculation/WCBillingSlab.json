@@ -19,6 +19,74 @@
       "calculationAttribute": "Flat",
       "minimumCharge": 125,
       "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 40,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10,
+          "charge": 4,
+          "meterCharge": 0
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "charge": 5,
+          "meterCharge": 0
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "charge": 6,
+          "meterCharge": 0
+        },
+        {
+          "from": 30,
+          "to": 40,
+          "charge": 10,
+          "meterCharge": 0
+        },
+        {
+          "from": 40,
+          "to": 1000,
+          "charge": 14,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 15,
+          "charge": 10,
+          "meterCharge": 0
+        },
+        {
+          "from": 15,
+          "to": 50,
+          "charge": 14,
+          "meterCharge": 0
+        },
+        {
+          "from": 50,
+          "to": 100000,
+          "charge": 25,
+          "meterCharge": 0
+        } 
+      ]
     } 
   
   ]

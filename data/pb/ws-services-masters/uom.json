@@ -1,0 +1,37 @@
+{
+    "tenantId": "pb",
+    "moduleName": "ws-services-masters",
+    "uom": [
+      {
+        "name": "Based on Water Consumption. The values are calculated based on slab. For example if the slabs are 0 to 10K 4 Rs/Unit and 10K to 1000K is 5Rs/Unit.  And if consumption unit is 12K then amount will be 4*10 +5*2 =50Rs  ",
+        "code": "Water consumption",
+        "active": true
+      },
+      {
+        "name": "The amount is Fixed Rupees or Minimum charges is only Bill Amount",
+        "code": "FLAT",
+        "active": true
+      },
+      {
+        "name": "The amount is Fixed Rupees or Minimum charges is only Bill Amount",
+        "code": "FLAT",
+        "active": true
+      },
+      {
+        "name": "The amount is based on property ARV value. So For example for ARV 0 to 10000 the charges are 100 and 10000 to 50000 the charges are 150 Rs. In such categories if the ARV value of property is 15000 then charges will be 150Rs.",
+        "code": "ARV",
+        "active": true
+      },
+      {
+        "name": "The amount is based on property Property Total area. So For example for Property Area 0 to 10000 the charges are 100 and 10000 to 50000 the charges are 150 Rs. In such categories if the property area is 15000 then charges will be 150Rs.",
+        "code": "Property Area",
+        "active": true
+      },
+      {
+        "name": "The amount is based on count of Taps count for a connection. So For example for tap count 0 to upto 1 the charges are 25 and more than 1 than per tap charges are 21 Rs.    In such categories if the tap count is 3 so the amount will be 25 +21+21 Rs.",
+        "code": "No. of taps",
+        "active": true
+      }
+    ]
+  }
+  
