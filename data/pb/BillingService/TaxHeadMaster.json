@@ -14634,7 +14634,7 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "lightingtax",
+      "name": "lightinganddrainagetax",
       "code": "PT_LIGHTINING_TAX",
       "isDebit": false,
       "isActualDemand": true,
@@ -14723,6 +14723,18 @@
       "order": "2",
       "isRequired": false,
       "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "LightingTax",
+      "code": "PT_LIGHTING_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "13",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
     }
   ]
 }
