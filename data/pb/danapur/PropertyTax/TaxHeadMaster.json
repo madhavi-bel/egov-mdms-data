@@ -42,7 +42,7 @@
         "category": "TAX",
         "service": "PT",
         "name": "lightingtax",
-        "code": "PT_LIGHTINING_TAX",
+        "code": "PT_LIGHTING_TAX",
         "isDebit": false,
         "isActualDemand": true,
         "order": "6",
