@@ -29,11 +29,11 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "lightinganddrainagetax",
+        "name": "lightingtax",
         "code": "PT_LIGHTINING_TAX",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "13",
+        "order": "6",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
