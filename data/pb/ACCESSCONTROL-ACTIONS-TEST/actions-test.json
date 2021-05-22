@@ -20669,6 +20669,44 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5325,
+    "name": "WS Application Status",
+    "url": "url",
+    "displayName": "WS Failed Bill Report",
+    "orderNumber": 3,
+    "parentModule": "rainmaker-ws",
+    "enabled": true,
+    "serviceCode": "WS",
+    "code": "null",
+    "path": "wns.WS REPORTS.WaterConnectionFailedBillReport",
+    "navigationURL": "report/rainmaker-ws/WaterConnectionFailedBillReport",
+    "leftIcon": "action:description",
+    "rightIcon": ""
+  },
+  {
+    "id": 5326,
+    "name": "WaterConnectionFailedBillReport-Metadata",
+    "url": "/report/rainmaker-ws/WaterConnectionFailedBillReport/metadata/_get",
+    "displayName": "Rainmaker WS report",
+    "orderNumber": 1,
+    "parentModule": "147",
+    "enabled": false,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": "WaterConnectionFailedBillReport"
+  },
+  {
+    "id": 5327,
+    "name": "WaterConnectionFailedBillReport",
+    "url": "/report/rainmaker-ws/WaterConnectionFailedBillReport/_get",
+    "displayName": "WS Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": "WaterConnectionFailedBillReport"
   }
   ]
 }
