@@ -13,11 +13,6 @@
         "active": true
       },
       {
-        "name": "The amount is Fixed Rupees or Minimum charges is only Bill Amount",
-        "code": "FLAT",
-        "active": true
-      },
-      {
         "name": "The amount is based on property ARV value. So For example for ARV 0 to 10000 the charges are 100 and 10000 to 50000 the charges are 150 Rs. In such categories if the ARV value of property is 15000 then charges will be 150Rs.",
         "code": "ARV",
         "active": true
