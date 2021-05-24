@@ -7,9 +7,10 @@
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
+      "motorInfo" :"WITHOUTPUMP",
       "calculationAttribute": "No. of taps",
-      "minimumCharge": 0,
-      "motorCharge" : 83,
+      "minimumCharge": 41,
+      "motorCharge" : 0,
       "slabs": [
         {
           "from": 0,
@@ -30,9 +31,10 @@
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL.OTHERS",
       "connectionType": "Non Metered",
+      "motorInfo" :"WITHOUTPUMP",
       "calculationAttribute": "No. of taps",
-      "minimumCharge": 0,
-      "motorCharge" :165,
+      "minimumCharge": 138,
+      "motorCharge" :0,
       "slabs": [
         {
           "from": 0,
@@ -44,6 +46,42 @@
           "from": 1,
           "to": 100000,
           "charge": 83,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "motorInfo" :"WITHPUMP",
+      "calculationAttribute": "No. of taps",
+      "minimumCharge": 83,
+      "motorCharge" : 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 100000,
+          "charge": 83,
+          "meterCharge": 0
+        } 
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL.OTHERS",
+      "connectionType": "Non Metered",
+      "motorInfo" :"WITHPUMP",
+      "calculationAttribute": "No. of taps",
+      "minimumCharge": 165,
+      "motorCharge" :0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 100000,
+          "charge": 165,
           "meterCharge": 0
         }
       ]
