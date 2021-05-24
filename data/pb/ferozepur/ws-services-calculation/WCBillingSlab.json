@@ -29,7 +29,7 @@
     {
       "id": "2",
       "PropertyLocation": null,
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "motorInfo" :"WITHOUTPUMP",
       "calculationAttribute": "No. of taps",
@@ -71,7 +71,7 @@
     {
       "id": "4",
       "PropertyLocation": null,
-      "buildingType": "RESIDENTIAL.OTHERS",
+      "buildingType": "NONRESIDENTIAL",
       "connectionType": "Non Metered",
       "motorInfo" :"WITHPUMP",
       "calculationAttribute": "No. of taps",
