@@ -5,7 +5,7 @@
     {
       "active": true,
       "connectionType": "Metered",
-      "billingCycle": "Half Yearly",
+      "billingCycle": "half-yearly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 0,
       "demandGenerationDateMillis": 345600000
