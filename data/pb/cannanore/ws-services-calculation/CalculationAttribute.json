@@ -6,7 +6,7 @@
       "name": "Metered",
       "code": "METERED",
       "attribute": "Water consumption", 
-      "filterAttribute" : [ "buildingType","motorInfo"],
+      "filterAttribute" : [ "buildingType"],
       "active": true
     },
     {
