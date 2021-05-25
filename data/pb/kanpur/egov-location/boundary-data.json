@@ -60,6 +60,30 @@
                     "code": "W1_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "6bb69892-5c68-4166-8ec0-f07d6119acaa",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 1",
+                    "localname": "Bungalow Area - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_03",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "4378be52-5e19-4b46-8590-bd264607ef3b",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 1",
+                    "localname": "Others - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W1_04",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -168,6 +192,30 @@
                     "code": "W2_08",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "956993b7-cf2b-4e6f-b48d-f5f328f3489c",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 2",
+                    "localname": "Bungalow Area - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_09",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "fabbbbb9-5dba-4ef0-9969-4afe0e24834c",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 2",
+                    "localname": "Others - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W2_10",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -190,6 +238,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "W3_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "014fcf80-3596-4d58-817a-9f0f6b937786",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 3",
+                    "localname": "Others - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W3_02",
                     "area": "Z001",
                     "children": []
                   }
@@ -228,6 +288,18 @@
                     "code": "W4_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "50aacb14-0408-4283-893e-6a8008582c6f",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 4",
+                    "localname": "Others - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W4_03",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -262,6 +334,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "W5_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "152f21de-8eaa-46da-8c25-123743bfb015",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 5",
+                    "localname": "Others - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W5_03",
                     "area": "Z001",
                     "children": []
                   }
@@ -300,6 +384,18 @@
                     "code": "W6_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "9566ae91-dbc8-4fbf-a707-42c8c7c0f4fc",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 6",
+                    "localname": "Others - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W6_03",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -336,6 +432,18 @@
                     "code": "W7_02",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "077521de-13d2-4309-84f3-d89646c3deaa",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 7",
+                    "localname": "Others - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W7_03",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
@@ -358,6 +466,30 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "W8_01",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "c5a32ca3-7b08-4b24-b2e5-8aa19c2b82ae",
+                    "boundaryNum": 1,
+                    "name": "Bungalow Area - Ward No. 8",
+                    "localname": "Bungalow Area - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_02",
+                    "area": "Z001",
+                    "children": []
+                  },
+                  {
+                    "id": "429c3d58-ef82-4f8f-9e5d-71daf64729dc",
+                    "boundaryNum": 1,
+                    "name": "Others - Ward No. 8",
+                    "localname": "Others - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "W8_03",
                     "area": "Z001",
                     "children": []
                   }
