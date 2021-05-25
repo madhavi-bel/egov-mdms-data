@@ -408,6 +408,18 @@
                     "code": "LOC38",
                     "area": "Z001",
                     "children": []
+                  },
+                  {
+                    "id": "531ae2cb-e078-4261-bd16-a4467a2e1e98",
+                    "boundaryNum": 1,
+                    "name": "Kasturba Nagar - Ward-3",
+                    "localname": "Kasturba Nagar - Ward-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC40",
+                    "area": "Z001",
+                    "children": []
                   }
                 ]
               },
