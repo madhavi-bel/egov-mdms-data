@@ -29,7 +29,7 @@
       "jobName": "daily",
       "active": "false",
       "method": "POST",
-      "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
+      "url": "http://ws-calculator:8080/ws-calculator/waterCalculator/_jobscheduler",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
