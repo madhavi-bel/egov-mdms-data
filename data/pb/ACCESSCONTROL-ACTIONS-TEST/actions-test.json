@@ -20732,6 +20732,45 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5330,
+      "name": "BirthRecordsCountReport",
+      "url": "/report/rainmaker-bnd/BirthRecordsCountReport/_get",
+      "displayName": "BirthRecordsCountReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5331,
+      "name": "BirthRecordsCountReport",
+      "url": "/report/rainmaker-bnd/BirthRecordsCountReport/metadata/_get",
+      "displayName": "BirthRecordsCountReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5332,
+      "name": "BirthRecordsCountReport",
+      "url": "url",
+      "displayName": "Birth Records Count",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-bnd",
+      "enabled": true,
+      "serviceCode": "birthcount",
+      "code": "null",
+      "path": "cbbnd.BirthRecordsCountReport",
+      "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     } 
   ]
 }
