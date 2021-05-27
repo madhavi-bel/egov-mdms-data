@@ -20721,6 +20721,17 @@
     "navigationURL": "bill-amend/search",
     "path": "BA",
     "leftIcon": "action:receipt"
-  }
+  },
+    {
+      "id": 5329,
+      "name": "Bill Generation Based on Tenant or Connection No",
+      "url": "/ws-calculator/waterCalculator/_jobscheduler_manual",
+      "displayName": "Bill Generation Based on Tenant or Connection No",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }
