@@ -956,6 +956,1147 @@
             "required": false
           }
         ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "TRIENNIAL_ASSESSMENT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "TRIENNIAL_ASSESSMENT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "TRIENNIAL_ASSESSMENT"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "TRIENNIAL_ASSESSMENT"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "REVISION_IN_DEMAND"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "REVISION_IN_DEMAND"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "REVISION_IN_DEMAND"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "REVISION_IN_DEMAND"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ERRONEOUS_ENTRIES"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ERRONEOUS_ENTRIES"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ERRONEOUS_ENTRIES"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ERRONEOUS_ENTRIES"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "SUPPLIMENTARY_DEMAND_ON_RETROSPECTIVE_EFFECT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "SUPPLIMENTARY_DEMAND_ON_RETROSPECTIVE_EFFECT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "SUPPLIMENTARY_DEMAND_ON_RETROSPECTIVE_EFFECT"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "SUPPLIMENTARY_DEMAND_ON_RETROSPECTIVE_EFFECT"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "OBJECTION_AS_PER_CANTT_ACT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "OBJECTION_AS_PER_CANTT_ACT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "OBJECTION_AS_PER_CANTT_ACT"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "OBJECTION_AS_PER_CANTT_ACT"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "DUE_TO_SUBDIVISION_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "DUE_TO_SUBDIVISION_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "DUE_TO_SUBDIVISION_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "DUE_TO_SUBDIVISION_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ADVANCE_PAYMENT_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ADVANCE_PAYMENT_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "PASTBILLS",
+                "active": true
+              }
+            ],
+            "required": true
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ADVANCE_PAYMENT_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ADVANCE_PAYMENT_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "hasToolTip": true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+         
+        ]
       }
     ]
   }

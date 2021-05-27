@@ -25,6 +25,35 @@
         {
             "code": "OTHERS",
             "active": true
+        },
+        {
+            "code": "TRIENNIAL_ASSESSMENT",
+            "active": true
+        },
+        {
+            "code": "REVISION_IN_DEMAND",
+            "active": true
+        },
+        {
+            "code": "ERRONEOUS_ENTRIES",
+            "active": true
+        },
+        {
+            "code": "SUPPLIMENTARY_DEMAND_ON_RETROSPECTIVE_EFFECT",
+            "active": true
+        },
+        {
+            "code": "OBJECTION_AS_PER_CANTT_ACT",
+            "active": true
+        },
+        {
+            "code": "DUE_TO_SUBDIVISION_OF_PROPERTY",
+            "active": true
+        },
+        {
+            "code": "ADVANCE_PAYMENT_OF_PROPERTY",
+            "active": true
         }
+
     ]
 } 
