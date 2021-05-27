@@ -161,27 +161,8 @@
               }
             ],
             "required": false
-          },
-          {
-            "documentType": "SELFDECLARATION",
-            "maxFileSize": 5000,
-            "allowedFormat": [
-              "image/*",
-              ".png",
-              ".jpeg"
-            ],
-            "demandRevisionBasis": [
-              "COURT_CASE_SETTLEMENT"
-            ],
-            "hasDropDown": true,
-            "dropdownData": [
-              {
-                "code": "SELFDECLARATION",
-                "active": true
-              }
-            ],
-            "required": true
           }
+         
         ]
       },
       {
@@ -805,26 +786,6 @@
             "required": false
           },
           {
-            "documentType": "SELFDECLARATION",
-            "maxFileSize": 5000,
-            "allowedFormat": [
-              "image/*",
-              ".png",
-              ".jpeg"
-            ],
-            "demandRevisionBasis": [
-              "REMISSION_FOR_PROPERTY_TAX"
-            ],
-            "hasDropDown": true,
-            "dropdownData": [
-              {
-                "code": "SELFDECLARATION",
-                "active": true
-              }
-            ],
-            "required": true
-          },
-          {
             "documentType": "PASTBILLS",
             "demandRevisionBasis": [
               "REMISSION_FOR_PROPERTY_TAX"
@@ -842,26 +803,6 @@
       },
       {
         "allowedDocs": [
-          {
-            "documentType": "SELFDECLARATION",
-            "maxFileSize": 5000,
-            "allowedFormat": [
-              "image/*",
-              ".png",
-              ".jpeg"
-            ],
-            "demandRevisionBasis": [
-              "OTHERS"
-            ],
-            "hasDropDown": true,
-            "dropdownData": [
-              {
-                "code": "SELFDECLARATION",
-                "active": true
-              }
-            ],
-            "required": true
-          },
           {
             "documentType": "SUPPORTINGDOCUMENT",
             "demandRevisionBasis": [
