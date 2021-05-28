@@ -20786,7 +20786,7 @@
     {
       "id": 5337,
       "name": "Demand Register",
-      "url": "/report/rainmaker-ws/DemandRegisterReport/_get",
+      "url": "/report/rainmaker-ws/WSDemandRegisterReport/_get",
       "displayName": "Get WS Report",
       "orderNumber": 2,
       "enabled": false,
@@ -20810,7 +20810,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "wns.WS REPORTS.Demand Register",
-      "navigationURL": "report/rainmaker-ws/DemandRegisterReport",
+      "navigationURL": "report/rainmaker-ws/WSDemandRegisterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
