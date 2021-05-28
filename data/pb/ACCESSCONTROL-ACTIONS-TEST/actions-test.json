@@ -20773,7 +20773,7 @@
       "rightIcon": ""
     },
     {
-      "id": 5333,
+      "id": 5338,
       "name": "Demand Register",
       "url": "/report/rainmaker-ws/WSDemandRegisterReport/metadata/_get",
       "displayName": "Get WS Report Metadata",
@@ -20784,7 +20784,7 @@
       "path": "WS Report"
     },
     {
-      "id": 5334,
+      "id": 5337,
       "name": "Demand Register",
       "url": "/report/rainmaker-ws/DemandRegisterReport/_get",
       "displayName": "Get WS Report",
@@ -20795,7 +20795,7 @@
       "path": "WS Report"
     },
     {
-      "id": 5335,
+      "id": 5336,
       "name": "DemandRegisterReport",
       "url": "url",
       "displayName": "Water Demand Register",
@@ -20815,6 +20815,7 @@
       "rightIcon": ""
     },
     {  
+      "id": 5333,
       "name": "DeathRecordsCountReport",
       "url": "/report/rainmaker-bnd/DeathRecordsCountReport/_get",
       "displayName": "DeathRecordsCountReport",
