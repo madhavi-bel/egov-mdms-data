@@ -27,7 +27,7 @@
     },
     {
       "jobName": "daily",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://ws-calculator:8080/ws-calculator/waterCalculator/_jobscheduler",
       "payload": {
