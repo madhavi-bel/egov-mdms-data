@@ -20771,6 +20771,31 @@
       "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    } 
+    },
+    {
+      "id": 5333,
+      "name": "DeathRecordsCountReport",
+      "url": "/report/rainmaker-bnd/DeathRecordsCountReport/_get",
+      "displayName": "DeathRecordsCountReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5334,
+      "name": "DeathRecordsCountReport",
+      "url": "/report/rainmaker-bnd/DeathRecordsCountReport/metadata/_get",
+      "displayName": "DeathRecordsCountReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    }
+    
   ]
 }
