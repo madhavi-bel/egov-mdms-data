@@ -16797,13 +16797,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "UC_EMP",
-      "actionid": 1960,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_EMP",
+      "rolecode": "EMPLOYEE",
       "actionid": 1960,
       "actioncode": "",
       "tenantId": "pb"
