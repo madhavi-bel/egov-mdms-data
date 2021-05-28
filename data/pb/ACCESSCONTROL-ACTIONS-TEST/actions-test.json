@@ -20765,7 +20765,7 @@
       "orderNumber": 9,
       "parentModule": "rainmaker-bnd",
       "enabled": true,
-      "serviceCode": "birthcount",
+      "serviceCode": "bnd",
       "code": "null",
       "path": "cbbnd.BirthRecordsCountReport",
       "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
@@ -20795,6 +20795,21 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5335,
+      "name": "DeathRecordsCountReport",
+      "url": "url",
+      "displayName": "Death Records Count",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-bnd",
+      "enabled": true,
+      "serviceCode": "bnd",
+      "code": "null",
+      "path": "cbbnd.DeathRecordsCountReport",
+      "navigationURL": "report/rainmaker-bnd/DeathRecordsCountReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
     
   ]
