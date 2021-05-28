@@ -20771,6 +20771,48 @@
       "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    } 
+    },
+    {
+      "id": 5333,
+      "name": "Demand Register",
+      "url": "/report/rainmaker-ws/WSDemandRegisterReport/metadata/_get",
+      "displayName": "Get WS Report Metadata",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 5334,
+      "name": "Demand Register",
+      "url": "/report/rainmaker-ws/DemandRegisterReport/_get",
+      "displayName": "Get WS Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 5335,
+      "name": "DemandRegisterReport",
+      "url": "url",
+      "displayName": "Water Demand Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "wns.WS REPORTS.Demand Register",
+      "navigationURL": "report/rainmaker-ws/DemandRegisterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }  
   ]
 }
