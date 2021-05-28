@@ -20765,7 +20765,7 @@
       "orderNumber": 9,
       "parentModule": "rainmaker-bnd",
       "enabled": true,
-      "serviceCode": "birthcount",
+      "serviceCode": "bnd",
       "code": "null",
       "path": "cbbnd.BirthRecordsCountReport",
       "navigationURL": "report/rainmaker-bnd/BirthRecordsCountReport",
@@ -20813,6 +20813,45 @@
       "navigationURL": "report/rainmaker-ws/DemandRegisterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }  
+    },
+    {  
+      "name": "DeathRecordsCountReport",
+      "url": "/report/rainmaker-bnd/DeathRecordsCountReport/_get",
+      "displayName": "DeathRecordsCountReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5334,
+      "name": "DeathRecordsCountReport",
+      "url": "/report/rainmaker-bnd/DeathRecordsCountReport/metadata/_get",
+      "displayName": "DeathRecordsCountReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5335,
+      "name": "DeathRecordsCountReport",
+      "url": "url",
+      "displayName": "Death Records Count",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-bnd",
+      "enabled": true,
+      "serviceCode": "bnd",
+      "code": "null",
+      "path": "cbbnd.DeathRecordsCountReport",
+      "navigationURL": "report/rainmaker-bnd/DeathRecordsCountReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
+    
   ]
 }
