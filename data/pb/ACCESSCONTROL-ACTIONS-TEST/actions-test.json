@@ -20852,6 +20852,17 @@
       "navigationURL": "report/rainmaker-bnd/DeathRecordsCountReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 5339,
+      "name": "WS Group Bill",
+      "url": "/egov-pdf/download/WS/waterbill",
+      "displayName": "WS Group Bill",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
     
   ]
