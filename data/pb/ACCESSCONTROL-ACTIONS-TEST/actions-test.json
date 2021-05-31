@@ -20863,6 +20863,48 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5340,
+      "name": "CBPTDemandCollection",
+      "url": "url",
+      "displayName": "CBPTDemandCollection",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Property Tax.PT Reports.CBPTDemandCollection",
+      "navigationURL": "report/rainmaker-pt/CBPTDemandCollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 5341,
+      "name": "CBPTDemandCollection",
+      "url": "/report/rainmaker-pt/CBPTDemandCollection/metadata/_get",
+      "displayName": "Get PT Report Metadata",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": "PT Report"
+    },
+    {
+      "id": 5342,
+      "name": "CBPTDemandCollection",
+      "url": "/report/rainmaker-pt/CBPTDemandCollection/_get",
+      "displayName": "Get PT Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": "PT Report"
     }
     
   ]
