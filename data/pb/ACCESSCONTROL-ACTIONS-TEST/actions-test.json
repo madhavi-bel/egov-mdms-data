@@ -20905,6 +20905,17 @@
       "serviceCode": "",
       "code": "null",
       "path": "PT Report"
+    },
+    {
+      "id": 5343,
+      "name": "Calculate Bill Estimate For Water Application",
+      "url": "/ws-calculator/waterCalculator/_estimateBillForConnection",
+      "displayName": "Bill estimate Calculation For Water Application ",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
     
   ]
