@@ -34,6 +34,100 @@
           "meterCharge": 0
         }
       ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "motorInfo" :"WITHPUMP", 
+      "calculationAttribute": "ARV",      
+      "maintenanceCharge":0,
+      "slabs": [
+        {
+          "from":0,
+          "to":360.01 ,
+          "charge": 433.82,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":360.01,
+          "to":2000.01,
+          "charge": 468.28,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        },
+        {
+          "from":2001.01,
+          "to":3500.01 ,
+          "charge": 566.1,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        },
+        {
+          "from":3501.01,
+          "to":6000.01 ,
+          "charge": 814.9,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":6000.01,
+          "to":8000.01 ,
+          "charge": 974.9,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":8000.01,
+          "to":10000.01 ,
+          "charge": 1040.16,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":10000.01,
+          "to":12000.01 ,
+          "charge": 1138.26,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":12000.01,
+          "to":14000.01 ,
+          "charge": 1203.92,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":14000.01,
+          "to":10000000 ,
+          "charge": 1641.7,
+          "meterCharge": 0,
+          "type":"FLAT"
+        } 
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "motorInfo" :"WITHOUTPUMP", 
+      "calculationAttribute": "ARV",      
+      "maintenanceCharge":0,
+      "slabs": [
+        {
+          "from":0,
+          "to":360.01 ,
+          "charge": 384.64,
+          "meterCharge": 0,
+          "type":"FLAT"
+        } 
+      ]
     }
   ]
 }
