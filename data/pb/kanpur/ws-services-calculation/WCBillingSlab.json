@@ -13,29 +13,29 @@
       "slabs": [
         {
           "from":0,
-          "to":2000 ,
+          "to":2000.01 ,
           "charge": 1630,
           "meterCharge": 0,
           "type":"FLAT"
         },
         {
-          "from":2001,
-          "to":3500,
+          "from":2000.01,
+          "to":3500.01,
           "charge": 2080,
           "meterCharge": 0,
           "type":"FLAT"
 
         },
         {
-          "from":3501,
-          "to":5000 ,
+          "from":3500.01,
+          "to":5000.01 ,
           "charge": 2789,
           "meterCharge": 0,
           "type":"FLAT"
 
         },
         {
-          "from":5001,
+          "from":5000.01,
           "to":10000000 ,
           "charge": 3492,
           "meterCharge": 0,
