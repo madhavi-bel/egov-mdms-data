@@ -98,7 +98,7 @@
       "code": "RATION_CARD",
       "documentType": "RATION_CARD",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -112,7 +112,7 @@
       "code": "SALE_DEED",
       "documentType": "SALE_DEED",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
