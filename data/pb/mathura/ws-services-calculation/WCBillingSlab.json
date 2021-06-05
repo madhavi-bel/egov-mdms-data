@@ -65,6 +65,15 @@
       "calculationAttribute": "Flat",
       "minimumCharge": 170,
       "slabs": []
+    },
+    {
+      "id": "8",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "INSTITUTIONAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 370,
+      "slabs": []
     }
   ]
 }
