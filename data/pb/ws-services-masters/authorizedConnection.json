@@ -5,7 +5,8 @@
     {
       "name": "Authorized connection",
       "code": "AUTHORIZED",
-      "active": true
+      "active": true,
+      "default":true
     },
     {
       "name": "Unauthorized connection",
