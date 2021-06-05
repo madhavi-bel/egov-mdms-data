@@ -28,6 +28,15 @@
       "calculationAttribute": "Flat",
       "minimumCharge": 39876,
       "slabs": [  ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "NONRESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 3115,
+      "slabs": [  ]
     }
    
   ]
