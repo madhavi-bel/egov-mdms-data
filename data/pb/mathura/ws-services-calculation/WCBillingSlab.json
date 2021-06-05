@@ -32,7 +32,7 @@
     },
     {
       "id": "4",
-      "PropertyLocation": "BUNGLOW",
+      "PropertyLocation": "CIVIL",
       "buildingType": "INSTITUTIONAL",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
@@ -58,7 +58,7 @@
       "slabs": []
     },
     {
-      "id": "6",
+      "id": "7",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "MIXED",
       "connectionType": "Non Metered",
