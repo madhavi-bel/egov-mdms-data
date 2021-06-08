@@ -20693,7 +20693,6 @@
       "rightIcon": ""
     },
     {
-    {
       "id": 5340,
       "name": "CBPTDemandCollection",
       "url": "url",
@@ -20735,6 +20734,7 @@
       "code": "null",
       "path": "PT Report"
     },
+	{
       "id": 5344,
       "name": "BirthRecordsCountReportCBLevel",
       "url": "/report/rainmaker-bnd/BirthRecordsCountReportCBLevel/_get",
