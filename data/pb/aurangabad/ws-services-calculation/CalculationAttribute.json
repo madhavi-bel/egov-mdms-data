@@ -12,7 +12,7 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "attribute": "Flat",
+      "attribute": "Pipe Size",
       "active": true,
       "filterAttribute" : ["PropertyLocation","buildingType"]
       

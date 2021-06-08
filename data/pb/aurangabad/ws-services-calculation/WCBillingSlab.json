@@ -7,27 +7,50 @@
       "PropertyLocation": "CIVIL",
       "buildingType": "RESIDENTIAL",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 2000,
-      "slabs": []
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [ 
+        {
+          "from": 0,
+          "to": 8,
+          "charge": 2000,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
     },
     {
       "id": "2",
       "PropertyLocation": "CIVIL",
       "buildingType": "MIXED",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 3115,
-      "slabs": [  ]
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [ 
+        {
+          "from": 0,
+          "to": 8,
+          "charge": 3115,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+       ]
     },
     {
       "id": "3",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "MIXED",
       "connectionType": "Non Metered",
-      "calculationAttribute": "Flat",
-      "minimumCharge": 39876,
-      "slabs": [  ]
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [ 
+        {
+        "from": 0,
+        "to": 8,
+        "charge": 39876,
+        "meterCharge": 0,
+        "type":"Flat"
+      } ]
     },
     {
       "id": "4",
