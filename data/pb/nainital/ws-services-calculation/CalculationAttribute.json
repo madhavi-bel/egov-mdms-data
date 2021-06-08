@@ -12,9 +12,9 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
-      "attribute": "Flat",
-      "filterAttribute" : [ ],
-      "active": false
+      "attribute": "ARV",
+      "filterAttribute" : [ "motorInfo"],
+      "active": true
     }
   ]
 }

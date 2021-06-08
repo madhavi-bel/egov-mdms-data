@@ -5,7 +5,8 @@
     {
       "name": "Without Pump",
       "code": "WITHOUTPUMP",
-      "active": true
+      "active": true,
+      "default":true
     },
     {
       "name": "With Pump",

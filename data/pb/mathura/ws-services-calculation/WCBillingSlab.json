@@ -32,6 +32,42 @@
     },
     {
       "id": "4",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "INSTITUTIONAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 370,
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 80,
+      "slabs": []
+    },
+    {
+      "id": "6",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "NONRESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 80,
+      "slabs": []
+    },
+    {
+      "id": "7",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 170,
+      "slabs": []
+    },
+    {
+      "id": "8",
       "PropertyLocation": "BUNGLOW",
       "buildingType": "INSTITUTIONAL",
       "connectionType": "Non Metered",

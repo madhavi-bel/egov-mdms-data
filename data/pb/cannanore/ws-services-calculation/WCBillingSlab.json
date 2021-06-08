@@ -25,7 +25,7 @@
       "PropertyLocation": null,
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "Water consumption",
       "minimumCharge": 40,
       "slabs": [
         {
@@ -65,7 +65,7 @@
       "PropertyLocation": null,
       "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "Water consumption",
       "minimumCharge": 150,
       "slabs": [
         {

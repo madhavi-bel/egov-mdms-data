@@ -85,6 +85,48 @@
           "meterCharge": 0
         }
       ]
+    },
+    {
+      "id": "5",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "motorInfo" :"WITHOUTPUMP",
+      "calculationAttribute": "No. of taps",
+      "minimumCharge": 138,
+      "motorCharge" : 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1,
+          "charge": 138,
+          "meterCharge": 0
+        },
+        {
+          "from": 1,
+          "to": 100000,
+          "charge": 83,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "motorInfo" :"WITHPUMP",
+      "calculationAttribute": "No. of taps",
+      "minimumCharge": 165,
+      "motorCharge" : 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 100000,
+          "charge": 165,
+          "meterCharge": 0
+        } 
+      ]
     }
   ]
 }

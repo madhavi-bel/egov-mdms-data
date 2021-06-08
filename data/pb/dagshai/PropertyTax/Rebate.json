@@ -1,14 +1,5 @@
 {
     "tenantId": "pb.dagshai",
     "moduleName": "PropertyTax",
-    "Rebate": [
-        {
-            "rate": 50,
-            "maxAmount": null,
-            "flatAmount": null,
-            "fromFY": "2021-22",
-            "endingDay": "30/06",
-            "mutationPaymentPeriodInMonth": "06"
-        }
-    ]
+    "Rebate": []
 }
