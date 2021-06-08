@@ -20546,6 +20546,31 @@
      "serviceCode": "WSREPORTS",
      "code": "null",
      "path": "WaterConnectionFailedBillReport"
+  },
+  {
+    "id": 5328,
+    "name": "BillAmendment",
+    "url": "url",
+    "displayName": "Bill Amendment",
+    "orderNumber": 5,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "BA",
+    "code": "null",
+    "navigationURL": "bill-amend/search",
+    "path": "BA",
+    "leftIcon": "action:receipt"
+  },
+    {
+      "id": 5329,
+      "name": "Bill Generation Based on Tenant or Connection No",
+      "url": "/ws-calculator/waterCalculator/_jobscheduler_manual",
+      "displayName": "Bill Generation Based on Tenant or Connection No",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
    },
     {
       "id": 5330,
@@ -20668,6 +20693,48 @@
       "rightIcon": ""
     },
     {
+    {
+      "id": 5340,
+      "name": "CBPTDemandCollection",
+      "url": "url",
+      "displayName": "CBPTDemandCollection",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Property Tax.PT Reports.CBPTDemandCollection",
+      "navigationURL": "report/rainmaker-pt/CBPTDemandCollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 5341,
+      "name": "CBPTDemandCollection",
+      "url": "/report/rainmaker-pt/CBPTDemandCollection/metadata/_get",
+      "displayName": "Get PT Report Metadata",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": "PT Report"
+    },
+    {
+      "id": 5342,
+      "name": "CBPTDemandCollection",
+      "url": "/report/rainmaker-pt/CBPTDemandCollection/_get",
+      "displayName": "Get PT Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": "PT Report"
+    },
       "id": 5344,
       "name": "BirthRecordsCountReportCBLevel",
       "url": "/report/rainmaker-bnd/BirthRecordsCountReportCBLevel/_get",
@@ -20822,6 +20889,18 @@
       "navigationURL": "report/rainmaker-bnd/DeathRecordsCountReportCBLevel",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 5356,
+      "name": "Update Demand",
+      "url": "/pt-calculator-v2/propertytax/_updatedemand",
+      "displayName": "Update Demand",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-calculator-v2",
+      "code": "null",
+      "path": ""
     }
     
   ]
