@@ -11,7 +11,7 @@
       "idname": "billnumberid"
     },
     {
-      "format": "PB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "format": "CB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.assessmentnumber"
     },
     {
@@ -19,7 +19,7 @@
       "idname": "watercharges.metered.receipt.id"
     },
     {
-      "format": "PT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "PT/CB/[cb.name]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "pt.receipt.id"
     },
     {
