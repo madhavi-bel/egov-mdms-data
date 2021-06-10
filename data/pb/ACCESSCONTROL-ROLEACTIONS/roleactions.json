@@ -16892,12 +16892,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 5343,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+  
     {
       "rolecode": "WS_CEMP",
       "actionid": 5343,
