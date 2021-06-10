@@ -431,6 +431,61 @@
       "code": "THIRDPARTY",
       "name": "Third party requirig API access",
       "description": "Third party requirig API access"
+    },
+    {
+      "code": "OBM_GHB_CEMP",
+      "name": "Guest House Booking CEMP",
+      "description": "Guest House Booking CEMP"
+    },
+    {
+      "code": "OBM_GHB_DOC_VERIFIER",
+      "name": "Guest House Booking Doc Verifier",
+      "description": "Guest House Booking Doc Verifier"
+    },
+    {
+      "code": "OBM_GHB_APPROVER",
+      "name": "Guest House Booking Approver",
+      "description": "Guest House Booking Approver"
+    },
+    {
+      "code": "OBM_GHB_GHM",
+      "name": "The Guest House Manager",
+      "description": "The Guest House Manager"
+    },
+    {
+      "code": "OBM_CHB_CEMP",
+      "name": "Community Hall Booking CEMP",
+      "description": "Community Hall Booking CEMP"
+    },
+    {
+      "code": "OBM_CHB_DOC_VERIFIER",
+      "name": "Community Hall Booking Doc Verifier",
+      "description": "Community Hall Booking Doc Verifier"
+    },
+    {
+      "code": "OBM_CHB_APPROVER",
+      "name": "Community Hall Booking Approver",
+      "description": "Community Hall Booking Approver"
+    },
+    {
+      "code": "OBM_CHB_BMO",
+      "name": "The Booking Management Officer of Community Hall",
+      "description": "The Booking Management Officer of Community Hall"
+    },
+    {
+      "code": "OBM_WT_CEMP",
+      "name": "Water Tanker Booking CEMP",
+      "description": "Water Tanker Booking CEMP"
+    },
+    {
+      "code": "OBM_WT_DOC_VERIFIER",
+      "name": "Water Tanker Booking Doc Verifier",
+      "description": "Water Tanker Booking Doc Verifier"
+    },
+    {
+      "code": "OBM_WT_APPROVER",
+      "name": "Water Tanker Booking Approver",
+      "description": "Water Tanker Booking Approver"
     }
   ]
 }
