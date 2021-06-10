@@ -65,6 +65,56 @@
           "charge": 5.89,
           "meterCharge": 0
         }
+
+      ]
+    },
+    {
+      "id": "1",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Property Area",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 9999999999,
+          "charge": 550,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Property Area",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 100.01,
+          "charge": 1400,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 100.01,
+          "to": 400.01,
+          "charge": 1600,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 400.01,
+          "to": 9999999999,
+          "charge": 2000,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+
       ]
     }
   ]
