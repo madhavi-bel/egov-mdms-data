@@ -21084,6 +21084,45 @@
       "serviceCode": "pt-calculator-v2",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5357,
+      "name": "DGDELevelNonDeclarationStatusReport",
+      "url": "/report/rainmaker-empdeclaration/DGDELevelNonDeclarationStatusReport/_get",
+      "displayName": "DGDELevelNonDeclarationStatusReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5358,
+      "name": "DGDELevelNonDeclarationStatusReport",
+      "url": "/report/rainmaker-empdeclaration/DGDELevelNonDeclarationStatusReport/metadata/_get",
+      "displayName": "DGDELevelNonDeclarationStatusReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5359,
+      "name": "DGDELevelNonDeclarationStatusReport",
+      "url": "url",
+      "displayName": "Non Declaration Status",
+      "orderNumber": 8,
+      "parentModule": "rainmaker-empdeclaration",
+      "enabled": true,
+      "serviceCode": "empdeclaration",
+      "code": "null",
+      "path": "cbdecl.DGDELevelNonDeclarationStatusReport",
+      "navigationURL": "report/rainmaker-empdeclaration/DGDELevelNonDeclarationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
     
   ]
