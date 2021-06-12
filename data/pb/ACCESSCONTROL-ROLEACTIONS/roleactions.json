@@ -10935,6 +10935,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "WS_CEMP",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_DOC_VERIFIER",
       "actionid": 1899,
       "actioncode": "",
