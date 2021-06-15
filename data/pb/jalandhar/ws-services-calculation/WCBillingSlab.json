@@ -9,7 +9,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
-      "motorCharge" : 80,
+      "motorCharge" : 960,
       "slabs": [
         {
           "from": 0,
@@ -34,7 +34,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
-      "motorCharge" : 80,
+      "motorCharge" : 960,
       "slabs": [
         {
           "from": 0,
@@ -52,7 +52,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
-      "motorCharge" : 80,
+      "motorCharge" : 960,
       "slabs": [
         {
           "from": 0,
@@ -70,7 +70,7 @@
       "connectionType": "Non Metered",
       "calculationAttribute": "Pipe Size",
       "minimumCharge": 0,
-      "motorCharge" : 80,
+      "motorCharge" : 960,
       "slabs": [
         {
           "from": 0,
