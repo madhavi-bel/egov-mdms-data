@@ -63,7 +63,7 @@
       "buildingType": "MIXED",
       "connectionType": "Non Metered",
       "calculationAttribute": "Flat",
-      "minimumCharge": 170,
+      "minimumCharge": 180,
       "slabs": []
     },
     {
