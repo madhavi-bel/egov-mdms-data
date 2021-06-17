@@ -47,6 +47,17 @@
       "order": "1",
       "isRequired": false,
       "legacy": true
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "PT",
+      "name": "Pt advance carry forward",
+      "code": "PT_ADVANCE_CARRYFORWARD",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false,
+      "legacy": true
     }
   ]
 }
