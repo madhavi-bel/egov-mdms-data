@@ -77,7 +77,7 @@
         "service": "PT",
         "name": "Pt advance carry forward",
         "code": "PT_ADVANCE_CARRYFORWARD",
-        "isDebit": false,
+        "isDebit": true,
         "isActualDemand": true,
         "order": "0",
         "isRequired": false,
