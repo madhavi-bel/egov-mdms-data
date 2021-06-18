@@ -9225,7 +9225,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "PT_CEMP",
       "actionid": 1943,
       "actioncode": "",
       "tenantId": "pb"
