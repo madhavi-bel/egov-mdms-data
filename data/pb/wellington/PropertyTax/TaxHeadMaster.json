@@ -29,15 +29,15 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "Conservancy",
-      "code": "PT_CONSERVANCY_TAX",
+      "name": "Scavenging",
+      "code": "PT_SCAVENGING_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "5",
+      "order": "14",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
-    },
+    }
     {
       "category": "TAX",
       "service": "PT",
