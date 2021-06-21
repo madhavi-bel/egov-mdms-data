@@ -15028,6 +15028,36 @@
     },
     {
       "rolecode": "PT_CEMP",
+      "actionid": 5270,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 5270,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 5270,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 5270,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5270,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
       "actionid": 1580,
       "actioncode": "",
       "tenantId": "pb"
@@ -15203,6 +15233,12 @@
     {
       "rolecode": "STADMIN",
       "actionid": 5275,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGDE",
+      "actionid": 5276,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -15418,6 +15454,18 @@
     },
     {
       "rolecode": "WS_CEMP",
+      "actionid": 5301,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5301,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
       "actionid": 5302,
       "actioncode": "",
       "tenantId": "pb"
@@ -15490,6 +15538,18 @@
     },
     {
       "rolecode": "PT_CEMP",
+      "actionid": 5301,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 5301,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
       "actionid": 5302,
       "actioncode": "",
       "tenantId": "pb"
@@ -15509,6 +15569,18 @@
     {
       "rolecode": "PT_APPROVER",
       "actionid": 5303,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5304,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 5304,
       "actioncode": "",
       "tenantId": "pb"
     },
