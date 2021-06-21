@@ -9225,7 +9225,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "PT_CEMP",
       "actionid": 1943,
       "actioncode": "",
       "tenantId": "pb"
@@ -16031,6 +16031,36 @@
     {
       "rolecode": "DGDE",
       "actionid": 5359,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1570,
       "actioncode": "",
       "tenantId": "pb"
     }
