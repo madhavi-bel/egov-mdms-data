@@ -49,10 +49,10 @@
         "legacy": true
       },
       {
-        "category": "REBATE",
+        "category": "ADVANCE_COLLECTION",
         "service": "PT",
-        "name": "Pt time rebate",
-        "code": "PT_TIME_REBATE",
+        "name": "Pt advance carry forward",
+        "code": "PT_ADVANCE_CARRYFORWARD",
         "isDebit": true,
         "isActualDemand": true,
         "order": "0",

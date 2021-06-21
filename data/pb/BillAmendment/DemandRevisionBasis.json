@@ -11,10 +11,6 @@
             "active": true
         },
         {
-            "code": "DCB_CORRECTION",
-            "active": true
-        },
-        {
             "code": "ONE_TIME_SETTLEMENT",
             "active": true
         },
@@ -54,5 +50,6 @@
             "code": "ADVANCE_PAYMENT_OF_PROPERTY",
             "active": true
         }
+
     ]
 } 
