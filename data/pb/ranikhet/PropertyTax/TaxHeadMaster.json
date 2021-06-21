@@ -29,18 +29,6 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "Conservancy",
-        "code": "PT_CONSERVANCY_TAX",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "5",
-        "isRequired": false,
-        "legacy": true,
-        "IsBillamend": true
-      },
-      {
-        "category": "TAX",
-        "service": "PT",
         "name": "DemandNoticeCharge",
         "code": "PT_DEMANDNOTICE_CHARGE",
         "isDebit": false,
@@ -70,6 +58,18 @@
         "order": "0",
         "isRequired": false,
         "legacy": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "Scavenging",
+        "code": "PT_SCAVENGING_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "14",
+        "isRequired": false,
+        "legacy": true,
+        "IsBillamend": true
       }
 
     ]

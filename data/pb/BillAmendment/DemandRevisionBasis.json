@@ -11,10 +11,6 @@
             "active": true
         },
         {
-            "code": "DCB_CORRECTION",
-            "active": true
-        },
-        {
             "code": "ONE_TIME_SETTLEMENT",
             "active": true
         },

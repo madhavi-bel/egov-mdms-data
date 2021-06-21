@@ -14735,6 +14735,18 @@
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Scavenging",
+      "code": "PT_SCAVENGING_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "14",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
     }
   ]
 }
