@@ -14,21 +14,21 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 2112,
+          "charge": 3000,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 0.51,
           "to": 0.76,
-          "charge": 4474,
+          "charge": 6000,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 0.76,
           "to": 1.01,
-          "charge": 7284,
+          "charge": 9600,
           "meterCharge": 0,
           "type":"Flat"
         }
@@ -46,21 +46,21 @@
         {
           "from": 0,
           "to": 0.51,
-          "charge": 6276,
+          "charge": 9600,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 0.51,
           "to": 0.76,
-          "charge": 8375,
+          "charge": 12000,
           "meterCharge": 0,
           "type":"Flat"
         },
         {
           "from": 0.76,
           "to": 1.01,
-          "charge": 48000,
+          "charge": 72000,
           "meterCharge": 0,
           "type":"Flat"
         } 
