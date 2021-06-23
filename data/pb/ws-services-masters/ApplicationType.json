@@ -29,8 +29,8 @@
     {
       "id": 5,
       "code": "DEACTIVATE_WATER_CONNECTION",
-      "name": "Modify Sewerage Connection",
-      "businessService":"ModifySWConnection"
+      "name": "Deactivate Water Connection",
+      "businessService":"DeactivateWSConnection"
     }
   ]
 }
