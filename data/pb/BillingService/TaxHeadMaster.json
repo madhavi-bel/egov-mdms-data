@@ -14747,6 +14747,18 @@
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "ConservancyTax",
+      "code": "PT_CONSERVANCY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "15",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
     }
   ]
 }
