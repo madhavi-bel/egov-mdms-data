@@ -1,0 +1,1205 @@
+{
+  "tenantId" : "pb.stm",
+  "moduleName" : "BillingService",
+  "GLCodes" : [ {
+    "code" : "CREDDEP.CAND_SEC_DEP_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.COMPD_FEE_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.CONSRV_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DMG_CHRG_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEAD_ANML_CONT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEV_CHRG_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DISTRAINT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_BIRTHCERT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_DEATHCERT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_SANTICERT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TREE_AUC_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.COM_CEN_BK_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.FRM_PUB_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ADM_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_CONSER_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ELEC_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_PWD_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_HOSP_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_RD_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.ADVT_TAX",
+    "glcode" : "210-1121-0001 - Advertisement Tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.CONS_TAX",
+    "glcode" : "210-1114-0001 - Lighting & Drainage Tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.SANT_TAX",
+    "glcode" : "210-1113-0001 - Conservancy & Scavenging Tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.GRBG_COLL_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.RD_CUTT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.CAND_SEC_DEP_TAX",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_TAX",
+    "glcode" : "- - ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "ENTFEE.PARK_TAX",
+    "glcode" : "110-1314-0001 - Ground Rent Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "ENTFEE.PARK_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "ENTFEE.PARK_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "ENTFEE.PARK_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "ENTFEE.PARK_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_TAX",
+    "glcode" : "110-4651-0001 - Building Plan Layout Processing fees.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_TAX",
+    "glcode" : "810-1592-0002 - Birth Registration fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_TAX",
+    "glcode" : "210-1541-0001 - Building sanction / Development fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.COMPD_FEE_TAX",
+    "glcode" : "110-1555-0001 - Compounding fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.CONSRV_TAX",
+    "glcode" : "510-1526-0001 - ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DMG_CHRG_TAX",
+    "glcode" : "210-1554-0001 - Damage Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEAD_ANML_CONT_TAX",
+    "glcode" : "- - ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEV_CHRG_TAX",
+    "glcode" : "210-1541-0001 - Building Sanction / Dev. fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DISTRAINT_TAX",
+    "glcode" : "210-1557-0001 - Distraint fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_BIRTHCERT_TAX",
+    "glcode" : "810-1592-0004 - Issue of Birth Certificate",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_DEATHCERT_TAX",
+    "glcode" : "810-1592-0005 - Issue of Death Certificate",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_SANTICERT_TAX",
+    "glcode" : "810-1592-0006 - Issue of Sanitation Certificate",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_TAX",
+    "glcode" : "210-1532-0001 - Licence fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_TAX",
+    "glcode" : "810-1512-0001 - Fees & Rev. Medical Institution ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_TAX",
+    "glcode" : "210-1551-0001 - Fines under Cantonment A/c",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_TAX",
+    "glcode" : "210-1531-0001 - Registration fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_TAX",
+    "glcode" : "210-1534-0001 - Fees for Registration of Right to Information Act (RTI)",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_TAX",
+    "glcode" : "210-1621-0001 - Sale of Books & forms",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TREE_AUC_TAX",
+    "glcode" : "210-1593-0001 - Tree Auction",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.COM_CEN_BK_TAX",
+    "glcode" : "710-1327-0001 - Income from Marriage Hall STM & PVM",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.FRM_PUB_TAX",
+    "glcode" : "210-1621-0001 - Sale of Book & Form",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ADM_TAX",
+    "glcode" : "110-1621-0002 - Cost of Application form in Admin",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_CONSER_TAX",
+    "glcode" : "510-1621-0003 - Cost of Application form in Conservancy",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ELEC_TAX",
+    "glcode" : "480-1621-0004 - Cost of Application form in Electrical Dept.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_PWD_TAX",
+    "glcode" : "310-1621-0005 - Cost of Application form in Engg. Dept.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_HOSP_TAX",
+    "glcode" : "810-1621-0006 - Cost of Application form in Hospital",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_RD_TAX",
+    "glcode" : "210-1621-0007 - Cost of Application form in Revenue Dept.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_TAX",
+    "glcode" : "210-1239-0001 - Income for Service Charges others",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.ADVT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.CONS_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_TAX",
+    "glcode" : "210-1141-0001 - Tax Trade & Profession",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.SANT_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.GRBG_COLL_TAX",
+    "glcode" : "110-1526-0001 - Garbage Clearing Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.RD_CUTTTAX",
+    "glcode" : "220-1599-0001 - Road Cutting Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.CAND_SEC_DEP_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.CAND_SEC_DEP_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.COMPD_FEE_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.COMPD_FEE_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.CONSRV_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.CONSRV_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEAD_ANML_CONT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEAD_ANML_CONT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEV_CHRG_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEV_CHRG_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DISTRAINT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DISTRAINT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DMG_CHRG_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DMG_CHRG_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_BIRTHCERT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_BIRTHCERT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_DEATHCERT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_DEATHCERT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_SANTICERT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_SANTICERT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TREE_AUC_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TREE_AUC_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.COM_CEN_BK_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.COM_CEN_BK_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.FRM_PUB_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.FRM_PUB_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ADM_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ADM_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_CONSER_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_CONSER_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ELEC_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ELEC_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_HOSP_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_HOSP_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_PWD_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_PWD_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_RD_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_RD_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.ADVT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.ADVT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.CONS_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.CONS_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.SANT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.SANT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.GRBG_COLL_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.GRBG_COLL_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.RD_CUTT_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.RD_CUTT_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.CAND_SEC_DEP_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.COMPD_FEE_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.CONSRV_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DMG_CHRG_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEAD_ANML_CONT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEV_CHRG_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DISTRAINT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_BIRTHCERT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_DEATHCERT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_SANTICERT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TREE_AUC_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.COM_CEN_BK_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.FRM_PUB_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ADM_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_CONSER_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ELEC_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_PWD_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_HOSP_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_RD_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.ADVT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.CONS_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.SANT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.GRBG_COLL_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.RD_CUTT_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PARKING_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PARKING_TAX",
+    "glcode" : "110-4659-0009 - Parking Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PARKING_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PARKING_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PARKING_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.VERMI_SEC_DEP",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.VERMI_CGST",
+    "glcode" : "110-4934-0001 - Input Tax Credit GST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.VERMI_SGST",
+    "glcode" : "110-4934-0002 - Input Tax Credit SGST/CGST",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_TAX",
+    "glcode" : "110-3612-0001 - EMd for Labour Contracts",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.VERMI_TAX",
+    "glcode" : "520-1641-0001 - Sale of Vermi compost & Night Soil",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.VERMI_FIELD_FEE",
+    "glcode" : "110-1517-0001 - Field Verification Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "ENTFEE.PARK_ROUNDOFF",
+    "glcode" : "110-1314-0001 - Ground Rent Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.CAND_SEC_DEP_ROUNDOFF",
+    "glcode" : "110-3621-0001 - Security Deposit from Supplier of Material",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_ROUNDOFF",
+    "glcode" : "- - ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_ROUNDOFF",
+    "glcode" : "110-4651-0001 - Building Plan Layout Processing fees.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_ROUNDOFF",
+    "glcode" : "810-1592-0002 - Birth Registration fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_ROUNDOFF",
+    "glcode" : "210-1541-0001 - Building sanction / Development fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.COMPD_FEE_ROUNDOFF",
+    "glcode" : "110-1555-0001 - Compounding fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.CONSRV_ROUNDOFF",
+    "glcode" : "510-1526-0001 - ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DMG_CHRG_ROUNDOFF",
+    "glcode" : "210-1554-0001 - Damage Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEAD_ANML_CONT_ROUNDOFF",
+    "glcode" : "- - ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEV_CHRG_ROUNDOFF",
+    "glcode" : "210-1541-0001 - Building Sanction / Dev. fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DISTRAINT_ROUNDOFF",
+    "glcode" : "210-1557-0001 - Distraint fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_BIRTHCERT_ROUNDOFF",
+    "glcode" : "810-1592-0004 - Issue of Birth Certificate",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_DEATHCERT_ROUNDOFF",
+    "glcode" : "810-1592-0005 - Issue of Death Certificate",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_ROUNDOFF",
+    "glcode" : "810-1512-0001 - Fees & Rev. Medical Institution ",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.ISS_SANTICERT_ROUNDOFF",
+    "glcode" : "810-1592-0006 - Issue of Sanitation Certificate",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_ROUNDOFF",
+    "glcode" : "210-1532-0001 - Licence fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_ROUNDOFF",
+    "glcode" : "210-1551-0001 - Fines under Cantonment A/c",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_ROUNDOFF",
+    "glcode" : "210-1531-0001 - Registration fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_ROUNDOFF",
+    "glcode" : "210-1534-0001 - Fees for Registration of Right to Information Act (RTI)",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_ROUNDOFF",
+    "glcode" : "210-1621-0001 - Sale of Books & forms",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TREE_AUC_ROUNDOFF",
+    "glcode" : "210-1593-0001 - Tree Auction",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.COM_CEN_BK_ROUNDOFF",
+    "glcode" : "710-1327-0001 - Income from Marriage Hall STM & PVM",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.FRM_PUB_ROUNDOFF",
+    "glcode" : "210-1621-0001 - Sale of Book & Form",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ADM_ROUNDOFF",
+    "glcode" : "110-1621-0002 - Cost of Application form in Admin",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_CONSER_ROUNDOFF",
+    "glcode" : "510-1621-0003 - Cost of Application form in Conservancy",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_ELEC_ROUNDOFF",
+    "glcode" : "480-1621-0004 - Cost of Application form in Electrical Dept.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_PWD_ROUNDOFF",
+    "glcode" : "310-1621-0005 - Cost of Application form in Engg. Dept.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_HOSP_ROUNDOFF",
+    "glcode" : "810-1621-0006 - Cost of Application form in Hospital",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.APP_RD_ROUNDOFF",
+    "glcode" : "210-1621-0007 - Cost of Application form in Revenue Dept.",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_ROUNDOFF",
+    "glcode" : "210-1239-0001 - Income for Service Charges others",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.ADVT_ROUNDOFF",
+    "glcode" : "210-1121-0001 - Advertisement Tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.CONS_ROUNDOFF",
+    "glcode" : "210-1114-0001 - Lighting & Drainage Tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_ROUNDOFF",
+    "glcode" : "210-1141-0001 - Tax Trade & Profession",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.SANT_ROUNDOFF",
+    "glcode" : "210-1113-0001 - Conservancy & Scavenging Tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.GRBG_COLL_ROUNDOFF",
+    "glcode" : "110-1526-0001 - Garbage Clearing Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "UC.RD_CUTT_ROUNDOFF",
+    "glcode" : "220-1599-0001 - Road Cutting Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PARKING_ROUNDOFF",
+    "glcode" : "110-4659-0009 - Parking Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_ROUNDOFF",
+    "glcode" : "110-3612-0001 - EMd for Labour Contracts",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.VERMI_ROUNDOFF",
+    "glcode" : "520-1641-0001 - Sale of Vermi compost & Night Soil",
+    "dept" : null,
+    "fund" : null
+  } ]
+}
