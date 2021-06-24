@@ -1,0 +1,695 @@
+{
+  "tenantId" : "pb.khasyol",
+  "moduleName" : "BillingService",
+  "GLCodes" : [ {
+    "code" : "CREDDEP.MNY_DEP_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEATH_REG_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.EDU_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DC_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MISC_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.SLGHT_HS_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.WF_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.GH_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.STR_SCRP_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.TOLL_TAX",
+    "glcode" : "210-1162-0001 - Tolls",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.MNY_DEP_TAX",
+    "glcode" : "110-3619-0002 - EMD For Toll Tax And Stallage",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_TAX",
+    "glcode" : "110-3629-0005 - SD for Water Connection",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_TAX",
+    "glcode" : "220-1535-0001 - Application Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_TAX",
+    "glcode" : "220-1531-0001 - Birth Registration Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_TAX",
+    "glcode" : "220-1541-0001 - Building Plan Processing Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEATH_REG_TAX",
+    "glcode" : "220-1531-0004 - Death Registration Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.EDU_TAX",
+    "glcode" : "910-1511-0001 - Fees From Educational Institutions",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DC_TAX",
+    "glcode" : "220-1592-0002 - Copying Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_TAX",
+    "glcode" : "630-1532-0001 - License fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_TAX",
+    "glcode" : "810-1512-0001 - Fees From Medical Institution",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MISC_TAX",
+    "glcode" : "220-1999-0009 - Miscellaneous Income",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_TAX",
+    "glcode" : "110-1551-0001 - Fines under the Cantonment Act",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_TAX",
+    "glcode" : "220-1531-0005 - Registration Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_TAX",
+    "glcode" : "110-1534-0001 - RTI",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.SLGHT_HS_TAX",
+    "glcode" : "620-1514-0002 - Fees From Slaughter houses",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_TAX",
+    "glcode" : "220-1519-0001 - Tender Form Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.WF_TAX",
+    "glcode" : "220-1552-0001 - Warrant Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.GH_TAX",
+    "glcode" : "740-1323-0002 - Guest House Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.STR_SCRP_TAX",
+    "glcode" : "220-1631-0001 - Sale Of Scrap",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_TAX",
+    "glcode" : "110 - 4621 -0001 - Service Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_TAX",
+    "glcode" : "110 4612- 0001 - Professional tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.TOLL_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.MNY_DEP_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.MNY_DEP_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DC_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DC_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEATH_REG_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEATH_REG_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.EDU_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.EDU_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MISC_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MISC_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.SLGHT_HS_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.SLGHT_HS_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.WF_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.WF_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.GH_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.GH_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.STR_SCRP_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.STR_SCRP_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.TOLL_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.TOLL_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.MNY_DEP_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEATH_REG_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.EDU_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DC_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MISC_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.SLGHT_HS_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.WF_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.GH_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.STR_SCRP_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.TOLL_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_SEC_DEP",
+    "glcode" : "110-3629-0005 - SD for Vehicle Insurance",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_CGST",
+    "glcode" : "110-3841-0001 - CGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_SGST",
+    "glcode" : "110-3841-0002 - SGST / UTGST Payable",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_TAX",
+    "glcode" : "110-3612-0001 - EMD From Labour Contracts",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_FIELD_FEE",
+    "glcode" : "220-1519-0005 - Field Fee/Field Verification Fee",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.MNY_DEP_ROUNDOFF",
+    "glcode" : "110-3619-0002 - EMD For Toll Tax And Stallage",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.SEC_DEP_ROUNDOFF",
+    "glcode" : "110-3629-0005 - SD for Water Connection",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.APP_FEE_ROUNDOFF",
+    "glcode" : "220-1535-0001 - Application Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BIRTH_REG_ROUNDOFF",
+    "glcode" : "220-1531-0001 - Birth Registration Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.BLD_FEE_ROUNDOFF",
+    "glcode" : "220-1541-0001 - Building Plan Processing Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DEATH_REG_ROUNDOFF",
+    "glcode" : "220-1531-0004 - Death Registration Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.EDU_ROUNDOFF",
+    "glcode" : "910-1511-0001 - Fees From Educational Institutions",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.DC_ROUNDOFF",
+    "glcode" : "220-1592-0002 - Copying Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MED_ROUNDOFF",
+    "glcode" : "810-1512-0001 - Fees From Medical Institution",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.LIC_ROUNDOFF",
+    "glcode" : "630-1532-0001 - License fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.MISC_ROUNDOFF",
+    "glcode" : "220-1999-0009 - Miscellaneous Income",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.PENALT_ROUNDOFF",
+    "glcode" : "110-1551-0001 - Fines under the Cantonment Act",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.REG_ROUNDOFF",
+    "glcode" : "220-1531-0005 - Registration Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.RTI_ROUNDOFF",
+    "glcode" : "110-1534-0001 - RTI",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.SLGHT_HS_ROUNDOFF",
+    "glcode" : "620-1514-0002 - Fees From Slaughter houses",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.TNDR_FRM_ROUNDOFF",
+    "glcode" : "220-1519-0001 - Tender Form Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "OTHFEE.WF_ROUNDOFF",
+    "glcode" : "220-1552-0001 - Warrant Fees",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "RENT.GH_ROUNDOFF",
+    "glcode" : "740-1323-0002 - Guest House Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SALE.STR_SCRP_ROUNDOFF",
+    "glcode" : "220-1631-0001 - Sale Of Scrap",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "SRVC.SRVC_CHRG_ROUNDOFF",
+    "glcode" : "110 - 4621 -0001 - Service Charges",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.PROF_ROUNDOFF",
+    "glcode" : "110 4612- 0001 - Professional tax",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "TX.TOLL_ROUNDOFF",
+    "glcode" : "210-1162-0001 - Tolls",
+    "dept" : null,
+    "fund" : null
+  }, {
+    "code" : "CREDDEP.EMD_LC_ROUNDOFF",
+    "glcode" : "110-3612-0001 - EMD From Labour Contracts",
+    "dept" : null,
+    "fund" : null
+  } ]
+}
