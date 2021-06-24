@@ -14751,11 +14751,35 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "ConservancyTax",
-      "code": "PT_CONSERV_TAX",
+      "name": "LibraryCess",
+      "code": "PT_LIBRARY_CESS",
       "isDebit": false,
       "isActualDemand": true,
       "order": "15",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "ConservancyTax",
+      "code": "PT_CONSERVE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "16",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": " SpecialConservancyTax",
+      "code": "PT_SPECIAL_CONSERVANCY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "17",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
