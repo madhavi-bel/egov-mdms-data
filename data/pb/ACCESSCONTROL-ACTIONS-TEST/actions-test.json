@@ -21123,7 +21123,27 @@
       "navigationURL": "report/rainmaker-empdeclaration/DGDELevelNonDeclarationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 5360,
+      "name": "STR Module",
+      "url": "url",
+      "displayName": "STR Module",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Property Tax.STR Module",
+      "navigationURL": "pt-mutation/propertyCostDetails",
+      "leftIcon": "communication:business",
+      "rightIcon": ""
+      }
     
   ]
 }
