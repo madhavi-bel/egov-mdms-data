@@ -77,18 +77,6 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "DrainageTax",
-        "code": "PT_DRAINAGE_TAX",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "12",
-        "isRequired": false,
-        "legacy": true,
-        "IsBillamend": true
-      },
-      {
-        "category": "TAX",
-        "service": "PT",
         "name": "DemandNoticeCharge",
         "code": "PT_DEMANDNOTICE_CHARGE",
         "isDebit": false,
