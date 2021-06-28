@@ -36,6 +36,18 @@
       "header": {
         "Content-Type": "application/json"
       }
+    },
+    {
+      "jobName": "daily",
+      "active": "true",
+      "method": "POST",
+      "url": "http://ws-calculator:8080/ws-calculator/waterCalculator/_jobscheduler_new_updated_conn",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
     }
   ]
 }
