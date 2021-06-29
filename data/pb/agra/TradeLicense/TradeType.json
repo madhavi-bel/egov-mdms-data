@@ -278,7 +278,7 @@
     },
     {
       "code": "TRADE.EATING.A10",
-      "uom": "Star",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1040,7 +1040,7 @@
     },
     {
       "code": "TRADE.MEDIUM.F4",
-      "uom": "Worker",
+      "uom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
