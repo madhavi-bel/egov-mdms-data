@@ -1,0 +1,31 @@
+{
+  "tenantId": "pb.agra",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": "1",
+      "name":"Elaan Convention Center",
+      "address":"Palace Grounds, 10th Main, Agra - 589120",
+      "geoLocation":"12.972442,77.580643",
+      "contactDetails":"9480734478 / 975412545",
+      "purposes":[
+        {
+          "purpose":"Marriage"
+        },
+        {
+          "purpose":"Birthday"
+        }],
+      "specialCategories": [
+        {
+          "category":"Office Staff"
+        },
+        { 
+          "category":"Elected Member"
+        }],
+      "maxAllowedBookingDays": 3,
+      "hallDescription": "AC HALL with Dining Hall. 5000 sqft Area. Can accomodate 250 people.",
+      "termsAndCondition": "Allowed only for Office Staff and Elected Members and for family functions only.",
+      "cancellationPolicy": "Cancellation before 5 days is allowed"
+    }
+  ]
+}
