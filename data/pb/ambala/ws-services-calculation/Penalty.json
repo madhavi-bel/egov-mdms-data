@@ -4,11 +4,11 @@
   "Penalty": [
     {
       "rate": 10,
-      "minAmount": "",
-      "applicableAfterDays": 30,
+      "minAmount": null,
+      "applicableAfterDays": 0,
       "flatAmount": null,
-      "fromFY": "2021-22",
-      "startingDay": "01/04/2022"
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2021"
     }
   ]
 }

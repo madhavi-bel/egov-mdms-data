@@ -291,20 +291,28 @@
       "financialYear": "2018-28"
     },
     {
-      "fromDate": 1522540801000,
-      "toDate": 1838159999000,
-      "periodCycle": "FORTENYEARS",
+      "fromDate": 1585679400000,
+      "toDate": 1617215399000,
+      "periodCycle": "ANNUAL",
       "service": "WS",
-      "code": "WC2018",
+      "code": "WC2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617215400000,
+      "toDate": 1680287399000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2021",
       "financialYear": "2021-23"
     },
     {
-      "fromDate": 1554076800000,
-      "toDate": 1617175799000,
+      "fromDate": 1617215400000,
+      "toDate": 1680287399000,
       "periodCycle": "TWOYEARS",
       "service": "SW",
-      "code": "SC2018",
-      "financialYear": "2020-21"
+      "code": "WC2021",
+      "financialYear": "2021-23"
     },
     {
       "fromDate": 1522540801000,

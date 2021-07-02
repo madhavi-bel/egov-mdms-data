@@ -16503,12 +16503,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "PT_CEMP",
-      "actionid": 1827,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 5324,
       "actioncode": "",
@@ -16936,6 +16930,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 5356,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PT_APPROVER",
       "actionid": 5283,
       "actioncode": "",
@@ -17022,6 +17022,12 @@
     {
       "rolecode": "PT_CEMP",
       "actionid": 5360,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5361,
       "actioncode": "",
       "tenantId": "pb"
     }

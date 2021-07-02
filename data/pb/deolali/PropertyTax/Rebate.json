@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pb.deolali",
   "moduleName": "PropertyTax",
   "Rebate": [
     {
@@ -7,8 +7,9 @@
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2021-22",
-      "endingDay": "30/06",
-      "mutationPaymentPeriodInMonth": "06"
+      "endingDay": "31/07",
+      "mutationPaymentPeriodInMonth": "06",
+      "attr":"ARV"
     } 
   ]
 }

@@ -21143,6 +21143,20 @@
       "navigationURL": "pt-mutation/propertyCostDetails",
       "leftIcon": "communication:business",
       "rightIcon": ""
+      },
+      {
+        "id": 5361,
+        "name": "GroupBill",
+        "url": "url",
+        "displayName": "GroupBill",
+        "orderNumber": 5,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "BG",
+        "code": "null",
+        "navigationURL": "abg/groupBills",
+        "path": "BG",
+        "leftIcon": "action:receipt"
       }
     
   ]
