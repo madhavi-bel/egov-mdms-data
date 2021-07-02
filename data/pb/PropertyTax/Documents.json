@@ -199,7 +199,8 @@
           "active": true,
           "parentValue": [
             "INDUSTRIAL",
-            "COMMERCIAL"
+            "COMMERCIAL",
+            "NONRESIDENTIAL"
           ]
         },
         {
