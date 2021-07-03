@@ -17,10 +17,16 @@
         }],
       "specialCategories": [
         {
-          "category":"Office Staff"
+          "category":"CANTT_STAFF"
+        },
+        {
+          "category":"RETD_CANTT_STAFF"
         },
         { 
-          "category":"Elected Member"
+          "category":"ELECTED_MEMBER"
+        },
+        { 
+          "category":"BPL"
         }],
       "maxAllowedBookingDays": 3,
       "hallDescription": "AC HALL with Dining Hall. 5000 sqft Area. Can accomodate 250 people.",
