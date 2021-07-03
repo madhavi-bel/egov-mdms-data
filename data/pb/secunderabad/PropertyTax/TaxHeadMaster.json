@@ -29,11 +29,11 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "Conservancy",
-        "code": "PT_CONSERVANCY_TAX",
+        "name": "LightingTax",
+        "code": "PT_LIGHTING_TAX",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "5",
+        "order": "13",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
@@ -41,11 +41,11 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "lightingtax",
-        "code": "PT_LIGHTINING_TAX",
+        "name": "LibraryCess",
+        "code": "PT_LIBRARY_CESS",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "6",
+        "order": "15",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
@@ -53,11 +53,11 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "educationtax",
-        "code": "PT_EDUCATION_TAX",
+        "name": "ConservancyTax",
+        "code": "PT_CONSERVE_TAX",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "7",
+        "order": "16",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
@@ -65,11 +65,11 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "DrainageTax",
-        "code": "PT_DRAINAGE_TAX",
+        "name": " SpecialConservancyTax",
+        "code": "PT_SPECIAL_CONSERVANCY_TAX",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "12",
+        "order": "17",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
