@@ -276,6 +276,13 @@
           ]
         },
         {
+          "code": "OWNER.SPECIALCATEGORYPROOF.STAFFID",
+          "active": true,
+          "parentValue": [
+            "STAFF"
+          ]
+        },
+        {
           "code": "OWNER.SPECIALCATEGORYPROOF.DEATHCERTIFICATE",
           "active": true,
           "parentValue": [
