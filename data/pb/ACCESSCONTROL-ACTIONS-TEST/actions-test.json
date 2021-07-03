@@ -21157,6 +21157,48 @@
         "navigationURL": "abg/groupBills",
         "path": "BG",
         "leftIcon": "action:receipt"
+      },
+      {
+        "id": 5362,
+        "name": "DemandRegisterSummaryReport",
+        "url": "url",
+        "displayName": "DemandRegisterSummaryReport",
+        "orderNumber": 2,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "tenantId": "pb",
+        "createdDate": null,
+        "createdBy": null,
+        "lastModifiedDate": null,
+        "lastModifiedBy": null,
+        "path": "Property Tax.PT Reports.DemandRegisterSummaryReport",
+        "navigationURL": "report/rainmaker-pt/DemandRegisterSummaryReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+      },
+      {
+        "id": 5363,
+        "name": "DemandRegisterSummaryReport",
+        "url": "/report/rainmaker-pt/DemandRegisterSummaryReport/metadata/_get",
+        "displayName": "Get PT Report Metadata",
+        "orderNumber": 2,
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": "PT Report"
+      },
+      {
+        "id": 5364,
+        "name": "DemandRegisterSummaryReport",
+        "url": "/report/rainmaker-pt/DemandRegisterSummaryReport/_get",
+        "displayName": "Get PT Report",
+        "orderNumber": 2,
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": "PT Report"
       }
     
   ]
