@@ -21202,8 +21202,8 @@
       },
       {  
         "id": 5365,
-        "name": "BnDPaymentReportCBLevel",
-        "url": "/report/rainmaker-bnd/BnDPaymentReportCBLevel/_get",
+        "name": "BirthAndDeathCertificatePayment",
+        "url": "/report/rainmaker-bnd/BirthAndDeathCertificatePayment/_get",
         "displayName": "Birth-Death Payment Report",
         "orderNumber": 3,
         "parentModule": "",
@@ -21214,8 +21214,8 @@
       },
       {
         "id": 5366,
-        "name": "BnDPaymentReportCBLevel",
-        "url": "/report/rainmaker-bnd/BnDPaymentReportCBLevel/metadata/_get",
+        "name": "BirthAndDeathCertificatePayment",
+        "url": "/report/rainmaker-bnd/BirthAndDeathCertificatePayment/metadata/_get",
         "displayName": "Birth-Death Payment Report",
         "orderNumber": 3,
         "parentModule": "",
@@ -21226,7 +21226,7 @@
       },
       {
         "id": 5367,
-        "name": "BnDPaymentReportCBLevel",
+        "name": "BirthAndDeathCertificatePayment",
         "url": "url",
         "displayName": "BnD Paid and Downloaded Records",
         "orderNumber": 9,
@@ -21234,8 +21234,8 @@
         "enabled": true,
         "serviceCode": "bnd",
         "code": "null",
-        "path": "cbbnd.BnDPaymentReportCBLevel",
-        "navigationURL": "report/rainmaker-bnd/BnDPaymentReportCBLevel",
+        "path": "cbbnd.BirthAndDeathCertificatePayment",
+        "navigationURL": "report/rainmaker-bnd/BirthAndDeathCertificatePayment",
         "leftIcon": "action:assignment",
         "rightIcon": ""
       }
