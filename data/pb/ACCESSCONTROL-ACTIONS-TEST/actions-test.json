@@ -21199,6 +21199,45 @@
         "serviceCode": "",
         "code": "null",
         "path": "PT Report"
+      },
+      {  
+        "id": 5365,
+        "name": "BnDPaymentReportCBLevel",
+        "url": "/report/rainmaker-bnd/BnDPaymentReportCBLevel/_get",
+        "displayName": "BnDPaymentReportCBLevel",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5366,
+        "name": "BnDPaymentReportCBLevel",
+        "url": "/report/rainmaker-bnd/BnDPaymentReportCBLevel/metadata/_get",
+        "displayName": "BnDPaymentReportCBLevel",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5367,
+        "name": "BnDPaymentReportCBLevel",
+        "url": "url",
+        "displayName": "Birth and Death Certificate Paid and Downloaded Records",
+        "orderNumber": 9,
+        "parentModule": "rainmaker-bnd",
+        "enabled": true,
+        "serviceCode": "bnd",
+        "code": "null",
+        "path": "cbbnd.BnDPaymentReportCBLevel",
+        "navigationURL": "report/rainmaker-bnd/BnDPaymentReportCBLevel",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
       }
     
   ]
