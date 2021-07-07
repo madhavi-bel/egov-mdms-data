@@ -1,0 +1,15 @@
+{
+    "tenantId": "pb.delhi",
+    "moduleName": "PropertyTax",
+    "Rebate": [
+        {
+            "rate": 25,
+            "maxAmount": null,
+            "flatAmount": null,
+            "fromFY": "2021-22",
+            "endingDay": "31/08",
+            "mutationPaymentPeriodInMonth": "06",
+            "attr":"HOUSETAX"
+        }
+    ]
+}

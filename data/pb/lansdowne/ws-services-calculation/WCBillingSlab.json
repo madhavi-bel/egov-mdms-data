@@ -1,0 +1,38 @@
+{
+  "tenantId": "pb.lansdowne",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 14,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 30,
+          "meterCharge": 0
+        }
+      ]
+    } 
+  ]
+}

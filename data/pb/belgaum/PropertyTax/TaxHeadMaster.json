@@ -1,0 +1,51 @@
+{
+  "tenantId": "pb.belgaum",
+  "moduleName": "PropertyTax",
+  "TaxHeadMaster": [
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Consolidatedpropertytax",
+      "code": "PT_CONSOLIDATED_PROPERTY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "DemandNoticeCharge",
+      "code": "PT_DEMANDNOTICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt time interest",
+      "code": "PT_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "PT",
+      "name": "Pt advance carry forward",
+      "code": "PT_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false,
+      "legacy": true
+    }
+  ]
+}

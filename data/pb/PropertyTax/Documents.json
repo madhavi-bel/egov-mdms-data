@@ -199,7 +199,8 @@
           "active": true,
           "parentValue": [
             "INDUSTRIAL",
-            "COMMERCIAL"
+            "COMMERCIAL",
+            "NONRESIDENTIAL"
           ]
         },
         {
@@ -272,6 +273,13 @@
           "active": true,
           "parentValue": [
             "BPL"
+          ]
+        },
+        {
+          "code": "OWNER.SPECIALCATEGORYPROOF.STAFFID",
+          "active": true,
+          "parentValue": [
+            "STAFF"
           ]
         },
         {

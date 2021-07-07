@@ -1,0 +1,288 @@
+{
+    "tenantId": "pb",
+    "moduleName": "BillAmendment",
+    "documentObj": [
+      {
+        "allowedDocs": [
+          {
+            "documentType": "COURTORDER",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "COURT_CASE_SETTLEMENT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "COURTORDER",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "GOVTNOTIFICATION",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ARREAR_WRITE_OFF"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "GOVTNOTIFICATION",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "GOVTNOTIFICATION",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ONE_TIME_SETTLEMENT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "GOVTNOTIFICATION",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "OFFICENOTEORDER",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "REMISSION_FOR_PROPERTY_TAX"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "OFFICENOTEORDER",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "demandRevisionBasis": [
+              "OTHERS"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "TRIENNIAL_ASSESSMENT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "REVISION_IN_DEMAND"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }  
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ERRONEOUS_ENTRIES"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "SUPPLIMENTARY_DEMAND_ON_RETROSPECTIVE_EFFECT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "OBJECTION_AS_PER_CANTT_ACT"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "DUE_TO_SUBDIVISION_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "allowedDocs": [
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "maxFileSize": 5000,
+            "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+            ],
+            "demandRevisionBasis": [
+              "ADVANCE_PAYMENT_OF_PROPERTY"
+            ],
+            "hasDropDown": true,
+            "dropdownData": [
+              {
+                "code": "SUPPORTINGDOCUMENT",
+                "active": true
+              }
+            ],
+            "required": true
+          }
+        ]
+      }
+    ]
+  }

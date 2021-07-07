@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "PropertyLocation": [
     {
-      "name": "Civil Area (Bazar Area)",
+      "name": "Inside Civil Area (Bazar Area)",
       "code": "CIVIL",
       "active": true
     },

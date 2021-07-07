@@ -1993,6 +1993,179 @@
           }
 		  
         ]
+      },
+      {
+        "key" : "ReceiptRegister",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/collectorname"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "DGDEReceiptRegister",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/collectorname"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "DemandRegisterReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "DGDEDemandRegisterReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "WSDemandRegisterReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "WSDGDEDemandRegisterReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key" : "DemandRegisterSummaryReport",
+        "roleAttributeAccessList" : [
+          {
+            "roleCode" : "EMPLOYEE",
+            "attributeAccessList" : [
+              {
+                "attribute" : {
+                  "jsonPath" : "*/name"
+                },
+                "accessType" : "PLAIN"
+              },
+              {
+                "attribute" : {
+                  "jsonPath" : "*/mobilenumber",
+                  "maskingTechnique" : "mobile"
+                },
+                "accessType" : "PLAIN"
+              }
+            ]
+          }
+        ]
       }
     ]
 }

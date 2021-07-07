@@ -11,7 +11,7 @@
       "idname": "billnumberid"
     },
     {
-      "format": "PB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "format": "CB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.assessmentnumber"
     },
     {
@@ -19,7 +19,7 @@
       "idname": "watercharges.metered.receipt.id"
     },
     {
-      "format": "PT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "PT/CB/[cb.name]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "pt.receipt.id"
     },
     {
@@ -530,7 +530,7 @@
       "idname": "egov.idgen.bpa.bdlicensenumber"
     },
     {
-      "format": "PB-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+      "format": "CB-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
       "idname": "pt.mutation.number"
     },
    {
@@ -1086,7 +1086,7 @@
       "idname": "others.cess.receipt.id"
     },
     {
-      "format": "PT/CB/[cb.name]/[cy:yyyy-MM-dd]/[SEQ_EGOV_COMMON]",
+      "format": "PT-CB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]",
       "idname": "pt.propertyid"
     },
     {
@@ -1190,6 +1190,14 @@
     },{
       "format": "DT/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
       "idname": "death_cert.receipt.id"
+    },
+    {
+      "idname": "bs.amendment.id",
+      "format": "BILL-AMEND-CB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]"
+    },
+    {
+      "idname":"pt.acknowledgementnumber",
+      "format":"CB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]"
     }
   ]
 }

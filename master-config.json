@@ -618,7 +618,14 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": false,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "DemandNotice": {
+      "masterName": "DemandNotice",
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -641,6 +648,20 @@
       "masterName": "CancerCess",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "PTWorkflow": {
+      "masterName": "PTWorkflow",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.businessService"
+      ]
+    },
+    "TaxHeadMaster": {
+      "masterName": "TaxHeadMaster",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"        
+      ]
     }
   },
   "TradeLicense": {
