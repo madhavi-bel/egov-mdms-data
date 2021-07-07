@@ -5,7 +5,7 @@
     {
       "rate": 10,
       "minAmount": "",
-      "applicableAfterDays": 0,
+      "applicableAfterDays": 30,
       "flatAmount": null,
       "fromFY": "2021-22",
       "startingDay": "01/04/2022"
