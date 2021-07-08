@@ -20020,6 +20020,45 @@
         "serviceCode": "",
         "code": "null",
         "path": "PT Report"
+      },
+      {  
+        "id": 5365,
+        "name": "BirthAndDeathCertificatePayment",
+        "url": "/report/rainmaker-bnd/BirthAndDeathCertificatePayment/_get",
+        "displayName": "Birth-Death Payment Report",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5366,
+        "name": "BirthAndDeathCertificatePayment",
+        "url": "/report/rainmaker-bnd/BirthAndDeathCertificatePayment/metadata/_get",
+        "displayName": "Birth-Death Payment Report",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "report",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 5367,
+        "name": "BirthAndDeathCertificatePayment",
+        "url": "url",
+        "displayName": "BnD Paid and Downloaded Records",
+        "orderNumber": 9,
+        "parentModule": "rainmaker-bnd",
+        "enabled": true,
+        "serviceCode": "bnd",
+        "code": "null",
+        "path": "cbbnd.BirthAndDeathCertificatePayment",
+        "navigationURL": "report/rainmaker-bnd/BirthAndDeathCertificatePayment",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
       }
   ]
 }
