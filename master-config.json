@@ -888,7 +888,7 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
@@ -897,38 +897,48 @@
       "masterName": "waterSourceWithSubSource",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "waterUsage": {
+      "masterName": "waterUsage",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "uomDetail": {
+      "masterName": "uomDetail",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "ws-services-calculation": {
     "WaterCess": {
       "masterName": "WaterCess",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
@@ -978,7 +988,7 @@
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
@@ -1025,33 +1035,33 @@
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
