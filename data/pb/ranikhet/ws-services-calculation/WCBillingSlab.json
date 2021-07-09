@@ -1,0 +1,108 @@
+{
+  "tenantId": "pb.ranikhet",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "waterSource" :"PIPE.TREATED",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 12,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "waterSource" :"PIPE.TREATED",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 25,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 12,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 25,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "waterSource" :"MES",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 40,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "waterSource" :"MES",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 40,
+          "meterCharge": 0
+        }
+      ]
+    }
+  ]
+}

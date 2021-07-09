@@ -2,12 +2,6 @@
   "tenantId": "pb.testing",
   "moduleName": "ws-services-calculation",
   "WaterCess": [
-    {
-      "rate": 5,
-      "minAmount": null,
-      "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2019-20"
-    }
+ 
   ]
 }

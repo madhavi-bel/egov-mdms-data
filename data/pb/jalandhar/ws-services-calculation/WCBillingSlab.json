@@ -1,0 +1,85 @@
+{
+  "tenantId": "pb.jalandhar",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 840,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 960,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 3600,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "MIXED",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 1200,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "motorCharge" : 80,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 4200,
+          "meterCharge": 0,
+          "type":"Flat"
+        } 
+      ]
+    }
+  ]
+}

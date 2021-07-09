@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -35,7 +35,7 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -70,11 +70,11 @@
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -84,43 +84,43 @@
       "code": "SELFDECLERATION",
       "documentType": "SELFDECLERATION",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "BUILDING_COMPLETION_CERTIFICATE",
-      "documentType": "BUILDING_COMPLETION_CERTIFICATE",
+      "code": "BUILDING_PLAN",
+      "documentType": "BUILDING_PLAN",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "BUILDING_COMPLETION_CERTIFICATE",
+          "code": "BUILDING_PLAN.BUILDING_COMPLETION_CERTIFICATE",
           "active": true
         }
       ],
-      "description": "BUILDING_COMPLETION_CERTIFICATE_DESCRIPTION"
+      "description": "BUILDING_PLAN_DESCRIPTION"
     },
     {
       "code": "OWNERSHIP_RIGHT",
       "documentType": "OWNERSHIP_RIGHT",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "7_12_EXTRACT",
+          "code": "OWNERSHIP_RIGHT.7_12_EXTRACT",
           "active": true
         },
         {
-          "code": "SALE_DEED",
+          "code": "OWNERSHIP_RIGHT.SALE_DEED",
           "active": true
         }
       ],

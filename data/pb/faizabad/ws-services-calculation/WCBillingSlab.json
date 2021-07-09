@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb.faizabad",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "waterSource" :"*",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 465,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "waterSource" :"PIPE.PUBLICSTDPOST",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 189,
+      "slabs": []
+    } 
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb.cannanore",
+  "moduleName": "ws-services-calculation",
+  "Penalty": [
+    {
+      "rate": 5,
+      "minAmount": 40,
+      "applicableAfterDays": 30,
+      "flatAmount": 40,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2022"
+    }
+  ]
+}

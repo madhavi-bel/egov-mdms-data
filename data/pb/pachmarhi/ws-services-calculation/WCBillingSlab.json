@@ -1,0 +1,54 @@
+{
+  "tenantId": "pb.pachmarhi",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "5",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 1320,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 2100,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 6000,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from": 0.51,
+          "to": 0.76,
+          "charge": 7200,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    }
+  ]
+}

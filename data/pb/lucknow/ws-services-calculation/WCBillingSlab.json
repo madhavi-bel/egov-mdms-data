@@ -1,0 +1,25 @@
+{
+  "tenantId": "pb.lucknow",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1560,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400,
+      "slabs": []
+    }
+  ]
+}

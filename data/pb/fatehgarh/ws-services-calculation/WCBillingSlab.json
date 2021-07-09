@@ -1,0 +1,28 @@
+{
+  "tenantId": "pb.fatehgarh",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "calculationAttribute": "No. of taps",
+      "minimumCharge": 25,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1,
+          "charge": 25,
+          "meterCharge": 0
+        },
+        {
+          "from": 1,
+          "to": 100000,
+          "charge": 15,
+          "meterCharge": 0
+        }
+      ]
+    } 
+  ]
+}

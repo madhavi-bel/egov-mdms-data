@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -35,7 +35,7 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -70,11 +70,11 @@
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -84,11 +84,11 @@
       "code": "SELFDECLERATION",
       "documentType": "SELFDECLERATION",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
@@ -98,15 +98,15 @@
       "code": "OCCUPANCY_RIGHTS",
       "documentType": "OCCUPANCY_RIGHTS",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SUCCESSOR_CERTIFICATE",
+          "code": "OCCUPANCY_RIGHTS.SUCCESSOR_CERTIFICATE",
           "active": true
         },
         {
-          "code": "AFFIDAVIT_TENANT",
+          "code": "OCCUPANCY_RIGHTS.AFFIDAVIT_TENANT",
           "active": true
         }
       ],
@@ -116,11 +116,11 @@
       "code": "CLEARANCE_CERTIFICATE",
       "documentType": "CLEARANCE_CERTIFICATE",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "CLEARANCE_CERTIFICATE",
+          "code": "CLEARANCE_CERTIFICATE.CLEARANCE_CERTIFICATE",
           "active": true
         }
       ],

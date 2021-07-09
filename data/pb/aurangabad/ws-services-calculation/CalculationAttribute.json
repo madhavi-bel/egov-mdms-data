@@ -1,0 +1,21 @@
+{
+  "tenantId": "pb.aurangabad",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "active": false,
+      "filterAttribute" : [ ]
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Pipe Size",
+      "active": true,
+      "filterAttribute" : ["PropertyLocation","buildingType"]
+      
+    }
+  ]
+}

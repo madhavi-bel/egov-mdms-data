@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -35,7 +35,7 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -70,11 +70,11 @@
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PROPERTY_TAX_RECIEPT",
+          "code": "PROPERTY_TAX_RECIEPT.PROPERTY_TAX_RECIEPT",
           "active": true
         }
       ],
@@ -84,39 +84,39 @@
       "code": "SELFDECLERATION",
       "documentType": "SELFDECLERATION",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "SELFDECLERATION",
+          "code": "SELFDECLERATION.SELFDECLERATION",
           "active": true
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
     },
     {
-      "code": "OCCUPANCY_RIGHTS",
-      "documentType": "OCCUPANCY_RIGHTS",
+      "code": "OWNERSHIP_RIGHT",
+      "documentType": "OWNERSHIP_RIGHT",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "7_12_EXTRACT",
+          "code": "OWNERSHIP_RIGHT.7_12_EXTRACT",
           "active": true
         }
       ],
-      "description": "OCCUPANCY_RIGHTS_DESCRIPTION"
+      "description": "OWNERSHIP_RIGHT_DESCRIPTION"
     },
     {
       "code": "LOCATION_PLAN",
       "documentType": "LOCATION_PLAN",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "LOCATION_PLAN",
+          "code": "LOCATION_PLAN.LOCATION_PLAN",
           "active": true
         }
       ],
@@ -126,11 +126,11 @@
       "code": "PHOTOGRAPH_HOUSE",
       "documentType": "PHOTOGRAPH_HOUSE",
       "active": true,
-      "required": true,
+      "required": false,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "PHOTOGRAPH_HOUSE",
+          "code": "PHOTOGRAPH_HOUSE.PHOTOGRAPH_HOUSE",
           "active": true
         }
       ],

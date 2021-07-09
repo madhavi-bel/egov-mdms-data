@@ -1,0 +1,46 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "propertyOwnershipCategory": "HOR",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 240,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "propertyOwnershipCategory": "TENANT",
+      "minimumCharge": 240,
+      "calculationAttribute": "Flat",
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "propertyOwnershipCategory": "HOR",
+      "minimumCharge": 495,
+      "calculationAttribute": "Flat",
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "propertyOwnershipCategory": "TENANT",
+      "minimumCharge": 240,
+      "calculationAttribute": "Flat",
+      "slabs": []
+    }
+  ]
+}

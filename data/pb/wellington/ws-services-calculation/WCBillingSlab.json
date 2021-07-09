@@ -1,0 +1,96 @@
+{
+  "tenantId": "pb.wellington",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 1050,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 17.5,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 4050,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 67.5,
+          "meterCharge": 0
+        }
+      ]
+    }, 
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.RAW",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 5,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "ownerType" :"*",
+      "waterSource" :"PIPE.RAW",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 1012.5,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 16.875 ,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "ownerType" :"STAFF",
+      "waterSource" :"PIPE.TREATED",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 525,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000,
+          "charge": 8.75,
+          "meterCharge": 0
+        }
+      ]
+    } 
+  ]
+}

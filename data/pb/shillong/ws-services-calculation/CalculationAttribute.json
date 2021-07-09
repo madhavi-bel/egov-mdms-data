@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.shillong",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "filterAttribute" : [],
+      "attribute": "Water consumption",
+      "active": false
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "filterAttribute" : ["buildingType"],
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}

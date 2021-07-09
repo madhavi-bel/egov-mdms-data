@@ -1,0 +1,69 @@
+{
+  "tenantId": "pb.kanpur",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation":null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",     
+      "propertyOwnershipCategory": "HOR",
+      "calculationAttribute": "ARV",      
+      "maintenanceCharge":98,
+      "slabs": [
+        {
+          "from":0,
+          "to":2000.01 ,
+          "charge": 1630,
+          "meterCharge": 0,
+          "type":"FLAT"
+        },
+        {
+          "from":2000.01,
+          "to":3500.01,
+          "charge": 2080,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        },
+        {
+          "from":3500.01,
+          "to":5000.01 ,
+          "charge": 2789,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        },
+        {
+          "from":5000.01,
+          "to":10000000 ,
+          "charge": 3492,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "propertyOwnershipCategory": "TENANT",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "ARV",
+      "minimumCharge": 0,
+      "maintenanceCharge" : 98,
+      "slabs": [
+        {
+          "from":0,
+          "to":10000000 ,
+          "charge": 1395,
+          "meterCharge": 0,
+          "type":"FLAT"
+
+        }
+
+      ]
+    }
+  ]
+}

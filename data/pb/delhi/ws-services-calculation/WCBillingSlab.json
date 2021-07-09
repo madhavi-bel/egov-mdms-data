@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.delhi",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": null,
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 300,
+      "slabs": []
+    } 
+  ]
+}

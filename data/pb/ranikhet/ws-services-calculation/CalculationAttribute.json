@@ -1,0 +1,13 @@
+{
+  "tenantId": "pb.ranikhet",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : ["PropertyLocation","buildingType","waterSource"],
+      "active": true
+    }
+  ]
+}

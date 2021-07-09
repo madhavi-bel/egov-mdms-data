@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb.cannanore",
+  "moduleName": "ws-services-masters",
+  "billingPeriod": [
+    {
+      "active": true,
+      "connectionType": "Metered",
+      "billingCycle": "monthly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 2592000000,
+      "demandGenerationDateMillis": 0
+    },
+    {
+      "active": true,
+      "connectionType": "Non Metered",
+      "billingCycle": "yearly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 0,
+      "demandGenerationDateMillis": 0
+    }
+  ]
+}

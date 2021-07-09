@@ -1,0 +1,114 @@
+{
+  "tenantId": "pb.babina",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"*",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 705, 
+      "slabs": []
+    },
+    {
+      "id": "8",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"*",
+      "authorizedConnection" :"UNAUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400, 
+      "slabs": []
+    },
+    {
+      "id": "6",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"STAFF",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 720, 
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"RESIDENTIAL.OTHERS",
+      "ownerType" :"*",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1440, 
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "COMMERCIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"*",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 3600, 
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"*",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1800, 
+      "slabs": []
+    },
+    {
+      "id": "9",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"*",
+      "authorizedConnection" :"UNAUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2400, 
+      "slabs": []
+    },
+    {
+      "id": "7",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "RESIDENTIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"STAFF",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 1080, 
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "PropertyLocation": "OUTSIDE",
+      "buildingType": "COMMERCIAL",
+      "buildingSubType" :"*",
+      "ownerType" :"*",
+      "authorizedConnection" :"AUTHORIZED",
+      "connectionType": "Non Metered", 
+      "calculationAttribute": "Flat",
+      "minimumCharge": 4800, 
+      "slabs": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "tenantId": "pb.shillong",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2328,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 4800,
+      "slabs": []
+    }, 
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "INSTITUTIONAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 2328,
+      "slabs": []
+    } 
+  ]
+}

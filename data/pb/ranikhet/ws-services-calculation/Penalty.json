@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb.ranikhet",
+  "moduleName": "ws-services-calculation",
+  "Penalty": [
+    {
+      "rate": "",
+      "minAmount": "",
+      "applicableAfterDays": 0,
+      "flatAmount": 20,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2022"
+    }
+  ]
+}

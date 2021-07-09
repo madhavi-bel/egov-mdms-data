@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.ambala",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : ["PropertyLocation","buildingType"],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "filterAttribute" : ["PropertyLocation","buildingType"],
+      "active": true
+    }
+  ]
+}

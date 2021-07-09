@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.subathu",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "filterAttribute" : [],
+      "attribute": "Water consumption",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "filterAttribute" : [],
+      "attribute": "Flat",
+      "active": false
+    }
+  ]
+}

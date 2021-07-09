@@ -1,0 +1,19 @@
+{
+  "tenantId": "pb.dagshai",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : ["PropertyLocation"  ],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": false
+    }
+  ]
+}

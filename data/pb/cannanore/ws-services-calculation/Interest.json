@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.cannanore",
+  "moduleName": "ws-services-calculation",
+  "Interest": [
+    {
+      "rate": 5,
+      "minAmount": 5,
+      "applicableAfterDays":30,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2021"
+    }
+  ]
+}

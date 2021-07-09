@@ -1,0 +1,43 @@
+{
+  "tenantId": "pb.ramgarh",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [    
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "ownershipCategory": null, 
+      "minimumCharge": 1320,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 5400,
+      "slabs": []
+    } ,
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "INSTITUTIONAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 5400,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "PropertyLocation": null,
+      "buildingType": "INDUSTRIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Flat",
+      "minimumCharge": 5400,
+      "slabs": []
+    }
+  ]
+}

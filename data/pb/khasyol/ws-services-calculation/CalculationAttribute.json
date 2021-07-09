@@ -1,0 +1,19 @@
+{
+  "tenantId": "pb.khasyol",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "active": false
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "filterAttribute" : ["buildingType"],
+      "attribute": "Flat",
+      "active": true
+    }
+  ]
+}

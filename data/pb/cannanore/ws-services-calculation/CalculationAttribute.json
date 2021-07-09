@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.cannanore",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption", 
+      "filterAttribute" : [ "buildingType"],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": true,
+      "filterAttribute" : [ "buildingType"]
+    }
+  ]
+}

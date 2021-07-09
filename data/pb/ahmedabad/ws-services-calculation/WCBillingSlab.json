@@ -1,0 +1,91 @@
+{
+  "tenantId": "pb.ahmedabad",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 200,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": "CIVIL",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 250,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 1.1,
+          "charge": 6250,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+
+    {
+      "id": "3",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 2500,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropertyLocation": "BUNGLOW",
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Non Metered",
+      "calculationAttribute": "Pipe Size",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 0.51,
+          "charge": 25000,
+          "meterCharge": 0,
+          "type":"Flat"
+        },
+        {
+          "from":0.51,
+          "to": 1.1,
+          "charge": 40000,
+          "meterCharge": 0,
+          "type":"Flat"
+        }
+      ]
+    }
+    
+  ]
+}

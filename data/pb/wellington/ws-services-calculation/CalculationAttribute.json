@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.wellington",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : [  "buildingType","waterSource","ownerType"],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "filterAttribute" : [ ],
+      "active": false
+    }
+  ]
+}

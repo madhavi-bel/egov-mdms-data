@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.bareilly",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption",
+      "filterAttribute" : [ ],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Property Area",
+      "filterAttribute" : ["PropertyLocation","buildingType"],
+      "active": true
+    }
+  ]
+}
