@@ -21238,6 +21238,17 @@
         "navigationURL": "report/rainmaker-bnd/BirthAndDeathCertificatePayment",
         "leftIcon": "action:assignment",
         "rightIcon": ""
+      },
+      {
+        "id": 5368,
+        "name": "WS Estimate Notice",
+        "url": "/egov-pdf/download/WS/ws-red-notice",
+        "displayName": "Estimate Notice",
+        "orderNumber": 3,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
       }
     
   ]

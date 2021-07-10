@@ -17120,6 +17120,18 @@
       "actionid": 5367,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5368,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5368,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
