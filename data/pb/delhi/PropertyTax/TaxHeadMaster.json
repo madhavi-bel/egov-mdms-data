@@ -41,6 +41,29 @@
     {
       "category": "TAX",
       "service": "PT",
+      "name": "Educationcess",
+      "code": "PT_EDUCATION_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "10",
+      "isRequired": false,
+      "legacy": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "SwatchBharatUserCharges",
+      "code": "PT_SWATCH_BHARAT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "21",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
       "name": "DemandNoticeCharge",
       "code": "PT_DEMANDNOTICE_CHARGE",
       "isDebit": false,
