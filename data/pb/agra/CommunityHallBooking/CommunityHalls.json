@@ -8,25 +8,37 @@
       "address":"Palace Grounds, 10th Main, Agra - 589120",
       "geoLocation":"12.972442,77.580643",
       "contactDetails":"9480734478 / 975412545",
+      "timeSlots":[{
+        "id":1,
+        "from":"11:00",
+        "duration":"03:00",
+        "baseRate": "1000"
+      }],
       "purposes":[
         {
-          "purpose":"Marriage"
+          "purpose":"PURPOSE.MARRIAGE",
+          "discountRate":"20"
         },
         {
-          "purpose":"Birthday"
+          "purpose":"PURPOSE.BIRTHDAY",
+          "discountRate":"20"
         }],
       "specialCategories": [
         {
-          "category":"CANTT_STAFF"
+          "category":"CATEGORY.CANTT_STAFF",
+          "discountRate":"20"
         },
         {
-          "category":"RETD_CANTT_STAFF"
+          "category":"CATEGORY.RETD_CANTT_STAFF",
+          "discountRate":"20"
         },
         { 
-          "category":"ELECTED_MEMBER"
+          "category":"CATEGORY.ELECTED_MEMBER",
+          "discountRate":"20"
         },
         { 
-          "category":"BPL"
+          "category":"CATEGORY.BPL",
+          "discountRate":"20"
         }],
       "maxAllowedBookingDays": 3,
       "hallDescription": "AC HALL with Dining Hall. 5000 sqft Area. Can accomodate 250 people.",
