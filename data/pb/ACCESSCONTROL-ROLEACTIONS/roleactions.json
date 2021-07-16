@@ -17218,13 +17218,13 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "OBM_CEMP",
+      "rolecode": "OBM_CHB_CEMP",
       "actionid": 5374,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "OBM_CEMP",
+      "rolecode": "OBM_CHB_CEMP",
       "actionid": 5375,
       "actioncode": "",
       "tenantId": "pb"
@@ -17242,7 +17242,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "OBM_CEMP",
+      "rolecode": "OBM_CHB_CEMP",
       "actionid": 5376,
       "actioncode": "",
       "tenantId": "pb"
@@ -17272,7 +17272,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "OBM_CEMP",
+      "rolecode": "OBM_CHB_CEMP",
       "actionid": 5377,
       "actioncode": "",
       "tenantId": "pb"
