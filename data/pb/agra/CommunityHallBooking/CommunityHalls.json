@@ -8,11 +8,16 @@
       "address":"Palace Grounds, 10th Main, Agra - 589120",
       "geoLocation":"12.972442,77.580643",
       "contactDetails":"9480734478 / 975412545",
+
       "timeSlots":[{
         "id":1,
         "from":"11:00",
         "duration":"03:00",
-        "baseRate": "1000"
+        "RENT": "1000",
+        "SECURITY_DEPOSIT":"200",
+        "ELECTRICITY_CHARGES":"200",
+        "WATER_CHARGES":"10",
+        "CONSERVANCY_CHARGES":"10"
       }],
       "residentType":[
         {
@@ -49,7 +54,19 @@
           "category":"CATEGORY.BPL",
           "discountRate":"20"
         }],
-      "maxAllowedBookingDays": 3,
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab":[{
+        "id":1,
+        "cancelFrom":30,
+        "cancelTo":1,
+        "percentageDeduction":30
+      },
+      {
+        "id":2,
+        "cancelFrom":60,
+        "cancelTo":31,
+        "percentageDeduction":10
+      }],
       "hallDescription": "AC HALL with Dining Hall. 5000 sqft Area. Can accomodate 250 people.",
       "termsAndCondition": "Allowed only for Office Staff and Elected Members and for family functions only.",
       "cancellationPolicy": "Cancellation before 5 days is allowed"
