@@ -41,6 +41,18 @@
     {
       "category": "TAX",
       "service": "PT",
+      "name": "ConcervancyCharges",
+      "code": "PT_CONCERVANCY_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "18",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
       "name": "DemandNoticeCharge",
       "code": "PT_DEMANDNOTICE_CHARGE",
       "isDebit": false,

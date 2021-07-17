@@ -14783,6 +14783,54 @@
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "ConcervancyCharges",
+      "code": "PT_CONCERVANCY_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "18",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "RecordMaintenanceFees",
+      "code": "PT_RECORD_MAINTENANCE_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "19",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "GarbageCollectionFees",
+      "code": "PT_GARBAGE_COLLECTION_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "20",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "SwatchBharatUserCharges",
+      "code": "PT_SWATCH_BHARAT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "21",
+      "isRequired": false,
+      "legacy": true,
+      "IsBillamend": true
     }
   ]
 }

@@ -29,6 +29,30 @@
       {
         "category": "TAX",
         "service": "PT",
+        "name": "RecordMaintenanceFees",
+        "code": "PT_RECORD_MAINTENANCE_FEES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "19",
+        "isRequired": false,
+        "legacy": true,
+        "IsBillamend": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "GarbageCollectionFees",
+        "code": "PT_GARBAGE_COLLECTION_FEES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "20",
+        "isRequired": false,
+        "legacy": true,
+        "IsBillamend": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
         "name": "DemandNoticeCharge",
         "code": "PT_DEMANDNOTICE_CHARGE",
         "isDebit": false,
