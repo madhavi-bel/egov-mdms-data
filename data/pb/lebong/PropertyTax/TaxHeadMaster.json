@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb.pachmarhi",
+    "tenantId": "pb.lebong",
     "moduleName": "PropertyTax",
     "TaxHeadMaster": [
       {
@@ -29,11 +29,11 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "RecordMaintenanceFees",
-        "code": "PT_RECORD_MAINTENANCE_FEES",
+        "name": "Conservancy",
+        "code": "PT_CONSERVANCY_TAX",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "19",
+        "order": "5",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
@@ -41,11 +41,23 @@
       {
         "category": "TAX",
         "service": "PT",
-        "name": "GarbageCollectionFees",
-        "code": "PT_GARBAGE_COLLECTION_FEES",
+        "name": "lightingtax",
+        "code": "PT_LIGHTING_TAX",
         "isDebit": false,
         "isActualDemand": true,
-        "order": "20",
+        "order": "13",
+        "isRequired": false,
+        "legacy": true,
+        "IsBillamend": true
+      },
+      {
+        "category": "TAX",
+        "service": "PT",
+        "name": "Educationcess",
+        "code": "PT_EDUCATION_CESS",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "10",
         "isRequired": false,
         "legacy": true,
         "IsBillamend": true
