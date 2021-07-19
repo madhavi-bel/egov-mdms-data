@@ -1198,6 +1198,10 @@
     {
       "idname":"pt.acknowledgementnumber",
       "format":"CB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]"
+    },
+    {
+          "format": "OBM-CHB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EG_OBM_CHB_APL]",
+          "idname": "obm.chbaplnumber"
     }
   ]
 }

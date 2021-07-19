@@ -10,7 +10,7 @@
       "contactDetails":"9480734478 / 975412545",
 
       "timeSlots":[{
-        "id":1,
+        "id":"1",
         "from":"11:00",
         "duration":"03:00",
         "RENT": "1000",
