@@ -17,11 +17,11 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "ConcervancyCharges",
-      "code": "PT_CONCERVANCY_CHARGES",
+      "name": "GarbageCollectionFees",
+      "code": "PT_GARBAGE_COLLECTION_FEES",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "18",
+      "order": "20",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
