@@ -1876,7 +1876,7 @@
       "IsBillamend": true
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "WS",
       "name": "Rebate",
       "code": "WS_TIME_REBATE",
