@@ -69,7 +69,9 @@
       }],
       "hallDescription": "AC HALL with Dining Hall. 5000 sqft Area. Can accomodate 250 people.",
       "termsAndCondition": "Allowed only for Office Staff and Elected Members and for family functions only.",
-      "cancellationPolicy": "Cancellation before 5 days is allowed"
+      "cancellationPolicy": "Cancellation before 5 days is allowed",
+      "headerImageUrl": "http://www.cbstm.org.in:9080/MarriageHall/assets/img/home/003.jpg",
+      "portalUrl": "http://www.cbstm.org.in:9080/MarriageHall/Home.html"
     }
   ]
 }
