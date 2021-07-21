@@ -17360,6 +17360,18 @@
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_CHB_DOC_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_CHB_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
