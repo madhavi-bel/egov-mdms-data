@@ -10947,7 +10947,7 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_DOC_VERIFIER",
+      "rolecode": "WS_FIELD_INSPECTOR",
       "actionid": 1899,
       "actioncode": "",
       "tenantId": "pb"
