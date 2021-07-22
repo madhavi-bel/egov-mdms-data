@@ -18,6 +18,16 @@
         "ELECTRICITY_CHARGES":"200",
         "WATER_CHARGES":"10",
         "CONSERVANCY_CHARGES":"10"
+      },
+      {
+        "id":"2",
+        "from":"17:00",
+        "duration":"06:00",
+        "RENT": "2000",
+        "SECURITY_DEPOSIT":"200",
+        "ELECTRICITY_CHARGES":"200",
+        "WATER_CHARGES":"10",
+        "CONSERVANCY_CHARGES":"10"
       }],
       "residentType":[
         {
@@ -71,6 +81,87 @@
       "termsAndCondition": "Allowed only for Office Staff and Elected Members and for family functions only.",
       "cancellationPolicy": "Cancellation before 5 days is allowed",
       "headerImageUrl": "http://www.cbstm.org.in:9080/MarriageHall/assets/img/home/003.jpg",
+      "portalUrl": "http://www.cbstm.org.in:9080/MarriageHall/Home.html"
+    },
+    {
+      "hallCode": "2",
+      "name":"Elaan Convention Center - Lawn",
+      "address":"Palace Grounds, 10th Main, Agra - 589120",
+      "geoLocation":"12.972442,77.580643",
+      "contactDetails":"9480734478 / 975412545",
+
+      "timeSlots":[{
+        "id":"1",
+        "from":"11:00",
+        "duration":"03:00",
+        "RENT": "4000",
+        "SECURITY_DEPOSIT":"200",
+        "ELECTRICITY_CHARGES":"200",
+        "WATER_CHARGES":"10",
+        "CONSERVANCY_CHARGES":"10"
+      },
+      {
+        "id":"2",
+        "from":"17:00",
+        "duration":"06:00",
+        "RENT": "6000",
+        "SECURITY_DEPOSIT":"200",
+        "ELECTRICITY_CHARGES":"200",
+        "WATER_CHARGES":"10",
+        "CONSERVANCY_CHARGES":"10"
+      }],
+      "residentType":[
+        {
+          "type":"RESIDENT.INSIDE_CANTT",
+          "discountRate":"20"
+        },
+        {
+          "type":"RESIDENT.OUTSIDE_CANTT",
+          "discountRate":"20"
+        }],
+      "purposes":[
+        {
+          "purpose":"PURPOSE.MARRIAGE",
+          "discountRate":"20"
+        },
+        {
+          "purpose":"PURPOSE.BIRTHDAY",
+          "discountRate":"20"
+        }],
+      "specialCategories": [
+        {
+          "category":"CATEGORY.CANTT_STAFF",
+          "discountRate":"20"
+        },
+        {
+          "category":"CATEGORY.RETD_CANTT_STAFF",
+          "discountRate":"20"
+        },
+        { 
+          "category":"CATEGORY.ELECTED_MEMBER",
+          "discountRate":"20"
+        },
+        { 
+          "category":"CATEGORY.BPL",
+          "discountRate":"20"
+        }],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab":[{
+        "id":1,
+        "cancelFrom":30,
+        "cancelTo":1,
+        "percentageDeduction":30
+      },
+      {
+        "id":2,
+        "cancelFrom":60,
+        "cancelTo":31,
+        "percentageDeduction":10
+      }],
+      "hallDescription": "AC HALL with Dining Hall. 5000 sqft Area. Can accomodate 250 people.",
+      "termsAndCondition": "Allowed only for Office Staff and Elected Members and for family functions only.",
+      "cancellationPolicy": "Cancellation before 5 days is allowed",
+      "headerImageUrl": "http://www.cbstm.org.in:9080/MarriageHall/assets/img/home/002.jpg",
       "portalUrl": "http://www.cbstm.org.in:9080/MarriageHall/Home.html"
     }
   ]
