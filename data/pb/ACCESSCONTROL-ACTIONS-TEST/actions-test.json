@@ -21416,7 +21416,7 @@
         "name": "rainmaker-obm-chb",
         "url": "card",
         "displayName": "CHB",
-        "orderNumber": 9,
+        "orderNumber":1,
         "parentModule": "",
         "enabled": true,
         "serviceCode": "",
