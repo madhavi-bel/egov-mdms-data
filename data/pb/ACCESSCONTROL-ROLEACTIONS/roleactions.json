@@ -17390,6 +17390,12 @@
       "actionid": 5382,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5383,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

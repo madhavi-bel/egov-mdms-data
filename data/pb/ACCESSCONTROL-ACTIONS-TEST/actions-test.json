@@ -21410,7 +21410,22 @@
         "serviceCode": "egov-pdf",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5383,
+        "name": "rainmaker-obm-chb",
+        "url": "card",
+        "displayName": "CHB",
+        "orderNumber": 9,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL": "chb-citizen/home",
+        "leftIcon": "action:account-balance",
+        "rightIcon": "",
+        "queryParams": ""
       }
-      
   ]
 }
