@@ -21457,6 +21457,20 @@
         "leftIcon": "custom:water",
         "rightIcon": "",
         "queryParams": ""
+      },
+      {
+        "id": 5386,
+        "name": "Vidya",
+        "url": "url",
+        "displayName": "Vidya",
+        "orderNumber": 14,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "UC",
+        "code": "null",
+        "navigationURL": "uc/search",
+        "path": "UC",
+        "leftIcon": "image:collections-bookmark"
       }
 
       

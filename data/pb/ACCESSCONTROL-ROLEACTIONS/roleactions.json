@@ -17421,7 +17421,20 @@
       "actionid": 5385,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5386,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_WTB_CEMP",
+      "actionid": 5386,
+      "actioncode": "",
+      "tenantId": "pb"
     }
+
 
 
   ]
