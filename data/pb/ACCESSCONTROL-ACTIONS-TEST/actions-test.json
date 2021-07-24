@@ -21429,48 +21429,17 @@
       },
       {
         "id": 5384,
-        "name": "rainmaker-common-obm",
+        "name": "Water Tanker",
         "url": "url",
         "displayName": "Book Water Tanker",
-        "orderNumber": 3,
-        "parentModule": "rainmaker-obm",
-        "enabled": true,
-        "serviceCode": "obm",
-        "code": "null",
-        "path": "",
-        "navigationURL": "wtb/waterTankerBooking",
-        "leftIcon": "custom:water",
-        "rightIcon": ""
-      },
-      {
-        "id": 5385,
-        "name": "rainmaker-common-obm",
-        "url": "card",
-        "displayName": "Book Water Tanker",
-        "orderNumber": 2,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "obm",
-        "code": "",
-        "path": "",
-        "navigationURL": "wtb/waterTankerBooking",
-        "leftIcon": "custom:water",
-        "rightIcon": "",
-        "queryParams": ""
-      },
-      {
-        "id": 5386,
-        "name": "Vidya",
-        "url": "url",
-        "displayName": "Vidya",
         "orderNumber": 14,
         "parentModule": "",
         "enabled": true,
-        "serviceCode": "UC",
+        "serviceCode": "obm",
         "code": "null",
-        "navigationURL": "uc/search",
+        "navigationURL": "wtb/waterTankerBooking",
         "path": "UC",
-        "leftIcon": "image:collections-bookmark"
+        "leftIcon": "custom:water"
       }
 
       
