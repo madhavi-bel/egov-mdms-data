@@ -21438,7 +21438,7 @@
         "serviceCode": "",
         "code": "null",
         "navigationURL": "wtb/waterTankerBooking",
-        "path": "wtb.book",
+        "path": "wtbBooking",
         "leftIcon": "custom:water"
       },
       {
