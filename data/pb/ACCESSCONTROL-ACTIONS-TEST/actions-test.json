@@ -21426,6 +21426,43 @@
         "leftIcon": "action:account-balance",
         "rightIcon": "",
         "queryParams": ""
+      },
+      {
+        "id": 5384,
+        "name": "rainmaker-common-obm",
+        "url": "url",
+        "displayName": "Book Water Tanker",
+        "orderNumber": 3,
+        "parentModule": "rainmaker-obm",
+        "enabled": true,
+        "serviceCode": "obm",
+        "code": "null",
+        "path": "",
+        "navigationURL": "wtb/waterTankerBooking",
+        "leftIcon": "custom:water",
+        "rightIcon": ""
+      },
+      {
+        "id": 5385,
+        "name": "rainmaker-common-obm",
+        "url": "card",
+        "displayName": "Book Water Tanker",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "obm",
+        "code": "",
+        "path": "",
+        "navigationURL": "wtb/waterTankerBooking",
+        "leftIcon": "custom:water",
+        "rightIcon": "",
+        "queryParams": ""
       }
+
+      
+
+
+
+
   ]
 }
