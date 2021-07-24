@@ -21439,7 +21439,7 @@
         "code": "null",
         "navigationURL": "wtb/waterTankerBooking",
         "path": "wtbBooking",
-        "leftIcon": "custom:water"
+        "leftIcon": "custom:localShipping"
       },
       {
         "id": 5385,
@@ -21453,7 +21453,7 @@
         "code": "",
         "path": "",
         "navigationURL": "wtb/waterTankerBooking",
-        "leftIcon": "custom:water",
+        "leftIcon": "custom:localShipping",
         "rightIcon": "",
         "queryParams": ""
       }

@@ -17404,14 +17404,9 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+  
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 5384,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBM_WTB_CEMP",
+      "rolecode": "OBM_WT_CEMP",
       "actionid": 5384,
       "actioncode": "",
       "tenantId": "pb"
@@ -17422,14 +17417,9 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 5385,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "OBM_WTB_CEMP",
+      "rolecode": "OBM_WT_CEMP",
       "actionid": 5385,
       "actioncode": "",
       "tenantId": "pb"
