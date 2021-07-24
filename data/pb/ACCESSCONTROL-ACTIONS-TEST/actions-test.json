@@ -21456,12 +21456,18 @@
         "leftIcon": "custom:localShipping",
         "rightIcon": "",
         "queryParams": ""
+      },
+      {
+        "id": 5386,
+        "name": "Get CHB Price Estimate",
+        "url": "/obm-calculator/chb/_preview",
+        "displayName": "",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "obm",
+        "code": "null",
+        "path": ""
       }
-
-      
-
-
-
-
   ]
 }

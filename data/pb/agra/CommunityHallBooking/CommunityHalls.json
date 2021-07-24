@@ -8,7 +8,7 @@
       "address":"Palace Grounds, 10th Main, Agra - 589120",
       "geoLocation":"12.972442,77.580643",
       "contactDetails":"9480734478 / 975412545",
-
+      "type":"HALL",
       "timeSlots":[{
         "id":"1",
         "from":"11:00",
@@ -89,7 +89,7 @@
       "address":"Palace Grounds, 10th Main, Agra - 589120",
       "geoLocation":"12.972442,77.580643",
       "contactDetails":"9480734478 / 975412545",
-
+      "type":"LAWN",
       "timeSlots":[{
         "id":"1",
         "from":"11:00",
