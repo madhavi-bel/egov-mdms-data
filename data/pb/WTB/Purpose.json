@@ -1,0 +1,29 @@
+{
+  "tenantId": "pb",
+  "moduleName": "WTB",
+  "Purpose":
+  [
+    {
+      "name": "Social",
+      "code": "SOCIAL",
+      "active": true
+    },
+    {
+      "name": "Religious",
+      "code": "RELIGIOUS",
+      "active": true
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    },
+    
+    {
+      "name": "Domestic",
+      "code": "DOMESTIC",
+      "active": true
+      
+    }
+  ]
+}

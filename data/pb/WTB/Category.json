@@ -1,0 +1,18 @@
+{
+    "tenantId": "pb",
+    "moduleName": "WTB",
+    "Category":
+    [
+      {
+        "name": "General",
+        "code": "GENERAL",
+        "active": true
+      },
+      {
+        "name": "Staff",
+        "code": "STAFF",
+        "active": true
+      }
+    ]
+  }
+  

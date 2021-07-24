@@ -1,0 +1,18 @@
+{
+    "tenantId": "pb",
+    "moduleName": "WTB",
+    "WaterType":
+    [
+      {
+        "name": "Drinking",
+        "code": "DRINKING",
+        "active": true
+      },
+      {
+        "name": "Non-Drinking",
+        "code": "NONDRINKING",
+        "active": true
+      }
+    ]
+  }
+  

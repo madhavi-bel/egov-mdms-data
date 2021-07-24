@@ -1411,6 +1411,126 @@
           "code": "pb.nainital"
         }
       ]
+    },
+    {
+      "module": "WTB",
+      "code": "WTB",
+      "tenants": [
+        {
+          "code": "pb.agra"
+        },
+        {
+          "code": "pb.allahabad"
+        },
+        {
+          "code": "pb.bareilly"
+        },
+        {
+          "code": "pb.danapur"
+        },
+        {
+          "code": "pb.faizabad"
+        },
+        {
+          "code": "pb.fatehgarh"
+        },
+        {
+          "code": "pb.jabalpur"
+        },
+        {
+          "code": "pb.lucknow"
+        },
+        {
+          "code": "pb.mathura"
+        },
+        {
+          "code": "pb.meerut"
+        },
+        {
+          "code": "pb.mhow"
+        },
+        {
+          "code": "pb.pachmarhi"
+        },
+        {
+          "code": "pb.ramgarh"
+        },
+        {
+          "code": "pb.ranikhet"
+        },
+        {
+          "code": "pb.roorkee"
+        },
+        {
+          "code": "pb.shahjahanpur"
+        },
+        {
+          "code": "pb.barrackpore"
+        },
+        {
+          "code": "pb.ahmednagar"
+        },
+        {
+          "code": "pb.babina"
+        },
+        {
+          "code": "pb.dehuroad"
+        },
+        {
+          "code": "pb.jhansi"
+        },
+        {
+          "code": "pb.nasirabad"
+        },
+        {
+          "code": "pb.saugor"
+        },
+        {
+          "code": "pb.wellington"
+        },
+        {
+          "code": "pb.delhi"
+        },
+       {
+          "code": "pb.secunderabad"
+        },
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.ambala"
+        },
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.deolali"
+        },
+        {
+          "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.kanpur"
+        },
+        {
+          "code": "pb.lansdowne"
+        },
+        {
+          "code": "pb.ferozepur"
+        },
+        {
+          "code": "pb.belgaum"
+        },
+        {
+          "code": "pb.kirkee"
+        },
+        {
+          "code": "pb.ahmedabad"
+        },
+        {
+          "code": "pb.varanasi"
+        }
+      ]
     }
   ]
 }
