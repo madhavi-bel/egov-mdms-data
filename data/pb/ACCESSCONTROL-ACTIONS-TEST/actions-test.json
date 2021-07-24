@@ -21431,15 +21431,31 @@
         "id": 5384,
         "name": "Water Tanker",
         "url": "url",
-        "displayName": "Book Water Tanker",
+        "displayName": "Water Tanker",
         "orderNumber": 14,
         "parentModule": "",
         "enabled": true,
         "serviceCode": "obm",
         "code": "null",
         "navigationURL": "wtb/waterTankerBooking",
-        "path": "UC",
+        "path": "",
         "leftIcon": "custom:water"
+      },
+      {
+        "id": 5385,
+        "name": "Water Tanker",
+        "url": "card",
+        "displayName": "Water Tanker",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "obm",
+        "code": "",
+        "path": "",
+        "navigationURL": "wtb/waterTankerBooking",
+        "leftIcon": "custom:water",
+        "rightIcon": "",
+        "queryParams": ""
       }
 
       
