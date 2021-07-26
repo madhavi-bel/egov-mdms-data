@@ -4,82 +4,82 @@
   "Quantity": [
     {
       "code": "1",
-      "name":500,
+      "name":"500",
       "active": true
     },
     {
       "code": "2",
-      "name":1000, 
+      "name":"1000", 
       "active": true
     },
     {
       "code": "3",
-      "name":1500,
+      "name":"1500",
       "active": true
     },
     {
       "code": "4",
-       "name":2000,
+       "name":"2000",
       "active": true
     },
     {
       "code": "5",
-      "name":2500,
+      "name":"2500",
       "active": true
     },
     {
       "code": "6",
-       "name":3000,
+       "name":"3000",
       "active": true
     },
     {
       "code": "7",
-       "name":3500,
+       "name":"3500",
       "active": true
     },
     {
       "code": "8",
-       "name":4000,
+       "name":"4000",
       "active": true
     },
     {
       "code": "9",
-       "name":4500,
+       "name":"4500",
       "active": true
     },
     {
       "code": "10",
-       "name":5000,
+       "name":"5000",
       "active": true
     },
     {
       "code": "11",
-       "name":5500,
+       "name":"5500",
       "active": true
     },
     {
       "code": "12",
-       "name":6000,
+       "name":"6000",
       "active": true
     },
     {
       "code": "13",
-       "name":6500,
+       "name":"6500",
       "active": true
     },
     {
       "code": "14",
-       "name":7000,
+       "name":"7000",
       "active": true
     },
     {
       "code": "15",
-       "name":7500,
+       "name":"7500",
       "active": true
     },
     {
       "code": "16",
-       "name":8000,
+       "name":"8000",
       "active": true
     }
   ]
