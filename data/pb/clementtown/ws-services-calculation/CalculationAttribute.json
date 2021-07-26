@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.clementtown",
+  "moduleName": "ws-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Metered",
+      "code": "METERED",
+      "attribute": "Water consumption", 
+      "filterAttribute" : [],
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "NONMETERED",
+      "attribute": "Flat",
+      "active": true,
+      "filterAttribute" : []
+    }
+  ]
+}

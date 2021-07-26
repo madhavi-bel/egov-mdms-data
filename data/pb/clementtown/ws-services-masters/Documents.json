@@ -70,7 +70,7 @@
       "code": "PROPERTY_TAX_RECIEPT",
       "documentType": "PROPERTY_TAX_RECIEPT",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -84,7 +84,7 @@
       "code": "SELFDECLERATION",
       "documentType": "SELFDECLERATION",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
@@ -93,6 +93,20 @@
         }
       ],
       "description": "SELFDECLERATION_DESCRIPTION"
+    },
+    {
+      "code": "SALE_DEED",
+      "documentType": "SALE_DEED",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SALE_DEED.SALE_DEED",
+          "active": true
+        }
+      ],
+      "description": "SALE_DEED_DESCRIPTION"
     }
   ]
 }

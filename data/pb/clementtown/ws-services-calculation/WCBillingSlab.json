@@ -1,0 +1,102 @@
+{
+  "tenantId": "pb.clementtown",
+  "moduleName": "ws-services-calculation",
+  "WCBillingSlab": [
+    {
+      "id": "1",
+      "PropertyLocation": null,
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 20,
+          "charge": 5,
+          "meterCharge": 0
+        },
+        {
+          "from": 10,
+          "to": 30,
+          "charge": 7,
+          "meterCharge": 0
+        },
+        {
+          "from": 30,
+          "to": 100000,
+          "charge": 10,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "PropertyLocation": null,
+      "buildingType": "COMMERCIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10,
+          "charge": 10,
+          "meterCharge": 0
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "charge": 12,
+          "meterCharge": 0
+        },
+        {
+          "from": 20,
+          "to": 50,
+          "charge": 14,
+          "meterCharge": 0
+        },
+        {
+          "from": 50,
+          "to": 100000,
+          "charge": 25,
+          "meterCharge": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "PropertyLocation": null,
+      "buildingType": "NONRESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10,
+          "charge": 10,
+          "meterCharge": 0
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "charge": 12,
+          "meterCharge": 0
+        },
+        {
+          "from": 20,
+          "to": 50,
+          "charge": 14,
+          "meterCharge": 0
+        },
+        {
+          "from": 50,
+          "to": 100000,
+          "charge": 25,
+          "meterCharge": 0
+        }
+      ]
+    }  
+  ]
+}
