@@ -1,0 +1,86 @@
+{
+  "tenantId": "pb",
+  "moduleName": "WTB",
+  "Quantity": [
+    {
+      "id": "1",
+      "waterQuantity":500,
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "waterQuantity":1000, 
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "waterQuantity":1500,
+      "isActive": true
+    },
+    {
+      "id": "4",
+       "waterQuantity":2000,
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "waterQuantity":2500,
+      "isActive": true
+    },
+    {
+      "id": "6",
+       "waterQuantity":3000,
+      "isActive": true
+    },
+    {
+      "id": "7",
+       "waterQuantity":3500,
+      "isActive": true
+    },
+    {
+      "id": "8",
+       "waterQuantity":4000,
+      "isActive": true
+    },
+    {
+      "id": "9",
+       "waterQuantity":4500,
+      "isActive": true
+    },
+    {
+      "id": "10",
+       "waterQuantity":5000,
+      "isActive": true
+    },
+    {
+      "id": "11",
+       "waterQuantity":5500,
+      "isActive": true
+    },
+    {
+      "id": "12",
+       "waterQuantity":6000,
+      "isActive": true
+    },
+    {
+      "id": "13",
+       "waterQuantity":6500,
+      "isActive": true
+    },
+    {
+      "id": "14",
+       "waterQuantity":7000,
+      "isActive": true
+    },
+    {
+      "id": "15",
+       "waterQuantity":7500,
+      "isActive": true
+    },
+    {
+      "id": "16",
+       "waterQuantity":8000,
+      "isActive": true
+    }
+  ]
+}

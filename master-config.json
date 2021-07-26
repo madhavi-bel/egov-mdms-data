@@ -1130,6 +1130,11 @@
         "masterName":"WaterType",
         "isStateLevel": true,
         "uniqueKeys": []
+      },
+      "Quantity":{
+        "masterName":"Quantity",
+        "isStateLevel": true,
+        "uniqueKeys": []
       }
   }
     
