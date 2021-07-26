@@ -1113,6 +1113,25 @@
       "masterName": "CalculationAttribute",
       "isStateLevel": true,
       "uniqueKeys": []
-    }
+    }   
+  },
+  "WTB": {
+    "Category":{
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": [ ]
+      },    
+     "Purpose":{
+      "masterName": "Purpose",
+      "isStateLevel": true,
+      "uniqueKeys": []
+      },
+      "WaterType":{
+        "masterName":"WaterType",
+        "isStateLevel": true,
+        "uniqueKeys": []
+      }
   }
+    
+  
 }
