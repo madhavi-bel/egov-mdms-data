@@ -21468,6 +21468,20 @@
         "serviceCode": "obm",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5387,
+        "name": "WaterTankerSearch",
+        "url": "url",
+        "displayName": "Search",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "wtb/search",
+        "path": "wtbBooking.Search",
+        "leftIcon": "places:business-center"
       }
   ]
 }
