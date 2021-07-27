@@ -16747,6 +16747,24 @@
       "actionid": 699,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5382,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5382,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 5382,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

@@ -21066,6 +21066,17 @@
         "navigationURL": "report/rainmaker-bnd/BirthAndDeathCertificatePayment",
         "leftIcon": "action:assignment",
         "rightIcon": ""
+      },
+      {
+        "id": 5382,
+        "name": "ptbill search",
+        "url": "/egov-pdf/download/PT/newptbill",
+        "displayName": "ptbill search",
+        "orderNumber": 8,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
       }
     
   ]
