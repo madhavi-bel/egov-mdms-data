@@ -9,7 +9,7 @@
       "code": "PT_HOUSE_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "3",
+      "order": "4",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
@@ -21,7 +21,7 @@
       "code": "PT_WATER_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "4",
+      "order": "5",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
@@ -33,7 +33,7 @@
       "code": "PT_CONSERVANCY_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "5",
+      "order": "6",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
@@ -45,7 +45,7 @@
       "code": "PT_LIGHTINING_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "6",
+      "order": "7",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
@@ -57,7 +57,7 @@
       "code": "PT_EDUCATION_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "7",
+      "order": "8",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
@@ -69,7 +69,7 @@
       "code": "PT_DRAINAGE_TAX",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "12",
+      "order": "13",
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
@@ -81,7 +81,7 @@
       "code": "PT_DEMANDNOTICE_CHARGE",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "2",
+      "order": "3",
       "isRequired": false,
       "legacy": true
     },
@@ -92,7 +92,7 @@
       "code": "PT_TIME_INTEREST",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "1",
+      "order": "2",
       "isRequired": false,
       "legacy": true
     },
@@ -114,7 +114,7 @@
       "code": "PT_TIME_REBATE",
       "isDebit": true,
       "isActualDemand": true,
-      "order": "0",
+      "order": "1",
       "isRequired": false,
       "legacy": true
     }
