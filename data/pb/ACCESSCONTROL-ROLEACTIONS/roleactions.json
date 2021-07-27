@@ -16093,6 +16093,660 @@
       "actionid": 5367,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1890,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    	
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5021,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5022,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5023,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5027,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5028,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5029,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5282,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5030,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5037,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5074,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5075,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5076,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5078,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+ 
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5079,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+  
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5080,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5003,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5007,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5013,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5047,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5048,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5049,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1715,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1907,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1917,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1716,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1906,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1916,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1717,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1905,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1915,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5097,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5101,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5102,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5098,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5099,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1856,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1857,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1858,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1859,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1842,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1844,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1845,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1561,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1563,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1564,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1591,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5107,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5109,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5111,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5112,
+      "actioncode": "",
+      "tenantId": "pb"
+    },   
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5119,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5120,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5058,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5059,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5090,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5091,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5132,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5133,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5134,
+      "actioncode": "",
+      "tenantId": "pb"
+    },    
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5136,
+      "actioncode": "",
+      "tenantId": "pb"
+    }, 
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5137,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5138,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5139,
+      "actioncode": "",
+      "tenantId": "pb"
+    }, 
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5140,
+      "actioncode": "",
+      "tenantId": "pb"
+    },   
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5141,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5161,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5162,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5163,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5248,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5249,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5250,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5262,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5263,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5268,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{	
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5269,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5271,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5272,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5273,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5274,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5275,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5287,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5288,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5289,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5296,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5325,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5326,
+      "actioncode": "",
+      "tenantId": "pb"
+    }, 
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5327,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5340,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5165,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5166,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5164,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 1580,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "pb"
+    }, 
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
