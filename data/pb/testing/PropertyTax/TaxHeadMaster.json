@@ -111,7 +111,7 @@
       "category": "REBATE",
       "service": "PT",
       "name": "Pt time rebate",
-      "code": "PT_TIME_REBATE",
+      "code": "PT_ADHOC_REBATE",
       "isDebit": true,
       "isActualDemand": true,
       "order": "1",

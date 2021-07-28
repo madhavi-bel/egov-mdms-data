@@ -1,5 +1,15 @@
 {
     "tenantId": "pb.testing",
     "moduleName": "PropertyTax",
-    "Rebate": []
+    "Rebate": [
+        {
+            "rate": 1,
+            "maxAmount": null,
+            "flatAmount": null,
+            "fromFY": "2021-22",
+            "endingDay": "31/06",
+            "mutationPaymentPeriodInMonth": "06",
+            "attr":"ARV"
+          } 
+    ]
 }
