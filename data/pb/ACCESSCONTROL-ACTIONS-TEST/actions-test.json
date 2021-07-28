@@ -21437,7 +21437,7 @@
         "enabled": true,
         "serviceCode": "",
         "code": "null",
-        "navigationURL": "wtb/waterTankerBooking",
+        "navigationURL": "wtb-citizen/home",
         "path": "wtbBooking",
         "leftIcon": "custom:localShipping"
       },
@@ -21468,6 +21468,49 @@
         "serviceCode": "obm",
         "code": "null",
         "path": ""
+      },
+      
+      {
+        "id": 5387,
+        "name": "WaterTankerSearch",
+        "url": "url",
+        "displayName": "Search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "wtb/search",
+        "path": "wtbBooking.Search",
+        "leftIcon": "places:business-center"
+      },
+      {
+        "id": 5388,
+        "name": "Water Tanker",
+        "url": "url",
+        "displayName": "Water Tanker",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "wtb/waterTankerBooking",
+        "path": "wtbBooking.Water Tanker",
+        "leftIcon": "custom:localShipping"
+      },
+      {
+        "id": 5389,
+        "name": "Water Tanker",
+        "url": "url",
+        "displayName": "Water Tanker",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "wtb/search",
+        "path": "wtbBooking",
+        "leftIcon": "custom:localShipping"
       }
   ]
 }
