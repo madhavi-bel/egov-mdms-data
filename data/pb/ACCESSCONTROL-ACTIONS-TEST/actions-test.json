@@ -21474,7 +21474,7 @@
         "name": "WaterTankerSearch",
         "url": "url",
         "displayName": "Search",
-        "orderNumber": 2,
+        "orderNumber": 1,
         "parentModule": "",
         "enabled": true,
         "serviceCode": "",
@@ -21482,6 +21482,20 @@
         "navigationURL": "wtb/search",
         "path": "wtbBooking.Search",
         "leftIcon": "places:business-center"
+      },
+      {
+        "id": 5388,
+        "name": "Water Tanker",
+        "url": "url",
+        "displayName": "Water Tanker",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "wtb/waterTankerBooking",
+        "path": "wtbBooking.Water Tanker",
+        "leftIcon": "custom:localShipping"
       }
   ]
 }
