@@ -301,6 +301,11 @@
       "code": "BND_CEMP",
       "name": "BnD Counter Employee",
       "description": "BnD Counter Employee"
+    },
+    {
+      "code": "DASHBOARD_REPORT_VIEWER",
+      "name": "Role for Viewing Reports and Dashboard",
+      "description": "Dashboard and Report Viewer"
     }
   ]
 }
