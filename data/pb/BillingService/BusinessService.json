@@ -2234,8 +2234,19 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "WaterTankerBooking",
+      "code": "WTB",
+      "collectionModesNotAllowed": [
+        "DD",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
 
- 
   ]
 }

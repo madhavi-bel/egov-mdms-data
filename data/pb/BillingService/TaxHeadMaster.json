@@ -14831,6 +14831,17 @@
       "isRequired": false,
       "legacy": true,
       "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WTB",
+      "name": "Water Tanker charges",
+      "code": "WTB_WATER_TANKER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
+    
   ]
 }

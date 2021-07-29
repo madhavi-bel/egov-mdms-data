@@ -1202,6 +1202,10 @@
     {
           "format": "OBM-CHB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EG_OBM_CHB_APL]",
           "idname": "obm.chbaplnumber"
+    },
+    {
+      "format": "OBM-WTB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EG_OBM_WTB_APL]",
+      "idname": "obm.wtbaplnumber"
     }
   ]
 }
