@@ -21498,19 +21498,47 @@
         "path": "wtbBooking.Water Tanker",
         "leftIcon": "custom:localShipping"
       },
+    
       {
-        "id": 5389,
-        "name": "Water Tanker",
-        "url": "url",
-        "displayName": "Water Tanker",
+        "id": 5390,
+        "name": "CreateWaterTankerBooking",
+        "url": "/obm-services/wtb/_create",
+        "displayName": "CreateWaterTankerBooking",
         "orderNumber": 2,
         "parentModule": "",
         "enabled": true,
-        "serviceCode": "",
+        "serviceCode": "wtb",
         "code": "null",
-        "navigationURL": "wtb/search",
-        "path": "wtbBooking",
-        "leftIcon": "custom:localShipping"
+        "navigationURL": "",
+        "path": "",
+        "leftIcon": ""
+      },
+      {
+        "id": 5391,
+        "name": "SearchWaterTankerBooking",
+        "url": "/obm-services/wtb/_search",
+        "displayName": "SearchWaterTankerBooking",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "wtb",
+        "code": "null",
+        "navigationURL": "",
+        "path": "",
+        "leftIcon": ""
+      },
+      {
+        "id": 5392,
+        "name": "updateWaterTankerBooking",
+        "url": "/obm-services/wtb/_update",
+        "displayName": "updateWaterTankerBooking",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "wtb",
+        "code": "null",        
+        "path": "",
+        "leftIcon": ""
       }
   ]
 }
