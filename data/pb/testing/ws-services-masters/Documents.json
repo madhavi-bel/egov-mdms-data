@@ -3,6 +3,19 @@
   "moduleName": "ws-services-masters",
   "Documents": [
 
-     
+    {
+      "code": "SELFDECLERATION",
+      "documentType": "SELFDECLERATION",
+      "active": true,
+      "required": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SELFDECLERATION.SELFDECLERATION",
+          "active": true
+        }
+      ],
+      "description": "SELFDECLERATION_DESCRIPTION"
+    }
   ]
 }

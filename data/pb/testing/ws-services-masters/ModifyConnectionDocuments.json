@@ -2,6 +2,20 @@
   "tenantId": "pb.testing",
   "moduleName": "ws-services-masters",
   "ModifyConnectionDocuments": [
-  
+ 
+    {
+      "code": "SELFDECLERATION",
+      "documentType": "SELFDECLERATION",
+      "active": true,
+      "required": false,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "SELFDECLERATION.SELFDECLERATION",
+          "active": true
+        }
+      ],
+      "description": "SELFDECLERATION_DESCRIPTION"
+    }
   ]
 }
