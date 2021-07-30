@@ -2246,6 +2246,18 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "CommunityHallBooking",
+      "code": "CHB",
+      "collectionModesNotAllowed": [
+        "DD",
+        "POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
 
   ]

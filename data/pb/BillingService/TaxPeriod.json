@@ -1658,6 +1658,14 @@
       "service": "WTB",
       "code": "WTB10YRS",
       "financialYear": "2021-2031"
+	},
+	{
+      "fromDate": 1617215400000,
+      "toDate": 1932748199000,
+      "periodCycle": "FORTENYEARS",
+      "service": "CHB",
+      "code": "CHB10YRS1",
+      "financialYear": "2021-31"
     }
   ]
 }

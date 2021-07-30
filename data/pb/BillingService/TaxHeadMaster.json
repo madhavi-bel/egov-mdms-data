@@ -14851,6 +14851,96 @@
       "isActualDemand": true,
       "order": "2",
       "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WTB",
+      "name": "Water Tanker Security Deposit",
+      "code": "WTB_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "CHB_RENT",
+      "code": "CHB_RENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "CHB_SEC_DEP",
+      "code": "CHB_SEC_DEP",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "CHB_ELECT_FEE",
+      "code": "CHB_ELECT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "CHB_WATER_FEE",
+      "code": "CHB_WATER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "CHB_CONSER_FEE",
+      "code": "CHB_CONSER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CHB",
+      "name": "CHB_ROUNDOFF",
+      "code": "CHB_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHB",
+      "name": "CHB_RENT_CGST",
+      "code": "CHB_RENT_CGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CHB",
+      "name": "CHB_RENT_SGST",
+      "code": "CHB_RENT_SGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false
     }
     
   ]
