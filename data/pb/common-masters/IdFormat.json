@@ -1206,6 +1206,12 @@
     {
       "format": "OBM-WTB-[cb.name]-[cy:yyyy-MM-dd]-[SEQ_EG_OBM_WTB_APL]",
       "idname": "obm.wtbaplnumber"
+    },{
+      "format": "OBM/CHB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+      "idname": "chb.receipt.id"
+    },{
+      "format": "OBM/WTP/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+      "idname": "wtb.receipt.id"
     }
   ]
 }
