@@ -1,0 +1,16 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "WTB",
+    "tankerCapacity": [
+        {
+            "id": "1",
+            "capacity":3000,
+            "isActive": true
+          },
+          {
+            "id": "2",
+            "capacity":5000, 
+            "isActive": true
+          }
+    ]
+  }
