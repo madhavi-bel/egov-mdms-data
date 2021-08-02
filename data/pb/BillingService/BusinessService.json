@@ -12,7 +12,7 @@
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
-      "minAmountPayable": 50,
+      "minAmountPayable": 10,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
