@@ -21539,6 +21539,20 @@
         "code": "null",        
         "path": "",
         "leftIcon": ""
+      },
+      {
+        "id": 5393,
+        "name": "ReceiptCancel",
+        "url": "url",
+        "displayName": "Receipt",
+        "orderNumber": 5,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "BG",
+        "code": "null",
+        "navigationURL": "receipts/search",
+        "path": "BG",
+        "leftIcon": "action:receipt"
       }
   ]
 }
