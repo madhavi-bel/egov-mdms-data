@@ -17566,6 +17566,12 @@
       "actionid": 5393,
       "actioncode": "",
       "tenantId": "pb"
-    } 
+    },
+    {
+      "rolecode": "OBM_CHB_DOC_VERIFIER",
+      "actionid": 5394,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }

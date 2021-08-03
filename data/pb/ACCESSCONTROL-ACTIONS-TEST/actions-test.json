@@ -21553,6 +21553,19 @@
         "navigationURL": "receipts/search",
         "path": "BG",
         "leftIcon": "action:receipt"
+      },
+      {
+        "id": 5394,
+        "name": "refund",
+        "url": "/collection-services/refunds/_create",
+        "displayName": "refund",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "wtb",
+        "code": "null",        
+        "path": "",
+        "leftIcon": ""
       }
   ]
 }
