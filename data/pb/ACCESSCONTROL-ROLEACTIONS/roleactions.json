@@ -17572,6 +17572,18 @@
       "actionid": 5394,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_WT_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_WT_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
