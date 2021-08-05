@@ -17584,6 +17584,12 @@
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "pb"
+    },    
+    {
+      "rolecode": "OBM_WT_CEMP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
