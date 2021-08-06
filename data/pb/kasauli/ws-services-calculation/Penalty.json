@@ -1,5 +1,14 @@
 {
   "tenantId": "pb.kasauli",
   "moduleName": "ws-services-calculation",
-  "Penalty": []
+  "Penalty": [
+    {
+      "rate": 10,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2021"
+    }
+  ]
 }
