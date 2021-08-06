@@ -21566,6 +21566,17 @@
         "code": "null",        
         "path": "",
         "leftIcon": ""
+      },
+      {
+        "id": 5395,
+        "name": "Bill Generation For Legacy Water connection",
+        "url": "/ws-calculator/waterCalculator/_generateLegacyDemand",
+        "displayName": "Bill Generation For Legacy Water connection",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
       }
   ]
 }
