@@ -17626,6 +17626,114 @@
       "actionid": 5395,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5396,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5396,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 5396,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 5396,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5396,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5396,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5397,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5397,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 5397,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 5397,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5397,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5397,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 5398,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 5398,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 5398,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 5398,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 5398,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DASHBOARD_REPORT_VIEWER",
+      "actionid": 5398,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
