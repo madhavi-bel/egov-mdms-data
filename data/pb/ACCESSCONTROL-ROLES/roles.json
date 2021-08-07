@@ -313,11 +313,6 @@
       "description": "Property Field Inspector"
     },
     {
-      "code": "PT_APPROVER",
-      "name": "PT Counter Approver",
-      "description": "PT Approver"
-    },
-    {
       "code": "CMD_REPORT",
       "name": "Command level employee",
       "description": "Command level employee to view reports"
