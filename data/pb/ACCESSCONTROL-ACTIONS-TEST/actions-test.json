@@ -21582,7 +21582,7 @@
         "id": 5396,
         "name": "WS Application Status",
         "url": "url",
-        "displayName": "WS Application Status Register",
+        "displayName": "WS Deactivate Application Status Register",
         "orderNumber": 3,
         "parentModule": "rainmaker-ws",
         "enabled": true,
