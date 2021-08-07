@@ -21577,6 +21577,44 @@
         "serviceCode": "ws-calculator",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 5396,
+        "name": "WS Application Status",
+        "url": "url",
+        "displayName": "WS Application Status Register",
+        "orderNumber": 3,
+        "parentModule": "rainmaker-ws",
+        "enabled": true,
+        "serviceCode": "WS",
+        "code": "null",
+        "path": "wns.WS REPORTS.DeactivateWaterConnectionApplicationStatusReport",
+        "navigationURL": "report/rainmaker-ws/DeactivateWaterConnectionApplicationStatusReport",
+        "leftIcon": "action:description",
+        "rightIcon": ""
+      },
+      {
+        "id": 5397,
+        "name": "DeactivateWaterConnectionApplicationStatusReport-Metadata",
+        "url": "/report/rainmaker-ws/DeactivateWaterConnectionApplicationStatusReport/metadata/_get",
+        "displayName": "Rainmaker WS report",
+        "orderNumber": 1,
+        "parentModule": "147",
+        "enabled": false,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": "DeactivateWaterConnectionApplicationStatusReport"
+      },
+      {
+        "id": 5398,
+        "name": "DeactivateWaterConnectionApplicationStatusReport",
+        "url": "/report/rainmaker-ws/DeactivateWaterConnectionApplicationStatusReport/_get",
+        "displayName": "WS Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": "DeactivateWaterConnectionApplicationStatusReport"
       }
   ]
 }
