@@ -292,21 +292,12 @@
     },
     {
       "fromDate": 1585679400000,
-      "toDate": 1617215399999,
-      "periodCycle": "ANNUAL",
+      "toDate": 1901212199999,
+      "periodCycle": "TENYEARS",
       "service": "WS",
       "code": "WC2020",
-      "financialYear": "2020-21"
+      "financialYear": "2020-30"
     },
-    {
-      "fromDate": 1617215400000,
-      "toDate": 1648751399999,
-      "periodCycle": "ANNUAL",
-      "service": "WS",
-      "code": "WC2021",
-      "financialYear": "2021-22"
-    },
-    
     {
       "fromDate": 1617215400000,
       "toDate": 1680287399000,
