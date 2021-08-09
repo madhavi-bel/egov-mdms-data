@@ -21615,6 +21615,19 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": "DeactivateWaterConnectionApplicationStatusReport"
+      },
+      {
+        "id": 5399,
+        "name": "refund",
+        "url": "/collection-services/refunds/_search",
+        "displayName": "search",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",        
+        "path": "",
+        "leftIcon": ""
       }
   ]
 }

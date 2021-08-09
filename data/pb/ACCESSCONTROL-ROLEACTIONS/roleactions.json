@@ -17734,6 +17734,30 @@
       "actionid": 5398,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_CHB_CEMP",
+      "actionid": 5399,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5399,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_CHB_DOC_VERIFIER",
+      "actionid": 5399,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_CHB_APPROVER",
+      "actionid": 5399,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
