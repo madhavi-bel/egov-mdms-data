@@ -17758,6 +17758,12 @@
       "actionid": 5399,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 5159,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
