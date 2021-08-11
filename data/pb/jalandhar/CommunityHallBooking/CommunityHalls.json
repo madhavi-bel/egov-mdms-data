@@ -1,0 +1,186 @@
+{
+  "tenantId": "pb.jalandhar",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+     {
+        "hallCode": 1,
+        "name": "Dak Bungalow (HALL ALONG WITH LAWN AND 02 ROOMS)",
+        "address": "Mool Raj Road, Near Cantt Board Girls Sr.Sec.School, Jalandhar Cantt.",
+        "geoLocation": "31.295250, 75.626722",
+        "contactDetails": "9814482841\n9357252789",
+        "type": "HALL",
+        "timeSlots": [
+           {
+              "id": 1,
+              "from": "10:00",
+              "duration": "06:00",
+              "RENT": 12000,
+              "SECURITY_DEPOSIT": 0,
+              "ELECTRICITY_CHARGES": 0,
+              "WATER_CHARGES": 0,
+              "CONSERVANCY_CHARGES": 0
+           },
+           {
+              "id": 2,
+              "from": "18:00",
+              "duration": "11:00",
+              "RENT": 12000,
+              "SECURITY_DEPOSIT": 0,
+              "ELECTRICITY_CHARGES": 0,
+              "WATER_CHARGES": 0,
+              "CONSERVANCY_CHARGES": 0
+           }
+        ],
+        "residentType": [
+           {
+              "type": "RESIDENT.INSIDE_CANTT",
+              "discountRate": 0
+           },
+           {
+              "type": "RESIDENT.OUTSIDE_CANTT",
+              "discountRate": 0
+           }
+        ],
+        "purposes": [
+           {
+              "purpose": "PURPOSE.MARRIAGE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.RELIGIOUS",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.SOCIAL",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.CONFERENCE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.POLITICAL_PROGRAM",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.PUBLIC_GATHERING",
+              "discountRate": 0
+           }
+        ],
+        "specialCategories": [
+           {
+              "category": "CATEGORY.CANTT_STAFF",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.RETD_CANTT_STAFF",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.ELECTED_MEMBER",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.BPL",
+              "discountRate": 0
+           }
+        ],
+        "maxAllowedFutureBookingDays": 30,
+        "cancellationSlab": [],
+        "hallDescription": "Hall has an area of 16132.50 Sq. Ft. There are 2 Rooms and a Lawn.",
+        "termsAndCondition": "1.Lawn with two rooms and hall room for sale of items/fairs/exhibition       etc. apart of a marriage function for general public only",
+        "headerImageUrl": "",
+        "portalUrl": ""
+     },
+     {
+        "hallCode": 2,
+        "name": "Dak Bungalow (HALL ALONG WITH LAWN)",
+        "address": "Mool Raj Road, Near Cantt Board Girls Sr.Sec.School, Jalandhar Cantt.",
+        "geoLocation": "31.295250, 75.6267",
+        "contactDetails": "9814482841\n9357252789",
+        "type": "LAWN",
+        "timeSlots": [
+           {
+              "id": 1,
+              "from": "10:00",
+              "duration": "06:00",
+              "RENT": 4000,
+              "SECURITY_DEPOSIT": 0,
+              "ELECTRICITY_CHARGES": 0,
+              "WATER_CHARGES": 0,
+              "CONSERVANCY_CHARGES": 0
+           },
+           {
+              "id": 2,
+              "from": "18:00",
+              "duration": "11:00",
+              "RENT": 4000,
+              "SECURITY_DEPOSIT": 0,
+              "ELECTRICITY_CHARGES": 0,
+              "WATER_CHARGES": 0,
+              "CONSERVANCY_CHARGES": 0
+           }
+        ],
+        "residentType": [
+           {
+              "type": "RESIDENT.INSIDE_CANTT",
+              "discountRate": 0
+           },
+           {
+              "type": "RESIDENT.OUTSIDE_CANTT",
+              "discountRate": 0
+           }
+        ],
+        "purposes": [
+           {
+              "purpose": "PURPOSE.MARRIAGE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.RELIGIOUS",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.SOCIAL",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.CONFERENCE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.POLITICAL_PROGRAM",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.PUBLIC_GATHERING",
+              "discountRate": 0
+           }
+        ],
+        "specialCategories": [
+           {
+              "category": "CATEGORY.CANTT_STAFF",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.RETD_CANTT_STAFF",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.ELECTED_MEMBER",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.BPL",
+              "discountRate": 0
+           }
+        ],
+        "maxAllowedFutureBookingDays": 30,
+        "cancellationSlab": [],
+        "hallDescription": "Hall has an area of 15232.50 Sq. Ft along with Lawn.",
+        "termsAndCondition": "1. Lawn with hall room for marriage function etc. for Cantonment Board Staffs (blood relation ).",
+        "headerImageUrl": "",
+        "portalUrl": ""
+     }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "tenantId": "pb.nainital",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Vrindavan Hall",
+      "address": "Kailakhan Parao Nainital Cantonment",
+      "geoLocation": "29.3766, 79.4816",
+      "contactDetails": "Rajendra Singh Pawar\n9411196854",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "08:00",
+          "duration": "22:00",
+          "RENT": 10000,
+          "SECURITY_DEPOSIT": 5000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 50
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 30,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 0,
+          "cancelTo": 0,
+          "percentageDeduction": "Full rent deducted"
+        },
+        {
+          "id": 2,
+          "cancelFrom": 0,
+          "cancelTo": 0,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 3,
+          "cancelFrom": 0,
+          "cancelTo": 0,
+          "percentageDeduction": 0
+        }
+      ],
+      "hallDescription": "The Cantonment Board Nainital maintains a Community Center -Vrindavan Hall which is located at Kailakhan Parao.",
+      "termsAndCondition": "Temporary Permission is hereby granted to use Vrindavan Guest house to organize functions subject to the following conditions:-\n1.        The applicant will deposit charges of Cantt Fund property on approved rates of Board  within 03 days from receipt hereof.\n2.        The applicant will not make damages to Cantt Fund property.\n3.        If the applicant  violates the above conditions or any law or order of CEO in the event , the permission will be automatically cancelled.\n4.        The applicant should not use polythene/disposal plastic material during the said event and keep the ground clean and green for an eco eco-friendly environment.\n5.        The above permission is subject to the permission of district authority to organize the function under Covid-19 guidelines.\n\nनोट:- शादी/अन्य आयोजनो में प्लास्टिक पोलोथीन/डिस्पोजल का प्रयोग किया जाना प्रतिबन्धित है।",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

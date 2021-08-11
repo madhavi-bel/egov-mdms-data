@@ -1,0 +1,105 @@
+{
+  "tenantId": "pb.pachmarhi",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Atal bihari Vajpai",
+      "address": "Pipriya Road Pachmarhi",
+      "geoLocation": "22.4758355, 78.4355073",
+      "contactDetails": "7470632389",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "09:00",
+          "duration": "23:59",
+          "RENT": 2000,
+          "SECURITY_DEPOSIT": 2000,
+          "ELECTRICITY_CHARGES": 2000,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 200
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 75
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 25
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 3,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 3,
+          "cancelTo": 7,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 3,
+          "cancelFrom": 7,
+          "cancelTo": 60,
+          "percentageDeduction": 25
+        }
+      ],
+      "hallDescription": "Hall can be used for organising Cultural Program, Public meetings and Weddings.",
+      "termsAndCondition": "First come, First book",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "tenantId": "pb.dehuroad",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Pandit Jawaharlal Nehru Mangal Karyalya",
+      "address": "Near Vegetable market , Dehu Road  Main Bazar, Dehu Road-412101",
+      "geoLocation": "18.68158824786493, 73.73166555697149",
+      "contactDetails": "9370950837, 020-27671222",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "06:00",
+          "duration": "23:59",
+          "RENT": 14750,
+          "SECURITY_DEPOSIT": 5000,
+          "ELECTRICITY_CHARGES": 400,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 180,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 180,
+          "cancelTo": 90,
+          "percentageDeduction": 25
+        },
+        {
+          "id": 2,
+          "cancelFrom": 89,
+          "cancelTo": 30,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 3,
+          "cancelFrom": 29,
+          "cancelTo": 15,
+          "percentageDeduction": 60
+        },
+        {
+          "id": 4,
+          "cancelFrom": 14,
+          "cancelTo": 0,
+          "percentageDeduction": 100
+        }
+      ],
+      "hallDescription": "There is one Hall, Dining Area, Kitchen, and 2 Rooms for Groom and Bride. Can accommodate 250 people. Hall area is 707.52 Sq.Mtrs.",
+      "termsAndCondition": "All Public",
+      "headerImageUrl": "",
+      "portalUrl": "https://dehuroad.cantt.gov.in/revenue-tax/"
+    }
+  ]
+}

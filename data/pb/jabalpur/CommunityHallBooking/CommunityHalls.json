@@ -1,0 +1,471 @@
+{
+  "tenantId": "pb.Jabalpur",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Ramleel utsav Baratghar",
+      "address": "Sadar Bazar Cantt.Jabalpur",
+      "geoLocation": "23.152362, 79.946176",
+      "contactDetails": "0761-2620167",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "10:00",
+          "duration": "23:59",
+          "RENT": 20000,
+          "SECURITY_DEPOSIT": 5000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 1000,
+          "CONSERVANCY_CHARGES": 2000
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 15,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": "15 days before the date.",
+          "cancelTo": "Date of booking.",
+          "percentageDeduction": 50
+        },
+        {
+          "id": 2,
+          "cancelFrom": "16 days before.",
+          "cancelTo": "any no of days",
+          "percentageDeduction": 40
+        }
+      ],
+      "hallDescription": "Ground Floor has Hall and 3 Rooms, 1st Floor has 5 Rooms and Terrace.",
+      "termsAndCondition": "1.Full Time Booking is allowed Only From 10.00 AM to 10.00 AM(Next Day)2.Baratgar is under Management of Cantonment Board Jabalpur,duly approved by the Board,",
+      "headerImageUrl": "",
+      "portalUrl": "jabalpur.cantt.gov.in"
+    },
+    {
+      "hallCode": 2,
+      "name": "Geetanjali Mini Function Hall",
+      "address": "Yaadgar Chowk, Near Tagor Garden sadar cantt. Jabalpur",
+      "geoLocation": "23.156237, 79.948771",
+      "contactDetails": "0761-2620167",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "10:00",
+          "duration": "23:59",
+          "RENT": 8000,
+          "SECURITY_DEPOSIT": 2000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 2000
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 15,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": "15 days before the date.",
+          "cancelTo": "Date of booking.",
+          "percentageDeduction": 50
+        },
+        {
+          "id": 2,
+          "cancelFrom": "16 days before.",
+          "cancelTo": "any no of days",
+          "percentageDeduction": 40
+        }
+      ],
+      "hallDescription": "There is Only One Hall",
+      "termsAndCondition": "1.Full Time Booking is allowed Only From 10.00 AMto 10.00 AM(Next Day)2.Baratgar is under Management of Cantonment Board Jabalpur,duly approved by the Board,",
+      "headerImageUrl": "",
+      "portalUrl": "jabalpur.cantt.gov.in"
+    },
+    {
+      "hallCode": 3,
+      "name": "Lohar Moholla Modiwara Hall",
+      "address": "Lohar Moholla Modiwara, Cantt. Jabalpur",
+      "geoLocation": "23.148162, 79.940347",
+      "contactDetails": "0761-2620167",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "10:00",
+          "duration": "23:59",
+          "RENT": 7000,
+          "SECURITY_DEPOSIT": 3000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 1000
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 25
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 36
+        }
+      ],
+      "maxAllowedFutureBookingDays": 15,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": "15 days before the date.",
+          "cancelTo": "Date of booking.",
+          "percentageDeduction": 50
+        },
+        {
+          "id": 2,
+          "cancelFrom": "16 days before.",
+          "cancelTo": "any no of days",
+          "percentageDeduction": 40
+        }
+      ],
+      "hallDescription": "There is a Hall, 2  Rooms on 1st Floor and and Terrace.",
+      "termsAndCondition": "1.Full Time Booking is allowed Only From 10.00 AMto 10.00 AM(Next Day)2.Baratgar is under Management of Cantonment Board Jabalpur,duly approved by the Board",
+      "headerImageUrl": "",
+      "portalUrl": "jabalpur.cantt.gov.in"
+    },
+    {
+      "hallCode": 4,
+      "name": "Karondi Baratghar",
+      "address": "Karondi Cantt.Jabalpur",
+      "geoLocation": "23.192723, 79.998786",
+      "contactDetails": "0761-2620167",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "10:00",
+          "duration": "23:59",
+          "RENT": 1000,
+          "SECURITY_DEPOSIT": 4000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 600
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 15,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": "15 days before the date.",
+          "cancelTo": "Date of booking.",
+          "percentageDeduction": 50
+        },
+        {
+          "id": 2,
+          "cancelFrom": "16 days before.",
+          "cancelTo": "any no of days",
+          "percentageDeduction": 40
+        }
+      ],
+      "hallDescription": "There is Only One Hall",
+      "termsAndCondition": "1.Full Time Booking is allowed Only From 10.00 AMto 10.00 AM(Next Day)2.Baratgar is under Management of Cantonment Board Jabalpur,duly approved by the Board,",
+      "headerImageUrl": "",
+      "portalUrl": "jabalpur.cantt.gov.in"
+    },
+    {
+      "hallCode": 5,
+      "name": "Jhiria Baratghar",
+      "address": "Jhiria Cantt. Jabalpur",
+      "geoLocation": "23.151837, 79.949152",
+      "contactDetails": "0761-2620167",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "10:00",
+          "duration": "23:59",
+          "RENT": 10000,
+          "SECURITY_DEPOSIT": 5000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 1000,
+          "CONSERVANCY_CHARGES": 1000
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 25
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 50
+        }
+      ],
+      "maxAllowedFutureBookingDays": 15,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": "15 days before the date.",
+          "cancelTo": "Date of booking.",
+          "percentageDeduction": 50
+        },
+        {
+          "id": 2,
+          "cancelFrom": "16 days before.",
+          "cancelTo": "any no of days",
+          "percentageDeduction": 40
+        }
+      ],
+      "hallDescription": "There is Only One Hall",
+      "termsAndCondition": "1.Full Time Booking is allowed Only From 10.00 AMto 10.00 AM(Next Day)2.Baratgar is under Management of Cantonment Board Jabalpur,duly approved by the Board,",
+      "headerImageUrl": "",
+      "portalUrl": "jabalpur.cantt.gov.in"
+    }
+  ]
+}

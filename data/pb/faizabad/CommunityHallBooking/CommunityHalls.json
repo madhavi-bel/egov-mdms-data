@@ -1,0 +1,303 @@
+{
+  "tenantId": "pb.faizabad",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Marriage Hall",
+      "address": "Sadar Bazar",
+      "geoLocation": "26.790817, 82.122582",
+      "contactDetails": "05278-224325",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "08:00",
+          "duration": "23:59",
+          "RENT": 4000,
+          "SECURITY_DEPOSIT": 3000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 2,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 3,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        }
+      ],
+      "hallDescription": "01 Hall & Field",
+      "termsAndCondition": "Allowed all public in Cantonment area.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    },
+    {
+      "hallCode": 2,
+      "name": "Cantonment Stadium",
+      "address": "Sadar Bazar",
+      "geoLocation": "26.790149, 82.126915",
+      "contactDetails": "05278-224325",
+      "type": "LAWN",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "08:00",
+          "duration": "23:59",
+          "RENT": 2000,
+          "SECURITY_DEPOSIT": 1000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 2,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 3,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        }
+      ],
+      "hallDescription": "Lawn",
+      "termsAndCondition": "Allowed all public in Cantonment area.",
+      "headerImageUrl": "-",
+      "portalUrl": "-"
+    },
+    {
+      "hallCode": 3,
+      "name": "Lalkurti/B I Bazar ground",
+      "address": "Lalkurti",
+      "geoLocation": "26.779563, 82.127920",
+      "contactDetails": "05278-224325",
+      "type": "LAWN",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "08:00",
+          "duration": "23:59",
+          "RENT": 1500,
+          "SECURITY_DEPOSIT": 1000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 2,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        },
+        {
+          "id": 3,
+          "cancelFrom": 1,
+          "cancelTo": 1,
+          "percentageDeduction": 0
+        }
+      ],
+      "hallDescription": "Lawn",
+      "termsAndCondition": "Allowed all public in Cantonment area.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+   "tenantId": "pb.aurangabad",
+   "moduleName": "CommunityHallBooking",
+   "communityHalls": [
+      {
+         "hallCode": "1",
+         "name": "Ellora Lawns",
+         "address": "Income Tax, Road near CFS quarters, Cantonment Aurangabad",
+         "geoLocation": "19.88304. 75.31031",
+         "contactDetails": "2402370806",
+         "type": "LAWN",
+         "timeSlots": [
+            {
+               "id": 1,
+               "from": "12:00",
+               "duration": "23:00",
+               "RENT": 18000,
+               "SECURITY_DEPOSIT": 16000,
+               "ELECTRICITY_CHARGES": 0,
+               "WATER_CHARGES": 0,
+               "CONSERVANCY_CHARGES": 4000
+            },
+            {
+               "id": 2,
+               "from": "11:00",
+               "duration": "23:00",
+               "RENT": 9500,
+               "SECURITY_DEPOSIT": 8000,
+               "ELECTRICITY_CHARGES": 0,
+               "WATER_CHARGES": 0,
+               "CONSERVANCY_CHARGES": 2000
+            }
+         ],
+         "residentType": [
+            {
+               "type": "RESIDENT.INSIDE_CANTT",
+               "discountRate": 0
+            },
+            {
+               "type": "RESIDENT.OUTSIDE_CANTT",
+               "discountRate": 0
+            }
+         ],
+         "purposes": [
+            {
+               "purpose": "PURPOSE.MARRIAGE",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.RELIGIOUS",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.SOCIAL",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.CONFERENCE",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.POLITICAL_PROGRAM",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.PUBLIC_GATHERING",
+               "discountRate": 0
+            }
+         ],
+         "specialCategories": [
+            {
+               "category": "CATEGORY.CANTT_STAFF",
+               "discountRate": 50
+            },
+            {
+               "category": "CATEGORY.RETD_CANTT_STAFF",
+               "discountRate": 0
+            },
+            {
+               "category": "CATEGORY.ELECTED_MEMBER",
+               "discountRate": 0
+            },
+            {
+               "category": "CATEGORY.BPL",
+               "discountRate": 0
+            }
+         ],
+         "maxAllowedFutureBookingDays": 90,
+         "cancellationSlab": [
+            {
+               "id": 1,
+               "cancelFrom": 89,
+               "cancelTo": 1,
+               "percentageDeduction": 0
+            },
+            {
+               "id": 2,
+               "cancelFrom": 89,
+               "cancelTo": 1,
+               "percentageDeduction": 0
+            }
+         ],
+         "hallDescription": "Lawns",
+         "termsAndCondition": "1.The day commences from 12:00 Midnight to 11:00 Midnight.\n2. The person booking Ellora Lawns will be responsible for all kinds of damage to the building hygienic conditions.\n3. All activities including cooking must be carried out within the walled premises of the building.\n4. No nuisance shall be created for citizens residing around and people passing on road.\n5. Sound decibel must be within the permissible level. The person booking Ajantha Bhavan must obtain permission from concerned authorities including police department of various activities.\n6. Food wastage/Garbage must be dumped in the proper dust been (Kachra Kundi) must not be thrown in open area around Ajantha Bhavan.",
+         "headerImageUrl": "",
+         "portalUrl": "https://aurangabad.cantt.gov.in/community-center/"
+      },
+      {
+         "hallCode": 2,
+         "name": "Ajantha Bhavan",
+         "address": "Gowlipura Ward No. 2",
+         "geoLocation": "19.8775, 75.3089",
+         "contactDetails": "2402370806",
+         "type": "HALL",
+         "timeSlots": [
+            {
+               "id": 1,
+               "from": "12:00",
+               "duration": "23:00",
+               "RENT": 4000,
+               "SECURITY_DEPOSIT": 2000,
+               "ELECTRICITY_CHARGES": 0,
+               "WATER_CHARGES": 0,
+               "CONSERVANCY_CHARGES": 0
+            }
+         ],
+         "residentType": [
+            {
+               "type": "RESIDENT.INSIDE_CANTT",
+               "discountRate": ""
+            },
+            {
+               "type": "RESIDENT.OUTSIDE_CANTT",
+               "discountRate": ""
+            }
+         ],
+         "purposes": [
+            {
+               "purpose": "PURPOSE.MARRIAGE",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.RELIGIOUS",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.SOCIAL",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.CONFERENCE",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.POLITICAL_PROGRAM",
+               "discountRate": 0
+            },
+            {
+               "purpose": "PURPOSE.PUBLIC_GATHERING",
+               "discountRate": 0
+            }
+         ],
+         "specialCategories": [
+            {
+               "category": "CATEGORY.CANTT_STAFF",
+               "discountRate": 50
+            },
+            {
+               "category": "CATEGORY.RETD_CANTT_STAFF",
+               "discountRate": 0
+            },
+            {
+               "category": "CATEGORY.ELECTED_MEMBER",
+               "discountRate": 0
+            },
+            {
+               "category": "CATEGORY.BPL",
+               "discountRate": 0
+            }
+         ],
+         "maxAllowedFutureBookingDays": 90,
+         "cancellationSlab": [
+            {
+               "id": 1,
+               "cancelFrom": 89,
+               "cancelTo": 1,
+               "percentageDeduction": 0
+            }
+         ],
+         "hallDescription": "Hall, Dining Hall, Kitchen Room, available",
+         "termsAndCondition": "1. The day commences from 12:00 Midnight to 11:00 Midnight.\n2. No Mandap of shamiyana will be erected besides Ajantha Bhaan. The open place is to be used for parking. No vehicle should be parked on the public roads around Ajantha Bhavan.\n3.The person bookingAjantha Bhavan will be responsible for all kinds of damage to the building's hygienic conditions.\n4. All activities including cooking must be carried out within the walled premises of the building.\n5. No nuisance shall be created for citizens residing around and people passing on road.\n6. Sound decibel must be within the permissible level. The person booking Ajantha Bhavan must obtain permission from concerned authorities including police department of various activities.\n7. The Ajantha Bhavan is located in the thickly populated area, therefore avoiding the use of firecrackers. However, crackers bursting in the sky are not allowed.\n8. The Ajantha Bhavan should be handed over to the watch & ward in empty condition at 12:00 Midnight.\n9. Food wastage/Garbage must be dumped in the proper dust been (Kachra Kundi) must not be thrown in open area around Ajantha Bhavan.",
+         "headerImageUrl": "",
+         "portalUrl": "https://aurangabad.cantt.gov.in/community-center/"
+      }
+   ]
+}

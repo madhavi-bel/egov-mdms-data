@@ -1,0 +1,471 @@
+{
+  "tenantId": "pb.wellington",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Jayanthi Nagar Community Hall",
+      "address": "Jayanthi Nagar Community Hall, Near Black Bridge, Wellington",
+      "geoLocation": "11.362296046402498, 76.77855226498477",
+      "contactDetails": "0423-2230213",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "17:00",
+          "duration": "23:00",
+          "RENT": 1000,
+          "SECURITY_DEPOSIT": 6000,
+          "ELECTRICITY_CHARGES": 200,
+          "WATER_CHARGES": 800,
+          "CONSERVANCY_CHARGES": 1500
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 20
+        }
+      ],
+      "hallDescription": "Hall has 1990 sq ft Area. Can accommodate 180 people",
+      "termsAndCondition": "All functions are allowed except political purposes, religious purposes, Public Gathering, Death related ceremonies and conferences.",
+      "headerImageUrl": "",
+      "portalUrl": "https://wellington.cantt.gov.in/community-center/"
+    },
+    {
+      "hallCode": 2,
+      "name": "Chinnavandisholai Community Hall",
+      "address": "Chinnavandisholai Community Hall, Wellington Barracks",
+      "geoLocation": "11.373085257133955, 76.78959760194091",
+      "contactDetails": "0423-2230213",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "17:00",
+          "duration": "23:00",
+          "RENT": 1000,
+          "SECURITY_DEPOSIT": 6000,
+          "ELECTRICITY_CHARGES": 200,
+          "WATER_CHARGES": 800,
+          "CONSERVANCY_CHARGES": 1500
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 20
+        }
+      ],
+      "hallDescription": "Hall has 1725 sq ft Area. Can accommodate 150 people",
+      "termsAndCondition": "All functions are allowed except political purposes, religious purposes, Public Gathering, Death related ceremonies and conferences.",
+      "headerImageUrl": "",
+      "portalUrl": "https://wellington.cantt.gov.in/community-center/"
+    },
+    {
+      "hallCode": 3,
+      "name": "Singarathoppu Community Hall (Ground Floor)",
+      "address": "Singarathoppu Community Hall, Wellington Barracks",
+      "geoLocation": "11.369769386738398, 76.78225907802805",
+      "contactDetails": "0423-2230213",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "17:00",
+          "duration": "23:00",
+          "RENT": 2500,
+          "SECURITY_DEPOSIT": 7500,
+          "ELECTRICITY_CHARGES": 200,
+          "WATER_CHARGES": 800,
+          "CONSERVANCY_CHARGES": 1500
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 20
+        }
+      ],
+      "hallDescription": "Hall has 2800 sq ft Area. Can accommodate 300 people",
+      "termsAndCondition": "All functions are allowed except political purposes, religious purposes, Public Gathering, Death related ceremonies and conferences.",
+      "headerImageUrl": "",
+      "portalUrl": "https://wellington.cantt.gov.in/community-center/"
+    },
+    {
+      "hallCode": 4,
+      "name": "Singarathoppu Community Hall (First Floor)",
+      "address": "Singarathoppu Community Hall, Wellington Barracks",
+      "geoLocation": "11.369769386738398, 76.78225907802805",
+      "contactDetails": "0423-2230213",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "17:00",
+          "duration": "23:00",
+          "RENT": 2500,
+          "SECURITY_DEPOSIT": 7500,
+          "ELECTRICITY_CHARGES": 200,
+          "WATER_CHARGES": 800,
+          "CONSERVANCY_CHARGES": 1500
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 20
+        }
+      ],
+      "hallDescription": "Hall has 2800 sq ft Area. Can accommodate 300 people",
+      "termsAndCondition": "All functions are allowed except political purposes, religious purposes, Public Gathering, Death related ceremonies and conferences.",
+      "headerImageUrl": "",
+      "portalUrl": "https://wellington.cantt.gov.in/community-center/"
+    },
+    {
+      "hallCode": 5,
+      "name": "Singarathope Community Hall (Ground Floor+First Floor)",
+      "address": "Singarathope Community Hall, Wellington Barracks",
+      "geoLocation": "11.369769386738398, 76.78225907802805",
+      "contactDetails": "0423-2230213",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "17:00",
+          "duration": "23:00",
+          "RENT": 5000,
+          "SECURITY_DEPOSIT": 15000,
+          "ELECTRICITY_CHARGES": 400,
+          "WATER_CHARGES": 1600,
+          "CONSERVANCY_CHARGES": 3000
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 20
+        }
+      ],
+      "hallDescription": "Hall covers an Area of 5600 sq ft. Can accommodate 500 people.",
+      "termsAndCondition": "All functions are allowed except political purposes, religious purposes, Public Gathering, Death related ceremonies and conferences.",
+      "headerImageUrl": "",
+      "portalUrl": "https://wellington.cantt.gov.in/community-center/"
+    }
+  ]
+}

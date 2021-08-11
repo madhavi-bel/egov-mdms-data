@@ -1,0 +1,192 @@
+{
+  "tenantId": "pb.ambala",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+     {
+        "hallCode": 1,
+        "name": "AKASH GANGA",
+        "address": "COMMUNITY HALL, RHA BAZAR, AMBALA",
+        "geoLocation": "30.36902384834207, 76.84525949390792",
+        "contactDetails": "8685836855",
+        "type": "HALL",
+        "timeSlots": [
+           {
+              "id": 1,
+              "from": "06:00",
+              "duration": "23:59",
+              "RENT": 14000,
+              "SECURITY_DEPOSIT": 4000,
+              "ELECTRICITY_CHARGES": 0,
+              "WATER_CHARGES": 0,
+              "CONSERVANCY_CHARGES": 1500
+           }
+        ],
+        "residentType": [
+           {
+              "type": "RESIDENT.INSIDE_CANTT",
+              "discountRate": 64.3
+           },
+           {
+              "type": "RESIDENT.OUTSIDE_CANTT",
+              "discountRate": 0
+           }
+        ],
+        "purposes": [
+           {
+              "purpose": "PURPOSE.MARRIAGE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.RELIGIOUS",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.SOCIAL",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.CONFERENCE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.POLITICAL_PROGRAM",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.PUBLIC_GATHERING",
+              "discountRate": 0
+           }
+        ],
+        "specialCategories": [
+           {
+              "category": "CATEGORY.CANTT_STAFF",
+              "discountRate": 78.5
+           },
+           {
+              "category": "CATEGORY.RETD_CANTT_STAFF",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.ELECTED_MEMBER",
+              "discountRate": 78.5
+           },
+           {
+              "category": "CATEGORY.BPL",
+              "discountRate": 0
+           }
+        ],
+        "maxAllowedFutureBookingDays": 270,
+        "cancellationSlab": [
+           {
+              "id": 1,
+              "cancelFrom": 30,
+              "cancelTo": 1,
+              "percentageDeduction": 30
+           },
+           {
+              "id": 2,
+              "cancelFrom": 270,
+              "cancelTo": 31,
+              "percentageDeduction": 10
+           }
+        ],
+        "hallDescription": "Hall is of 2301 Sq. ft area. Can accommodate 225 people.",
+        "termsAndCondition": "1. NO PERMISSION HAS BEEN GRANTED TO USE LOUD SPEAKER/DJ AFTER 10.00 PM 2. NO PERMISSION FOR WINE & ALCOHOL 3. NO FIREARMS, EXPLOSIVE ETC. ARE ALLOWED IN & AROUND PREMISES.",
+        "headerImageUrl": "",
+        "portalUrl": ""
+     },
+     {
+        "hallCode": 2,
+        "name": "AKASH DEEP",
+        "address": "NR. B.NO.105, THE MALL",
+        "geoLocation": "30.344831814742204, 76.82752524093499",
+        "contactDetails": "8685836855",
+        "type": "HALL",
+        "timeSlots": [
+           {
+              "id": 1,
+              "from": "06:00",
+              "duration": "23:59",
+              "RENT": 10000,
+              "SECURITY_DEPOSIT": 3000,
+              "ELECTRICITY_CHARGES": 0,
+              "WATER_CHARGES": 0,
+              "CONSERVANCY_CHARGES": 0
+           }
+        ],
+        "residentType": [
+           {
+              "type": "RESIDENT.INSIDE_CANTT",
+              "discountRate": 0
+           },
+           {
+              "type": "RESIDENT.OUTSIDE_CANTT",
+              "discountRate": 0
+           }
+        ],
+        "purposes": [
+           {
+              "purpose": "PURPOSE.MARRIAGE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.RELIGIOUS",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.SOCIAL",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.CONFERENCE",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.POLITICAL_PROGRAM",
+              "discountRate": 0
+           },
+           {
+              "purpose": "PURPOSE.PUBLIC_GATHERING",
+              "discountRate": 0
+           }
+        ],
+        "specialCategories": [
+           {
+              "category": "CATEGORY.CANTT_STAFF",
+              "discountRate": 50
+           },
+           {
+              "category": "CATEGORY.RETD_CANTT_STAFF",
+              "discountRate": 0
+           },
+           {
+              "category": "CATEGORY.ELECTED_MEMBER",
+              "discountRate": 50
+           },
+           {
+              "category": "CATEGORY.BPL",
+              "discountRate": 0
+           }
+        ],
+        "maxAllowedFutureBookingDays": 270,
+        "cancellationSlab": [
+           {
+              "id": 1,
+              "cancelFrom": 30,
+              "cancelTo": 1,
+              "percentageDeduction": 30
+           },
+           {
+              "id": 2,
+              "cancelFrom": 270,
+              "cancelTo": 31,
+              "percentageDeduction": 10
+           }
+        ],
+        "hallDescription": "Hall is 4200 Sq. ft area. Can accommodate 400 people.",
+        "termsAndCondition": "1. NO PERMISSION HAVE BEEN GRANTED TO USE LOUD SPEAKER/DJ AFTER 10.00 PM 2. NO PERMISSION FOR WINE & ALCOHOL 3. NO FIREARMS, EXPLOSIVE ETC. ARE ALLOWED IN & AROUND PREMISES.",
+        "headerImageUrl": "",
+        "portalUrl": ""
+     }
+  ]
+}
