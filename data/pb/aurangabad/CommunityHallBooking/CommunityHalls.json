@@ -1,7 +1,7 @@
 {
    "tenantId": "pb.aurangabad",
    "moduleName": "CommunityHallBooking",
-   "communityHalls": [
+   "CommunityHalls": [
       {
          "hallCode": "1",
          "name": "Ellora Lawns",

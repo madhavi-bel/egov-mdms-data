@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.dehuroad",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Pandit Jawaharlal Nehru Mangal Karyalya",

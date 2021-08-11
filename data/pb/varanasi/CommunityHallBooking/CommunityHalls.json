@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.varanasi",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Community Hall (MANGALAM)",

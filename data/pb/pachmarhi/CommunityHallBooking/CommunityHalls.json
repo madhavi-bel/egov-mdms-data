@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.pachmarhi",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Atal bihari Vajpai",

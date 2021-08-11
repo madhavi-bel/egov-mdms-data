@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.wellington",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Jayanthi Nagar Community Hall",

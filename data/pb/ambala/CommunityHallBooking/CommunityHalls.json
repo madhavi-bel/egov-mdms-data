@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.ambala",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
      {
         "hallCode": 1,
         "name": "AKASH GANGA",

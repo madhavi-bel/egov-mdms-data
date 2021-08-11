@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.faizabad",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Marriage Hall",

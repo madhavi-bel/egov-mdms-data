@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.nainital",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Vrindavan Hall",

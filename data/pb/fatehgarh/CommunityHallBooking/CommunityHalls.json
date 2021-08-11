@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.fatehgarh",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Maharaja Agrasen Community Hall",

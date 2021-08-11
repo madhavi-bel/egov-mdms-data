@@ -22,7 +22,7 @@
         },
         {
           "id": 2,
-          "from": "14:00",
+          "from": "14:01",
           "duration": "08:00",
           "RENT": 22000,
           "SECURITY_DEPOSIT": 10000,
@@ -33,7 +33,7 @@
         {
           "id": 3,
           "from": "06:00",
-          "duration": 36,
+          "duration": "36:00",
           "RENT": 42000,
           "SECURITY_DEPOSIT": 15000,
           "ELECTRICITY_CHARGES": 0,
@@ -42,7 +42,7 @@
         },
         {
           "id": 4,
-          "from": "14:00",
+          "from": "14:01",
           "duration": "16:00",
           "RENT": 42000,
           "SECURITY_DEPOSIT": 15000,
@@ -62,7 +62,7 @@
         },
         {
           "id": 6,
-          "from": "14:00",
+          "from": "14:01",
           "duration": "32:00",
           "RENT": 60000,
           "SECURITY_DEPOSIT": 15000,

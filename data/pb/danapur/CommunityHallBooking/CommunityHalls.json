@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.danapur",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
     {
       "hallCode": 1,
       "name": "Chhawani Sadan",

@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.jalandhar",
   "moduleName": "CommunityHallBooking",
-  "communityHalls": [
+  "CommunityHalls": [
      {
         "hallCode": 1,
         "name": "Dak Bungalow (HALL ALONG WITH LAWN AND 02 ROOMS)",
