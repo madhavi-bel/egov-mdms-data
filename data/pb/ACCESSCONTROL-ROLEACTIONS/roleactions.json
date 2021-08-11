@@ -17770,6 +17770,24 @@
       "actionid": 5158,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_WT_CEMP",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_WT_APPROVER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBM_WT_DOC_VERIFIER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
