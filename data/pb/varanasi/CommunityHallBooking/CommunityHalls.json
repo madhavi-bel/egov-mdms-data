@@ -1,0 +1,99 @@
+{
+  "tenantId": "pb.varanasi",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Community Hall (MANGALAM)",
+      "address": "Carriappa Marg, Varanasi Cantt.",
+      "geoLocation": "25.330617, 82.975233",
+      "contactDetails": "7800003839",
+      "type": "LAWN",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "09:00",
+          "duration": "23:59",
+          "RENT": 100000,
+          "SECURITY_DEPOSIT": 20000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 85
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 16
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 87
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 16
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 87
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 87
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 365,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 365,
+          "cancelTo": 3,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 2,
+          "cancelFrom": 3,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        }
+      ],
+      "hallDescription": "Community hall (Mangalam) has 1.490 acre of lawn area along with a hall measuring 3867.98sqft.",
+      "termsAndCondition": "Security is forfeited if any damages done\nCharges for damage (if any) will be recovered from the applicant\nElectricity connection to be obtained separately from UPPCL except for Community hall\nCharges for damage (if any) will be recovered from the applicant\nElectricity connection to be obtained separately from UPPCL except for Community hall\nCooking during the event to be done at designated area only\nApplicant will be responsible and face legal action initiated by UPPCL for using illegal electricity connection if any\nLow noise cracker to be used during event .In case of violation security deposit will be forfeited.\nRoad side parking is not allowed. Generator set used during the event should be kept in ground and not on roadside.\nSecurity amount will be forfeited and fine upto Rs. 25000 will be imposed if found using illegal electricity connection.\nLoudspeaker to be in low sound and not after 10 PM. Security amount will be forfeited in case of violation.\nSingle use plastic is banned in ground. Fine will be imposed if found violating\nCOVID-19 related guidelines for district authority and appropriate behaviour to be followed.\nCantonment Board Varanasi may initiated legal action in case of violation of terms and condition.\nCEO, Varanasi reserves the rights to cancel the booking for any reason.",
+      "headerImageUrl": "",
+      "portalUrl": "https://varanasi.cantt.gov.in/community-center/"
+    }
+  ]
+}

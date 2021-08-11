@@ -1,0 +1,105 @@
+{
+  "tenantId": "pb.fatehgarh",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Maharaja Agrasen Community Hall",
+      "address": "Sheeshambagh, Fatehgarh Cantt",
+      "geoLocation": "27.375514, 79.625474",
+      "contactDetails": "8090523283",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "09:00",
+          "duration": "23:59",
+          "RENT": 25000,
+          "SECURITY_DEPOSIT": 10000,
+          "ELECTRICITY_CHARGES": 500,
+          "WATER_CHARGES": 200,
+          "CONSERVANCY_CHARGES": 300
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 40
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 120,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 60,
+          "cancelTo": 31,
+          "percentageDeduction": 20
+        },
+        {
+          "id": 2,
+          "cancelFrom": 30,
+          "cancelTo": 10,
+          "percentageDeduction": 35
+        },
+        {
+          "id": 3,
+          "cancelFrom": 9,
+          "cancelTo": 1,
+          "percentageDeduction": 50
+        }
+      ],
+      "hallDescription": "Non AC Hall, 4500 sq ft covered area and 30000 sq ft open space. Can accommodate approximately 300 people to organize functions.",
+      "termsAndCondition": "Allowed for General Public",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

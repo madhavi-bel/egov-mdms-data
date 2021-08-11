@@ -1,0 +1,99 @@
+{
+  "tenantId": "pb.lansdowne",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Community Hall",
+      "address": "2/3rd Kalagarhi Bazaar",
+      "geoLocation": "29.8448,78.6735",
+      "contactDetails": "9412413781",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "10:00",
+          "duration": "23:59",
+          "RENT": 1000,
+          "SECURITY_DEPOSIT": 0,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 30,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 31,
+          "percentageDeduction": 0
+        }
+      ],
+      "hallDescription": "Hall is of 1487 sq ft Area. It has 2 floors, 1 store, 1 kitchen and separate Toilet for Ladies and Gents. Can accommodate 200 people",
+      "termsAndCondition": "",
+      "headerImageUrl": "https://lansdowne.cantt.gov.in/community-center/",
+      "portalUrl": "https://lansdowne.cantt.gov.in/community-center/"
+    }
+  ]
+}

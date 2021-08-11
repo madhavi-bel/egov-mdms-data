@@ -1,0 +1,192 @@
+{
+  "tenantId": "pb.ahmednagar",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Chaitanya MangalKaryalaya",
+      "address": "Sy.No.203, Nagar Pathardi Road, Bhingar, Ahmednagar",
+      "geoLocation": "19.097841, 74.766281",
+      "contactDetails": "2412326008",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "05:00",
+          "duration": "23:59",
+          "RENT": 9000,
+          "SECURITY_DEPOSIT": 2000,
+          "ELECTRICITY_CHARGES": 350,
+          "WATER_CHARGES": 1500,
+          "CONSERVANCY_CHARGES": 2500
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 51
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 50
+        }
+      ],
+      "hallDescription": "Hall with 300 seating capacity, Seperate Rooms for Bride and Bride Groom",
+      "termsAndCondition": "1) If any damage to building or fitting /fixture is caused, cost will be recovered from the Security Deposit. 2)Food will be cooked in the kitchen provided only. 3) Electricity charges will be deducted @10/- per unit or Rs.350/- whichever is higher.4) Party will be  solely responsible for  any untoward incident that takes place due to the lighting arrangement made by him for function. 5) GST will be applicable as per the prevailing rules.6). The marriage hall should be used only for the purpose specified during the time of booking.\n7) Government norms in effect during the function should be strictly adhered to.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    },
+    {
+      "hallCode": 2,
+      "name": "Cantonment Lawn",
+      "address": "Sy.No.203, Nagar Pathardi Road, Bhingar, Ahmednagar",
+      "geoLocation": "19.097059, 74.766282",
+      "contactDetails": "2412326008",
+      "type": "LAWN",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "12:00",
+          "duration": "23:59",
+          "RENT": 11700,
+          "SECURITY_DEPOSIT": 3000,
+          "ELECTRICITY_CHARGES": 450,
+          "WATER_CHARGES": 1500,
+          "CONSERVANCY_CHARGES": 1500
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 51
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 15,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 90,
+          "cancelTo": 16,
+          "percentageDeduction": 50
+        }
+      ],
+      "hallDescription": "Lawn with 700 seating capacity, Separate Rooms for Bride and Bride Groom",
+      "termsAndCondition": "1) If any damage to building or fitting /fixture is caused, cost will be recovered from the Security Deposit. 2)Food will be cooked in the kitchen provided only. 3) Electricity charges will be deducted @10/- per unit or Rs.400/- whichever is higher.4) Party will be  solely responsible for  any untoward incident that takes place due to the lighting arrangement made by him for function. 5) GST will be applicable as per the prevailing rules.6). The Lawn should be used only for the purpose specified during the time of booking.\n7) Government norms in effect during the function should be strictly adhered to.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

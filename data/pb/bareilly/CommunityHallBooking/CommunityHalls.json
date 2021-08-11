@@ -1,0 +1,85 @@
+{
+  "tenantId": "pb.bareilly",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "UTSAV HALL",
+      "address": "SADAR POST OFFICE ROAD, NEAR MADARI KI PULIYA, SADAR BAZAR, BAREILLY CANTT",
+      "geoLocation": "28.318919, 79.436819",
+      "contactDetails": "9456870892",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "08:00",
+          "duration": "23:59",
+          "RENT": 3000,
+          "SECURITY_DEPOSIT": 1000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 100
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 100
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "hallDescription": "SMALL HALL. Can accommodate 100 People.",
+      "termsAndCondition": "Permission is hereby given to use Cantt. Board property Utsav Hall for organizing function as per terms & conditions given under mentioned paras : \n1. That in case of applicant failure of deposit of keys in time security will be forfeited and applicant  will be barred from booking of Utsav Hall in future.\n2.That any Garbage littered in the premises shall be cleaned, removed by the applicant, otherwise same will be done by the Board at your risk and cost which also entail the forfeiture of the security deposit.\n3.In case of any damage to the property in the premises of “Utsav Hall”, the damage charges will be recovered from the applicant and even the security amount can also be forfeited. \n4.Any type of goods, catering items & tentage arrangements etc. are strictly prohibited before and after the allotted time period, and in case of violation of these instructions, the security amount shall be forfeited. \n5.Temporary connection for electricity for organizing function & decoration should be managed from the outside of the Utsav hall by the applicant/party through UPPCL or by Gen. Set etc.\n6.As per the orders of Hon’ble Supreme Court the noise level during the function should be limited to prescribed levels and up to 10:00 P.M. only which be complied with strictly.\n7.If any loss, damage is caused to your gathering, belongings and material of contractors, caterers engaged by the applicant this organization is not anyway concerned and such issues, loss if occur will be borne, dealt by the applicant only.\n8.The applicant will make appropriate arrangements for parking of vehicles in a organized manner without obstructing free movement in the area and any loss, damage if occur will be borne by the applicant only.\n9.                       The applicant will be solely and directly responsible for any type of mishappening/natural calamity etc. if occurred during the above mentioned time/function.\n10.The applicant will make liaison/prior approval with concerned Deptt. i.e. Fire Brigade, Police Deptt. & others as per necessity. The applicant will also be solely and directly responsible for any type of mishappening/accident/natural calamity etc. if occurred during the above function. The Cantt. Board or its staff will not be responsible for anything in any way.\n\nNote :    i) Utsav Hall Free for Cantt. Board Employee or own employee family dependent (under Pension Rule 1972) ii) Utsav Hall Freee for Elected Members for their family function or any other person functions residing in Cantt. Area duly recommended by them once in a year.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

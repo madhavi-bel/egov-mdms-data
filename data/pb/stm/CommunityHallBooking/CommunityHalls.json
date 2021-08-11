@@ -1,0 +1,155 @@
+{
+  "tenantId": "pb.stm",
+  "moduleName": "CommunityHallBooking",
+  "communityHalls": [
+    {
+      "hallCode": "1",
+      "name": "Cantonment  Marriage Hall Pallavaram",
+      "address": "Cantonment Marriage Hall Pallavaram, GST Road, Pallavaram, Chennai - 600043",
+      "geoLocation": "12.96918532735441, 80.14939295791966",
+      "contactDetails": "nitcbstm@gmail.com\n044-22311718",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "06:00",
+          "duration": "08:00",
+          "RENT": 22000,
+          "SECURITY_DEPOSIT": 10000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        },
+        {
+          "id": 2,
+          "from": "14:01",
+          "duration": "08:00",
+          "RENT": 22000,
+          "SECURITY_DEPOSIT": 10000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        },
+        {
+          "id": 3,
+          "from": "06:00",
+          "duration": "36:00",
+          "RENT": 42000,
+          "SECURITY_DEPOSIT": 15000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        },
+        {
+          "id": 4,
+          "from": "14:01",
+          "duration": "16:00",
+          "RENT": 42000,
+          "SECURITY_DEPOSIT": 15000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        },
+        {
+          "id": 5,
+          "from": "06:00",
+          "duration": "32:00",
+          "RENT": 60000,
+          "SECURITY_DEPOSIT": 15000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        },
+        {
+          "id": 6,
+          "from": "14:01",
+          "duration": "32:00",
+          "RENT": 60000,
+          "SECURITY_DEPOSIT": 15000,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 50
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 50
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 50
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 365,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 10,
+          "cancelTo": 1,
+          "percentageDeduction": 100
+        },
+        {
+          "id": 2,
+          "cancelFrom": 30,
+          "cancelTo": 11,
+          "percentageDeduction": 75
+        },
+        {
+          "id": 3,
+          "cancelFrom": 60,
+          "cancelTo": 31,
+          "percentageDeduction": 50
+        }
+      ],
+      "hallDescription": "Hall has a capacity to accommodate 700 persons and Dining capacity of 500 persons. \nAC room for bride and groom. \nSeating chairs and Dining table with thermal efficient eco burner cooking vessel.\nCar Parking facility.",
+      "termsAndCondition": "1. The marriage hall should be used only for the purpose specified during the time of booking.\n2. Government norms in effect during the function should be strictly adhered.",
+      "headerImageUrl": "http://www.cbstm.org.in:9080/MarriageHall/Home.html",
+      "portalUrl": "http://www.cbstm.org.in:9080/MarriageHall/Hall.html?hallId=1"
+    }
+  ]
+}

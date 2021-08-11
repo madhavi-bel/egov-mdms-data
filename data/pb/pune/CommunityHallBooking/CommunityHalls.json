@@ -1,0 +1,402 @@
+{
+  "tenantId": "pb.pune",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Ghorpuri Marriage Hall",
+      "address": "Opposite Army Public School Ghorpuri Pune - 411001",
+      "geoLocation": "18.52475, 73.89494",
+      "contactDetails": "9423013573",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "06:00",
+          "duration": "23:59",
+          "RENT": 10000,
+          "SECURITY_DEPOSIT": 5000,
+          "ELECTRICITY_CHARGES": 1500,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 75
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 75
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 30,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 10,
+          "percentageDeduction": 25
+        },
+        {
+          "id": 2,
+          "cancelFrom": 11,
+          "cancelTo": 20,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 3,
+          "cancelFrom": 21,
+          "cancelTo": 29,
+          "percentageDeduction": 75
+        }
+      ],
+      "hallDescription": "Non-AC hall with dining with capacity of 500 people.",
+      "termsAndCondition": "Allowed for all types of functions for residents and non-residents of Cantonment.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    },
+    {
+      "hallCode": 2,
+      "name": "Parmarr Hall",
+      "address": "Above Parmaar Dispensary, Camp,Pune - 411001",
+      "geoLocation": "18.51649, 73.87450",
+      "type": "HALL",
+      "contactDetails": "9423013573",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "06:00",
+          "duration": "23:59",
+          "RENT": 3000,
+          "SECURITY_DEPOSIT": 2000,
+          "ELECTRICITY_CHARGES": 1000,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 16.65
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 16.65
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 30,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 10,
+          "percentageDeduction": 25
+        },
+        {
+          "id": 2,
+          "cancelFrom": 11,
+          "cancelTo": 20,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 3,
+          "cancelFrom": 21,
+          "cancelTo": 29,
+          "percentageDeduction": 75
+        }
+      ],
+      "hallDescription": "Non-AC hall with dining with capacity of 100 people.",
+      "termsAndCondition": "Allowed for all types of functions for residents and non-residents of Cantonment.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    },
+    {
+      "hallCode": 3,
+      "name": "Dr babasaheb Ambedkar Sanskrutik Bhavan",
+      "address": "Bhimpura, Camp,Pune - 411001",
+      "geoLocation": "18.50965, 73.87688",
+      "contactDetails": "9423013573",
+      "tyep": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "06:00",
+          "duration": "23:59",
+          "RENT": 5000,
+          "SECURITY_DEPOSIT": 0,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": "",
+          "CONSERVANCY_CHARGES": 1000
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 50
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 50
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": ""
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 30,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 10,
+          "percentageDeduction": 25
+        },
+        {
+          "id": 2,
+          "cancelFrom": 11,
+          "cancelTo": 20,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 3,
+          "cancelFrom": 21,
+          "cancelTo": 29,
+          "percentageDeduction": 75
+        }
+      ],
+      "hallDescription": "Non-AC hall with dining with capacity of 600 people.",
+      "termsAndCondition": "Allowed for all types of functions for residents and non-residents of Cantonment.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    },
+    {
+      "hallCode": 4,
+      "name": "Bicentennnial Lawn",
+      "address": "Wanaworie Bazar, Pune- 411040",
+      "geoLocation": "18.49702, 73.89395",
+      "contactDetails": "9423013573",
+      "type": "LAWN",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "06:00",
+          "duration": "23:59",
+          "RENT": 5000,
+          "SECURITY_DEPOSIT": 0,
+          "ELECTRICITY_CHARGES": 1500,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 50
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 50
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 30,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 1,
+          "cancelTo": 10,
+          "percentageDeduction": 25
+        },
+        {
+          "id": 2,
+          "cancelFrom": 11,
+          "cancelTo": 20,
+          "percentageDeduction": 50
+        },
+        {
+          "id": 3,
+          "cancelFrom": 21,
+          "cancelTo": 29,
+          "percentageDeduction": 75
+        }
+      ],
+      "hallDescription": "Lawn",
+      "termsAndCondition": "Allowed for all types of functions for residents and non-residents of Cantonment.",
+      "headerImageUrl": "",
+      "portalUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "tenantId": "pb.danapur",
+  "moduleName": "CommunityHallBooking",
+  "CommunityHalls": [
+    {
+      "hallCode": 1,
+      "name": "Chhawani Sadan",
+      "address": "Sadar Bazar, Danapur Cantt-801503",
+      "geoLocation": "25.637672,85.046529",
+      "contactDetails": "9234771268",
+      "type": "HALL",
+      "timeSlots": [
+        {
+          "id": 1,
+          "from": "08:00",
+          "duration": "23:59",
+          "RENT": 2000,
+          "SECURITY_DEPOSIT": 1100,
+          "ELECTRICITY_CHARGES": 0,
+          "WATER_CHARGES": 0,
+          "CONSERVANCY_CHARGES": 0
+        }
+      ],
+      "residentType": [
+        {
+          "type": "RESIDENT.INSIDE_CANTT",
+          "discountRate": 0
+        },
+        {
+          "type": "RESIDENT.OUTSIDE_CANTT",
+          "discountRate": 0
+        }
+      ],
+      "purposes": [
+        {
+          "purpose": "PURPOSE.MARRIAGE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.RELIGIOUS",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.SOCIAL",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.CONFERENCE",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.POLITICAL_PROGRAM",
+          "discountRate": 0
+        },
+        {
+          "purpose": "PURPOSE.PUBLIC_GATHERING",
+          "discountRate": 0
+        }
+      ],
+      "specialCategories": [
+        {
+          "category": "CATEGORY.CANTT_STAFF",
+          "discountRate": 75
+        },
+        {
+          "category": "CATEGORY.RETD_CANTT_STAFF",
+          "discountRate": 0
+        },
+        {
+          "category": "CATEGORY.ELECTED_MEMBER",
+          "discountRate": 75
+        },
+        {
+          "category": "CATEGORY.BPL",
+          "discountRate": 0
+        }
+      ],
+      "maxAllowedFutureBookingDays": 90,
+      "cancellationSlab": [
+        {
+          "id": 1,
+          "cancelFrom": 30,
+          "cancelTo": 7,
+          "percentageDeduction": 0
+        }
+      ],
+      "hall Description": "There  are Two Halls, Two rooms, one store and verandah having  1100 sq ft Area. Can accommodate 200 people.",
+      "termsAndCondition": "Booking Charge for General public: Rs.2000/- per day and Security deposit Rs. 1100/-\nBooking Charge for Member & Staff of Board :Rs. 500/per day and Security deposit Rs. 500.",
+      "headerImageUrl": "",
+      "portalUrl": "https://danapur.cantt.gov.in/community-center/"
+    }
+  ]
+}
