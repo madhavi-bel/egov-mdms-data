@@ -15902,7 +15902,7 @@
       "url": "/bpa-services/_create",
       "displayName": "Apply",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -15913,7 +15913,7 @@
       "url": "/bpa-services/_search",
       "displayName": "Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -15924,7 +15924,7 @@
       "url": "/bpa-services/_update",
       "displayName": "Apply",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -16213,7 +16213,7 @@
       "url": "/bpa-services/_permitorderedcr",
       "displayName": "Apply",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
@@ -20553,7 +20553,7 @@
     "url": "/bpa-services/v1/bpa/_create",
     "displayName": "Apply",
     "orderNumber": 0,
-    "enabled": false,
+    "enabled": true,
     "serviceCode": "BPA",
     "code": "null",
     "path": ""
@@ -20564,7 +20564,7 @@
     "url": "/bpa-services/v1/bpa/_search",
     "displayName": "Search",
     "orderNumber": 0,
-    "enabled": false,
+    "enabled": true,
     "serviceCode": "BPA",
     "code": "null",
     "path": ""
@@ -20575,7 +20575,7 @@
     "url": "/bpa-services/v1/bpa/_update",
     "displayName": "Apply",
     "orderNumber": 0,
-    "enabled": false,
+    "enabled": true,
     "serviceCode": "BPA",
     "code": "null",
     "path": ""
@@ -20586,7 +20586,7 @@
     "url": "/bpa-services/v1/bpa/_permitorderedcr",
     "displayName": "Apply",
     "orderNumber": 0,
-    "enabled": false,
+    "enabled": true,
     "serviceCode": "BPA",
     "code": "null",
     "path": ""
